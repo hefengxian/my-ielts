@@ -8,7 +8,10 @@ const ws = reactive(words.map((v) => {
       word: '',
       replaceStr: '',
     },
-    result: {},
+    result: {
+      checked: false,
+      errorWords: [],
+    },
   }
   return item
 }))
@@ -27,8 +30,20 @@ function next(index: number) {
 
   // 处理词
   const practiceWord = cw.form.word.trim().toLowerCase()
-  const practiceReplace = cw.form.replaceStr.split(/[,，]/).map(v => v.trim().toLowerCase())
-  window.console.log(practiceReplace, practiceWord)
+  const practiceReplace = cw.form.replaceStr.split(/[,，]/).map(v => v.trim().toLowerCase().replace(/\s+/g, ' '))
+  // window.console.log(practiceReplace, practiceWord)
+
+  const errorWords = []
+  if (practiceWord !== cw.word)
+    errorWords.push(cw.word)
+
+  errorWords.push(...cw.replace.filter((w) => {
+    return !practiceReplace.includes(w)
+  }))
+  cw.result.checked = true
+  cw.result.errorWords = errorWords
+
+  // window.console.log(cw)
 
   const nw = words[i]
   play(nw.word)
@@ -84,6 +99,7 @@ function next(index: number) {
               <input
                 :id="`input_${w.index}`"
                 v-model="w.form.word"
+                spellcheck="false"
                 type="text"
               >
             </td>
@@ -92,11 +108,15 @@ function next(index: number) {
                 v-model="w.form.replaceStr"
                 class="w-150"
                 type="text"
+                spellcheck="false"
                 @keydown.enter="next(i)"
               >
             </td>
             <td class="px-6 py-4">
-              <i class="i-carbon-checkmark block text-green-700" />
+              <i v-if="w.result.checked && w.result.errorWords.length < 1" class="i-carbon-checkmark block text-green-700" />
+              <p v-if="w.result.checked && w.result.errorWords.length > 0">
+                {{ w.result.errorWords.join(', ') }}
+              </p>
             </td>
           </tr>
         </tbody>
