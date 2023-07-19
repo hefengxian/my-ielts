@@ -15,6 +15,14 @@ const ws = reactive(words.map((v) => {
   }
   return item
 }))
+
+function onKeydown(e, word) {
+  if (e.key === '`') {
+    e.preventDefault()
+    play(word)
+  }
+}
+
 function play(word: string) {
   const audio = document.createElement('audio')
   audio.src = `/179_audios/${word}.mp3`
@@ -73,11 +81,8 @@ function next(index: number) {
             <th class="w-20 px-6 py-3">
               音频
             </th>
-            <th class="w-0 px-6 py-3">
-              考点词
-            </th>
             <th class="px-6 py-3">
-              同义替换
+              考点词/同义替换
             </th>
             <th class="px-6 py-3">
               结果
@@ -95,20 +100,32 @@ function next(index: number) {
             <td class="px-6 py-4">
               <button class="i-carbon-volume-up-filled" @click="play(w.word)" />
             </td>
-            <td class="px-6 py-4">
+            <td
+              class="flex flex-row px-6 py-4"
+              @keydown="onKeydown($event, w.word)"
+            >
               <input
                 :id="`input_${w.index}`"
                 v-model="w.form.word"
+                p="x-2 y-1"
+                w="150px"
+                bg="transparent"
+                border="~ rounded gray-200 dark:gray-700"
+                outline="none active:none"
                 spellcheck="false"
                 type="text"
-              >
-            </td>
-            <td class="px-6 py-4">
+                placeholder="请输入..."
+              >/
               <input
                 v-model="w.form.replaceStr"
-                class="w-150"
+                p="x-2 y-1"
+                flex="1"
+                bg="transparent"
+                border="~ rounded gray-200 dark:gray-700"
+                outline="none active:none"
                 type="text"
                 spellcheck="false"
+                placeholder="请输入..."
                 @keydown.enter="next(i)"
               >
             </td>
