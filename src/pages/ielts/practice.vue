@@ -101,7 +101,7 @@ function next(index: number) {
               <button class="i-carbon-volume-up-filled" @click="play(w.word)" />
             </td>
             <td
-              class="flex flex-row px-6 py-4"
+              class="flex flex-row items-center justify-start px-6 py-4"
               @keydown="onKeydown($event, w.word)"
             >
               <input
@@ -115,11 +115,14 @@ function next(index: number) {
                 spellcheck="false"
                 type="text"
                 placeholder="请输入..."
-              >/
+              >
+              <div class="px-4">
+                {{ w.meaning }}
+              </div>
               <input
                 v-model="w.form.replaceStr"
                 p="x-2 y-1"
-                flex="1"
+                w="300px"
                 bg="transparent"
                 border="~ rounded gray-200 dark:gray-700"
                 outline="none active:none"
