@@ -36,10 +36,6 @@ const menus = reactive([
     link: '/writing',
   },
 ])
-const f = 'block flex flex-row items-center text-gray-700 dark:text-gray-400 hover:text-primary-700 dark:hover:text-white'
-// const activeClass = 'block flex flex-row items-center rounded text-primary-700 dark:text-primary-500'
-// const normalClass = 'block flex flex-row items-center text-gray-700 dark:text-gray-400 hover:text-primary-700 dark:hover:text-white'
-// const activeMenu = '首页'
 </script>
 
 <template>
@@ -49,7 +45,7 @@ const f = 'block flex flex-row items-center text-gray-700 dark:text-gray-400 hov
         <div class="flex items-center justify-start">
           <a href="/" class="mr-14 flex">
             <span class="hidden self-center whitespace-nowrap text-2xl font-semibold sm:flex dark:text-white">My
-              <span class="ml-1 text-red-600"> IELTS</span>
+              <span class="ml-1 text-red-600"> IELTS™</span>
             </span>
 
           </a>
@@ -60,8 +56,6 @@ const f = 'block flex flex-row items-center text-gray-700 dark:text-gray-400 hov
                 v-for="m in menus"
                 :key="m.label"
               >
-                <!-- <div class="router-link-active" /> -->
-                <!-- <a href="#" :class="m.label === activeMenu ? activeClass : normalClass"><i class="mr-1 inline-block" :class="m.icon" /> {{ m.label }}</a> -->
                 <router-link
                   :class="$route.path === m.link ? 'block flex flex-row items-center rounded text-primary-700 dark:text-primary-500' : 'block flex flex-row items-center text-gray-700 dark:text-gray-400 hover:text-primary-700 dark:hover:text-white'"
                   :to="m.link"
