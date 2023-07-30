@@ -17,9 +17,9 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: lts/Hydrogen
-
+      
       - name: Install Dependencies
-        run: pnpm i
+        run: npm -g install pnpm && pnpm i
 
       # - name: Run Tests
       #   run: yarn test
