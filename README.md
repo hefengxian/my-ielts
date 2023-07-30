@@ -1,88 +1,60 @@
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/11247099/111864893-a457fd00-899e-11eb-9f05-f4b88987541d.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
-</p>
+<h1 align='center'>
+  My <span style="color: red; font-weight: bold;">IELTS™</span>
+</h1>
 
 <h6 align='center'>
-<a href="https://vitesse-lite.netlify.app/">Live Demo</a>
+<a href="https://vitesse-lite.netlify.app/">在线地址</a>
 </h6>
 
-<h5 align='center'>
-<b>Lightweight version of <a href="https://github.com/antfu/vitesse">Vitesse</a></b>
-</h5>
-
-<br>
-
-<p align='center'>
-<b>English</b> | <a href="https://github.com/antfu/vitesse-lite/blob/main/README.zh-CN.md">简体中文</a>
-<!-- Contributors: Thanks for geting interested, however we DON'T accept new transitions to the README, thanks. -->
-</p>
-
-## Features
-
-- ⚡️ [Vue 3](https://github.com/vuejs/core), [Vite 3](https://github.com/vitejs/vite), [pnpm](https://pnpm.io/), [ESBuild](https://github.com/evanw/esbuild) - born with fastness
-
-- 🗂 [File based routing](./src/pages)
-
-- 📦 [Components auto importing](./src/components)
-
-- 🎨 [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
-
-- 😃 Use icons from any icon sets in [Pure CSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
-
-- 🔥 Use the [new `<script setup>` style](https://github.com/vuejs/rfcs/pull/227)
-
-- ✅ Use [Vitest](http://vitest.dev/) for unit and components testing
-
-- 🦾 TypeScript, of course
-
-- ☁️ Deploy on Netlify, zero-config
+界面截图 TODO
 
 
-<br>
+## 概述
 
-See [Vitesse](https://github.com/antfu/vitesse) for full featureset.
+雅思备考资料，包含词汇、语法、听说读写最出名的一些内容
 
+## 规划栏目
 
-## Dropped Features from [Vitesse](https://github.com/antfu/vitesse)
+### 词汇
 
-- ~~i18n~~
-- ~~Layouts~~
-- ~~SSG~~
-- ~~PWA~~
-- ~~Markdown~~
+- 雅思词汇真经（刘洪波橙色的那本）
 
-## Pre-packed
+### 语法
 
-### UI Frameworks
+- 新东方雅思语法
 
-- [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
+### 听力
 
-### Icons
+TODO
 
-- [Iconify](https://iconify.design) - use icons from any icon sets [🔍Icônes](https://icones.netlify.app/)
-- [Pure CSS Icons via UnoCSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
+### 口语
 
-### Plugins
+TODO
 
-- [Vue Router](https://github.com/vuejs/vue-router)
-  - [`vite-plugin-pages`](https://github.com/hannoeru/vite-plugin-pages) - file system based routing
-- [`unplugin-auto-import`](https://github.com/antfu/unplugin-auto-import) - Directly use Vue Composition API and others without importing
-- [`unplugin-vue-components`](https://github.com/antfu/unplugin-vue-components) - components auto import
-- [`unplugin-vue-macros`](https://github.com/sxzz/unplugin-vue-macros) - Explore and extend more macros and syntax sugar to Vue.
-- [VueUse](https://github.com/antfu/vueuse) - collection of useful composition APIs
+### 阅读
 
-## Try it now!
+TODO
 
-### GitHub Template
+### 写作
 
-[Create a repo from this template on GitHub](https://github.com/antfu/vitesse-lite/generate).
+TODO
 
-### Clone to local
+## 开发
 
-If you prefer to do it manually with the cleaner git history
+本项目使用
+
+- [Vitesse Lite](https://github.com/antfu/vitesse-lite) 作为模板开发
+- 样式部分参照了 [Flowbite](https://github.com/themesberg/flowbite) & [Flowbite Admin Dashboard](https://flowbite-admin-dashboard.vercel.app)
+
+所以需要对 Vue3、TailWindCSS 有一定的了解才能二次开发
 
 ```bash
-npx degit antfu/vitesse-lite my-vitesse-app
-cd my-vitesse-app
-pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
+# 安装依赖
+pnpm i
+
+# 开发模式
+pnpm run dev
+
+# 构建
+pnpm run build
 ```
