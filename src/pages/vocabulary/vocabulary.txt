@@ -2054,7 +2054,7 @@ fake|adj./n.|假冒的；冒充者；假货
 fragile|adj.|易碎的；脆弱的
 miniature|adj./n.|微型的；很小的；微缩模型；微型画
 available|adj.|可获得的
-durable|adj.|耐用的；持久的
+durable|adj.|耐用的；持久的
 ===
 时尚潮流
 +++
@@ -2139,3 +2139,73 @@ hat|n.|（常指带帽檐的）帽子
 cap|n.|（有帽舌的）帽子；（经费等的）最高限额
 brim|n.|边缘；帽檐
 scarf|n.|围巾；头巾
+---
+hankerchief|n.|手帕
+purse|n.|（英）钱包；（美）小手提包
+wallet|n.|钱包；皮夹子
+---
+vest|n.|英-汗衫；美-西装背心
+wrap|n.|披肩
+cloak|n.|斗篷；覆盖物
+collar|n.|衣领；项圈
+sleeve|n.|袖子
+---
+sock|n.|短袜
+stocking|n.|（女式）长筒袜
+slipper|n.|拖鞋
+boot|n.|靴子
+lace|n.|鞋带
+---
+tailor|n./v.|裁缝；专门制作
+sew|v.|缝补；缝制
+spin|v./n.|纺；（使）旋转；高速旋转；（乘车）兜风
+---
+stitch|n./v.|针脚；缝
+needle|n.|针
+pin|n./v.|别针；大头针；别住，钉住
+string|n.|线；一串
+thread|n.|线；螺纹
+---
+strap|n./v.|带子；用带子系
+stripe|n.|条纹
+ribbon|n.|缎带；丝带
+---
+belt|n.|腰带，皮带；地带，地区
+chain|n.|链子；链条
+bracelet|n.|手镯
+necklace|n.|项链
+bead|n./v.|珠子，（液体的）小滴；形成珠状
+---
+textile|n./adj.|纺织品；纺织的
+velvet|n.|丝绒；天鹅绒
+wool|n.|（羊等的）毛；毛线|He found a job of shearing wool from sheep|woollen=woolen adj. 羊毛的
+---
+patch|n./v.|补丁，（与周围不同的）小片；补缀
+rag|n.|破布|She wrapped the box with an old rag|ragged adj. 破旧的
+shabby|adj.|破旧的；衣衫褴褛的
+tight|adj.|紧的
+---
+colour|n.|=color 颜色；颜料
+white|adj./n.|白的；白色
+yellow|adj./n.|黄的；黄色
+brown|adj./n.|褐色的；褐色
+---
+grey|adj./n.|=gray 灰色的；灰色
+pink|adj./n.|粉色的；粉色
+purple|adj./n.|紫色的；紫色
+tan|adj./n.|棕黄色的；棕黄色；晒成的棕褐色
+---
+fade|v.|逐渐消失；（使）褪色
+stain|v./n.|污染；污渍||stainless adj. 无瑕疵的；不锈钢的
+blot|n.|污点
+---
+figure|n./v.|身材；身影；重要人物；数字；认为||figure out 理解；弄明白。a slender/slim figure 苗条的身材；a hourglass figure 沙漏身材
+slender|adj.|苗条的；微弱的
+slight|adj.|纤细的；轻微的|Our army suffered a slight reverse|slightly adv. 稍微
+===
+饮食健康
++++
+food|n.|食物|I perfer vegetarian food|foodie n. 美食家；吃货
+diet|n.|日常饮食；（医生指定的）特别饮食；节食|A sugar-free diet is recommended for diabetics|dietary adj. 饮食的。on a diet 进行节食
+appetite|n.|食欲；强烈欲望
+---
