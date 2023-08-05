@@ -33,6 +33,8 @@ def parse():
             words = word_group.strip().split('\n')
             group = []
             for word in words:
+                if not word:
+                    continue
                 word_count += 1
                 cur_id += 1
                 word_parts = word.split('|')
@@ -42,7 +44,8 @@ def parse():
                     word_dict[dict_key] = word_parts[part_index] if part_index < len(
                         word_parts) else '-'
                 group.append(word_dict)
-            category_body['words'].append(group)
+            if group:
+                category_body['words'].append(group)
         category_body['wordCount'] = word_count
 
     js_code = f"""
