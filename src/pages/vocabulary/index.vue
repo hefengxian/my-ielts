@@ -125,22 +125,22 @@ document.addEventListener('keyup', (ev) => {
               <table class="min-w-full divide-y divide-gray-200 dark:divide-gray-600">
                 <thead class="bg-gray-50 dark:bg-gray-700">
                   <tr>
-                    <th class="p-4 text-left text-xs font-medium tracking-wider uppercase text-gray-500 dark:text-white">
+                    <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
                       #
                     </th>
-                    <th class="p-4 text-left text-xs font-medium tracking-wider uppercase text-gray-500 dark:text-white">
+                    <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
                       词
                     </th>
-                    <th class="w-0 text-gray-500 dark:text-white">
+                    <th class="w-0 text-left text-xs font-medium text-gray-500 dark:text-white">
                       词性
                     </th>
-                    <th class="p-4 text-left text-xs font-medium tracking-wider uppercase text-gray-500 dark:text-white">
+                    <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
                       词义
                     </th>
-                    <th class="p-4 text-left text-xs font-medium tracking-wider uppercase text-gray-500 dark:text-white">
+                    <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
                       例句
                     </th>
-                    <th class="p-4 text-left text-xs font-medium tracking-wider uppercase text-gray-500 dark:text-white">
+                    <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
                       拓展
                     </th>
                   </tr>
