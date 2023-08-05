@@ -36,6 +36,7 @@ const menus = reactive([
     link: '/writing',
   },
 ])
+const showMobileMenu = ref(false)
 </script>
 
 <template>
@@ -71,12 +72,11 @@ const menus = reactive([
             <div i-carbon-sun dark:i-carbon-moon />
           </button>
 
-          <!-- <button id="userMenuDropdownButton" type="button" class="mx-3 flex flex-shrink-0 rounded-full bg-gray-800 text-sm md:mr-0 focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-600" aria-expanded="false" data-dropdown-toggle="userMenuDropdown">
-            <span class="sr-only">Open user menu</span>
-            <img class="h-8 w-8 rounded-full" src="https://flowbite.com/docs/images/people/profile-picture-5.jpg" alt="user photo">
-          </button> -->
-
-          <button id="toggleMobileMenuButton" type="button" data-collapse-toggle="toggleMobileMenu" class="items-center rounded-lg p-2 text-gray-500 md:ml-2 lg:hidden hover:bg-gray-100 dark:text-gray-400 hover:text-gray-900 focus:ring-4 focus:ring-gray-300 dark:hover:bg-gray-700 dark:hover:text-white dark:focus:ring-gray-600">
+          <button
+            type="button"
+            class="items-center rounded-lg p-2 text-gray-500 md:ml-2 lg:hidden hover:bg-gray-100 dark:text-gray-400 hover:text-gray-900 focus:ring-4 focus:ring-gray-300 dark:hover:bg-gray-700 dark:hover:text-white dark:focus:ring-gray-600"
+            @click="showMobileMenu = !showMobileMenu"
+          >
             <span class="sr-only">Open menu</span>
             <svg class="h-6 w-6" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd" /></svg>
           </button>
@@ -85,34 +85,23 @@ const menus = reactive([
     </nav>
     <nav class="bg-white dark:bg-gray-900">
       <!-- Mobile menu -->
-      <ul id="toggleMobileMenu" class="mt-0 hidden w-full flex-col pt-16 text-sm font-medium lg:hidden">
-        <li class="block border-b dark:border-gray-700">
-          <a href="#" class="block px-4 py-3 text-gray-900 lg:px-0 lg:py-0 dark:text-white lg:hover:underline" aria-current="page">Home</a>
-        </li>
-        <li class="block border-b dark:border-gray-700">
-          <a href="#" class="block px-4 py-3 text-gray-900 lg:px-0 lg:py-0 dark:text-white lg:hover:underline">Messages</a>
-        </li>
-        <li class="block border-b dark:border-gray-700">
-          <a href="#" class="block px-4 py-3 text-gray-900 lg:px-0 lg:py-0 dark:text-white lg:hover:underline">Profile</a>
-        </li>
-        <li class="block border-b dark:border-gray-700">
-          <a href="#" class="block px-4 py-3 text-gray-900 lg:px-0 lg:py-0 dark:text-white lg:hover:underline">Settings</a>
-        </li>
-        <li class="block border-b dark:border-gray-700">
-          <button type="button" data-collapse-toggle="dropdownMobileNavbar" class="w-full flex items-center justify-between px-4 py-3 text-gray-900 lg:px-0 lg:py-0 dark:text-white lg:hover:underline">
-            Dropdown <svg class="h-6 w-6 text-gray-500 dark:text-gray-400" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" /></svg>
-          </button>
-          <ul id="dropdownMobileNavbar" class="hidden">
-            <li class="block border-b border-t dark:border-gray-700">
-              <a href="#" class="block px-4 py-3 text-gray-900 lg:px-0 lg:py-0 dark:text-white lg:hover:underline">Item 1</a>
-            </li>
-            <li class="block border-b dark:border-gray-700">
-              <a href="#" class="block px-4 py-3 text-gray-900 lg:px-0 lg:py-0 dark:text-white lg:hover:underline">Item 2</a>
-            </li>
-            <li class="block">
-              <a href="#" class="block px-4 py-3 text-gray-900 lg:px-0 lg:py-0 dark:text-white lg:hover:underline">Item 3</a>
-            </li>
-          </ul>
+      <ul
+        v-show="showMobileMenu"
+        style="display: none"
+        class="mt-0 w-full flex-col pt-16 text-sm font-medium lg:hidden"
+      >
+        <li
+          v-for="m in menus"
+          :key="m.label"
+          class="block border-b dark:border-gray-700"
+        >
+          <router-link
+            class="block px-4 py-3 text-gray-900 lg:px-0 lg:py-0 dark:text-white lg:hover:underline"
+            :to="m.link"
+            @click="showMobileMenu = false"
+          >
+            <i class="mr-1 inline-block" :class="m.icon" /> {{ m.label }}
+          </router-link>
         </li>
       </ul>
     </nav>
