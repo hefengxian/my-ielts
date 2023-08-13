@@ -1,14 +1,20 @@
-<script setup lang="ts" generic="T extends any, O extends any">
+<script setup>
 import words from './listening179.json'
 
 const ws = reactive(words)
-function play(word: string) {
+function play(word) {
   const audio = document.createElement('audio')
   audio.src = `179_audios/${word}.mp3`
   audio.play()
 }
 
 const keyword = ref('')
+const chapter = ref('Charpter2 拼写规范')
+const chapters = [
+  'Charpter2 拼写规范',
+  'Charpter3 特别名词',
+  'Charpter4 形容词副词',
+]
 </script>
 
 <template>
@@ -16,20 +22,27 @@ const keyword = ref('')
   <div class="mt-6 items-center justify-between lg:flex">
     <div class="mb-4 lg:mb-0">
       <h3 class="mb-2 text-xl font-bold text-gray-900 dark:text-white">
-        听力 179 考点词
+        听力真题语料库
       </h3>
-      <span class="text-base font-normal text-gray-500 dark:text-gray-400">考点词以及对应的同义替换</span>
+      <span class="text-base font-normal text-gray-500 dark:text-gray-400">包括各种词性、特殊训练</span>
     </div>
     <div class="items-center sm:flex">
       <div class="flex items-center">
-        <button
-          type="button"
-          class="rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-          @click="$router.push('listening/179practice')"
+        <select
+          v-model="chapter"
+          class="block w-full flex-1 border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400"
         >
-          练习
-        </button>
-        <!-- <input type="text" name="email" class="ml-3 block w-full border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-gray-900 dark:border-gray-600 focus:border-primary-500 dark:bg-gray-700 sm:text-sm dark:text-white focus:ring-primary-500 dark:focus:border-primary-500 dark:focus:ring-primary-500 dark:placeholder-gray-400" placeholder="关键词"> -->
+          <option value="">
+            全部章节
+          </option>
+          <option
+            v-for="k in chapters"
+            :key="k"
+            :value="k"
+          >
+            {{ k }}
+          </option>
+        </select>
         <div class="relative ml-2 flex-1">
           <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
             <svg class="h-4 w-4 text-gray-500 dark:text-gray-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
@@ -46,7 +59,8 @@ const keyword = ref('')
     </div>
   </div>
   <div class="mt-6">
-    <table class="w-full text-left text-sm text-gray-500 dark:text-gray-400">
+    TODO
+    <!-- <table class="w-full text-left text-sm text-gray-500 dark:text-gray-400">
       <thead class="bg-gray-50 text-xs uppercase text-gray-700 dark:bg-gray-700 dark:text-gray-400">
         <tr>
           <th class="w-0 px-6 py-3">
@@ -92,6 +106,6 @@ const keyword = ref('')
           </td>
         </tr>
       </tbody>
-    </table>
+    </table> -->
   </div>
 </template>

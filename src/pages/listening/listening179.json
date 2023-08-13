@@ -1,0 +1,1932 @@
+[
+  {
+    "index": 1,
+    "word": "reserve",
+    "type": "v.",
+    "meaning": "预订",
+    "replace": [
+      "book"
+    ]
+  },
+  {
+    "index": 2,
+    "word": "in advance",
+    "type": "",
+    "meaning": "提前",
+    "replace": [
+      "ahead",
+      "before"
+    ]
+  },
+  {
+    "index": 3,
+    "word": "have to",
+    "type": "",
+    "meaning": "必须",
+    "replace": [
+      "must",
+      "should",
+      "need",
+      "require",
+      "necessary",
+      "be supposed to",
+      "demand",
+      "order"
+    ]
+  },
+  {
+    "index": 4,
+    "word": "adjust",
+    "type": "v.",
+    "meaning": "调整；改变",
+    "replace": [
+      "change",
+      "alter",
+      "modify",
+      "shift",
+      "revert"
+    ]
+  },
+  {
+    "index": 5,
+    "word": "and",
+    "type": "conj.",
+    "meaning": "和",
+    "replace": [
+      "and also",
+      "as well as",
+      "with",
+      "in addition"
+    ]
+  },
+  {
+    "index": 6,
+    "word": "but",
+    "type": "conj.",
+    "meaning": "但是",
+    "replace": [
+      "however",
+      "yet",
+      "instead"
+    ]
+  },
+  {
+    "index": 7,
+    "word": "because",
+    "type": "conj.",
+    "meaning": "因为",
+    "replace": [
+      "why",
+      "as a result",
+      "therefore",
+      "cause"
+    ]
+  },
+  {
+    "index": 8,
+    "word": "diversity",
+    "type": "n.",
+    "meaning": "多样性",
+    "replace": [
+      "a variety of",
+      "a number of",
+      "a range of",
+      "various",
+      "different"
+    ]
+  },
+  {
+    "index": 9,
+    "word": "fee",
+    "type": "n.",
+    "meaning": "费用，花销",
+    "replace": [
+      "money",
+      "cost",
+      "price",
+      "expense",
+      "budget",
+      "fund",
+      "financial",
+      "economic"
+    ]
+  },
+  {
+    "index": 10,
+    "word": "establish",
+    "type": "v.",
+    "meaning": "建造",
+    "replace": [
+      "build",
+      "create",
+      "construct",
+      "set up",
+      "install"
+    ]
+  },
+  {
+    "index": 11,
+    "word": "transfer",
+    "type": "v.",
+    "meaning": "搬，移动",
+    "replace": [
+      "move",
+      "relocate"
+    ]
+  },
+  {
+    "index": 12,
+    "word": "habitat",
+    "type": "n.",
+    "meaning": "栖息地",
+    "replace": [
+      "live",
+      "territory"
+    ]
+  },
+  {
+    "index": 13,
+    "word": "international",
+    "type": "adj.",
+    "meaning": "国际的",
+    "replace": [
+      "countries",
+      "continents",
+      "global"
+    ]
+  },
+  {
+    "index": 14,
+    "word": "export",
+    "type": "v.",
+    "meaning": "出口",
+    "replace": [
+      "abroad",
+      "overseas"
+    ]
+  },
+  {
+    "index": 15,
+    "word": "vegetation",
+    "type": "n.",
+    "meaning": "植被",
+    "replace": [
+      "plant",
+      "tree",
+      "forest",
+      "botanic"
+    ]
+  },
+  {
+    "index": 16,
+    "word": "animal",
+    "type": "n.",
+    "meaning": "动物",
+    "replace": [
+      "mammal",
+      "wildlife",
+      "creature",
+      "species"
+    ]
+  },
+  {
+    "index": 17,
+    "word": "feature",
+    "type": "n.",
+    "meaning": "特点",
+    "replace": [
+      "characteristic",
+      "trait",
+      "property"
+    ]
+  },
+  {
+    "index": 18,
+    "word": "emigrate",
+    "type": "v.",
+    "meaning": "迁徙",
+    "replace": [
+      "move",
+      "go away"
+    ]
+  },
+  {
+    "index": 19,
+    "word": "food",
+    "type": "n.",
+    "meaning": "食物",
+    "replace": [
+      "feed on",
+      "eat"
+    ]
+  },
+  {
+    "index": 20,
+    "word": "allergic",
+    "type": "adj.",
+    "meaning": "过敏的",
+    "replace": [
+      "can't eat"
+    ]
+  },
+  {
+    "index": 21,
+    "word": "fitness",
+    "type": "n.",
+    "meaning": "健康",
+    "replace": [
+      "health",
+      "medical",
+      "sickness",
+      "illness",
+      "gym"
+    ]
+  },
+  {
+    "index": 22,
+    "word": "tradition",
+    "type": "n.",
+    "meaning": "传统",
+    "replace": [
+      "custom",
+      "convention",
+      "local culture",
+      "lifestyle"
+    ]
+  },
+  {
+    "index": 23,
+    "word": "entertainment",
+    "type": "n.",
+    "meaning": "娱乐",
+    "replace": [
+      "recreation",
+      "leisure"
+    ]
+  },
+  {
+    "index": 24,
+    "word": "press",
+    "type": "n.",
+    "meaning": "媒体",
+    "replace": [
+      "media",
+      "TV",
+      "newspaper",
+      "radio"
+    ]
+  },
+  {
+    "index": 25,
+    "word": "online",
+    "type": "n.",
+    "meaning": "网络",
+    "replace": [
+      "Internet",
+      "website"
+    ]
+  },
+  {
+    "index": 26,
+    "word": "publicity",
+    "type": "n.",
+    "meaning": "宣传",
+    "replace": [
+      "website",
+      "media",
+      "news",
+      "marketing"
+    ]
+  },
+  {
+    "index": 27,
+    "word": "picture",
+    "type": "n.",
+    "meaning": "照片",
+    "replace": [
+      "photo",
+      "photograph",
+      "camera",
+      "image"
+    ]
+  },
+  {
+    "index": 28,
+    "word": "jewellery",
+    "type": "n.",
+    "meaning": "珠宝",
+    "replace": [
+      "rings",
+      "bracelets",
+      "necklaces",
+      "precious stones",
+      "gem",
+      "diamond",
+      "luxurious"
+    ]
+  },
+  {
+    "index": 29,
+    "word": "artwork",
+    "type": "n.",
+    "meaning": "艺术品",
+    "replace": [
+      "painting",
+      "drawing",
+      "craft"
+    ]
+  },
+  {
+    "index": 30,
+    "word": "statue",
+    "type": "n.",
+    "meaning": "雕像",
+    "replace": [
+      "sculpture",
+      "carving"
+    ]
+  },
+  {
+    "index": 31,
+    "word": "movie",
+    "type": "n.",
+    "meaning": "电影",
+    "replace": [
+      "film",
+      "documentary",
+      "cinema"
+    ]
+  },
+  {
+    "index": 32,
+    "word": "geology",
+    "type": "n.",
+    "meaning": "地质学；地质情况",
+    "replace": [
+      "cliff",
+      "fossil",
+      "rock",
+      "landscape"
+    ]
+  },
+  {
+    "index": 33,
+    "word": "countryside",
+    "type": "adj.",
+    "meaning": "乡村的",
+    "replace": [
+      "rural",
+      "area"
+    ]
+  },
+  {
+    "index": 34,
+    "word": "urban",
+    "type": "adj.",
+    "meaning": "城市的",
+    "replace": [
+      "city",
+      "metropolitan"
+    ]
+  },
+  {
+    "index": 35,
+    "word": "coastline",
+    "type": "n.",
+    "meaning": "海岸线",
+    "replace": [
+      "shore",
+      "seaside"
+    ]
+  },
+  {
+    "index": 36,
+    "word": "environment",
+    "type": "n.",
+    "meaning": "周围环境",
+    "replace": [
+      "neighbourhood",
+      "surrounding"
+    ]
+  },
+  {
+    "index": 37,
+    "word": "noisy",
+    "type": "adj.",
+    "meaning": "吵闹的",
+    "replace": [
+      "disturbing",
+      "not quiet"
+    ]
+  },
+  {
+    "index": 38,
+    "word": "capacity",
+    "type": "n.",
+    "meaning": "容量",
+    "replace": [
+      "volume",
+      "room",
+      "space",
+      "size"
+    ]
+  },
+  {
+    "index": 39,
+    "word": "outdoor",
+    "type": "adj.",
+    "meaning": "户外的",
+    "replace": [
+      "gardens",
+      "park",
+      "open air"
+    ]
+  },
+  {
+    "index": 40,
+    "word": "accommodation",
+    "type": "n.",
+    "meaning": "住宿",
+    "replace": [
+      "living",
+      "dwelling",
+      "dorm"
+    ]
+  },
+  {
+    "index": 41,
+    "word": "place",
+    "type": "n.",
+    "meaning": "地点",
+    "replace": [
+      "where",
+      "spot",
+      "location",
+      "area"
+    ]
+  },
+  {
+    "index": 42,
+    "word": "near",
+    "type": "adj.",
+    "meaning": "附近的",
+    "replace": [
+      "close",
+      "not far from",
+      "nearby"
+    ]
+  },
+  {
+    "index": 43,
+    "word": "remote",
+    "type": "adj.",
+    "meaning": "偏远的",
+    "replace": [
+      "isolated",
+      "distant"
+    ]
+  },
+  {
+    "index": 44,
+    "word": "advantage",
+    "type": "n.",
+    "meaning": "优点",
+    "replace": [
+      "benefit",
+      "positive",
+      "good thing",
+      "strength"
+    ]
+  },
+  {
+    "index": 45,
+    "word": "disadvantage",
+    "type": "n.",
+    "meaning": "缺点",
+    "replace": [
+      "drawback",
+      "shortcoming",
+      "negative",
+      "problem"
+    ]
+  },
+  {
+    "index": 46,
+    "word": "education",
+    "type": "n.",
+    "meaning": "教育",
+    "replace": [
+      "schools",
+      "colleges",
+      "institution"
+    ]
+  },
+  {
+    "index": 47,
+    "word": "ordinary people",
+    "type": "",
+    "meaning": "公众",
+    "replace": [
+      "people",
+      "inhabitants",
+      "the public",
+      "men and women"
+    ]
+  },
+  {
+    "index": 48,
+    "word": "student",
+    "type": "n.",
+    "meaning": "学生",
+    "replace": [
+      "pupil",
+      "undergraduate",
+      "postgraduate"
+    ]
+  },
+  {
+    "index": 49,
+    "word": "purpose",
+    "type": "n.",
+    "meaning": "目标",
+    "replace": [
+      "aim",
+      "goal",
+      "target",
+      "key areas"
+    ]
+  },
+  {
+    "index": 50,
+    "word": "learn",
+    "type": "v.",
+    "meaning": "学习",
+    "replace": [
+      "acquire",
+      "get",
+      "obtain"
+    ]
+  },
+  {
+    "index": 51,
+    "word": "structure",
+    "type": "n.",
+    "meaning": "结构大纲",
+    "replace": [
+      "outline",
+      "framework"
+    ]
+  },
+  {
+    "index": 52,
+    "word": "reference materials",
+    "type": "",
+    "meaning": "参考资料",
+    "replace": [
+      "books",
+      "journals",
+      "magazines"
+    ]
+  },
+  {
+    "index": 53,
+    "word": "extensive",
+    "type": "",
+    "meaning": "广泛",
+    "replace": [
+      "comprehensive",
+      "a lot of",
+      "many"
+    ]
+  },
+  {
+    "index": 54,
+    "word": "expertise",
+    "type": "n.",
+    "meaning": "能力，专长",
+    "replace": [
+      "ability",
+      "skill"
+    ]
+  },
+  {
+    "index": 55,
+    "word": "group",
+    "type": "n.",
+    "meaning": "团队",
+    "replace": [
+      "team"
+    ]
+  },
+  {
+    "index": 56,
+    "word": "associate",
+    "type": "v.",
+    "meaning": "与……相关",
+    "replace": [
+      "relateto",
+      "connect",
+      "link"
+    ]
+  },
+  {
+    "index": 57,
+    "word": "approach",
+    "type": "n.",
+    "meaning": "方法",
+    "replace": [
+      "way",
+      "how",
+      "method"
+    ]
+  },
+  {
+    "index": 58,
+    "word": "motivate",
+    "type": "v.",
+    "meaning": "鼓励，促进",
+    "replace": [
+      "encourage",
+      "stimulate",
+      "keep active",
+      "boost",
+      "help"
+    ]
+  },
+  {
+    "index": 59,
+    "word": "improve",
+    "type": "v.",
+    "meaning": "提升",
+    "replace": [
+      "develop",
+      "promote"
+    ]
+  },
+  {
+    "index": 60,
+    "word": "overlook",
+    "type": "v.",
+    "meaning": "低估",
+    "replace": [
+      "underestimate",
+      "neglect"
+    ]
+  },
+  {
+    "index": 61,
+    "word": "omit",
+    "type": "v.",
+    "meaning": "省掉",
+    "replace": [
+      "leaveout",
+      "cancel"
+    ]
+  },
+  {
+    "index": 62,
+    "word": "find",
+    "type": "v.",
+    "meaning": "发现",
+    "replace": [
+      "discover",
+      "detect",
+      "spot",
+      "see",
+      "sight"
+    ]
+  },
+  {
+    "index": 63,
+    "word": "opportunity",
+    "type": "n.",
+    "meaning": "机会",
+    "replace": [
+      "chance",
+      "odds",
+      "hope"
+    ]
+  },
+  {
+    "index": 64,
+    "word": "difficult",
+    "type": "adj.",
+    "meaning": "困难的",
+    "replace": [
+      "problem",
+      "hard",
+      "not easy",
+      "not simple"
+    ]
+  },
+  {
+    "index": 65,
+    "word": "prevent",
+    "type": "v.",
+    "meaning": "阻止，避免",
+    "replace": [
+      "avoid",
+      "stop",
+      "escape",
+      "forbid",
+      "out of bounds"
+    ]
+  },
+  {
+    "index": 66,
+    "word": "misunderstand",
+    "type": "v.",
+    "meaning": "理解错误",
+    "replace": [
+      "wrongidea",
+      "confuse",
+      "puzzle",
+      "perplex"
+    ]
+  },
+  {
+    "index": 67,
+    "word": "try hard",
+    "type": "",
+    "meaning": "努力",
+    "replace": [
+      "make",
+      "efforts",
+      "hard working"
+    ]
+  },
+  {
+    "index": 68,
+    "word": "feedback",
+    "type": "n.",
+    "meaning": "反馈",
+    "replace": [
+      "response",
+      "reaction",
+      "reply"
+    ]
+  },
+  {
+    "index": 69,
+    "word": "affect",
+    "type": "v.",
+    "meaning": "影响",
+    "replace": [
+      "impact",
+      "influence",
+      "effect"
+    ]
+  },
+  {
+    "index": 70,
+    "word": "analysis",
+    "type": "n.",
+    "meaning": "分析，认知",
+    "replace": [
+      "perspective",
+      "understand",
+      "perceive",
+      "know"
+    ]
+  },
+  {
+    "index": 71,
+    "word": "result",
+    "type": "n.",
+    "meaning": "结果",
+    "replace": [
+      "outcome",
+      "consequence",
+      "conclusion"
+    ]
+  },
+  {
+    "index": 72,
+    "word": "handle",
+    "type": "v.",
+    "meaning": "处理",
+    "replace": [
+      "dealwith",
+      "cope with",
+      "figure out",
+      "work out",
+      "take care of"
+    ]
+  },
+  {
+    "index": 73,
+    "word": "support",
+    "type": "n.",
+    "meaning": "帮助",
+    "replace": [
+      "help",
+      "assistance",
+      "aid",
+      "tip"
+    ]
+  },
+  {
+    "index": 74,
+    "word": "ideal",
+    "type": "adj.",
+    "meaning": "完美的",
+    "replace": [
+      "perfect"
+    ]
+  },
+  {
+    "index": 75,
+    "word": "rigorous",
+    "type": "adj.",
+    "meaning": "严格的",
+    "replace": [
+      "strict",
+      "demanding"
+    ]
+  },
+  {
+    "index": 76,
+    "word": "restrict",
+    "type": "v.",
+    "meaning": "限制",
+    "replace": [
+      "limit",
+      "not permit"
+    ]
+  },
+  {
+    "index": 77,
+    "word": "similar",
+    "type": "adj.",
+    "meaning": "相似的",
+    "replace": [
+      "like",
+      "compare"
+    ]
+  },
+  {
+    "index": 78,
+    "word": "particular",
+    "type": "adj.",
+    "meaning": "特别的",
+    "replace": [
+      "special",
+      "in particular",
+      "especially"
+    ]
+  },
+  {
+    "index": 79,
+    "word": "copy",
+    "type": "v.",
+    "meaning": "重复",
+    "replace": [
+      "repeat",
+      "reproduce"
+    ]
+  },
+  {
+    "index": 80,
+    "word": "statistics",
+    "type": "n.",
+    "meaning": "统计学",
+    "replace": [
+      "data",
+      "figure"
+    ]
+  },
+  {
+    "index": 81,
+    "word": "maximum",
+    "type": "n.",
+    "meaning": "最大值",
+    "replace": [
+      "upto",
+      "at most"
+    ]
+  },
+  {
+    "index": 82,
+    "word": "minimum",
+    "type": "n.",
+    "meaning": "最小值",
+    "replace": [
+      "atleast"
+    ]
+  },
+  {
+    "index": 83,
+    "word": "initial",
+    "type": "adj.",
+    "meaning": "最初的，开始的",
+    "replace": [
+      "atfirst",
+      "start",
+      "begin",
+      "early on",
+      "premiere"
+    ]
+  },
+  {
+    "index": 84,
+    "word": "limited",
+    "type": "adj.",
+    "meaning": "少量的",
+    "replace": [
+      "justafew",
+      "a little",
+      "small",
+      "a small number of",
+      "not many",
+      "miniature"
+    ]
+  },
+  {
+    "index": 85,
+    "word": "shorten",
+    "type": "v.",
+    "meaning": "截短",
+    "replace": [
+      "cutdown"
+    ]
+  },
+  {
+    "index": 86,
+    "word": "decrease",
+    "type": "v.",
+    "meaning": "降低",
+    "replace": [
+      "lower",
+      "reduce",
+      "fewer",
+      "drop",
+      "fall",
+      "decrease"
+    ]
+  },
+  {
+    "index": 87,
+    "word": "lack",
+    "type": "n./v.",
+    "meaning": "缺乏",
+    "replace": [
+      "shortage",
+      "insufficient",
+      "fewer",
+      "not enough"
+    ]
+  },
+  {
+    "index": 88,
+    "word": "large",
+    "type": "adj.",
+    "meaning": "大的",
+    "replace": [
+      "big",
+      "huge"
+    ]
+  },
+  {
+    "index": 89,
+    "word": "amount of",
+    "type": "",
+    "meaning": "大量",
+    "replace": [
+      "lots of",
+      "large quantities of",
+      "loads of"
+    ]
+  },
+  {
+    "index": 90,
+    "word": "majority",
+    "type": "n.",
+    "meaning": "绝大部分",
+    "replace": [
+      "most"
+    ]
+  },
+  {
+    "index": 91,
+    "word": "double",
+    "type": "v.",
+    "meaning": "两倍",
+    "replace": [
+      "twice"
+    ]
+  },
+  {
+    "index": 92,
+    "word": "more than",
+    "type": "",
+    "meaning": "超过",
+    "replace": [
+      "over",
+      "beyond",
+      "exceed",
+      "above"
+    ]
+  },
+  {
+    "index": 93,
+    "word": "at present",
+    "type": "",
+    "meaning": "当前",
+    "replace": [
+      "already",
+      "existing",
+      "currently",
+      "nowadays"
+    ]
+  },
+  {
+    "index": 94,
+    "word": "update",
+    "type": "v.",
+    "meaning": "更新",
+    "replace": [
+      "upgrade",
+      "up to date",
+      "more current",
+      "modern"
+    ]
+  },
+  {
+    "index": 95,
+    "word": "newest",
+    "type": "adj.",
+    "meaning": "最新的",
+    "replace": [
+      "latest"
+    ]
+  },
+  {
+    "index": 96,
+    "word": "soon",
+    "type": "adv.",
+    "meaning": "将来",
+    "replace": [
+      "later",
+      "in the future"
+    ]
+  },
+  {
+    "index": 97,
+    "word": "out of date",
+    "type": "",
+    "meaning": "过时的",
+    "replace": [
+      "old",
+      "fashioned"
+    ]
+  },
+  {
+    "index": 98,
+    "word": "ancient",
+    "type": "adj.",
+    "meaning": "古老的，过去的",
+    "replace": [
+      "medieval",
+      "in the past",
+      "once",
+      "historical",
+      "old",
+      "ancient",
+      "former"
+    ]
+  },
+  {
+    "index": 99,
+    "word": "temporary",
+    "type": "adj.",
+    "meaning": "暂时的",
+    "replace": [
+      "ashorttime"
+    ]
+  },
+  {
+    "index": 100,
+    "word": "deadline",
+    "type": "n.",
+    "meaning": "截止时间",
+    "replace": [
+      "timepressure",
+      "on time"
+    ]
+  },
+  {
+    "index": 101,
+    "word": "permanent",
+    "type": "adj.",
+    "meaning": "长久的",
+    "replace": [
+      "long-lasting"
+    ]
+  },
+  {
+    "index": 102,
+    "word": "more often",
+    "type": "",
+    "meaning": "频繁",
+    "replace": [
+      "frequent"
+    ]
+  },
+  {
+    "index": 103,
+    "word": "annual",
+    "type": "adj.",
+    "meaning": "年度的",
+    "replace": [
+      "everyyear"
+    ]
+  },
+  {
+    "index": 104,
+    "word": "every month",
+    "type": "",
+    "meaning": "每个月",
+    "replace": [
+      "monthly",
+      "four weeks"
+    ]
+  },
+  {
+    "index": 105,
+    "word": "every day",
+    "type": "",
+    "meaning": "每天",
+    "replace": [
+      "daily"
+    ]
+  },
+  {
+    "index": 106,
+    "word": "classify",
+    "type": "v.",
+    "meaning": "分类",
+    "replace": [
+      "category",
+      "sort",
+      "type",
+      "kind"
+    ]
+  },
+  {
+    "index": 107,
+    "word": "entrance",
+    "type": "n.",
+    "meaning": "入口",
+    "replace": [
+      "access",
+      "main gate",
+      "door"
+    ]
+  },
+  {
+    "index": 108,
+    "word": "behind",
+    "type": "prep.",
+    "meaning": "在……后面",
+    "replace": [
+      "back",
+      "rear"
+    ]
+  },
+  {
+    "index": 109,
+    "word": "below",
+    "type": "prep.",
+    "meaning": "在……下面",
+    "replace": [
+      "under"
+    ]
+  },
+  {
+    "index": 110,
+    "word": "beside",
+    "type": "prep.",
+    "meaning": "在……旁边",
+    "replace": [
+      "nextto",
+      "near",
+      "border"
+    ]
+  },
+  {
+    "index": 111,
+    "word": "available",
+    "type": "adj.",
+    "meaning": "可用的",
+    "replace": [
+      "have",
+      "accessible",
+      "not close",
+      "open"
+    ]
+  },
+  {
+    "index": 112,
+    "word": "boring",
+    "type": "adj.",
+    "meaning": "无趣的",
+    "replace": [
+      "notinteresting",
+      "boredom"
+    ]
+  },
+  {
+    "index": 113,
+    "word": "trend",
+    "type": "n.",
+    "meaning": "倾向",
+    "replace": [
+      "possibility",
+      "likely",
+      "tendency"
+    ]
+  },
+  {
+    "index": 114,
+    "word": "risky",
+    "type": "adj.",
+    "meaning": "危险的",
+    "replace": [
+      "dangerous",
+      "not safe",
+      "hazard"
+    ]
+  },
+  {
+    "index": 115,
+    "word": "poisonous",
+    "type": "adj.",
+    "meaning": "有毒的",
+    "replace": [
+      "toxic",
+      "dangerous"
+    ]
+  },
+  {
+    "index": 116,
+    "word": "warning",
+    "type": "n.",
+    "meaning": "警报",
+    "replace": [
+      "alarm",
+      "alert"
+    ]
+  },
+  {
+    "index": 117,
+    "word": "care",
+    "type": "v.",
+    "meaning": "谨慎",
+    "replace": [
+      "caution"
+    ]
+  },
+  {
+    "index": 118,
+    "word": "steal",
+    "type": "v.",
+    "meaning": "偷窃",
+    "replace": [
+      "theft"
+    ]
+  },
+  {
+    "index": 119,
+    "word": "protect",
+    "type": "v.",
+    "meaning": "保护",
+    "replace": [
+      "safeguard",
+      "shelter",
+      "preserve"
+    ]
+  },
+  {
+    "index": 120,
+    "word": "injury",
+    "type": "n.",
+    "meaning": "伤害",
+    "replace": [
+      "harm",
+      "hurt",
+      "damage",
+      "dangerous",
+      "frighten"
+    ]
+  },
+  {
+    "index": 121,
+    "word": "military",
+    "type": "adj.",
+    "meaning": "军事的",
+    "replace": [
+      "battle",
+      "weapon",
+      "not peaceful"
+    ]
+  },
+  {
+    "index": 122,
+    "word": "tactics",
+    "type": "n.",
+    "meaning": "策略",
+    "replace": [
+      "strategy",
+      "method"
+    ]
+  },
+  {
+    "index": 123,
+    "word": "rely on",
+    "type": "",
+    "meaning": "依靠",
+    "replace": [
+      "depend on",
+      "count on"
+    ]
+  },
+  {
+    "index": 124,
+    "word": "travel",
+    "type": "n.",
+    "meaning": "旅行",
+    "replace": [
+      "tourism",
+      "trip",
+      "passenger",
+      "flight"
+    ]
+  },
+  {
+    "index": 125,
+    "word": "space travel",
+    "type": "",
+    "meaning": "空间旅行",
+    "replace": [
+      "aircraft",
+      "rocket",
+      "satellite"
+    ]
+  },
+  {
+    "index": 126,
+    "word": "transport",
+    "type": "n.",
+    "meaning": "交通",
+    "replace": [
+      "vehicle",
+      "bus",
+      "train",
+      "boat",
+      "ship",
+      "ferry",
+      "subway"
+    ]
+  },
+  {
+    "index": 127,
+    "word": "specific",
+    "type": "adj.",
+    "meaning": "具体的",
+    "replace": [
+      "detail",
+      "particular",
+      "example"
+    ]
+  },
+  {
+    "index": 128,
+    "word": "request",
+    "type": "v.",
+    "meaning": "询问",
+    "replace": [
+      "askfor",
+      "inquiry"
+    ]
+  },
+  {
+    "index": 129,
+    "word": "clear",
+    "type": "adj.",
+    "meaning": "清晰地",
+    "replace": [
+      "definitive"
+    ]
+  },
+  {
+    "index": 130,
+    "word": "freeze",
+    "type": "v.",
+    "meaning": "结冰",
+    "replace": [
+      "froze",
+      "ice",
+      "chill",
+      "cold"
+    ]
+  },
+  {
+    "index": 131,
+    "word": "organization",
+    "type": "n.",
+    "meaning": "公司",
+    "replace": [
+      "business",
+      "company",
+      "corporation structure"
+    ]
+  },
+  {
+    "index": 132,
+    "word": "organize",
+    "type": "v.",
+    "meaning": "组织，安排",
+    "replace": [
+      "arrange",
+      "plan"
+    ]
+  },
+  {
+    "index": 133,
+    "word": "produce",
+    "type": "v.",
+    "meaning": "产生",
+    "replace": [
+      "generate",
+      "make"
+    ]
+  },
+  {
+    "index": 134,
+    "word": "administer",
+    "type": "v.",
+    "meaning": "管理，治理",
+    "replace": [
+      "manage"
+    ]
+  },
+  {
+    "index": 135,
+    "word": "occupation",
+    "type": "n.",
+    "meaning": "职位",
+    "replace": [
+      "profession",
+      "job"
+    ]
+  },
+  {
+    "index": 136,
+    "word": "all ages",
+    "type": "",
+    "meaning": "所有年龄的人",
+    "replace": [
+      "young and old"
+    ]
+  },
+  {
+    "index": 137,
+    "word": "youth",
+    "type": "n.",
+    "meaning": "年轻",
+    "replace": [
+      "young",
+      "boy",
+      "child",
+      "teenager"
+    ]
+  },
+  {
+    "index": 138,
+    "word": "mate",
+    "type": "n.",
+    "meaning": "伙伴",
+    "replace": [
+      "friend",
+      "peer"
+    ]
+  },
+  {
+    "index": 139,
+    "word": "staff",
+    "type": "n.",
+    "meaning": "员工",
+    "replace": [
+      "recruit",
+      "worker",
+      "employee"
+    ]
+  },
+  {
+    "index": 140,
+    "word": "sale",
+    "type": "v.",
+    "meaning": "销售",
+    "replace": [
+      "retail"
+    ]
+  },
+  {
+    "index": 141,
+    "word": "cheap",
+    "type": "adj.",
+    "meaning": "便宜的",
+    "replace": [
+      "lowprice"
+    ]
+  },
+  {
+    "index": 142,
+    "word": "discount",
+    "type": "n.",
+    "meaning": "打折",
+    "replace": [
+      "10%off",
+      "on sale"
+    ]
+  },
+  {
+    "index": 143,
+    "word": "round",
+    "type": "n.",
+    "meaning": "圆",
+    "replace": [
+      "curve",
+      "circle"
+    ]
+  },
+  {
+    "index": 144,
+    "word": "order",
+    "type": "n.",
+    "meaning": "顺序",
+    "replace": [
+      "sequence"
+    ]
+  },
+  {
+    "index": 145,
+    "word": "renovate",
+    "type": "v.",
+    "meaning": "修理；翻新",
+    "replace": [
+      "fix",
+      "repair"
+    ]
+  },
+  {
+    "index": 146,
+    "word": "alone",
+    "type": "adj.",
+    "meaning": "单独的",
+    "replace": [
+      "single",
+      "by themselves"
+    ]
+  },
+  {
+    "index": 147,
+    "word": "hospitality",
+    "type": "n.",
+    "meaning": "招待",
+    "replace": [
+      "treatment",
+      "prepare refreshment"
+    ]
+  },
+  {
+    "index": 148,
+    "word": "shape like",
+    "type": "",
+    "meaning": "像",
+    "replace": [
+      "look like",
+      "seem"
+    ]
+  },
+  {
+    "index": 149,
+    "word": "depress",
+    "type": "v.",
+    "meaning": "失望，使沮丧",
+    "replace": [
+      "disappoint",
+      "dispirit",
+      "frustrate",
+      "discourage"
+    ]
+  },
+  {
+    "index": 150,
+    "word": "well-known",
+    "type": "adj.",
+    "meaning": "有名的",
+    "replace": [
+      "famous",
+      "fame"
+    ]
+  },
+  {
+    "index": 151,
+    "word": "specialize in",
+    "type": "",
+    "meaning": "专注于",
+    "replace": [
+      "focus",
+      "emphasis",
+      "concentrate"
+    ]
+  },
+  {
+    "index": 152,
+    "word": "part",
+    "type": "n.",
+    "meaning": "部分",
+    "replace": [
+      "component",
+      "proportion",
+      "percent",
+      "section",
+      "element",
+      "ingredient"
+    ]
+  },
+  {
+    "index": 153,
+    "word": "typical",
+    "type": "adj.",
+    "meaning": "典型的；普通的",
+    "replace": [
+      "representative",
+      "common",
+      "average"
+    ]
+  },
+  {
+    "index": 154,
+    "word": "uncommon",
+    "type": "adj.",
+    "meaning": "特别的",
+    "replace": [
+      "special",
+      "unique",
+      "unusual",
+      "rare"
+    ]
+  },
+  {
+    "index": 155,
+    "word": "accurately",
+    "type": "adv.",
+    "meaning": "精确地",
+    "replace": [
+      "precisely"
+    ]
+  },
+  {
+    "index": 156,
+    "word": "expand",
+    "type": "v.",
+    "meaning": "扩建；扩张",
+    "replace": [
+      "add",
+      "enlarge",
+      "increase spaces"
+    ]
+  },
+  {
+    "index": 157,
+    "word": "climb",
+    "type": "v.",
+    "meaning": "上升",
+    "replace": [
+      "goup",
+      "increase"
+    ]
+  },
+  {
+    "index": 158,
+    "word": "enhance",
+    "type": "v.",
+    "meaning": "增强",
+    "replace": [
+      "improve",
+      "increase"
+    ]
+  },
+  {
+    "index": 159,
+    "word": "power",
+    "type": "n.",
+    "meaning": "力量",
+    "replace": [
+      "force",
+      "energy"
+    ]
+  },
+  {
+    "index": 160,
+    "word": "fuel",
+    "type": "n.",
+    "meaning": "燃料",
+    "replace": [
+      "coal",
+      "firewood",
+      "petrol",
+      "gas"
+    ]
+  },
+  {
+    "index": 161,
+    "word": "refurbish",
+    "type": "v.",
+    "meaning": "重新装修",
+    "replace": [
+      "redecorate"
+    ]
+  },
+  {
+    "index": 162,
+    "word": "preference",
+    "type": "n.",
+    "meaning": "偏爱；优先权",
+    "replace": [
+      "like",
+      "priority"
+    ]
+  },
+  {
+    "index": 163,
+    "word": "trust",
+    "type": "v.",
+    "meaning": "信任",
+    "replace": [
+      "less suspicious",
+      "believe"
+    ]
+  },
+  {
+    "index": 164,
+    "word": "computer",
+    "type": "n.",
+    "meaning": "电脑",
+    "replace": [
+      "laptop"
+    ]
+  },
+  {
+    "index": 165,
+    "word": "handy",
+    "type": "adj.",
+    "meaning": "方便的",
+    "replace": [
+      "convenient"
+    ]
+  },
+  {
+    "index": 166,
+    "word": "demonstrate",
+    "type": "v.",
+    "meaning": "展示",
+    "replace": [
+      "display",
+      "show",
+      "exhibition"
+    ]
+  },
+  {
+    "index": 167,
+    "word": "important",
+    "type": "adj.",
+    "meaning": "主要的",
+    "replace": [
+      "significant",
+      "major",
+      "main",
+      "primary"
+    ]
+  },
+  {
+    "index": 168,
+    "word": "straightforward",
+    "type": "adj.",
+    "meaning": "简单直接的",
+    "replace": [
+      "direct",
+      "first-hand",
+      "simple"
+    ]
+  },
+  {
+    "index": 169,
+    "word": "disused",
+    "type": "adj.",
+    "meaning": "废弃的",
+    "replace": [
+      "empty",
+      "abandoned"
+    ]
+  },
+  {
+    "index": 170,
+    "word": "donate",
+    "type": "v.",
+    "meaning": "捐赠",
+    "replace": [
+      "charity",
+      "give"
+    ]
+  },
+  {
+    "index": 171,
+    "word": "work",
+    "type": "n.",
+    "meaning": "作品",
+    "replace": [
+      "item"
+    ]
+  },
+  {
+    "index": 172,
+    "word": "turn",
+    "type": "v.",
+    "meaning": "转动",
+    "replace": [
+      "switch"
+    ]
+  },
+  {
+    "index": 173,
+    "word": "information",
+    "type": "n.",
+    "meaning": "信息",
+    "replace": [
+      "details",
+      "data",
+      "graph",
+      "chart"
+    ]
+  },
+  {
+    "index": 174,
+    "word": "visualize",
+    "type": "v.",
+    "meaning": "想象",
+    "replace": [
+      "imagine"
+    ]
+  },
+  {
+    "index": 175,
+    "word": "repetition",
+    "type": "n.",
+    "meaning": "重复",
+    "replace": [
+      "over and over"
+    ]
+  },
+  {
+    "index": 176,
+    "word": "poor",
+    "type": "adj.",
+    "meaning": "弱的",
+    "replace": [
+      "weak"
+    ]
+  },
+  {
+    "index": 177,
+    "word": "durable",
+    "type": "adj.",
+    "meaning": "耐用的",
+    "replace": [
+      "stronger",
+      "longer"
+    ]
+  },
+  {
+    "index": 178,
+    "word": "pollutant",
+    "type": "n.",
+    "meaning": "污染物",
+    "replace": [
+      "contaminant"
+    ]
+  },
+  {
+    "index": 179,
+    "word": "continue",
+    "type": "v.",
+    "meaning": "继续",
+    "replace": [
+      "ahead",
+      "go on",
+      "keep doing"
+    ]
+  }
+]
