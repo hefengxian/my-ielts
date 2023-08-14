@@ -375,8 +375,7 @@
     "type": "adj.",
     "meaning": "乡村的",
     "replace": [
-      "rural",
-      "area"
+      "rural area"
     ]
   },
   {
@@ -624,7 +623,7 @@
     "type": "v.",
     "meaning": "与……相关",
     "replace": [
-      "relateto",
+      "relate to",
       "connect",
       "link"
     ]
@@ -679,7 +678,7 @@
     "type": "v.",
     "meaning": "省掉",
     "replace": [
-      "leaveout",
+      "leave out",
       "cancel"
     ]
   },
@@ -738,7 +737,7 @@
     "type": "v.",
     "meaning": "理解错误",
     "replace": [
-      "wrongidea",
+      "wrong idea",
       "confuse",
       "puzzle",
       "perplex"
@@ -901,7 +900,7 @@
     "type": "n.",
     "meaning": "最大值",
     "replace": [
-      "upto",
+      "up to",
       "at most"
     ]
   },
@@ -911,7 +910,7 @@
     "type": "n.",
     "meaning": "最小值",
     "replace": [
-      "atleast"
+      "at least"
     ]
   },
   {
@@ -920,7 +919,7 @@
     "type": "adj.",
     "meaning": "最初的，开始的",
     "replace": [
-      "atfirst",
+      "at first",
       "start",
       "begin",
       "early on",
@@ -933,7 +932,7 @@
     "type": "adj.",
     "meaning": "少量的",
     "replace": [
-      "justafew",
+      "just a few",
       "a little",
       "small",
       "a small number of",
@@ -947,7 +946,7 @@
     "type": "v.",
     "meaning": "截短",
     "replace": [
-      "cutdown"
+      "cut down"
     ]
   },
   {
@@ -1076,8 +1075,7 @@
     "type": "",
     "meaning": "过时的",
     "replace": [
-      "old",
-      "fashioned"
+      "old fashioned"
     ]
   },
   {
@@ -1101,7 +1099,7 @@
     "type": "adj.",
     "meaning": "暂时的",
     "replace": [
-      "ashorttime"
+      "a short time"
     ]
   },
   {
@@ -1110,7 +1108,7 @@
     "type": "n.",
     "meaning": "截止时间",
     "replace": [
-      "timepressure",
+      "time pressure",
       "on time"
     ]
   },
@@ -1138,7 +1136,7 @@
     "type": "adj.",
     "meaning": "年度的",
     "replace": [
-      "everyyear"
+      "every year"
     ]
   },
   {
@@ -1208,7 +1206,7 @@
     "type": "prep.",
     "meaning": "在……旁边",
     "replace": [
-      "nextto",
+      "next to",
       "near",
       "border"
     ]
@@ -1231,7 +1229,7 @@
     "type": "adj.",
     "meaning": "无趣的",
     "replace": [
-      "notinteresting",
+      "not interesting",
       "boredom"
     ]
   },
@@ -1405,7 +1403,7 @@
     "type": "v.",
     "meaning": "询问",
     "replace": [
-      "askfor",
+      "ask for",
       "inquiry"
     ]
   },
@@ -1537,7 +1535,7 @@
     "type": "adj.",
     "meaning": "便宜的",
     "replace": [
-      "lowprice"
+      "low price"
     ]
   },
   {
@@ -1546,7 +1544,7 @@
     "type": "n.",
     "meaning": "打折",
     "replace": [
-      "10%off",
+      "10% off",
       "on sale"
     ]
   },
@@ -1705,7 +1703,7 @@
     "type": "v.",
     "meaning": "上升",
     "replace": [
-      "goup",
+      "go up",
       "increase"
     ]
   },
