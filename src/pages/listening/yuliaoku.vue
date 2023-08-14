@@ -83,7 +83,7 @@ const curCharpter = computed(() => {
               #
             </th>
             <th class="w-0">
-              <br>
+              <!-- Pronunciation -->
             </th>
             <th
               v-for="label in curCharpter.columns"
