@@ -1,7 +1,6 @@
 <script setup>
-import words from './listening179.json'
+import chapterData from './spelling_convention'
 
-const ws = reactive(words)
 function play(word) {
   const audio = document.createElement('audio')
   audio.src = `179_audios/${word}.mp3`
@@ -15,6 +14,15 @@ const chapters = [
   'Charpter3 特别名词',
   'Charpter4 形容词副词',
 ]
+
+const curCharpter = computed(() => {
+  const { rows } = chapterData[chapter.value]
+  rows.forEach((e) => {
+    if (typeof e[0] === 'string')
+      e[0] = e[0].split(', ')
+  })
+  return chapterData[chapter.value]
+})
 </script>
 
 <template>
@@ -32,9 +40,9 @@ const chapters = [
           v-model="chapter"
           class="block w-full flex-1 border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400"
         >
-          <option value="">
+          <!-- <option value="">
             全部章节
-          </option>
+          </option> -->
           <option
             v-for="k in chapters"
             :key="k"
@@ -59,7 +67,63 @@ const chapters = [
     </div>
   </div>
   <div class="mt-6">
-    TODO
+    <template v-if="chapter === 'Charpter2 拼写规范'">
+      <div class="mb-4 mt-6 items-center justify-between lg:flex">
+        <div class="mb-4 lg:mb-0">
+          <h3 class="mb-2 font-bold text-gray-900 dark:text-white">
+            {{ curCharpter.title }}
+          </h3>
+          <span class="text-base font-normal text-gray-500 dark:text-gray-400">{{ curCharpter.desc }}</span>
+        </div>
+      </div>
+      <table class="w-full text-left text-sm text-gray-500 dark:text-gray-400">
+        <thead class="bg-gray-50 text-xs uppercase text-gray-700 dark:bg-gray-700 dark:text-gray-400">
+          <tr>
+            <th class="w-0 px-6 py-3">
+              #
+            </th>
+            <th class="w-0">
+              <br>
+            </th>
+            <th
+              v-for="label in curCharpter.columns"
+              :key="label"
+              class="w-0 px-6 py-3"
+            >
+              {{ label }}
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr
+            v-for="(row, index) in curCharpter.rows"
+            :key="row[0]"
+            class="border-b bg-white dark:border-gray-700 dark:bg-gray-800"
+          >
+            <td class="px-6 py-4">
+              {{ index }}
+            </td>
+            <td class="px-6 py-4">
+              <a href="javascript:;" class="i-carbon-volume-up-filled block" @click="play(row[0])" />
+            </td>
+            <th class="whitespace-nowrap px-6 py-4 font-medium text-gray-900 dark:text-white">
+              <a
+                class="hover:underline"
+                :title="`在剑桥词典中查询 ${row[0][0]}`"
+                :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${row[0][0]}`"
+                target="_blank"
+              >{{ row[0].join(', ') }}</a>
+            </th>
+            <td class="whitespace-nowrap px-6 py-4 font-medium text-gray-900 dark:text-white">
+              {{ row[1] }}
+            </td>
+            <td class="whitespace-nowrap px-6 py-4">
+              {{ row[2] }}
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </template>
     <!-- <table class="w-full text-left text-sm text-gray-500 dark:text-gray-400">
       <thead class="bg-gray-50 text-xs uppercase text-gray-700 dark:bg-gray-700 dark:text-gray-400">
         <tr>

@@ -77,6 +77,8 @@ const keyword = ref('')
           </td>
           <th scope="row" class="whitespace-nowrap px-6 py-4 font-medium text-gray-900 dark:text-white">
             <a
+              class="hover:underline"
+              :title="`在剑桥词典中查询 ${w.word}`"
               :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${w.word}`"
               target="_blank"
             >{{ w.word }}</a>
