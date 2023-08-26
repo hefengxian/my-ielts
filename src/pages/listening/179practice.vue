@@ -1,4 +1,4 @@
-<script setup lang="ts" generic="T extends any, O extends any">
+<script setup>
 import words from './listening179.json'
 
 const ws = reactive(words.map((v) => {
@@ -23,12 +23,12 @@ function onKeydown(e, word) {
   }
 }
 
-function play(word: string) {
+function play(word) {
   const audio = document.createElement('audio')
   audio.src = `/179_audios/${word}.mp3`
   audio.play()
 }
-function next(index: number) {
+function next(index) {
   const i = index + 1
   if (i >= words.length)
     return

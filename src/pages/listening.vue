@@ -7,12 +7,20 @@
             to="/listening"
             class="inline-block w-full rounded-l-lg bg-gray-100 p-4 text-gray-900 dark:bg-gray-700 dark:text-white"
           >
+            IELTS 听力基本概念
+          </router-link>
+        </li>
+        <li class="w-full">
+          <router-link
+            to="/listening/keyword"
+            class="inline-block w-full bg-gray-100 p-4 text-gray-900 dark:bg-gray-700 dark:text-white"
+          >
             听力 179 考点词
           </router-link>
         </li>
         <li class="w-full">
           <router-link
-            to="/listening/yuliaoku"
+            to="/listening/corpus"
             class="inline-block w-full rounded-r-lg bg-gray-100 p-4 text-gray-900 dark:bg-gray-700 dark:text-white"
           >
             雅思听力王语料库
