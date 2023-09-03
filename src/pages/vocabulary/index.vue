@@ -208,12 +208,11 @@ document.addEventListener('keyup', (ev) => {
         </div>
       </div>
       <!-- Card Footer -->
-      <div class="flex items-center justify-between pt-3 sm:pt-6">
+      <!-- <div class="flex items-center justify-between pt-3 sm:pt-6">
         <div>
           <button class="inline-flex items-center rounded-lg p-2 text-center text-sm font-medium text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white" type="button" data-dropdown-toggle="transactions-dropdown">
             Last 7 days <svg class="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" /></svg>
           </button>
-          <!-- Dropdown menu -->
           <div id="transactions-dropdown" class="z-50 my-4 hidden list-none rounded bg-white text-base shadow divide-y divide-gray-100 dark:bg-gray-700 dark:divide-gray-600">
             <div class="px-4 py-3" role="none">
               <p class="truncate text-sm font-medium text-gray-900 dark:text-white" role="none">
@@ -248,7 +247,7 @@ document.addEventListener('keyup', (ev) => {
             <svg class="ml-1 h-4 w-4 sm:h-5 sm:w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
           </a>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
