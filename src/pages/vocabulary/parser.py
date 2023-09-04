@@ -15,7 +15,7 @@ def parse():
     }
     result = defaultdict(lambda: {'label': '', 'audio': '', 'groupCount': 0, 'wordCount': 0, 'words': []})
     vocabulary_path = CUR_DIR / 'vocabulary.txt'
-    contents = vocabulary_path.read_text()
+    contents = '\n'.join([l.strip() for l in vocabulary_path.read_text().split('\n')])
     categories = contents.split('===\n')
     cur_id = 0
     category_index = 0

@@ -2214,7 +2214,7 @@ cater|v.|为...提供饮食；满足...的需要
 provision|n.|供应、预备||provisions 食品供应
 edible|adj.|可以吃的
 recipe|n.|食谱；秘诀
---- 
+---       
 restaurant|n.|餐馆
 refectory|n.|（学校或其他机构）食堂、餐厅
 bar|n.|酒吧、吧台
@@ -2422,3 +2422,176 @@ squeeze|v.|挤压
 stir|v.|搅动
 grind|v./n.|碾碎/枯燥乏味的事情
 slice|v./n.|切成薄片、切、划/薄片|I sliced the bread
+===
+建筑场所
++++
+architecture|n.|建筑风格、建筑学
+erection|n.|建筑、建造|The erection of the building took several years
+structure|n.|建筑物；结构
+construct|v.|建造
+obstruct|v.|阻塞、妨碍
+---
+establish|v.|建立；设立
+build|v.|建造、开发
+found|v.|创建、创办
+---
+concrete|n./adj.|混泥土/具体的、混凝土制的
+steel|n.|钢铁
+stability|n.|稳定（性）
+---
+site|n.|地点
+venue|n.|发生地点、举行场所|They have already told us the venue for tomorrow's match
+landmark|n.|地标
+---
+situated|adj.|位于...的|The zoo is situated in the suburbs
+locate|v.|放置；建立；找到
+reside|v.|居住|The city in which I reside is very beautiful
+---
+inhabit|v.|居住于|Thoughts inhabit my mind
+migrate|v.|迁徙；移居
+settle|v.|解决；在...定居；使定居
+---
+dwelling|n.|住所
+skyscraper|n.|摩天大楼
+villa|n.|乡间别墅；[英]度假别墅
+---
+mansion|n.|宅第；公馆
+apartment|n.|公寓
+flat|n.|[尤英]单元房；公寓
+---
+hostel|n.|廉价招待所
+lodge|v./n.|租住/小屋；度假屋|Where we lodge is the problem
+hut|n.|小屋、棚屋
+cabin|n.|小木屋、（船上的）小舱
+---
+cellar|n.|地窖、地下室
+shed|n./v.|简易房、棚/流、洒、摆脱|He built a bicycle shed
+cottage|n.|村舍、小屋
+---
+nursery|n./adj.|托儿所、托儿所的
+cradle|n.|摇篮、发源地|Ancient Greece was the cradle of western civilization|from the cradle to the grave 从生到死、一生
+shelter|n./v.|庇护所；掩蔽/庇护；遮蔽
+block|n.|街区、障碍、一块
+grid|n.|栅栏、网格、输电网
+---
+aisle|n.|走廊、过道|Don't stand in the aisle
+porch|n.|门廊
+corridor|n.|走廊、通道
+---
+stair|n.|楼梯
+staircase|n.|（建筑内的）楼梯
+storey|n.|=story 楼层
+layer|n.|层|There is a layer of dust on the table. Clean it before the guests arrive
+---
+elevator|n.|[美]电梯|Her job is to operate an elevator|lift n. [英]电梯。a freight elevator 货梯
+escalator|n.|自动扶梯、滚梯
+handrail|n.|扶手、栏杆
+---
+pillar|n.|柱子、中坚、栋梁|The robber tied him to a pillar|a pillar of society 社会栋梁
+column|n.|柱；（书、报纸的）栏；专栏
+beam|n.|（能量、放射线或粒子的）束；柱|The beam of the searchlights flooded the sky over the airport|a laser beam 激光束
+---
+vault|n.|拱顶；金库；保险库
+arch|n./v.|拱门/（使）弯成弓形
+ceiling|n.|天花板、顶棚
+eaves|n.|屋檐
+chimney|n.|烟囱
+---
+reciption|n.|接待处
+lobby|n./v.|大厅；前厅；游说/游说||lobbyist n. 说客
+bench|n.|长凳||the bench 法官职位
+---
+parlour|n.|=parlor客厅
+fireplace|n.|壁炉
+radiator|n.|暖气设备
+living room|n.|客厅、起居室
+cabinet|n.|储藏柜、内阁||a cabinet meeting 内阁会议
+---
+balcony|n.|阳台；（剧院的）楼座
+terrace|n.|露天平台、大阳台
+kitchen|n.|厨房
+---
+lavatory|n.|盥洗室、厕所
+toilet|n.|抽水马桶；[英]厕所
+bath|n.|洗澡；[英]浴缸||bathe v. 用水清洗
+basin|n.|盆；盆地
+---
+reserve|n./v.|储备；自然保护区/预订||reservoir n. 水库
+store|n./v.|商店；贮存物/贮存
+mall|n.|购物中心
+complex|n.|综合建筑群
+---
+supermarket|n.|超市
+booth|n.|售货摊；电话亭；小隔间
+casino|n.|赌场
+studio|n.|演播室；工作室；单间公寓
+---
+downtown|n./adj.|市中心/市中心的
+urban|adj.|城市的
+peripheral|adj./n.|外围的/外围设备||periphery n. 外围；边缘
+vicinity|n.|附近；附近地区
+---
+room|n.|房间；空间
+void|n./adj.|空间；空白；空虚/空的
+spacious|adj.|宽敞的
+airtight|adj.|密封的；不透气的
+---
+expanse|n.|广阔；辽阔
+plaza|n.|广场；购物中心
+castle|n.|城堡
+---
+carpenter|n.|木匠
+mason|n.|石匠；泥瓦匠
+tile|n.|瓦；瓷砖
+brickwork|n.|砖结构
+---
+suspension|n.|暂缓；暂令停职、停赛
+hook|n.|钩；钩状物；勾拳
+lever|n.|杠杆；操纵杆
+pole|n.|竿；杆
+scaffold|n.|脚手架；绞刑架
+---
+infrastructure|n.|基础设施
+apparatus|n.|机械；装置
+crane|n.|起重机；鹤
+---
+malfunction|v.|发生故障
+maintain|v.|维持；维修；坚称
+fix|v.|修理；使固定
+---
+mend|v.|修理；（使）康复
+modify|v.|稍作修改
+trim|v./adj.|修剪；装饰/整齐的、整洁的
+---
+weld|v.|焊接；使紧密结合
+saw|n.|锯
+screw|n.|螺丝钉；螺旋架
+drill|n./v.|钻机；反复练习/钻孔；训练
+plumb|n./v.|（表示垂直度的）铅锤/用铅锤线校正
+---
+viaduct|n.|高架桥
+span|n.|跨距；跨度；持续时间||span of life 寿命
+dam|n./v.|水坝/控制、抑制
+---
+assemble|v.|组装；装配
+install|v.|安装
+furnish|v.|为...配备家具陈设|The house is well furnished
+---
+placement|n.|放置、布置
+layout|n.|设计；布局
+design|v./n.|设计；计划/设计
+---
+entrance|n.|入口；进入权
+entry|n.|进入；进入权
+enter|v.|进入
+exit|n./v.|出口；退场；离去/离去
+---
+outside|adj./n.|外部的/外表
+outward|adj./adv.|向外的/向外
+exterior|n./adj.|外部；外观/外部的
+external|adj.|外来的；外面的；对外的
+---
+inner|adj.|内部的；内心的
+interior|n./adj.|内部/内部的||interior design 室内设计
+inward|adj./adv.|向内的；内心的/向内
+internal|adj.|内部的；自身的；国内的
