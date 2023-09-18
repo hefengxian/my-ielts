@@ -3756,3 +3756,345 @@ toil|n./v.|苦工，苦活，网，圈套/辛勤劳作，苦干
 beggar|n.|乞丐||beg v. 恳求；乞讨
 slave|n.|奴隶
 coward|n.|懦夫，胆小鬼
+===
+行为动作
++++
+act|v./n.|行动/行为
+behave|v.|表现；运转
+deed|n.|行为；功绩；契约
+accustom|v.|使习惯于
+---
+react|v.|作出反应，反应
+respond|v.|回答；响应，作出反应
+reflect|v.|反应；反射
+---
+bear|v.|生（孩子）；容忍；承担（责任）|They must bear most of the blame|bear responsibility for 对...负有责任
+adopt|v.|收养；采取；采纳
+nourish|v.|滋养；给...提供营养
+mow|v./n.|割，修剪/干草堆||mow the lawn
+support|v./n.|支撑；支持；供养/支持；帮助
+---
+exhale|v.|呼气；呼出
+intake|n.|吸入；摄取量；新招收者
+revive|v.|（使）苏醒；（使）复兴；（使）复活
+survive|v.|幸存；生存
+---
+glare|v./n.|怒目而视；发出强光/刺眼的光；怒视
+glimpse|v./n.|瞥见/一瞥
+glance|v./n.|瞥，迅速看一眼/一瞥
+peep|v./n.|窥视，偷看/偷偷一瞥
+gaze|v.|凝视，注视
+---
+peer|v./n.|凝视；盯着看/同等地位的人，同辈
+stare|v.|凝视，盯着看||stare at 凝视，盯着看
+contemplate|v.|凝视；沉思；考虑
+---
+vow|n./v.|誓约/发誓
+oath|n.|誓言；宣誓
+pledge|v./n.|保证/保证；誓言
+whistle|n./v.|口哨；哨子；汽笛声/吹口哨；吹哨子
+---
+reply|v./n.|回答，答复
+notify|v.|通知，告知
+assert|v.|断言，坚称；坚持（自己的）主张
+---
+explain|v.|说明；解释
+quarrel|v./n.|吵架，争论
+dispute|v./n.|争论，辩论
+argument|n.|辩论，争论；论点，论据
+---
+mention|v./n.|提及；说起
+hurry|v./n.|赶紧；催促/匆忙
+hasten|v.|赶紧；促进
+urge|v.|催促，敦促/冲动
+---
+scold|v.|责骂，斥责
+curse|v./n.|诅咒；咒骂/咒语
+swear|v.|诅咒；咒骂；发誓；保证
+provoke|v.|激怒，挑拨；引起||thought-provoking adj. 引起思考的，发人深省的
+---
+preach|v.|宣扬||preach at/to sb. 对某人说教
+boast|v./n.|自夸，吹嘘
+tease|v.|取笑；嘲弄
+mock|v./adj.|嘲笑；嘲弄/模拟的；假装的
+---
+touch|v./n.|触摸；触动/触觉，接触
+hug|v./n.|拥抱
+tap|v.|轻拍，轻扣，开发
+clap|v./n.|拍手；轻拍/鼓掌||clap hands 拍手
+applaud|v.|鼓掌；称赞；赞许
+---
+kneel|v.|跪下，跪
+catch|v.|捉住；赶上；领会
+snatch|v.|一把抓住；迅速夺取
+grab|v.|抓住，攫取；（匆忙的）取
+grasp|v.|抓牢 ，握紧；完全理解，全面领会
+---
+overtake|v.|追上，超过；（情感）压倒
+follow|v.|跟随；是...的必然结果；遵循
+grip|v./n.|紧握，抓牢/紧握，抓牢；理解，了解||in the grip of 受制于；受...严重影响
+twist|v./n.|拧，扭；使缠绕/拧，扭动
+scatter|v.|撒；（使）散开
+---
+fold|v.|折叠，对折
+fasten|v.|扣牢，系紧
+loosen|v.|解开，松开，放宽
+---
+smash|v.|打碎；（使）猛烈撞击；（打球时）扣球
+scratch|v./n.|擦破，刮坏；搔/乱涂；划痕，擦伤
+wipe|v.|揩，擦
+scrape|v./n.|刮掉；擦坏；勉强获得/刮；擦伤
+polish|v.|擦光，擦亮；使完美，改进
+---
+peel|v.|剥落；掉漆；脱皮
+split|v.|（使）开裂、分开
+sway|v.|（使）摇摆、摆动、摇晃
+shake|v./n.|摇动；（使）颤动/摇动；颤动
+vibrate|v.|（使）震动、摇摆
+---
+whirl|v./n.|（使）回旋/回旋
+rotate|v.|（使）旋转、转动
+reel|v.|眩晕；混乱
+shuffle|v.|洗（牌）；拖着脚走；搅乱...的次序/洗牌||resuffle n. 改组，公司重组
+---
+collide|v.|碰撞；抵触
+contact|n./v.|接触，联系
+connect|v.|（使）连接；（使）接通（电源等）
+---
+combine|v.|（使）联合、结合
+bond|v./n.|与...黏合（或连接）/黏合；（情感的）纽带
+integrate|v.|（使）成为一体、合并
+---
+wrap|v.|包；裹；用...缠绕
+penetrate|v.|刺入；穿透；渗透；洞察
+pierce|v.|刺穿，刺破，穿透；使心如刀割
+insert|v./n.|插入；嵌入/插入物
+---
+tilt|v.|（使）倾斜、歪斜
+tow|v./n.|拖、拉；牵引/牵引
+trail|v./n.|（使）拖在后面/踪迹
+---
+arrange|v.|安排，整理，使有条理
+manipulate|v.|（熟练的）操作；操纵
+steer|v.|掌舵；驾驶；操纵
+---
+baptize|v.|=baptise 给...施行洗礼||baptism n. 洗礼；浸礼
+bet|v./n.|下注；打赌；敢说/打赌；赌注
+stake|n./v.|赌注；桩/以...打赌
+gamble|v./n.|赌博；冒险
+promise|n./v.|诺言/承诺
+---
+attract|v.|吸引；引起
+obsess|v.|（是）痴迷、心神不宁||be obsessed by/with 被...迷住，对...着迷
+mesmerize|v.|=mesmerise 吸引；迷住
+nightmare|n.|噩梦，梦魇
+---
+amaze|v.|使惊奇，使惊愕
+marvel|v./n.|感到惊讶，大为赞叹/奇迹
+astonish|v.|使惊讶
+---
+involve|v.|参加；牵涉
+annoy|v.|使恼怒；打扰
+upset|v.|使心烦意乱；使生气；搅乱；打翻
+bewilder|v.|使迷惑，使不知所措
+---
+irony|n.|反话；有讽刺意味的情形
+indignity|n.|侮辱；轻蔑
+contempt|n.|轻视，藐视
+neglect|v./n.|忽视；忽略
+disregard|v./n.|不顾，漠视/忽视，漠视
+---
+ignorance|n.|无知，愚昧
+bias|v./n.|使有偏见；使偏心/偏见；偏心
+deviate|v.|偏离；背离
+expel|V.|驱逐；开除；排出
+flee|v.|逃避，逃离
+---
+bully|v./n.|恐吓，欺凌/恃强凌弱者
+panic|n./v.|惊慌，惊恐/（使）惊恐、惊慌
+terrify|v.|使恐惧，使非常害怕
+revenge|n./v.|报仇，复仇/为...报仇
+---
+kidnap|v.|绑架；劫持
+hijack|v.|劫持（飞机或其他交通工具）
+smuggle|v.|走私，投运
+convict|v./n.|定罪；宣判...有罪/已决犯
+---
+strangle|v.|扼杀，压制，勒死，扼死
+massacre|n./v.|残杀。屠杀
+decimation|n.|大批杀死，大量毁灭；大大削弱
+intervene|v.|插话；干扰；干涉
+impede|v.|妨碍，阻止
+---
+allure|v.|吸引，引诱
+beit|v./n.|使上当发火/诱饵，诱惑物
+induce|v.|引诱，劝说
+tempt|v.|引诱，诱惑，怂恿
+---
+designate|v.|指明；选派；指派||appoint v. 指派
+assign|v.|布置；分配；指定；确定
+distribute|v.|分发，分配
+despatch|v.|=dispatch 派遣；调派；迅速处理
+detach|v.|（使）分开，（使）分离；派遣
+---
+undo|v.|解开，打开，取笑
+disguise|v./n.|掩饰；假扮；伪装/假扮；伪装物
+conceal|v.|掩盖
+---
+refuse|v.|拒绝；回绝
+exclude|v.|把...排除在外；拒绝
+reverse|v./n./adj.|颠倒；彻底改变；撤销/相反的情况；反面/相反的
+---
+assure|v.|向...保证；保证；保险
+undertake|v.|承担；许诺；保证
+stipulate|v.|规定；明确要求；保证
+convince|v.|使确信，使信服，说服
+reassure|v.|使安心；使放心
+---
+wish|v./n.|想要（某事发生）/希望
+aspire|v.|有志于；渴望||aspire to do sth. 渴望做某事
+desire|n./v.|愿望；欲望/渴望，期望
+yearn|v.|渴望；向往||yearn for 渴望
+invoke|v.|唤起（情感等）；向...祈求帮助；恳求||invoke sb.'s help 恳求某人帮忙
+---
+itch|v./n.|发痒；渴望/痒；渴望
+attempt|v./n.|尝试；试图/尝试；企图
+strive|v.|努力；奋斗||strive after/for 为...奋斗
+effort|n.|努力；努力的成果
+fulfil|v.|=fulfill 履行；实现；完成；满足
+---
+range|v.|（在一定幅度内的）变动||ranger n. 护林员；公园看管人
+sort|n./v.|种类，类别/把...分类
+loom|v./n.|（庞然大物或形状模糊之物）隐现；逼近/织布机
+launch|v.|发射；发布；推出；发起
+commence|v.|开始；着手
+---
+exploit|v.|开发；开采；开拓
+explore|V.|勘察；考察；探讨
+exert|v.|运用，行驶；施加||exert an infuluence on 对...施加影响
+---
+tackle|v./n.|处理；应对；处理/用具；器材
+cope|v.|处理；应付
+dispose|v.|布置；安排||disposal n. 处理；清除。dispose of sth. 清除某物；处理某事；解决某事
+conduct|v./n.|进行；实施/举止；行为
+---
+omit|v.|遗漏 ；省略；删去
+delete|v.|删除；删掉
+cancel|v.|取消；废除
+clear|adj./v.|清晰的；明显的/清除
+erase|v.|清除；抹去
+---
+rescue|v./n.|营救；救援
+resort|v./n.|求助于；采取；诉诸/（度假）胜地
+recover|v.|重新拿回；恢复健康；复原
+restore|v.|恢复；归还；修复
+rectify|v.|纠正；矫正；改正||correct v. 改正
+---
+redeem|v.|赎回；挽回；补偿；兑现
+offset|v./n.|补偿；抵消||offset sth. by (doing) sth. 以某物/做某事来补偿（或抵消）某事物
+replenish|v.|重新装满；补充
+---
+obtain|v.|获得；得到||obtain employment 实现就业；找到工作
+gain|v./n.|获得；增加/增加；改进
+supply|v./n.|供给；供应；提供/供应量；[supplies]补给品
+offer|n./v.|给予（物）；提议/提供；出（价）
+render|v.|给予，提供；翻译
+---
+enlarge|v.|扩大，扩展；放大
+augment|v.|扩大；增加；加强；提高
+magnify|v.|放大；夸大
+---
+amplify|v.|增强；扩大（声音）；充实（陈述）
+exaggerate|v.|夸张；夸大
+prolong|v.|延长
+---
+uphold|v.|支持；维护；维持
+backup|n./adj.|后援；支持（文件等的）备份/备用的
+propel|v.|推动；驱使；推进||propeller n. 螺旋桨
+update|v.|更新；使现代化
+raise|v.|举起；引起；抚养；提高；筹募|Please raise your hand if you've been told you're too aggressive at work|raise a price 涨价。raise capital 筹集资本。raise sb's awareness of 提高某人在...方面的意识
+---
+leak|v./n.|泄露/漏洞，裂缝
+spill|v.|（使）溢出||spill over 溢出；蔓延；波及
+seep|v.|渗出；渗透
+ooze|v.|渗出；洋溢着
+---
+evacuate|v.|疏散；撤离
+trench|v./n.|掘沟于；砍除/沟，渠，壕沟
+saturate|v.|使饱和；使充满；浸透
+---
+excuse|v./n.|原谅；同意免除/理由；借口
+forgive|v.|原谅，宽恕，饶恕
+contain|v.|包含，容纳；抑制（感情）
+---
+regard|n./v.|尊重；问候/看待
+flatter|v.|奉承，讨好，向...谄媚
+worship|n./v.|崇拜，礼拜，爱慕/做礼拜
+---
+cause|n./v.|原因，理由，事业/引起；导致
+sake|n.|理由，目的||for the sake of 为了...起见，因为...的缘故
+purpose|n.|目的
+objective|n./adj.|宗旨；目标/客观的
+---
+arouse|v.|唤起；激起；引起
+trigger|v./n.|引发；触发/扳机
+seek|v.|寻找；寻求
+retrieve|v.|取回；挽回
+---
+testify|v.|作证；证明
+verify|v.|证实；核实；查清
+specify|v.|具体指定；详细说明
+---
+enlighten|v.|启发；开导；启迪
+impart|v.|传授；透露
+deserve|v.|应得；应受
+---
+drop|v./n.|（使）落下；（使）降低；断绝关系/滴
+sink|v.|（使）下沉；下降
+plummet|v.|垂直掉下；（价格、水平等）骤然下跌
+muffle|v.|使（声音）减弱
+overshadow|v.|隐蔽；使黯然失色
+---
+invite|v.|邀请
+welcome|int./n./v.|欢迎
+greet|v.|向...问好；迎接；对...做出反应
+salute|v./n.|（向...）行礼；致敬/行礼；致敬
+---
+celebrate|v.|庆祝（节日、事件等）
+congratulate|v.|祝贺；向...道贺
+bless|v.|祝福；为...祈求上帝保佑
+participate|v.|参加；参与
+farewell|int./n.|再会/告别
+---
+assort|v.|把...分类；相配，协调
+correspond|v.|符合；相一致；通信
+accord|v./n.|与...一致；给予/协议
+attribute|v./n.|把...归因于/属性，特性
+---
+recall|v.|回忆，回想起
+recollect|v.|记忆，想起
+remind|v.|提醒；使想起
+---
+retell|v.|重新讲述；复述
+repeat|v./adj.|重复/再次光顾的
+retrospect|n.|[in ~]回顾
+impress|v.|给...深刻的印象；使铭记
+---
+surmount|v.|克服；置于...的顶端
+mortify|v.|使难堪；使羞愧
+pervade|v.|弥漫；渗透；遍及
+---
+replace|v.|代替；取代
+substitute|v./n.|替换/替代品，替补
+distinguish|v.|区别，辨别；使出众；使著名|Some people cannot distinguished between some colors|distinguished adj. 著名的；卓越的。distinction n. 差别；区分。distinct adj. 明显的；截然不同的
+differentiate|v.|区分；区别；差别对待
+---
+incline|v./n.|（使）倾向于、倾斜/斜坡；倾斜|What he said inclines me to think that he will agree to our plan
+lean|v./adj.|（使）倚靠；倾斜/瘦的；贫乏的
+sideways|adv.|向（或从、往）一侧
+===
+身心健康
++++
+feel|v.|感觉到，感知；触碰|Can you feel the tension in this room?|feeling n. 感情；感觉
+mood|n.|心情，情绪；气氛
+emotion|n.|情绪，情感，感情
