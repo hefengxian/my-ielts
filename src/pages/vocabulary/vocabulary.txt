@@ -2214,7 +2214,7 @@ cater|v.|为...提供饮食；满足...的需要
 provision|n.|供应、预备||provisions 食品供应
 edible|adj.|可以吃的
 recipe|n.|食谱；秘诀
----       
+---
 restaurant|n.|餐馆
 refectory|n.|（学校或其他机构）食堂、餐厅
 bar|n.|酒吧、吧台
@@ -2338,7 +2338,7 @@ sausage|n.|香肠
 ---
 fish|n./v.|鱼/钓鱼
 pond|n.|池塘
-rod|n.|杆、竿||a fishing rod 
+rod|n.|杆、竿||a fishing rod
 ---
 dairy|n./adj.|乳制品、乳品店/乳制的||diary n. 日记（注意拼写）。dairy products 乳制品
 milk|n./v.|奶/挤奶
@@ -2352,7 +2352,7 @@ sandwich|v./n.|把...夹入/三明治
 hamburger|n.|汉堡包
 ---
 loaf|n./v.|一条（面包）/游荡、闲逛
-pie|n.|馅饼、派 
+pie|n.|馅饼、派
 pizza|n.|披萨饼
 ---
 pasta|n.|意大利面食
@@ -4098,3 +4098,124 @@ sideways|adv.|向（或从、往）一侧
 feel|v.|感觉到，感知；触碰|Can you feel the tension in this room?|feeling n. 感情；感觉
 mood|n.|心情，情绪；气氛
 emotion|n.|情绪，情感，感情
+---
+temper|n./v.|坏脾气；情绪；心情/是缓和
+manner|n.|举止；礼貌；风俗；方式
+attitude|n.|态度；看法
+---
+character|n.|性格；特征；人物；角色
+personality|n.|个性；人格
+trait|n.|特点；特性
+---
+virtue|n.|美德；德行；优点
+feature|n./v.|特征；面容的一部分/以...为特色
+stature|n.|身高；身材；（精神、道德等的）高度
+---
+flesh|n.|肉；人类
+mankind|n.|人类；男人
+human|adj./n.|人类的；有人性的/人类
+---
+bone|n.|骨；骨骼
+backbone|n.|脊柱；骨干；中坚；骨气
+skeleton|n.|骨骼；骨架；框架；梗概
+---
+skull|n.|头脑；头骨
+brain|n.|脑；[~s]智力；智慧
+mind|n.|头脑；思维；思考能力；意见；记忆力
+physical|adj.|身体的；物质的；物理的
+mental|adj.|精神的；思想上的；智力的
+---
+cheek|n.|面颊
+forehead|n.|额
+brow|n.|额；眉毛
+eyelash|n.|眼睫毛
+---
+lip|n.|嘴唇；（洞口、伤口等的）边缘||lipstick n. 口红；唇膏
+mouth|n.|口；嘴；河口
+tongue|n.|舌头；语言
+throat|n.|喉咙；窄路；嗓子；嗓音
+gorge|n./v.|咽喉；暴食；山峡；峡谷/狼吞虎咽
+chin|n.|下巴
+---
+jaw|n.|颌；下巴；狭窄入口；唠叨
+neck|n.|脖子；已领；海峡
+beard|n.|胡须
+---
+shoulder|n.|肩膀
+limb|n.|肢；树枝
+elbow|n./v.|肘部；弯头；扶手/用肘挤
+wrist|n.|腕；腕关节
+---
+thumb|n.|拇指
+palm|n./v.|棕榈树；手掌/把...藏在手中
+finger|n.|手指
+fist|n.|拳头
+---
+chest|n.|胸；胸部
+abdomen|n.|腹；腹部
+rib|n.|肋骨；排骨
+waist|n.|腰；腰部
+---
+organ|n.|器官；手风琴；机构
+liver|n.|肝脏
+stomach|n.|胃口；胃；腹部
+womb|n.|自宫；发源地
+kidney|n.|肾脏
+---
+lung|n.|肺
+gland|n.|腺
+chamber|n.|室；腔；议院
+intestine|n.|肠
+---
+thigh|n.|大腿；股
+joint|n./adj.|结合处；关节/共同的；联合的
+knee|n.|膝盖
+lap|n.|大腿部；下摆；环节；一圈
+---
+ankle|n.|踝关节
+heel|n.|足跟||high-heel n. 高跟鞋
+toe|n.|脚趾；足尖
+---
+muscle|n.|肌肉
+pore|n./v.|毛孔；小孔；气孔/凝视；沉思
+pulse|n.|脉搏；脉冲
+artery|n.|动脉；干线
+---
+nerve|n.|神经；紧张；焦虑
+hormone|n.|荷尔蒙；激素
+immune|adj.|免疫的；不受影响的；免除的
+stimulus|n.|刺激物；促进因素||复数形式：stimuli
+---
+biorhythm|n.|生物节律||rhythm n. 韵律；节律。biorhythm upset 生物节律失调
+lifestyle|n.|生活方式
+habit|n.|习惯
+---
+sense|n.|感官；感觉
+sight|n.|视力；看见；景物
+eyesight|n.|视力
+view|n.|视野；见解；风景；察看
+---
+visual|adj.|视力的；视觉的
+visible|adj.|看得见的，可见的
+vague|adj.|含糊的；不清楚的；模糊的
+blind|adj.|盲目的；瞎的；未察觉的
+---
+dumb|adj.|哑的；不肯开口的||dumb-bell 哑铃
+aural|adj.|耳的；听觉的；气味的；先兆的
+dental|adj.|牙的；牙科的
+---
+awake|adj.|醒着的；警觉的；
+yawn|v./n.|打哈欠；裂开/呵欠
+nap|n.|小睡；绒毛
+doze|v.|小睡；打盹儿||dose n. (药物的)一剂
+quiet|adj.|安静的；寂静的；平静的
+asleep|adj.|睡着的；不活跃的；麻木的
+---
+cripple|n./v.|跛子；残疾人/使跛
+lame|adj.|跛的；瘸的；（解释或接口）无说服力的
+dwarf|n./adj.|（童话中的）小矮人；侏儒/矮小的
+---
+pregnancy|n.|怀孕；妊娠
+born|adj./v.|天生的；与生俱来的/[be ~]出生||be born of 出生于...家庭
+condom|n.|避孕套
+clone|v./n.|克隆/克隆的动植物
