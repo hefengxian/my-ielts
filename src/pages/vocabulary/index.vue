@@ -4,7 +4,8 @@ import { computed } from 'vue'
 import vocabulary from './vocabulary'
 
 const keyword = ref('')
-const category = ref('自然地理')
+const chapters = Object.keys(vocabulary)
+const category = ref(chapters[chapters.length - 1])
 const loaded = ref(false)
 const refVocabulary = reactive(vocabulary)
 const wordList = computed(() => {
