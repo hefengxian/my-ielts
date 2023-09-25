@@ -127,21 +127,21 @@ stony|adj.|石头的；多石的
 ---
 vertical|adj.|垂直的；直立的
 steep|adj.|陡峭的
-parallel|n./adj./v.|parallel|平行线；相似之处；平行的；与...相比；比得上
+parallel|n./adj./v.|平行线；相似之处/平行的/与...相似；比得上|There few parallels between American football and European football|unparalleled adj. 无比的；无双的
 narrow|adj./n.|狭窄的；有极限的
 ---
 Oceania|n.|大洋洲
-mainland|n.|
+mainland|n.|大陆，本土
 peninsula|n.|半岛
 ---
-climate|n.
-weather|n.
-meteorology|n.
+climate|n.|气候；风气，思潮，环境
+weather|n.|天气，气象
+meteorology|n.|气象学
 ---
 mild|adj.|温和的；不严重的
 heating|n.|供暖；暖气装置
-moderate|adj./v.|适度的；温和的；中等的；使缓和|The wind was strong all day, but it moderated in the evening|a moderate climate 温和的气候
-warm|adj./v.
+moderate|adj./v.|适度的；温和的；中等的/使缓和|The wind was strong all day, but it moderated in the evening|a moderate climate 温和的气候
+warm|adj./v.|温暖的/（使）变暖
 ---
 thermal|adj.|热量的
 tropics|n.|热带地区
@@ -151,28 +151,28 @@ moist|adj.|潮湿的；湿润的
 damp|adj.|湿气重的；潮湿的
 humid|adj.|潮湿的；湿热的
 ---
-snowy|adj.
+snowy|adj.|下雪多的；被雪覆盖的
 frost|n.|霜；霜冻；严寒
 hail|n./v.|冰雹；赞扬；招呼；下冰雹
-thaw|v./n.|解冻；融解；融化；解冻时期|The sun thawed the ice and melted the snow|thaw sth./out 使...解冻；shi...变暖
+thaw|v./n.|解冻；融解；融化/解冻时期|The sun thawed the ice and melted the snow|thaw sth./out 使...解冻；shi...变暖
 ---
-chill|v./n.|使变冷；使恐惧；寒冷；害怕|The bad news cast a chill over the whole family|chilly adj./寒冷的；chill enthusiasm 使热情冷却
+chill|v./n.|使变冷；使恐惧/寒冷；害怕|The bad news cast a chill over the whole family|chilly adj./寒冷的；chill enthusiasm 使热情冷却
 freeze|v./n.|结冰；霜冻；严寒期
 frigid|adj.|寒冷的|Hohhot is a frigid city in the winter|the frigid zones 寒带
 tremble|v./n.|战栗；颤抖
 shiver|v.|颤抖；哆嗦；发抖|She was shivered because she was worried and afraid|shiver with cold 冻的发抖
 ---
-thunder|n./v.
-lightning|n./v.
-stormy|adj.
+thunder|n./v.|雷；雷声/打雷；轰隆隆的快速移动|An express train thundered through the station|thunderstorm n. 雷雨
+lightning|n./v.|闪电/闪电般的，极快的|During the storm, flashes of lightning appeared in the sky|lighten v. 使变轻；（使）发亮。lighter n. 打火机。lightly adv. 轻轻地；轻松地
+stormy|adj.|有暴风雨的；争吵激烈的；（大海）波涛汹涌的
 ---
 downpour|n.|倾盆大雨
 rainfall|n.|降雨量
-sprinkle|v./n.|撒；下小雨；少量；小雨|We've only had a sprinkles of rain recently
-rainbow|n.
+sprinkle|v./n.|撒；下小雨/少量；小雨|We've only had a few sprinkles of rain recently|sprinkle sth. on sth. 把某物撒到某物上
+rainbow|n.|彩虹
 shower|n.|阵；阵雨；淋浴|The weatherman predicts showers this afternoon
 ---
-Celsius|adj./n.|摄氏的；摄氏温度
+Celsius|adj./n.|摄氏的/摄氏温度
 temperature|n.
 forecast|n./v.
 ---
@@ -1137,7 +1137,7 @@ basic|adj.|基本的；基础的
 fundamental|adj.|基础的；基本的；根本的
 ---
 elementary|adj.|基本的；初级的
-profound|adj.|深远的；见解深刻的
+profound|adj.|（影响）深刻的，深远的；见解深刻的|His brother's words have had a profound effect on him
 superficial|adj.|表面的；外表的；肤浅的
 surface|n.|表面；地面；水面
 ---
@@ -1287,7 +1287,7 @@ overestimate|v.|高估
 apply|v.|申请
 fellowship|n.|研究生奖学金
 scholarship|n.|奖学金；学问；学识
-reward|n./v.|报答；赏金；报答||reward sb. for sth. 为某事报答某人。 as a reward for 作为对（某事）的报酬
+reward|n./v.|报答；赏金；报答||reward sb. for sth. 为某事报答某人。 as a reward for 作为对（某事）的报酬
 ---
 award|n.|奖；奖品
 prize|n./v.|奖赏；珍视
@@ -2327,7 +2327,7 @@ flour|n.|面粉
 porridge|n.|麦片粥
 paste|n.|糨糊、面团
 ---
-livestock|n.|家畜
+livestock|n.|家畜|He is good at breading livestock|livestock sector 畜牧业
 chicken|n.|鸡
 turkey|n.|火鸡
 ---
@@ -3396,7 +3396,7 @@ pitfall|n.|陷阱；危险；困难
 conspiracy|n.|阴谋；密谋；合谋
 ---
 destitute|adj.|赤贫的；一无所有的，缺乏
-famine|n.|饥荒
+famine|n.|饥荒|Many people died of famine that year
 starve|v.|使挨饿；饿死
 ---
 deprive|v.|剥夺
@@ -3533,7 +3533,7 @@ progress|n./v.|前进；进步；进程/前进；进步
 military|adj.|军事的，军用的
 nuclear|adj.|原子核的；核能的；核武器的
 poison|n./v.|毒物，毒药/毒害
-devastate|v.|毁坏，摧毁
+devastate|v.|毁坏，摧毁|They intended to devastate the town at a stroke|devastation n. （尤指大面积）破坏。devastating adj. 毁灭性的
 ---
 risk|n./v.|危险，风险/冒着...的危险
 adventure|n./v.|冒险，冒险尽量/去（某地）探险
@@ -4251,7 +4251,7 @@ arthritis|n.|关节炎
 pimple|n.|粉刺；丘疹
 ---
 stroke|n.|中风；打击；一笔（画）
-plague|n.|瘟疫
+plague|n.|瘟疫|Plague came in the wake of earthquake
 flu|n.|=influenze 流行性感冒
 fever|n./v.|狂热；发烧；发热/（使）发烧；（使）狂热
 ---
@@ -4466,7 +4466,7 @@ steadfast|adj.|坚定的
 ---
 tender|adj./v.|脆弱的；温柔的；软弱的；疼痛的/（正式）提出；投标
 temperate|adj.|（气候）温和的；温带的；有节制的；心平气和的
-delicate|adj.|精致的；微妙的；脆弱的
+delicate|adj.|精致的；微妙的；脆弱的|Delicate plants must be protected from cold wind and frost
 mundane|adj.|平凡的；世俗的；世界的
 ---
 naive|adj.|天真的；幼稚的
@@ -4634,7 +4634,7 @@ anniversary|n.|周年纪念日
 ---
 era|n.|时代；年代；纪元
 present|adj./n.|现在的/目前；礼物；赠送物
-contemporary|adj.|当代的；同时代的
+contemporary|adj.|当代的；同时代的|These clothes are more contemporary and wearable
 ---
 medieval|adj.|中世纪的；守旧的
 century|n.|世纪；百年
@@ -4668,7 +4668,7 @@ prior|adj.|在先的；在前的
 former|adj./pron.|以前的；前者的/前者
 preceding|adj.|在前的；在先的
 ---
-precedent|n.|先例；常规
+precedent|n.|先例；常规|They were determined to break with precedent|unprecedented adj. 史无前例的；绝无仅有的
 foremost|adj.|最前的；最重要的
 opening|adj./n.|开始的/开始；开端
 initially|adv.|最初

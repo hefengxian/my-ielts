@@ -5,7 +5,7 @@ import vocabulary from './vocabulary'
 
 const keyword = ref('')
 const chapters = Object.keys(vocabulary)
-const category = ref(chapters[chapters.length - 1])
+const category = ref(chapters[0])
 const loaded = ref(false)
 const refVocabulary = reactive(vocabulary)
 const wordList = computed(() => {
