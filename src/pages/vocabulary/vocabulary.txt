@@ -4625,7 +4625,7 @@ stereotype|n.|老一套；模式化观念；刻板印象
 时间日期
 +++
 daily|adj./n.|每日的/日报
-mouthly|adj./adv./n.|每月的/每月一次/月刊
+monthly|adj./adv./n.|每月的/每月一次/月刊
 quarterly|adj./adv./n.|季度的/按季度地/季刊
 ---
 annual|adj./n.|每年的；一年的/年报
@@ -4648,7 +4648,7 @@ dawn|n./v.|黎明；开端/破晓
 midday|n.|正午；中午
 midnight|n.|午夜；子夜；半夜
 overnight|adv.|在晚上；突然；一夜之间
-night|n.|夜；夜间；晚上；夜场
+night|n.|夜；夜间；晚上；夜场 
 ---
 modern|adj.|现代的；近代的
 recent|adj.|最近的
@@ -4681,12 +4681,12 @@ meanwhile|adv.|同时；其间
 simultaneous|adj.|同时发生（或进行）的
 ongoing|adj.|进行中的；继续存在的
 ---
-everlasting|adj.|永恒的
+everlasting|adj.|永恒的|The man told the women that he loved her with an everlasting love
 permanent|adj.|永久的
 punctual|adj.|准时的；守时的
 duration|n.|持续时间；期间
 consecutive|adj.|连续不断的
 ---
-periodically|adv.|周期性地；定期地
-imminent|adj.|（尤指不愉快的事）即将发生的；逼近的
-incidentally|adv.|偶然地；顺便提一句
+periodically|adv.|周期性地；定期地|Sea mammals must emerge periodically to breath
+imminent|adj.|（尤指不愉快的事）即将发生的；逼近的|They are unaware of the imminent danger.
+incidentally|adv.|偶然地；顺便提一句|Incidentally, here's good news for you
