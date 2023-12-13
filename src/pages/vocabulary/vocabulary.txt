@@ -763,7 +763,7 @@ dimension|n.|维度
 frequency|n.|频率；发生次数
 signal|n.|信号
 antenna|n.|天线
-circuit|n.|线路；电路；巡回|For many years, He was the banana on the cicruit
+circuit|n.|线路；电路；巡回|For many years, He was top banana on the circuit 许多年来，他都是巡回剧团里的主角——top banana主要人物
 ---
 refraction|n.|折射
 ultraviolet|n./adj.|紫外辐射。紫外线的
@@ -4648,7 +4648,7 @@ dawn|n./v.|黎明；开端/破晓
 midday|n.|正午；中午
 midnight|n.|午夜；子夜；半夜
 overnight|adv.|在晚上；突然；一夜之间
-night|n.|夜；夜间；晚上；夜场 
+night|n.|夜；夜间；晚上；夜场
 ---
 modern|adj.|现代的；近代的
 recent|adj.|最近的
