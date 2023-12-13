@@ -420,7 +420,7 @@ tulip|n.|郁金香
 mint|n./v.|薄荷；铸币厂；铸造（硬币）
 ---
 reef|n.|暗礁
-alga|n.|海藻|Some of the algea are edible|algal adj. 海藻的。algea 复数形式
+algae|n.|海藻|Some of the algae are edible|algal adj. 海藻的。
 enzyme|n.|酶
 catalyst|n.|催化剂；促进因素|A catalyst is a substance which speeds up a chemical reaction|a catalyst for changing
 ---
