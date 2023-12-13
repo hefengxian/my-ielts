@@ -6,7 +6,7 @@ lithosphere|n.|岩石圈|The lithosphere and the hydrosphere together form the e
 ---
 oxygen|n.|氧气
 oxide|n.|氧化物
-carbon dioxied|n.|二氧化碳
+carbon dioxide|n.|二氧化碳
 hydrogen|n.|氢气
 ---
 core|n.|中心；核心；地核
@@ -313,7 +313,7 @@ photosynthesis|n.|光合作用
 respire|v.|呼吸
 dioxide|n.|二氧化物
 ---
-vagetation|n.|植物；草木|There is not much vagetation in deserts|vegetable n. 蔬菜 vegatarian n. 素食者
+vegetation|n.|植物；草木|There is not much vegetation in deserts|vegetable n. 蔬菜 vegetarian n. 素食者
 herb|n.|药草；香草
 perennial|n./adj.|多年生植物；长期的；持久的|These perennials should be planted where they can naturalise
 ---
