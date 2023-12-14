@@ -3101,7 +3101,7 @@ coin|n./v.|硬币/铸币；创造（新词语）
 shilling|n.|先令
 copper|n.|铜；[~s]铜币；警察||cop n. 警察
 ---
-treasure|金银财宝；宝物；珍品
+treasure|n.|金银财宝；宝物；珍品
 wealth|n.|财富；丰富
 estate|n.|地产；遗产
 ---
