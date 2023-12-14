@@ -6,7 +6,7 @@ lithosphere|n.|岩石圈|The lithosphere and the hydrosphere together form the e
 ---
 oxygen|n.|氧气
 oxide|n.|氧化物
-carbon dioxied|n.|二氧化碳
+carbon dioxide|n.|二氧化碳
 hydrogen|n.|氢气
 ---
 core|n.|中心；核心；地核
@@ -154,7 +154,7 @@ humid|adj.|潮湿的；湿热的
 snowy|adj.|下雪多的；被雪覆盖的
 frost|n.|霜；霜冻；严寒
 hail|n./v.|冰雹；赞扬；招呼；下冰雹
-thaw|v./n.|解冻；融解；融化/解冻时期|The sun thawed the ice and melted the snow|thaw sth./out 使...解冻；shi...变暖
+thaw|v./n.|解冻；融解；融化/解冻时期|The sun thawed the ice and melted the snow|thaw sth./out 使...解冻；使...变暖
 ---
 chill|v./n.|使变冷；使恐惧/寒冷；害怕|The bad news cast a chill over the whole family|chilly adj./寒冷的；chill enthusiasm 使热情冷却
 freeze|v./n.|结冰；霜冻；严寒期
@@ -196,7 +196,7 @@ northwest|n./adj.
 eastern|adj.
 oriental|adj.|东方的（尤其指中日）|She has studied the cultures of oriental countries
 ---
-inevitable|adj.|必然的；不可避免的|Such a diffcult operation may not succeed, but it's an inevitable gamble|evitable adj. 可避免的
+inevitable|adj.|必然的；不可避免的|Such a difficult operation may not succeed, but it's an inevitable gamble|evitable adj. 可避免的
 irreversible|adj.|不可逆转的；不可挽回的
 irregularly|adv.|不规则地；不合常规地
 inappropriate|adj.|不合适的
@@ -246,7 +246,7 @@ deforest|v.|毁掉...深林||deforestation n. 毁林，滥伐深林
 ---
 barren|adj.|贫瘠的；荒芜的；不结果实的
 fertile|adj.|富饶的；肥沃的
-fertilise|v.|=fertileze 施肥于
+fertilise|v.|=fertilize 施肥于
 ---
 solar|adj.|太阳的；日光的
 lunar|adj.|月亮的；月球的
@@ -313,9 +313,9 @@ photosynthesis|n.|光合作用
 respire|v.|呼吸
 dioxide|n.|二氧化物
 ---
-vagetation|n.|植物；草木|There is not much vagetation in deserts|vegetable n. 蔬菜 vegatarian n. 素食者
+vegetation|n.|植物；草木|There is not much vegetation in deserts|vegetable n. 蔬菜 vegetarian n. 素食者
 herb|n.|药草；香草
-perennial|n./adj.|多年生植物；长期的；持久的|These perennials should be planted where they can naturalise
+perennial|n./adj.|多年生植物；长期的；持久的|These perennials should be planted where they can naturalize
 ---
 botany|n.|植物学
 ecology|n.|生态学；生态
@@ -329,8 +329,8 @@ genetics|n.|遗传学|In genetics, genes were formerly called factors|gene n. �
 mutation|n.|突变；变异
 variation|n.|变种；变异||vary v. 变化
 diversity|n.|多样性
-hybridisation|n.|=bybridization 杂交||hybridcar
-classify|v.|分类|Labrarians spend a lot of time classifying books|classified adj. 机密的；秘密的
+hybridisation|n.|=hybridization 杂交||hybrid car
+classify|v.|分类|Librarians spend a lot of time classifying books|classified adj. 机密的；秘密的
 ---
 reproduce|v.|繁殖
 evolve|v.|进化；发展||evolve from 从...进化而来
@@ -347,7 +347,7 @@ yield|v./n.|产出；屈服；服从；产量；投资收益|This land yields we
 rear|v./n.|培养；抚养；饲养；后部|Most farmer in this area rear sheep
 arable|adj.|适合耕种的|This area changed quickly from arable land to desert
 ---
-plough|n./v.|=plow 犁；耕|The ground was ploughed and planted with corn
+plough|n./v.|=plow 犁；耕|The ground was ploughed/plowed and planted with corn
 spade|n.|铲；锹|He bought a new spade
 rake|n./v.|耙子；耙；搜索|With an ancient rusty rake I went to work|rake up leaves 耙落叶；His is raking it in 他很赚钱
 ---
@@ -369,7 +369,7 @@ seed|n.|种子|The farmers were scattering seeds over the fields|seedling n. 秧
 burgeon|n./v.|嫩枝；新芽；极速生长；发芽；抽枝
 bud|n.|芽；苞；蓓蕾|The rose are in bud|break out into bud 发芽。buddy=bud 老兄
 ---
-flower|n.
+flower|n./v.|花；开花植物/成熟；繁荣；开花
 blossom|v./n.|开花；花朵|The tree was covered with beautiful pink blossom
 bloom|n.|花朵|The apple trees are out of bloom
 scent|n./v.|气味；香味；使具有香味|The flower scents the air
@@ -420,14 +420,14 @@ tulip|n.|郁金香
 mint|n./v.|薄荷；铸币厂；铸造（硬币）
 ---
 reef|n.|暗礁
-alga|n.|海藻|Some of the algea are edible|algal adj. 海藻的。algea 复数形式
+alga|n.|海藻|Some of the algae are edible|algal adj. 海藻的。algae 复数形式
 enzyme|n.|酶
 catalyst|n.|催化剂；促进因素|A catalyst is a substance which speeds up a chemical reaction|a catalyst for changing
 ---
 release|v./n.|释放；发布
 emission|n.|排放；散发；排放物|This conference aims to reduce carbon emissions or greenhouse gas emissions around this world
 absorb|v.|吸收；吸引全部注意力
-circulation|n.|流通；循环；流传|Sea surface temperature and atmosheric circulation are strongly coupled
+circulation|n.|流通；循环；流传|Sea surface temperature and atmospheric circulation are strongly coupled
 ---
 exceed|v.|超出|The driver exceeds the speed limit|exceed expectation 意料之外
 uptake|n.|摄取；领会|The doctor advised me to reduce the salt uptake
@@ -467,7 +467,7 @@ efficient|adj.|效率高的
 ---
 considerable|adj.|相当多的
 massive|adj.|巨大的；大规模的；庞大的
-immense|adj.|巨大的|
+immense|adj.|巨大的；极好的|
 ---
 maximal|adj.|最大的
 minimal|adj.|最小的
@@ -483,7 +483,7 @@ botanist|n.|植物学家
 mammal|n.|哺乳动物
 primate|n.|灵长动物
 vertebrate|n.|脊椎动物
-pretail|n.|爬行动物
+reptile|n.|爬行动物
 ---
 amphibian|n./adj.|两栖动物；两栖的
 carnivore|n.|肉食动物
@@ -495,7 +495,7 @@ fauna|n.|（尤指某一地区的）动物群|The park is also home to grizzly b
 flora|n.|（尤指某一地区的）植物群
 species|n.|物种
 ---
-flock|n./v.|（羊或鸟）群；聚集|Sheep usually flock togather
+flock|n./v.|（羊或鸟）群；聚集|Sheep usually flock together
 herd|n.|兽群；畜群|The herdsman looks after a herd of animals
 swarm|n.|（蜜蜂昆虫的）一大群；（快速移动的）人群
 throng|n./v.|人群；群集
@@ -506,7 +506,7 @@ brute|n.|粗野的人；残忍的人|We all want punish the brute
 cruel|adj.|残忍的；残暴的
 ---
 originate|v.|发源；来自；创始
-derive|v.|得到；（使）源自|I drived a lot of pleasure from meeting new people at college|drive from/be derived from 源自；来自
+derive|v.|得到；（使）源自|I derived a lot of pleasure from meeting new people at college|derive from/be derived from 源自；来自
 stem|v./n.|起源于；来自；茎；梗|Correct decisions stem from correct judgments|stem from 源自；起源于
 ---
 ancestor|n.|祖宗；祖先
@@ -529,7 +529,7 @@ lay|v.|产；放置；铺设|They lay eggs from the July to the middle of August
 hatch|v./n.|孵化
 brood|n./v.|一窝幼鸟；孵（蛋）|The bird was trying to find food for its brood
 spawn|n./v.|（鱼、蛙的）卵；产卵；引起
-mature|adj./v.|成熟的；成熟|You are a muture man now, you are no longer a boy|immuture adj. 不成熟的，未完全发育的
+mature|adj./v.|成熟的；成熟|You are a mature man now, you are no longer a boy|immature adj. 不成熟的，未完全发育的
 ---
 skin|n.|皮肤
 claw|n.|爪；钳；鳌；爪状物
@@ -548,7 +548,7 @@ curl|n./v.|卷曲；螺旋状物；（使）卷曲
 insect|n.|昆虫
 worm|n.|蠕虫
 pest|n.|害虫；有害动物
-parasite|n.|寄生虫|The life of hte parasite is maintained by new blood-sucking mosquitoes
+parasite|n.|寄生虫|The life of the parasite is maintained by new blood-sucking mosquitoes
 ---
 spider|n.|蜘蛛
 butterfly|n.|蝴蝶
@@ -612,7 +612,7 @@ frog|n.|青蛙
 ---
 behaviour|n.|=behavior 行为；活动方式
 bite|v./n.|咬；（昆虫）叮；吞饵
-sting|v./n.|刺；叮；（使）感觉刺痛；鳌针；蜇痛|It is the nature of the scorpion to sting|stigng sb. into doing sth. 刺激某人做某事
+sting|v./n.|刺；叮；（使）感觉刺痛；鳌针；蜇痛|It is the nature of the scorpion to sting|sting sb. into doing sth. 刺激某人做某事
 bark|v./n.|吠；大声嚷；树皮
 roar|n./v.|吼叫；咆哮
 ---
@@ -682,7 +682,7 @@ subsistence|n.|勉强维持生活|The standard of living at that time was on the
 exist|v.|存在；生存
 exterminate|v.|消灭；根除|We've made great efforts to exterminate mosquitoes and flies
 ---
-tame|v./adj.|驯养；制服；驯服的；乏味的|The tame lions can communicate and dance togather with the actors|tame nature 征服大自然
+tame|v./adj.|驯养；制服；驯服的；乏味的|The tame lions can communicate and dance together with the actors|tame nature 征服大自然
 keeper|n.|看守人；饲养员
 shepherd|n.|牧羊人，羊倌|The shepherd set out to look for sheep that had wandered away|sheepdog n. 牧羊犬
 ===
@@ -754,7 +754,7 @@ liquid|n./adj.|液体；液体的
 fluid|n./adj.|液体；流体。流动的|When you are sick, you should drink plenty of fluids
 solid|n./adj.|固体。固体的；牢固的
 ---
-synthesis|v.|=synthesize 合成；综合|Darwinian theory has been synthesised with modern genetics
+synthesis|v.|=synthesize 合成；综合|Darwinian theory has been synthesized with modern genetics
 formation|n.|形成
 method|n.|方法
 ---
@@ -832,7 +832,7 @@ impetus|n.|推动；促进；动量；惯性|The car ran down the bridge under i
 ---
 indulge|v.|迁就；放任；沉湎；让...享受一下|You can indulge yourself without spending a fortune
 spoil|v.|宠坏；溺爱；破坏；糟蹋
-abuse|v.|滥用；虐待|It's easy to abuse one's powser|alcohol abuse 酗酒
+abuse|v.|滥用；虐待|It's easy to abuse one's power|alcohol abuse 酗酒
 ---
 intelligent|adj.|聪明的
 clever|adj.|聪明的；精明的
@@ -863,7 +863,7 @@ diligent|adj.|勤勉的；勤奋的
 painstaking|adj.|极其仔细的；辛苦的|The mastery of a language requires painstaking effort
 ---
 skill|n.|技巧
-approac|n./v.|方法。接近
+approach|n./v.|方法。接近
 scheme|n./v.|计划；方案；阴谋。谋划|All the scheme an intrigues are doomed to failure
 ---
 headmaster|n.|[英]男校长
@@ -903,7 +903,7 @@ fresher|n.|[英]（大学）一年级新生
 sophomore|n.|[美]（大学或高中）二年级学士
 junior|n./adj.|[美]（大学或高中）三年级学生；较年幼者。青少年的；级别（或地位）较低的
 senior|n./adj.|[美]（大学或高中）毕业班学士；较年长者。成人的；资深的
-alumni|n.|[alumnus 的复数形式]毕业生；校友|My alumni and alumna are persent at my birthday party
+alumni|n.|[alumnus 的复数形式]毕业生；校友|My alumni and alumna are present at my birthday party
 ---
 compus|n.|（大专院校的）校园
 orientation|n.|迎新会；方向
@@ -1096,7 +1096,7 @@ dissolve|v.|（使）溶解；解散
 ---
 rust|v./n.|（使）生锈。锈；铁锈|If you leave your metal tools outside in the rain, they will rust|rusty adj. 生锈的
 ferment|v./n.|（使）发酵；骚动。酶；发酵；动乱|The whole country was in a state of ferment|yeast n. 酵母；酵母菌
-dilute|v./adj.|冲淡；稀释。稀释了的；减弱了的|The nurse diluted the drug with sailine water
+dilute|v./adj.|冲淡；稀释。稀释了的；减弱了的|The nurse diluted the drug with saline water
 acid|n./adj.|酸。酸的；讽刺的；尖刻的
 noxious|adj.|有害的|Increasing tax on petrol would encourage people to drive cars with fewer emissions
 ---
@@ -1126,7 +1126,7 @@ deadline|n.|截止日期
 ---
 course|n.|课程
 lesson|n.|一堂课；课程；教训
-curriculum|n.|课程；全部课程|The staff should work togather to revise the school curriculum|extra-curriculum 课外的。curriculum vitae 履历 CV
+curriculum|n.|课程；全部课程|The staff should work together to revise the school curriculum|extra-curriculum 课外的。curriculum vitae 履历 CV
 seminar|n.|研讨会；讨论课
 forum|n.|论坛；讨论会；公开讨论广场
 syllabus|n.|教学大纲
@@ -1159,7 +1159,7 @@ skim|v.|掠过；擦过；略读
 scan|v./n.|细看；浏览；扫描
 scrutinise|v.|=scrutinize 仔细检查|scrutiny n. 详细审查
 recite|v.|背诵；朗诵
-dictate|v.|让（某人）听写；命令；强行规定|The English teacher dictates to the class every other week|dication n. 听写；口述
+dictate|v.|让（某人）听写；命令；强行规定|The English teacher dictates to the class every other week|dictaion n. 听写；口述
 ---
 examination|n.|=exam 考试；抽查
 test|v./n.|测试；检验
@@ -1320,11 +1320,11 @@ field|n.|领域
 realm|n.|领域
 foundation|n.|基础；地基；基金会
 ---
-specialise|v.|=specialze 专攻||specialise in 专攻；专门研究；专门经营
+specialise|v.|=specialize 专攻||specialize in 专攻；专门研究；专门经营
 absorb|v.|理解；掌握
 concentrate|v.|（集中）心思；（使）浓缩||concentration n. 专心；浓度。concentrate on 专心于
 focus|v./n.|集中于；焦点
-utilise|v.|=utilize 利用||utility n. 效用；有用。utilities n. （水、电、煤气等）公用事业。utilisation=utilization n. 利用；使用
+utilise|v.|=utilize 利用||utility n. 效用；有用。utilities n. （水、电、煤气等）公用事业。utilizbation=utilization n. 利用；使用
 usage|n.|使用；用法
 tester|n.|测试员；测试仪
 apply|v.|应用；适用||apply to 适用于。apply A to B 把 A 应用于 B
@@ -1579,7 +1579,7 @@ verbal|adj.|口头的；言语的
 syllable|n.|音节
 phoneme|n.|音位
 vowel|n.|元音
-consonent|n.|辅音
+consonant|n.|辅音
 ---
 alphabet|n.|字母表；（一种语言的）全部字母
 logogram|n.|词符；缩记符
@@ -2140,7 +2140,7 @@ cap|n.|（有帽舌的）帽子；（经费等的）最高限额
 brim|n.|边缘；帽檐
 scarf|n.|围巾；头巾
 ---
-hankerchief|n.|手帕
+handkerchief|n.|手帕
 purse|n.|（英）钱包；（美）小手提包
 wallet|n.|钱包；皮夹子
 ---
@@ -2205,7 +2205,7 @@ slight|adj.|纤细的；轻微的|Our army suffered a slight reverse|slightly ad
 ===
 饮食健康
 +++
-food|n.|食物|I perfer vegetarian food|foodie n. 美食家；吃货
+food|n.|食物|I prefer vegetarian food|foodie n. 美食家；吃货
 diet|n.|日常饮食；（医生指定的）特别饮食；节食|A sugar-free diet is recommended for diabetics|dietary adj. 饮食的。on a diet 进行节食
 appetite|n.|食欲；强烈欲望
 ---
@@ -2237,7 +2237,7 @@ chief|n.|厨师
 gourmet|n./adj.|美食家/美味佳肴的
 vegetarian|n./adj.|素食者/素食的、无肉的
 ---
-cutlary|n.|餐具、刀具
+cutlery|n.|餐具、刀具
 silver|n./adj.|银、银器/银的、银色的
 ceramic|adj./n.|陶瓷的/陶瓷制品
 porcelain|n.|瓷器、瓷
@@ -2497,7 +2497,7 @@ ceiling|n.|天花板、顶棚
 eaves|n.|屋檐
 chimney|n.|烟囱
 ---
-reciption|n.|接待处
+reception|n.|接待处
 lobby|n./v.|大厅；前厅；游说/游说||lobbyist n. 说客
 bench|n.|长凳||the bench 法官职位
 ---
@@ -2868,7 +2868,7 @@ wreath|n.|花环；花冠；花圈
 ---
 colony|n.|殖民地
 liberty|n.|自由
-independene|n.|独立；自立
+independence|n.|独立；自立
 ---
 slum|n.|贫民窟
 refuge|n.|避难；庇护；避难所
@@ -2949,7 +2949,7 @@ Spanish|adj./n.|
 Swiss|adj./n.|瑞士的/瑞士人
 ---
 Greek|adj./n.|
-Itailian|adj./n.|
+Italian|adj./n.|
 soviet|adj./n.|苏联的/苏维埃
 Indian|adj./n.|
 ---
@@ -3086,7 +3086,7 @@ import|v./n.|进口/进口；进口商品
 quota|n.|限额；配额；定额
 ---
 share|n./v.|股份，股票；一份/分享；共享；分担
-benifit|n./v.|益处/有利于；获益
+benefit|n./v.|益处/有利于；获益
 interest|n./v.|兴趣；利益；利息/使感兴趣
 dividend|n.|股息；红利
 stock|n.|股本；股票；库存
@@ -3197,7 +3197,7 @@ protocol|n.|协定书；协议；礼仪
 ---
 norm|n.|标准；[~s]行为准则；规范
 benchmark|n.|基准，水准点
-criteria|n.|[criteron 的复数形式]标准；准则
+criteria|n.|[criterion 的复数形式]标准；准则
 standard|n.|标准
 permit|v.|允许；准许
 allow|v.|允许；准许
@@ -3248,7 +3248,7 @@ mutter|v.|低声低语；小声抱怨
 murmur|n./v.|低声说/咕哝；低语
 mute|adj./n.|缄默的；哑的；无声的/哑巴
 ---
-inverstigate|v.|调查
+investigate|v.|调查
 witness|n./v.|目击者；见证人/见证
 justify|v.|为...辩护；证明...正当
 reasonable|adj.|合理的；理智的
@@ -3442,7 +3442,7 @@ traitor|n.|叛徒，卖国贼
 patriot|n.|爱国者
 ---
 blame|v./n.|责备，指责/（对坏事应负的）责任
-reproch|n./v.|责备；指责
+reproach|n./v.|责备；指责
 evidence|n.|证据；根据
 proof|n.|证明，证据
 ---
@@ -3676,7 +3676,7 @@ miss|v.|想念；未注意到
 ---
 appointment|n.|约会；指派
 accompany|v.|陪伴；伴随
-denpendent|adj.|依靠的；依赖的
+dependent|adj.|依靠的；依赖的
 ---
 propose|v.|提议；向...求婚
 engagement|n.|婚约；约定
@@ -3971,7 +3971,7 @@ commence|v.|开始；着手
 ---
 exploit|v.|开发；开采；开拓
 explore|V.|勘察；考察；探讨
-exert|v.|运用，行驶；施加||exert an infuluence on 对...施加影响
+exert|v.|运用，行驶；施加||exert an influence on 对...施加影响
 ---
 tackle|v./n.|处理；应对；处理/用具；器材
 cope|v.|处理；应付
@@ -4220,7 +4220,7 @@ born|adj./v.|天生的；与生俱来的/[be ~]出生||be born of 出生于...�
 condom|n.|避孕套
 clone|v./n.|克隆/克隆的动植物
 ---
-sympton|n.|征兆；症状
+symptom|n.|征兆；症状
 disease|n.|疾病
 illness|n.|疾；疾病
 ---
@@ -4304,7 +4304,7 @@ lament|n../v.|悲伤；哀悼/哀悼；对...感到悔恨
 hospital|n.|医院
 therapy|n.|治疗
 health care|n.|医疗保健
-sanitory|adj.|卫生的；清洁的
+sanitary|adj.|卫生的；清洁的
 ---
 medical|adj.|医学的；医疗的
 curative|adj./n.|治疗的/药品
@@ -4360,7 +4360,7 @@ common|adj.|共同的；普通的；平常的
 usual|adj.|通常的；惯常的
 ---
 optimistic|adj.|乐观主义的；乐观的
-pessimisatic|adj.|悲观的；悲观主义的
+pessimistic|adj.|悲观的；悲观主义的
 positive|adj.|肯定的；值得的；绝对的
 negative|adj.|怀疑的，消极的
 passive|adj.|被动的，消极的
@@ -4548,7 +4548,7 @@ crazy|adj.|疯狂的；荒唐的
 ---
 wicked|adj.|邪恶的；缺德的
 vicious|adj.|邪恶的；不道德的
-valgar|adj.|粗俗的；庸俗的
+vulgar|adj.|粗俗的；庸俗的
 mean|adj./v.|卑鄙的；吝啬的/意思是
 ---
 ego|n.|自我；自尊；自负
