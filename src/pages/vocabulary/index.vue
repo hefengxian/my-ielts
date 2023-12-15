@@ -1,11 +1,12 @@
 <!-- eslint-disable eslint-comments/no-unlimited-disable -->
 <script setup generic="T extends any, O extends any">
-import { computed } from 'vue'
 import vocabulary from './vocabulary'
+const CHAPTER_KEY = 'vocabulary_chapter'
 
 const keyword = ref('')
 const chapters = Object.keys(vocabulary)
-const category = ref(chapters[0])
+const category = ref(localStorage.getItem(CHAPTER_KEY) || chapters[0])
+
 const loaded = ref(false)
 const refVocabulary = reactive(vocabulary)
 const wordList = computed(() => {
@@ -33,6 +34,11 @@ const wordList = computed(() => {
     }
   }
   return result
+})
+
+watch(category, (newVal, oldVal) => {
+  // console.log(newVal, oldVal)
+  localStorage.setItem(CHAPTER_KEY, newVal)
 })
 
 onMounted(() => {
