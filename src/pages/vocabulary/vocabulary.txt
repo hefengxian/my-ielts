@@ -754,7 +754,7 @@ liquid|n./adj.|液体；液体的
 fluid|n./adj.|液体；流体。流动的|When you are sick, you should drink plenty of fluids
 solid|n./adj.|固体。固体的；牢固的
 ---
-synthesis|v.|=synthesize 合成；综合|Darwinian theory has been synthesized with modern genetics
+synthesise|v.|=synthesize 合成；综合|Darwinian theory has been synthesized with modern genetics
 formation|n.|形成
 method|n.|方法
 ---
