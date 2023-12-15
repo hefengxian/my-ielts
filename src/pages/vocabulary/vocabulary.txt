@@ -310,7 +310,7 @@ petroleum|n.|石油|Petroleum is an important natural resource|petrology n. 岩�
 植物研究
 +++
 photosynthesis|n.|光合作用
-respire|v.|呼吸
+respire|v.|呼吸||相比于 breathe 更正式，但是 breath 更常用
 dioxide|n.|二氧化物
 ---
 vegetation|n.|植物；草木|There is not much vegetation in deserts|vegetable n. 蔬菜 vegetarian n. 素食者
@@ -355,7 +355,7 @@ stack|n./v.|堆；垛；堆积|I have a stack of homework to do|委婉的拒绝�
 heap|n.|（大而杂乱的）堆|A heap of clothes was lying in the corner
 bundle|n.|捆；包；束|He collected a bundle of sticks
 bunch|n.|一束（花）；一串（钥匙）|I bought a bunch of lilacs 我买了一束丁香花|I'm sorry. I have a bunch of work to do 礼貌的回绝
-vase|n.|瓶；花瓶
+vase|n.|瓶；花瓶|This flaw makes the vase less valable
 ---
 sunlight|n.|阳光
 short-day|adj.|短日照的|Soybean is a typical short-day corp 大豆是典型的短日照作物
@@ -366,11 +366,11 @@ mould|n./v.|=mold 霉菌；发霉|The walls were black with mould
 pollen|n./v.|花粉；给...授粉|Each spring, pollen from nearby plants is blown into the water
 germinate|v.|发芽|Warmth is needed for the seeds to germinate
 seed|n.|种子|The farmers were scattering seeds over the fields|seedling n. 秧苗；幼苗。sow seeds 播种
-burgeon|n./v.|嫩枝；新芽；极速生长；发芽；抽枝
+burgeon|n./v.|嫩枝；新芽/极速生长；发芽；抽枝
 bud|n.|芽；苞；蓓蕾|The rose are in bud|break out into bud 发芽。buddy=bud 老兄
 ---
 flower|n./v.|花；开花植物/成熟；繁荣；开花
-blossom|v./n.|开花；花朵|The tree was covered with beautiful pink blossom
+blossom|v./n.|开花；花朵|The tree was covered with beautiful pink blossom|可以用于比喻，表示某事物或概念的发展、兴盛或繁荣。
 bloom|n.|花朵|The apple trees are out of bloom
 scent|n./v.|气味；香味；使具有香味|The flower scents the air
 aromatic|adj.|芳香的|Aromatic plants are often used in cooking
@@ -411,18 +411,18 @@ grass|n.|草；草地
 meadow|n.|草地；牧草
 lawn|n.|草地；草坪|My mother asked me to mow the lawn
 ---
-olive|n.|橄榄；橄榄树
+olive|n.|橄榄；橄榄树|The olive branch is the emblem of peace. 橄榄枝是和平的象征
 pine|n.|松树；松木
 vine|n.|葡萄藤
 ---
 violet|n.|紫罗兰
 tulip|n.|郁金香
-mint|n./v.|薄荷；铸币厂；铸造（硬币）
+mint|n./v.|薄荷；铸币厂/铸造（硬币）|We sat in the back row, sucking mints 我们坐在后排，嘴里咂着薄荷糖
 ---
-reef|n.|暗礁
+reef|n.|暗礁|The ship was wrecked on a reef. 这船触礁失事了
 alga|n.|海藻|Some of the algae are edible|algal adj. 海藻的。algae 复数形式
 enzyme|n.|酶
-catalyst|n.|催化剂；促进因素|A catalyst is a substance which speeds up a chemical reaction|a catalyst for changing
+catalyst|n.|催化剂；促进因素|A catalyst is a substance which speeds up a chemical reaction|a catalyst for changing 改变...的催化剂
 ---
 release|v./n.|释放；发布
 emission|n.|排放；散发；排放物|This conference aims to reduce carbon emissions or greenhouse gas emissions around this world
@@ -435,14 +435,14 @@ nutrient|n.|营养物质|The nutrient in the soil acts as a stimulus to growth i
 energy|n.|能源；精力
 ---
 surroundings|n.|环境可与environment互换
-mechanism|n.|机制；构造
+mechanism|n.|机制；构造|Bones and muscles are parts of the mechanism of the body骨骼和肌肉是身体构造的一部分
 counterbalance|n./v.|其平衡作用的事物；抵消；对...起平衡作用
 ---
 protect|v.|保护
 preserve|v.|保护；维持；保存
-conservation|n.|保护；保存
+conservation|n.|（对自然环境的）保护；保存|Some accommodation between conservation and tourism is essential. 对自然环境的保护和旅游业之前的相互协调是至关重要的 —— accommodation 除了有住宿还有和解协调的意思|conversation n. 交谈
 ---
-bushfire|n.|林区大火
+bush fire|n.|林区大火
 extinguish|v.|扑灭（火）；使（想法；感情等）破灭|They tried every means to extinguish the fire
 destruct|v.|（使）自毁
 ruin|v./n.|毁坏；摧毁；毁灭；废墟
