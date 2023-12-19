@@ -1987,14 +1987,14 @@ bulb|n.|电灯泡；球茎；球茎状物
 flashlight|n.|闪光灯的闪光；手电筒
 ---
 refrigerator|n.|冰箱
-frigde|n.|冰箱
+fridge|n.|冰箱|The butter will soften out of the fridge
 vacuum|n./adj.|真空；真空吸尘器；真空的
 fan|n./v.|扇子；风扇；狂热爱好者；扇
 switch|n./v.|开关；转换；
 ---
 hurdle|n.|栏架；跨栏赛跑
 fence|n.|栅栏；围栏
-padal|n./v.|踏板；踩踏板
+pedal|n./v.|踏板；踩踏板|One of the pedals has come out off my bicycle
 ---
 shelf|n.|架子；隔板
 ladder|n.|梯子；阶梯
@@ -2046,7 +2046,7 @@ lubricate|v.|润滑；加润滑油于
 ---
 diamond|n.|金刚石；钻石；菱形
 crystal|n.|水晶；结晶；晶体
---
+---
 inferior|adj./n.|差的；下级的；低等的；级别/地位低的人；次品||inferiority
 counterfeit|adj./v.|假冒的；伪造
 fake|adj./n.|假冒的；冒充者；假货
@@ -2129,7 +2129,6 @@ jacket|n.|夹克衫
 skirt|n.|裙子
 ---
 jeans|n.|牛仔裤
----
 trousers|n.|（尤英）裤子
 clasp|n./v.|搭扣；扣住
 button|n./v.|纽扣；按钮；扣上...的纽扣||unbutton v. 解开...的纽扣；如解开纽扣一样解开
