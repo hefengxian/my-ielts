@@ -6,26 +6,46 @@
 <a href="https://hefengxian.github.io/my-ielts/#/">在线地址</a>
 </h6>
 
-界面截图 TODO
+![Home](public/screenshot/screenshot-home.png)
 
 
 ## 概述
 
 雅思备考资料，包含词汇、语法、听说读写最出名的一些内容
 
+- [WIP] 练习模式，可以听着音频默写单词，自动遮盖、统计等
+
 ## 规划栏目
 
 ### 词汇
 
-- 雅思词汇真经（刘洪波橙色的那本）
+雅思词汇真经（刘洪波橙色的那本）
+
+- 雅思核心词汇
+- 逻辑词群记忆法
+- 原书音频
+
+![Home](public/screenshot/screenshot-vocabulary.png)
 
 ### 语法
 
-- 新东方雅思语法
+新东方雅思语法
+
+- 视频
+- 讲义
+- 思维导图
+
+![Home](public/screenshot/screenshot-grammar.png)
 
 ### 听力
 
-TODO
+了解雅思听力，以及考试中的一些基本原则、技巧
+
+- 基本概念和应试技巧
+- 听力 179 考点词
+- [WIP] 雅思听力王语料库
+
+![Home](public/screenshot/screenshot-listening.png)
 
 ### 口语
 
@@ -33,11 +53,16 @@ TODO
 
 ### 阅读
 
-TODO
+- 538 考点词同义替换
+
+![Home](public/screenshot/screenshot-reading.png)
+
 
 ### 写作
 
-TODO
+写作相关内容，从基础开始
+
+- [WIP] 顾家北手把手教你雅思写作 V6.0 —— 100 句翻译练习
 
 ## 开发
 
