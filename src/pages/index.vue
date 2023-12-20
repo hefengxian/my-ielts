@@ -16,13 +16,13 @@ const menus = reactive([
     label: '语法',
     icon: 'i-carbon-load-balancer-vpc ',
     link: '/grammar',
-    desc: '新东方雅思语法课程，针对雅思考试设计',
+    desc: '新东方雅思语法课程，针对雅思考试设计，思维导图',
   },
   {
     label: '听力',
     icon: 'i-carbon-headphones',
     link: '/listening',
-    desc: '包含 179 考点词同义替换和雅思王语料库',
+    desc: '听力基本概念，179 考点词同义替换和雅思王语料库',
   },
   {
     label: '口语',
@@ -40,7 +40,7 @@ const menus = reactive([
     label: '写作',
     icon: 'i-carbon-edit',
     link: '/writing',
-    desc: 'TODO 逻辑链 + 顾家北？',
+    desc: '100 句翻译练习、大小作文',
   },
 ])
 </script>
