@@ -23,7 +23,7 @@
 - 逻辑词群记忆法
 - 原书音频
 
-![Home](public/screenshot/screenshot-vocabulary.png)
+![Vocabulary](public/screenshot/screenshot-vocabulary.png)
 
 ### 语法
 
@@ -33,7 +33,7 @@
 - 讲义
 - 思维导图
 
-![Home](public/screenshot/screenshot-grammar.png)
+![Grammar](public/screenshot/screenshot-grammar.png)
 
 ### 听力
 
@@ -43,7 +43,7 @@
 - 听力 179 考点词
 - [WIP] 雅思听力王语料库
 
-![Home](public/screenshot/screenshot-listening.png)
+![Listening](public/screenshot/screenshot-listening.png)
 
 ### 口语
 
@@ -53,14 +53,16 @@ TODO
 
 - 538 考点词同义替换
 
-![Home](public/screenshot/screenshot-reading.png)
+![Reading](public/screenshot/screenshot-reading.png)
 
 
 ### 写作
 
 写作相关内容，从基础开始
 
-- [WIP] 顾家北手把手教你雅思写作 V6.0 —— 100 句翻译练习
+- 顾家北手把手教你雅思写作 V6.0 —— 100 句翻译练习
+
+![Writing](public/screenshot/screenshot-writing.png)
 
 ## 开发
 
