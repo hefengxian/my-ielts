@@ -1447,31 +1447,31 @@ circumstance|n.|情况；条件；环境；境遇
 ===
 文化历史
 +++
-culture|n.|文化；文明；教养
-civilization|n.|=civilization 文明
-renaissance|n.|the Renaissance 文艺复兴时期
-epic|n./adj.|史诗；宏大的
-ideology|n.|意识形态；思想体系
+culture|n.|文化；文明；教养|China plays an important role in promoting Asian culture|cultural adj. 文化的。multicultural adj. 文化多样的
+civilisation|n.|=civilization 文明|Western civilization was cradled in Ancient Greece 古希腊滋养了西方文明|cradle n./v. 摇篮，吊架，发源地/轻轻抱着 —— 这里翻译成了滋养。civilize=civilise v. 使文明，开化
+renaissance|n.|the Renaissance 文艺复兴时期|The Renaissance was an epoch of unparalleled cultural achievement 文艺复兴时期是一个在文化上取得空前成就的时代|epoch n. （尤指出现新进步和大变革的）时代，纪元，时期——注意美音和英音的发音区别。unparalleled adj. 无双的，无比的，空前的
+epic|n./adj.|史诗；宏大的|Their epic fight is the subject of a new film|他们的伟大战斗是一部新电影的主题
+ideology|n.|意识形态；思想体系|An obsolete ideology can hamper an economy|obsolete adj. 废弃的，过时的，老化的，淘汰的。hamper v./n. 阻碍，妨碍/带盖的方形大容器，食品盒，洗衣篮
 ---
 tradition|n.|传统||traditional adj. 传统的；惯例的。by tradition 根据传说；依照传说
 convention|n.|惯例；大型会议||conventional adj. 传统的；惯例的
-custom|n.|习俗；（个人的）习惯||customs n. 海关；关税
+custom|n.|习俗；（个人的）习惯|The custom prevails over the whole area 该风俗盛行于这整个地区|prevail v. 占优势，占上风；流行，盛行（V for Vendetta 里元首的口头语 England Prevails-英格兰必胜）。 customs n. 海关；关税
 ---
 feudalism|n.|封建主义；封建制度|Feudalism was not abolished in England util 1660|feudal adj. 封建的
-slavery|n.|奴隶制
+slavery|n.|奴隶制||slave n. 奴隶
 ethical|adj.|伦理的；道德的
 moral|adj./n.|道德上的；有道德的；morals 道德||immoral adj. 不道德的。moral principles 道德准则。moral standards 道德水准
 ---
-tribe|n.|部落
-aboriginal|n./adj.|Aboriginal 澳大利亚土人；本土原有的；土著的||original adj. 原本的；最初的。origin n. 起源
+tribe|n.|部落|The tribe's development was more primitive than that of their neighbours/neighbors|primitive adj. 早期的，原始的，远古的；简陋的
+aboriginal|n./adj.|Aboriginal 澳大利亚土人/本土原有的；土著的|Many Aboriginals do not like the idea of a day to celebrate the British landing. 许多澳大利亚土著并不喜欢庆祝英国人登陆的日子|original adj. 原本的；最初的。origin n. 起源
 inhabitant|n.|居民||inhabit v. 居住于；栖息于
 native|adj./n.|本土的；本地人
-local|adj./n.|当地的；本地人
+local|adj./n.|当地的；本地人|He provided local delicacies for his guests.他用当地的美味佳肴来招待客人|delicacy n. 美食，佳肴；慎重，周到；易碎，易损；精妙，精细
 ---
 exotic|adj.|外来的；异国情调的
-foreigner|n.|外国人
-alien|n./adj.|外侨；外星人；外国的；陌生的||alienate v. 使疏远；使不友好；离间。an alien culture 异域文化
-anthropologist|n.|人类学家||anthropology n. 人类学
+foreigner|n.|外国人|Some foreigners assimilate easily into our way of life|assimilate v. 加入，融入，同化；学习；吸收
+alien|n./adj.|外侨；外星人；外国的；陌生的|I ran into an old friend in the alien land. 他乡遇故知|run into sb./sth. 偶然遇到、无意碰见（某人）/遇到、陷入（困境）；共计，合计。  alienate v. 使疏远；使不友好；离间。an alien culture 异域文化
+anthropologist|n.|人类学家|The anthropologist contrasted two culture in his lecture. 这位人类学家在讲座中将两种文化进行对比|contrast v./n. 对比，对照/差异，对照物，（屏幕、显示器）对比度。anthropology n. 人类学
 humanitarian|n./adj.|人道主义者；人道主义的；博爱的
 ---
 heritage|n.|（国家的）遗产
@@ -1482,51 +1482,51 @@ archaeology|n.|考古学||archaeological adj. 考古学的；archaeologist n. �
 excavate|v.|发掘；挖掘||excavation n. 挖掘；发掘
 museum|n.|博物馆
 ---
-pottery|n.|陶瓷
+pottery|n.|陶瓷|Modern pottery is usually ornamental|ornamental /ˌɔː.nəˈmen.təl/ adj. 装饰性的，装饰用的。pot n. 壶，罐子
 engrave|v.|在...上雕刻
-decorate|v.|装饰
+decorate|v.|装饰|Using extremely different decorating schemes in adjoining rooms may result in lack of unity in style. 相邻的房间用悬殊太大的装修方案会导致风格不统一|adjoining adj. 相邻的。decoration n. 装饰，装饰品。decorative adj. 装饰性的。decorate A with B 用 B 装饰 A。
 ---
 religion|n.|宗教；宗教信仰||religious adj. 宗教的
 ritual|n.|仪式
-etiquette|n.|礼仪；礼节
+etiquette|n.|礼仪；礼节|He felt very sorry for his breach of etiquette. 他为他的失礼行为深感抱歉|breach n./v. 破坏，违反，不履行；（防御工事的）缺口/破坏，违反，不履行；（尤指从背后突袭）在...上打开缺口
 ---
 belief|n.|信念；信仰
-soul|n.|灵魂；心灵；精神
-spirit|n.|精神；心灵
+soul|n.|灵魂；心灵；精神|No words can express the secret agony of my soul. 没有语言能够表达我心灵的隐痛|agony n. （肉体或精神的）极度痛苦
+spirit|n.|精神；心灵|We need a spirit of enterprise if we are to overcome our difficulties. 如果要克服困难，我们就要有进取心|enterprise n. 公司，组织，企业，计划，事业；事业心，进取心，创业精神，冒险精神。spiritual adj. 精神上的
 ---
 sacred|adj.|神圣的；宗教的
 hallowed|adj.|神圣的；收尊崇的
 holy|adj.|神圣的；圣洁的；虔诚的
 ---
 Pope|n.|教皇
-bishop|n.|主教
+bishop|n.|主教|I've heard a whisper that the Bishop intends to leave. 我听到谣传说主教打算离开
 missionary|n.|传教士
 priest|n.|牧师；神父；教士
 ---
-Bible|n.|（基督教）圣经
+Bible|n.|（基督教）圣经|The Bible begins with the Genesis. 圣经的开篇是创世记
 church|n.|教堂
 cathedral|n.|大教堂
-choir|n.|唱诗班
+choir|n.|唱诗班|The choir sang the Amens beautifully. 唱诗班吟唱的“阿门”非常优美
 ---
 monk|n.|僧侣
 temple|n.|师院；庙宇
-pagoda|n.|佛塔
+pagoda|n.|佛塔|The pagoda perches on the top of the hill. 佛塔立在山顶上|perch v./n. 坐在...（的边缘）上，栖息于，停留于；使位于高处（或...的边缘）/河鲈；（鸟的）栖息处（尤指鸟笼里的细杆）；（常指能很好地俯视低处的）高座，高处
 ---
 empire|n.|帝国
-imperial|adj.|帝国的
+imperial|adj.|帝国的|They make an objection to the imperial system with resolution. 他们坚决反对这种帝国制度|resolution n. 决议，正式决定；决心，决定；坚决；解决，消除；分辨率；分解
 royal|adj.|皇家的；高贵的
 dynasty|n.|朝代
 chronology|n.|年代学；年表；事件发生的顺序表
 ---
 emperor|n.|皇帝
 king|n.|国王
-queen|n.|王后；女王
+queen|n.|王后；女王|They were bowing as the king and queen walked in. 当国王和王后进来时，他们屈膝致敬|bow v./n. （使）鞠躬；（使）欠身；点头致意/弓 
 ---
 prince|n.|王子；亲王
-princess|n.|公主；王妃
+princess|n.|公主；王妃|The princess was ostracised for marrying a rich bourgeois man. 公主因与一位富有的资本家结婚而遭到排挤|ostracize=ostracise v. 故意避开；排挤，排斥。bourgeois  /ˈbɔːʒ.wɑː/ adj. 中产阶级的；追求物质享受的；平庸粗俗的
 majesty|n.|威严；壮观；陛下||majestic adj. 宏伟的；庄严的
 ---
-nobility|n.|高尚的品质；贵族
+nobility|n.|高尚的品质；贵族|Virtue is the only true nobility. 万事不如美德高|virtue n. 美德，高山品德；优点，好处
 lord|n.|（英国）贵族；Lord 阁下；大人；the Lord 上帝
 knight|n./v.|骑士；封（某人）为爵士
 guardian|n./adj.|保卫者；监护人；守护的||guard n. 守卫 v. 保护
@@ -1534,19 +1534,19 @@ guardian|n./adj.|保卫者；监护人；守护的||guard n. 守卫 v. 保护
 nostalgia|n.|思乡之情；怀旧之情
 homesick|adj.|思乡的||homesickness n. 思乡之情
 ---
-celebrity|n.|名人；名誉
-status|n.|地位；身份||social status 社会地位
+celebrity|n.|名人；名誉|Celebrity, money and possessions are too often the touchstones for teenagers. 名誉、金钱和财产常常成为青少年们衡量事物的标准|touchstone n. 试金石，检验标准
+status|n.|地位；身份；尊重程度；仰慕程度；重视程度；（社交媒体上的）状态，近况||social status 社会地位
 background|n.|背景；（个人出身、受教育）经历
 experience|n.|经验；（一次）经历、体验||experienced adj. 经验丰富的
 ---
-anecdote|n.|轶事；奇闻
+anecdote|n.|轶事；奇闻|He preceded his lecture with a humorous anecdote.|precede v. （指时间或空间上）处在…之前，先于
 accident|n.|事故；意外；偶然事件||accidental adj. 意外的；偶然的；附属的。by accident 偶然。 an aviation accident 空难
 incident|n.|（尤指不寻常的、重要的或暴力的）事件；（两国之间的）冲突
 ---
-thrive|v.|繁荣；兴旺发达；茁壮成长
-prosperity|n.|繁荣；兴旺||prosper v. 成功；繁荣。prosperous adj. 繁荣的
-setback|n.|挫折；阻碍
-adversity|n.|逆境
+thrive|v.|繁荣；兴旺发达；茁壮成长|First thrive and then wive. 先立业，后成家|wive v. 娶妻
+prosperity|n.|繁荣；兴旺|The empire was on the wane after its period of prosperity. 帝国在经历繁盛之后逐渐衰落|wane v. 衰减，减弱 on the ~ （权力、人气等）衰落，减弱。 prosper v. 成功；繁荣。prosperous adj. 繁荣的
+setback|n.|挫折；阻碍|This setback has drained away my keenness|drain sth. away （使）彻底消失;（使）流失。keenness n. 积极；敏锐，精明；渴望，热衷；锋利
+adversity|n.|逆境|Hardship disposes man to meet adversity. 困苦使人们愿意去客户困境|dispose sb. to/towards sb./sth. 表示使某人对某人或某事物产生一种倾向、态度或情感。 
 ===
 语言演化
 +++
@@ -1572,7 +1572,7 @@ inflection|n.|语调的抑扬变化|She spoken in a low voice, always without in
 ---
 dialect|n.|方言；地方话
 accent|n.|重音；口音；读音符号
-utterance|n.|说话；言论
+utterance|n.|说话；言论|His every utterance will be scrutinized 他说的每句话都会被仔细审查|scrutinize=scrutinise v. 仔细查看、审查。scrutiny n. 仔细观察、审查
 oral|adj.|口头的|Students of English should have a lot of oral drills|drill n. 钻头，（尤指军事）练习 a spelling/pronunciation drill 拼写／发音练习
 verbal|adj.|口头的；言语的|Don't be afraid of verbal abuse or criticism.|nonverbal adj. 不用语言的
 ---
