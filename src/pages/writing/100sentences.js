@@ -53,7 +53,7 @@ const sentences = [
     sentence: '文化遗产（heritage sites）因为城市发展而受到威胁',
     translationFromBook: 'The development of cities has posed a threat to heritage sites',
     chatgpt: '',
-    remark: '',
+    remark: 'pose a threat 构成威胁',
   },
   {
     no: 9,
@@ -66,8 +66,22 @@ const sentences = [
     no: 10,
     sentence: '有些公共服务很难做到收支平衡',
     translationFromBook: 'Some public services have problems in breaking even',
-    chatgpt: '',
+    chatgpt: 'Some public services are challenging to achieve a balance between revenue and expenses/Some public services find it challenging to break even',
     remark: 'break even 收支平衡',
+  },
+  {
+    no: 11,
+    sentence: '我们需要考虑社会和经济环境',
+    translationFromBook: 'We have to consider the social and economic context',
+    chatgpt: 'We need to consider the social and economic environment',
+    remark: '',
+  },
+  {
+    no: 12,
+    sentence: '密度种植对生物多样性造成了威胁',
+    translationFromBook: 'Intensive farming can pose a threat to bio-diversity',
+    chatgpt: 'Intensive cultivation poses a threat to biodiversity',
+    remark: '',
   },
 
 
