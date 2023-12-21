@@ -105,7 +105,7 @@ document.addEventListener('keyup', (ev) => {
                 :key="k"
                 :value="k"
               >
-                {{ k }}
+                {{ _.audio.replace('.mp3', '') }}
               </option>
             </select>
             <!-- <input type="text" name="email" class="ml-3 block w-full border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-gray-900 dark:border-gray-600 focus:border-primary-500 dark:bg-gray-700 sm:text-sm dark:text-white focus:ring-primary-500 dark:focus:border-primary-500 dark:focus:ring-primary-500 dark:placeholder-gray-400" placeholder="关键词"> -->
