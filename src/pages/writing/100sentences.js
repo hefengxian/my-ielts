@@ -83,6 +83,20 @@ const sentences = [
     chatgpt: 'Intensive cultivation poses a threat to biodiversity',
     remark: '',
   },
+  {
+    no: 13,
+    sentence: '平等接受教育可以帮助解决学生学习成绩不好的问题',
+    translationFromBook: 'Equal access to education can help tackle educational underachievement',
+    chatgpt: 'Equal access to education can help tackle the issue of students\' academic underachievement',
+    remark: '注意这里的 help 后面的 to 是可以省略的，类似的：make/let/hear/feel/watch 等。underachievement n. 低成就；学习成绩不良',
+  },
+  {
+    no:  14,
+    sentence: '接触不同的文化可以促进创新',
+    translationFromBook: 'Exposure to different cultures can encourage creativity',
+    chatgpt: 'Exposure to different cultures can promote innovation',
+    remark: '注意 culture 这个词多数情况下是不可数的，表示不同地方、特定文化的时候才可数',
+  },
 
 
   {
