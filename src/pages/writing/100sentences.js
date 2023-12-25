@@ -97,6 +97,20 @@ const sentences = [
     chatgpt: 'Exposure to different cultures can promote innovation',
     remark: '注意 culture 这个词多数情况下是不可数的，表示不同地方、特定文化的时候才可数',
   },
+  {
+    no:  15,
+    sentence: '政府应该重视社会福利（welfare services），尤其是医疗服务',
+    translationFromBook: 'The government should give priority to welfare services especially healthcare',
+    chatgpt: 'The government should prioritize welfare services, especially healthcare',
+    remark: '',
+  },
+  {
+    no:  16,
+    sentence: '教育或许决定了人的工作前景',
+    translationFromBook: 'Education may hold the key to one\'s job prospects',
+    chatgpt: 'Education might shape one\'s career prospects',
+    remark: 'hold the key 掌控，支配。prospects 成功的机会；前景，前途',
+  },
 
 
   {
