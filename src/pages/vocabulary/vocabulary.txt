@@ -905,7 +905,7 @@ junior|n./adj.|[美]（大学或高中）三年级学生；较年幼者。青少
 senior|n./adj.|[美]（大学或高中）毕业班学士；较年长者。成人的；资深的
 alumni|n.|[alumnus 的复数形式]毕业生；校友|My alumni and alumna are present at my birthday party
 ---
-compus|n.|（大专院校的）校园
+campus|n.|（大专院校的）校园
 orientation|n.|迎新会；方向
 platform|n.|平台；讲台
 coed|adj./n.|=co-educational 男女同校的。（男女同校的大学生中的）女生|A nationwide research is under way for typical coeds
@@ -1016,7 +1016,7 @@ equation|n.|相等；平衡；综合体；方程式；等式
 identical|adj.|同一的|This is the identical hotel we stayed at last year
 ---
 minus|adj./prep.|负的；零以下的；减去
-substract|v.|减去；减
+subtract|v.|减去；减
 multiply|v.|乘；使相乘；使成倍增加；繁殖
 ---
 divide|v.|除以；除
@@ -1112,7 +1112,7 @@ blend|n./v.|混合；（使）交融。混合物
 ---
 theory|n.|理论；学说
 empirical|adj.|经验主义的；以实验为依据的|His thesis is not very convincing for lack of empirical evidence
-pratical|adj.|实际的；有用的；务实的；心灵手巧的
+practical|adj.|实际的；有用的；务实的；心灵手巧的
 ---
 doctrine|n.|学说；教义；信条
 principle|n.|原则；（科学）原理
@@ -1308,6 +1308,7 @@ breakthrough|n.|突破
 gizmo|n.|小装置
 patent|n./v.|专利；专利权；得到...的专利权；给...专利证
 devise|v.|设计；发明||device n. 装置；设备
+invent|v.|发明，创造|Do you who invented the magnetic needle?|invention n. 发明，创造。inventor n. 发明者，创造者
 discover|v.|发现
 ---
 disclose|v.|揭露；透露
@@ -2832,6 +2833,7 @@ power|n.|能源；权力；政权；能力
 ---
 influence|n./v.|影响；作用/影响
 affect|v.|影响；打动；使悲伤
+importance|n.|重要，重要性|The police officer emphasised the importance of careful driving|important adj. 重要的；有势力的。realise the importance 意识到重要性
 significance|n.|重要性；意义
 ---
 organization|n.|=organisation 组织；团体；机构
