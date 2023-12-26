@@ -2603,7 +2603,7 @@ voyage|n.|航海、航天；航行
 aviation|n.|航空；航空学；航空工业
 ---
 journey|n.|旅行；历程
-traval|n./v.|旅行/旅行
+travel|n./v.|旅行/旅行
 safari|n.|观兽旅行
 parade|v./n.|游行；炫耀/庆祝游行；列队进行；炫耀
 haunt|v./n.|（鬼魂等）常出没于/常去的地方
@@ -2724,7 +2724,7 @@ aboard|adv.|在（船、飞机等）上
 embark|v.|上船、飞机等；开始做
 ---
 channel|n.|频道；航道；海峡
-canel|n.|运河；（人体内输送食物、气体等的）管
+canal|n.|运河；（人体内输送食物、气体等的）管
 ditch|n./v.|沟、渠/抛弃
 ---
 railroad|n.|[美]铁路；铁路公司
@@ -3146,7 +3146,7 @@ personnel|n.|人员，职员；人事部门
 clerk|n.|店员，办事员，接待员
 ---
 interview|n./v.|面试；采访/对...进行面试；采访
-résumé|n.|履历；简历；摘要
+résumé|n.|=resume UK /ˈrez.juː.meɪ/ US /ˈrez.ə.meɪ/ 履历；简历；摘要
 recommend|v.|推荐；劝告；介绍
 employ|v.|雇用；采用
 hire|v./n.|雇用；租用/租赁（业）
