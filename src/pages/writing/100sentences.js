@@ -111,6 +111,20 @@ const sentences = [
     chatgpt: 'Education might shape one\'s career prospects',
     remark: 'hold the key 掌控，支配。prospects 成功的机会；前景，前途',
   },
+  {
+    no:  17,
+    sentence: '使用化石燃料会对环境造成破坏',
+    translationFromBook: 'The use of fossil fuels can cause damage to the environment',
+    chatgpt: 'Using fossil fuels can cause environmental damage',
+    remark: 'fuel 的可数和不可数的问题，表示一般的燃料的概念时不可数，不同种类时可数，例如这里 fossil fuels 表示的可能是煤、天然气、石油等...',
+  },
+  {
+    no:  18,
+    sentence: '建造住宅楼有助于解决城市的拥挤问题',
+    translationFromBook: 'Building apartment blocks helps (to) solve overcrowding in cities',
+    chatgpt: 'Constructing residential buildings helps (to) alleviate urban congestion',
+    remark: 'alleviate v. 减轻；缓和；缓解',
+  },
 
 
   {
