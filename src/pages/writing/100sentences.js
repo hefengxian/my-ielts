@@ -125,7 +125,20 @@ const sentences = [
     chatgpt: 'Constructing residential buildings helps (to) alleviate urban congestion',
     remark: 'alleviate v. 减轻；缓和；缓解',
   },
-
+  {
+    no: 19,
+    sentence: '贫穷的人可以通过努力工作来提高其社会地位',
+    translationFromBook: 'People from disadvantaged backgrounds can improve their social status by working hard.',
+    chatgpt: 'The impoverished can improve their social status through/via hard work',
+    remark: '',
+  },
+  {
+    no: 20,
+    sentence: '因为全球化，人们需要和来自全球不同背景的人一起工作',
+    translationFromBook: 'Because of globalization, people need to work with those from diverse backgrounds',
+    chatgpt: 'Due to globalization, people need to work with individuals from diverse backgrounds around the world',
+    remark: 'ChatGPT 给的另一个表达：Due to globalization, those from diverse backgounds around the world need to work togather',
+  },
 
   {
     no: '',
