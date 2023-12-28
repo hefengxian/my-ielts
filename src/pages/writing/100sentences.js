@@ -139,6 +139,20 @@ const sentences = [
     chatgpt: 'Due to globalization, people need to work with individuals from diverse backgrounds around the world',
     remark: 'ChatGPT 给的另一个表达：Due to globalization, those from diverse backgounds around the world need to work togather',
   },
+  {
+    no: 21,
+    sentence: ' 我们需要采取措施去解决一些棘手的问题',
+    translationFromBook: 'We need to take action to solve some thorny problems',
+    chatgpt: 'We need to take measures to address some challenging issues',
+    remark: 'thorny adj. 棘手的，麻烦的；多刺的，带刺的。thorn n. 刺，荆棘',
+  },
+  {
+    no: 22,
+    sentence: '媒体通过夸大受害者的伤痛去吸引观众',
+    translationFromBook: 'The media attracts public attention by sensationalizing victims\' suffering',
+    chatgpt: 'The media attracts viewers by exaggerating the pain of victims',
+    remark: '',
+  },
 
   {
     no: '',
