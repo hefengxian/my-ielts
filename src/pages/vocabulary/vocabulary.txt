@@ -3385,7 +3385,7 @@ deploy|v.|部署
 ---
 hit|v./n.|打，击，碰撞/打，击中
 beat|v./n.|打；打败；（心脏等）跳动/节拍；击鼓声
-strik|v./n.|打，击，突击；罢工/罢工；打击
+strike|v./n.|打，击，突击；罢工/罢工；打击|The strike has delivered a heavy blow to the management 这场罢工给了资方一个沉重的打击|strike against 为反对...而罢工
 ---
 punch|n./v.|打孔机；重拳打击/给...打孔；拳打
 chop|v.|切碎（食物）；劈（木头）
@@ -3476,7 +3476,7 @@ enemy|n.|敌人；仇敌；敌军
 ---
 strategy|n.|策略；战略
 tactic|n.|策略，战术
-manoeuver|n.|=manoeuvre 策略；技巧；[~s]军事演习
+maneuver|n.|=manoeuvre 策略；技巧；[~s]军事演习|The army is doing maneuvers at sea
 blueprint|n.|蓝图；行动计划
 ---
 warn|v.|警告；告诫
@@ -3834,6 +3834,8 @@ grasp|v.|抓牢 ，握紧；完全理解，全面领会
 overtake|v.|追上，超过；（情感）压倒
 follow|v.|跟随；是...的必然结果；遵循
 grip|v./n.|紧握，抓牢/紧握，抓牢；理解，了解||in the grip of 受制于；受...严重影响
+---
+mess|n./v.|混乱，脏乱/弄乱|Your books and magazines are all in a mess; go and put them in order.|messy adj. 凌乱的；难以处理的。mess up 弄乱，弄脏
 twist|v./n.|拧，扭；使缠绕/拧，扭动
 scatter|v.|撒；（使）散开
 ---
@@ -3928,7 +3930,7 @@ intervene|v.|插话；干扰；干涉
 impede|v.|妨碍，阻止
 ---
 allure|v.|吸引，引诱
-beit|v./n.|使上当发火/诱饵，诱惑物
+bait|v./n.|使上当发火/诱饵，诱惑物|He is known for baiting his opponents. 众所周知，他善于激怒对手
 induce|v.|引诱，劝说
 tempt|v.|引诱，诱惑，怂恿
 ---
@@ -4242,7 +4244,7 @@ hypertension|n.|高血压
 paralyse|v.|=paralyze 使麻痹；使瘫痪；使无助
 ---
 dizzy|adj./v.|头晕目眩的；眩晕的/使眩晕
-insame|adj.|患精神病的；疯狂的
+insane|adj.|患精神病的；疯狂的|His must insane to drive his car so fast|an insane asylum 精神病院
 insomnia|n.|失眠；失眠症
 ---
 allergy|n.|敏感症；过敏性
@@ -4285,7 +4287,7 @@ overwork|n./v.|过度操劳；过度工作/（使）过度工作
 tire|v.|（使）感到疲劳；厌烦
 exhaust|v.|使精疲力竭；用完；耗尽
 fatigue|n./v.|疲劳/（使）疲劳
---
+---
 faint|adj./v.|模糊的；微弱的；虚弱的/晕倒
 feeble|adj.|虚弱的；无力的；微弱的
 weary|adj.|疲倦的；厌烦的
@@ -4526,11 +4528,11 @@ frown|n./v.|皱眉；不悦/皱眉；表示不悦
 rage|n.|盛怒；狂怒|My father was in a rage last night|be all the rage 非常流行；风靡一时。in a rage 怒气冲冲。road rage 路怒
 irritate|v.|激怒；使急躁；刺激
 hate|v.|恨；憎恨；不喜欢
-hetred|n.|憎恶；憎恨；仇恨
+hatred|n.|憎恶；憎恨；仇恨|His words stirred up my hatred. 他的话激起了我的仇恨
 ---
 nuisance|n.|讨厌或麻烦的人或午||Commit No Nuisance 禁止随地小便
 disgust|v./n.|使厌恶；使作呕/厌恶
-veks|v.|使烦恼；使恼火
+vex|v.|使烦恼；使恼火|She was vexed at her failure. 她因失败而恼火
 harass|v.|烦扰
 ---
 bore|v./n.|烦扰；钻孔/讨厌的人；令人生厌的事
