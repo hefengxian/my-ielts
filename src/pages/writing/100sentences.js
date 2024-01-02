@@ -153,6 +153,20 @@ const sentences = [
     chatgpt: 'The media attracts viewers by exaggerating the pain of victims',
     remark: '',
   },
+  {
+    no: 23,
+    sentence: '基因工程能让人们培养新品种农作物',
+    translationFromBook: 'Genetic engineering allows people to nurture crop varieties',
+    chatgpt: 'Genetic engineering allows people to cultivate varieties of crops',
+    remark: 'nurture v./n. 培养，促进，怀、抱有/教育，培育',
+  },
+  {
+    no: 24,
+    sentence: '公司应该给有子女的女员工提供产假和其他帮助',
+    translationFromBook: 'Companies should provide working mothers with maternity leave and other forms of support',
+    chatgpt: 'The company should provide maternity leave and other assistance for female employees with children',
+    remark: 'maternity leave 产假',
+  },
 
   {
     no: '',
