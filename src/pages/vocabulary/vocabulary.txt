@@ -2123,7 +2123,7 @@ wardrobe|n.|衣柜；（某人的）全部服装
 overall|n./adj.|（英）（工作时穿的）罩衣；全面的
 overcoat|n.|大衣
 robe|n.|长袍；浴袍
-gown|n.|长外衣；女礼服|She put on her silk gown and went to he ball|ball n. 除了球还有舞会的意思
+gown|n.|长外衣；女礼服|She put on her silk gown and went to the ball|ball n. 除了球还有舞会的意思
 ---
 sweater|n.|毛衣；线衣
 jacket|n.|夹克衫
