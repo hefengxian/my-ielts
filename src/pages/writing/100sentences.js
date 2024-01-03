@@ -157,7 +157,7 @@ const sentences = [
     no: 23,
     sentence: '基因工程能让人们培养新品种农作物',
     translationFromBook: 'Genetic engineering allows people to nurture crop varieties',
-    chatgpt: 'Genetic engineering allows people to cultivate varieties of crops',
+    chatgpt: 'Genetic engineering allows people to cultivate new varieties of crops',
     remark: 'nurture v./n. 培养，促进，怀、抱有/教育，培育',
   },
   {
@@ -166,6 +166,20 @@ const sentences = [
     translationFromBook: 'Companies should provide working mothers with maternity leave and other forms of support',
     chatgpt: 'The company should provide maternity leave and other assistance for female employees with children',
     remark: 'maternity leave 产假',
+  },
+  {
+    no: 25,
+    sentence: '不健康的生活方式让人们处于生病的危险制之中',
+    translationFromBook: 'An unhealthy lifestyle may put people at risk of illness',
+    chatgpt: 'The unhealthy lifestyle puts people at risk of illness',
+    remark: '',
+  },
+  {
+    no: 26,
+    sentence: '奖学金可以鼓励更多的学生去学习研究生课程',
+    translationFromBook: 'Government grants could encourage more students to take postgraduate courses',
+    chatgpt: 'Scholarships can encourage more students to pursue graduate-level/postgraduate studies',
+    remark: '',
   },
 
   {
