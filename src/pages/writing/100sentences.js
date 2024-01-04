@@ -181,6 +181,20 @@ const sentences = [
     chatgpt: 'Scholarships can encourage more students to pursue graduate-level/postgraduate studies',
     remark: '',
   },
+  {
+    no: 27,
+    sentence: '社区改造为罪犯提供了获得职业技能的机会',
+    translationFromBook: 'Community service provides offenders with opportunities to acquire transferable skills',
+    chatgpt: 'The community redevelopment provides opportunities for criminals to acquire vocational skills',
+    remark: '',
+  },
+  {
+    no: 28,
+    sentence: '法律应该将醉驾定为刑事犯罪',
+    translationFromBook: 'Legislation should make drink driving a criminal offense/offence',
+    chatgpt: 'Laws should classify drunk driving as a criminal offense/offence',
+    remark: '',
+  },
 
   {
     no: '',
