@@ -15,7 +15,7 @@ mantle|n./v.|地幔；斗篷；披风；覆盖|Parents often use mantles for the
 ---
 longitude|n.|经度
 latitude|n.|维度
-horizon|n.|地平线；眼界；见识
+horizon|n.|地平线；[~s]眼界；见识||horizontal adj. 水平的。broaden sb.'s horizons 开阔眼界
 altitude|n.|海拔；高度
 ---
 disaster|n.|灾难|There was a great flood disaster in East China|a disaster film/movie 灾难片
@@ -102,7 +102,7 @@ Atlantic|n.|大西洋
 pacific|adj./n.|平静的；平和的；太平洋的；太平洋|What a beautiful and pacific place this is|pacify v. 平息；安抚；使平静
 ---
 ocean|n.|海洋；洋|These creatures live in the depth of the Pacific Ocean|an ocean of/oceans of 大量
-marine|adj./n.|海洋的；海生的；海事的；水兵|It is true that a lot of people like marine plants as their food|a marine product 海产品；船用品
+marine|adj./n.|海洋的；海生的；海事的/水兵|It is true that a lot of people like marine plants as their food|a marine product 海产品；船用品
 navigation|n.|航海；航行|Navigation is a game for brave people|navigator n. 航海家；领航员
 ---
 gulf|n.|海湾
@@ -114,7 +114,7 @@ tide|n.|趋势；潮流；潮汐|The gravitational attraction between the moon a
 current|n.|水流；潮流；电流；气流|He was swept away by the current
 ---
 brook|n.|小河；溪
-stream|n./v.|小河；溪；流；流动；流出
+stream|n./v.|小河；溪；流；流动；流出|On either bank of the stream stand rows of willow trees|willow n. 垂柳
 source|n.|河的源头；根源
 shallow|adj.|浅的；肤浅的；浅薄的
 ---
@@ -153,12 +153,12 @@ humid|adj.|潮湿的；湿热的
 ---
 snowy|adj.|下雪多的；被雪覆盖的
 frost|n.|霜；霜冻；严寒
-hail|n./v.|冰雹；赞扬；招呼；下冰雹
+hail|n./v.|冰雹/赞扬；招呼；下冰雹
 thaw|v./n.|解冻；融解；融化/解冻时期|The sun thawed the ice and melted the snow|thaw sth./out 使...解冻；使...变暖
 ---
 chill|v./n.|使变冷；使恐惧/寒冷；害怕|The bad news cast a chill over the whole family|chilly adj./寒冷的；chill enthusiasm 使热情冷却
 freeze|v./n.|结冰；霜冻；严寒期
-frigid|adj.|寒冷的|Hohhot is a frigid city in the winter|the frigid zones 寒带
+frigid|adj.|寒冷的|Hohhot(呼和浩特) is a frigid city in the winter|the frigid zones 寒带
 tremble|v./n.|战栗；颤抖
 shiver|v.|颤抖；哆嗦；发抖|She was shivered because she was worried and afraid|shiver with cold 冻的发抖
 ---
@@ -172,16 +172,16 @@ sprinkle|v./n.|撒；下小雨/少量；小雨|We've only had a few sprinkles of
 rainbow|n.|彩虹
 shower|n.|阵；阵雨；淋浴|The weatherman predicts showers this afternoon
 ---
-Celsius|adj./n.|摄氏的/摄氏温度
-temperature|n.
-forecast|n./v.
+Celsius|adj./n.|摄氏的/摄氏温度||Farhrenheit adj./n. 华氏的/华氏温度
+temperature|n.|气温；体温；温度||take sb.'s temperature 给...量体温
+forecast|n./v.|预测；预报/预测；预言
 ---
 peak|n./v.|山峰；顶点；达到最大值
-mount|v./n.|渐渐增加；爬上；登上；山
-mountain|n.
-range|n.|山脉；范围
+mount|v./n.|渐渐增加；爬上；登上/山
+mountain|n.|山，山岳，高山||mountainous adj. 多山的
+range|n.|山脉；范围||in the range of 在...范围内；在...射程内
 ---
-ridge|n./v.|山脊；山脉；使隆起
+ridge|n./v.|山脊；山脉/使隆起
 slope|v./n.|倾斜；有坡度；山坡；斜坡
 valley|n.|山谷；溪谷
 hillside|n.|小山的山腰；山坡
@@ -225,11 +225,11 @@ contaminate|v.|污染；弄脏
 geology|n.|地质学；地质状况
 border|n./v.|边界；边界地区；镶边；和...毗邻；形成...边界
 margin|n.|边缘；页边空白；余地|There is no margin for error in our plan|allow a greater margin of 允许有更大的余地
-fringe|n./adj.|边缘；刘海；非主要的；而是次要的|We feel it's pretty good and we also offer some good fringe benefits
+fringe|n./adj.|边缘；刘海/非主要的；次要的|We feel it's pretty good and we also offer some good fringe benefits
 ---
 plate|n.|板块；盘
 debris|n.|碎片；残骸
-crack|v./n.|破裂；发出爆裂声；裂缝；缝隙|The door opened just a crack|cause a crack 弄出裂缝
+crack|v./n.|破裂；发出爆裂声/裂缝；缝隙|The door opened just a crack|cause a crack 弄出裂缝
 gap|n.|缺口；裂缝；差距；空白
 ---
 splendid|adj.|极好的；壮观的|You're all doing a splendid job; keep up the good work|a splendid chance极好的机会
@@ -240,8 +240,8 @@ super|adj.
 interesting|adj.
 dramatic|adj.|戏剧的；引人入胜的
 ---
-wilderness|n.|荒野
-desert|n./v.|沙漠；遗弃|The baby's mother deserted him soon after giving birth|a cultural desert 文化沙漠
+wilderness|n.|荒野|From his attic window, he looked out over a beautiful wildernes|wild adj. 野生的；荒芜的。 attic 阁楼；顶楼
+desert|n./v.|/ˈdez.ət/ 沙漠/ /dɪˈzɜːt/遗弃|The baby's mother deserted him soon after giving birth|a cultural desert 文化沙漠
 deforest|v.|毁掉...深林||deforestation n. 毁林，滥伐深林
 ---
 barren|adj.|贫瘠的；荒芜的；不结果实的
@@ -264,7 +264,7 @@ sunshine|n.|阳光；日光
 shade|n./v.|阴影部分；背阴处；给...遮挡（光线）
 shadow|n.|影子
 ---
-vapour|n.|=vapor 蒸汽；水汽
+vapour|n.|=vapor 蒸汽；水汽||与 steam 的区别是，steam 一般指的是水蒸气，vapor 泛指蒸汽，比如 mercury vapor 汞蒸汽
 evaporate|v.|使蒸发；消失
 circulate|v.|循环；流通；传播
 precipitate|v.|凝结；沉淀|Clouds usually precipitate as rain or snow|precipitation n. 沉淀；降水量；陡然下落
