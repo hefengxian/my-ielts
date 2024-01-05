@@ -195,6 +195,20 @@ const sentences = [
     chatgpt: 'Laws should classify drunk driving as a criminal offense/offence',
     remark: '',
   },
+  {
+    no: 29,
+    sentence: '乡村地区给人们提供远离现代生活的压力和噪声的机会',
+    translationFromBook: 'Rural areas provide people with opportunities to escape pressure and noises of modern life',
+    chatgpt: 'Rural areas provide people with opportunities to escape pressues and noise of modern life —— 和书的答案只是复数用的词是 pressure',
+    remark: 'pressure 和 noise 都是可数又不可数，ChatGPT 表示都可以用',
+  },
+  {
+    no: 30,
+    sentence: '人口老龄化促使国家提高法定退休年龄（statutory retirement age）',
+    translationFromBook: 'The ageing population has prompted countries to raise statutory retirement age',
+    chatgpt: 'The aging population is prompting the country to raise statutory retirement age',
+    remark: 'ageing 和 aging 这两种拼写都可以',
+  },
 
   {
     no: '',
