@@ -3333,26 +3333,26 @@ instruct|v.|指导；讲授；通知；命令
 +++
 violence|n.|暴力
 conflict|n./v.|斗争，冲突/冲突
-raid|n./v.|突袭；突然搜查
-enormity|n.|巨大；滔天大罪
+raid|n./v.|突袭；突然搜查|We launched a bombing raid on enemy bases.|carry out a raid 实施突然袭击
+enormity|n.|巨大；滔天大罪|The enormity of the crime has shocked even experienced policeman|the enormity of the task 任务的艰巨性
 ---
-campaign|n./v.|战役；（社会、政治）运动/参加（或领导）运动
+campaign|n./v.|战役；（社会、政治）运动/参加（或领导）运动||orginze a compaign
 battle|n./v.|战斗，战役/与...战斗
 struggle|v./n.|挣扎；奋力；奋斗
 ---
 explosion|n.|爆发；迸发；爆炸；激增
-bombard|v.|轰击，轰炸；连珠炮般指纹（或批评）
+bombard|v.|轰击，轰炸；连珠炮般指纹（或批评）|The speaker was bombarded with questions
 bomb|n./v.|炸弹/轰炸
 ---
-blast|n./v.|爆炸/爆炸，炸毁
-burst|v./n.|爆裂，展开/迸发，爆裂
-spark|n.|火花，火星
+blast|n./v.|爆炸/爆炸，炸毁|It's thought that the blast occurred when volatile chemicals exploded.|volatile adj. 不稳定的；易变的；易怒的，喜怒无常的；（液体或固体）易挥发的，易气化的
+burst|v./n.|爆裂，展开/迸发，爆裂||go burst 破产。burst on 突然在...出现
+spark|n.|火花，火星|A single spark can start prairie fire. 星星之火可以燎原|prairie n.（加拿大和美国北部的）大草原
 twinkle|n./v.|闪烁，闪耀
 ---
 gunpowder|n.|火药
 tank|n.|坦克；罐，槽，缸
-cannon|n.|大炮，加农炮
-missile|n.|导弹；投掷物
+cannon|n.|大炮，加农炮||fire a cannon 开炮
+missile|n.|导弹；投掷物|A hand-grenade is a missile weapon 手榴弹是一种投掷武器|fire a missile 发射导弹
 ---
 weapon|n.|武器；兵器；手段
 pistol|n.|手枪
@@ -3360,49 +3360,50 @@ rifle|n.|步枪
 bullet|n.|子弹
 ---
 target|n.|靶子；目标
-deflect|v.|（使）偏斜，（使）偏转；转移
-mission|n.|使命；重要任务
+deflect|v.|（使）偏斜，（使）偏转；转移|The bullet struck a wall and deflected from it's course|deflection n. 偏转；偏斜
+mission|n.|使命；重要任务；传教团||missionary n. 传教士
 ---
 flame|n.|火焰；强烈的情感
-flare|n./v.|（闪耀的）火光；闪光信号灯/闪耀
-glitter|v./n.|闪烁；闪现/发光小物
-glow|v./n.|发出微弱稳定的光/微弱稳定的光
+flare|n./v.|（闪耀的）火光；闪光信号灯/闪耀||a flare of anger 怒气的爆发
+glitter|v./n.|闪烁；闪现/发光小物|The diamond ring on her finger glittered in the moonlight|glittery adj. 闪闪发亮的
+glow|v./n.|发出微弱稳定的光/微弱稳定的光|Maple leaves glowed red in the sunlight 枫叶在阳光里闪耀着红光
 ---
 blade|n.|刃；锋；（螺旋桨的）叶片
-sword|n.|刀；剑
+sword|n.|刀；剑||draw a sword 拔剑
 ax|n.|斧头
 hammer|n./v.|锤，榔头/用锤击
 ---
 bow|n.|弓；蝴蝶结
-arrow|n.|箭头，箭
+arrow|n.|箭头，箭|The arrow pierced her shoulder|pierce v. 刺入；刺穿
 spear|n./v.|矛；标枪/用尖物刺穿
 helmet|n.|头盔
 shield|n./v.|盾；防护物/保护
+---
 equip|v.|配备，装备||be equipped for 准备好，对...有所准备。be equipped with 装备有
 prepare|v.|使预备好，为...做准备
 provide|v.|供给；提供
 deploy|v.|部署
 ---
-hit|v./n.|打，击，碰撞/打，击中
-beat|v./n.|打；打败；（心脏等）跳动/节拍；击鼓声
+hit|v./n.|打，击，碰撞/打，击中||hit a level 达到一个水平
+beat|v./n.|打；打败；（心脏等）跳动/节拍；击鼓声||beat a record 打破纪录
 strike|v./n.|打，击，突击；罢工/罢工；打击|The strike has delivered a heavy blow to the management 这场罢工给了资方一个沉重的打击|strike against 为反对...而罢工
 ---
-punch|n./v.|打孔机；重拳打击/给...打孔；拳打
-chop|v.|切碎（食物）；劈（木头）
+punch|n./v.|打孔机；重拳打击/给...打孔；拳打|Spectators cheered at his KO punch 观众为他击倒对手的一拳而喝彩|punch in/out 上下班打卡。punch sb. on 击打在某人的...上
+chop|v.|切碎（食物）；劈（木头）||chop away 砍掉，切掉
 stab|v./n.|刺；戳
 ---
-dilemma|n.|（进退两难的）困境
-plight|n.|困境；誓约
-pitfall|n.|陷阱；危险；困难
-conspiracy|n.|阴谋；密谋；合谋
+dilemma|n.| /daɪˈlem.ə/ /dɪˈlem.ə/（进退两难的）困境
+plight|n.|困境；誓约|This article drew attention to the plight of the unemployed
+pitfall|n.|陷阱；危险；困难|The lawer gave me advice on how to avoid the pitfall of the legal process
+conspiracy|n.|阴谋；密谋；合谋||conspire v. 密谋
 ---
-destitute|adj.|赤贫的；一无所有的，缺乏
+destitute|adj.|赤贫的；一无所有的，缺乏|The floods left many people destitute 水灾使很多人一无所有|be destitute of 缺乏
 famine|n.|饥荒|Many people died of famine that year
-starve|v.|使挨饿；饿死
+starve|v.|使挨饿；饿死||starvation n. 饥饿，极度饥饿
 ---
-deprive|v.|剥夺
-seize|v.|抓住；夺取
-pursue|v.|追赶
+deprive|v.|剥夺||deprivation n. 剥夺，丧失。~ sb. of sth. 剥夺某人的某事物
+seize|v.|抓住；夺取||seize on 抓住，利用。seize a moment 抓住时机
+pursue|v.|追赶||pursuit n. 追赶，追求，爱好。pursue pleasure 寻欢作乐
 ---
 threat|n.|威胁；恐吓||threaten v. 威胁；恐吓
 offend|v.|冒犯；犯罪；违反
@@ -3410,23 +3411,23 @@ aggressive|adj.|侵略的；好斗的
 ---
 invade|v.|入侵；侵略；侵扰
 trespass|v./n.|非法入侵/罪过，非法入侵
-intrude|v.|闯入，侵入，侵扰
+intrude|v.|闯入，侵入，侵扰|Employers should not intrude into the private lives of their employees
 violate|v.|违反；违背；侵犯；搅扰
 ---
-attack|v./n.|攻击；进攻
-assault|n./v.|猛攻；（身体）侵犯/袭击
-challenge|n./v.|挑战/向...挑战
+attack|v./n.|攻击；进攻||~ sb. by words 用语言抨击某人
+assault|n./v.|猛攻；（身体）侵犯/袭击||an ~ on/against 对...的（人身）侵犯
+challenge|n./v.|挑战/向...挑战||challenging adj. 有挑战性的；挑衅的。face a ~ 遇到挑战。accept a ~ 接受挑战
 ---
-siege|n.|包围，围攻
+siege|n.|包围，围攻|The TV station has been under siege from irate viewers phoning in to complain 电视被愤怒的观众围攻，一直打电话来抱怨
 surround|v.|包围；环绕
-enclose|v.|围住；包围；把...封入信封；随信附上
+enclose|v.|围住；包围；把...封入信封；随信附上||~ sth. with a letter 随信附上某物
 ---
 pause|n./v.|暂停，停顿
-halt|v./n.|（使）停止/停止
-cease|v.|终止；停止
+halt|v./n.|（使）停止/停止|The cab rolled to a halt before the hotel 计程车缓缓地停在了酒店前|halter n. 🐴的缰绳。halt the advance of history 阻挡历史的前进
+cease|v.|终止；停止|At last, they ceased working for lack of capital 他们最终由于缺乏资金停工了|~ fire 停火
 ---
 oppose|v.|反对，抵制
-oppress|v.|压迫；压制；使压抑
+oppress|v.|压迫；压制；使压抑||oppressive adj. 压制的，压迫的
 counter|v./adv./n.|抵消；反击；反驳/相反的/柜台；工作台
 ---
 deter|v.|阻止；威慑住
@@ -3434,8 +3435,8 @@ forbid|v.|禁止；阻止
 prohibit|v.|禁止；不允许
 prevent|v.|预防，防止；阻止，阻碍
 ---
-revolt|n./v.|叛乱；反抗
-betray|v.|背叛；出卖；（无意中）泄露；流露出
+revolt|n./v.|叛乱；反抗|Autocracy often causes the people to revolt 独裁统治常常引起人民的反抗|revoltive adj. 厌恶的，反感的。rise in revolt 发生叛乱
+betray|v.|背叛；出卖；（无意中）泄露；流露出||betrayal n. 背叛，出卖
 treason|n.|叛国罪；通敌罪
 ---
 rebel|n./v.|反叛者；叛逆者/造反；反抗；反对
@@ -3443,28 +3444,28 @@ traitor|n.|叛徒，卖国贼
 patriot|n.|爱国者
 ---
 blame|v./n.|责备，指责/（对坏事应负的）责任
-reproach|n./v.|责备；指责
+reproach|n./v.|责备；指责|His manners are beyond reproach 他的举止无可指摘|bring reproach on oneself 让自己丢脸
 evidence|n.|证据；根据
 proof|n.|证明，证据
 ---
-terror|n.|恐惧；恐慌
+terror|n.|恐惧；恐慌||terrorist n. 恐怖分子。in terror 惊慌地
 terrible|adj.|可怕的；糟糕的；极严重的
 terrific|adj.|极好的；很大的；很强的
 horrible|adj.|可怕的；恐怖的
 ---
 alarm|n.|惊恐；犹豫；报警；报警器
-dread|v./n.|极为害怕；非常担心/恐惧忧愁
+dread|v./n.|极为害怕；非常担心/恐惧忧愁|I dread to think what will happen if she finds out the truth|dreadful adj. 可怕的，糟透的
 frighten|v.|使害怕；使惊恐
 ---
-tension|n.|紧张；拉紧状态||tense adj. 绷紧的；紧张的。ease the tension 缓和紧张局势
+tension|n.|紧张；拉紧状态|Tension mounted as we waited for the exam results to be published 在我们等待公布考试成绩时，气氛越来越紧张|tense adj. 绷紧的；紧张的。ease the tension 缓和紧张局势
 turbulent|adj.|动荡的；混乱的；汹涌的||turbulence n. 动荡；骚乱。a turbulent period 动荡时期
-turmoil|n.|混乱，骚乱
+turmoil|n.|混乱，骚乱|The demostration turned into turmoil 示威演变成了骚乱
 scenario|n.|可能发生的情况；剧情梗概；脚本
 occasion|n.|场合；时机；机会|A wedding is a very happy occasion|occasionally adv. 偶尔；时而。on occasion 有时；不时
 ---
 limit|n./v.|限度；界限/限制，限定
 boundary|n.|分界线，边界；界限
-rein|n./v.|缰绳；控制权/用缰绳勒马；管束
+rein|n./v.|缰绳；控制权/用缰绳勒马；管束|The hourse responds to the slightest pull on the rein|give free rein to 放任，对...不加约束
 ---
 compete|v.|竞争；参加（比赛）
 contest|v./n.|争取赢得；争辩/竞争；比赛||contestant n. 参赛者。a contest with 与...的竞争
@@ -3481,18 +3482,18 @@ blueprint|n.|蓝图；行动计划
 ---
 warn|v.|警告；告诫
 compel|v.|强迫；迫使
-oblige|v.|迫使；强迫；帮忙||obligation n. 义务；责任
+oblige|v.|迫使；强迫；帮忙|The law obliges parent to send their children to school|obligation n. 义务；责任
 ---
 order|n./v.|次序；整齐/命令
 protest|n./v.|抗议；申明/抗议；申辩
-refute|v.|反驳；驳斥；否认
+refute|v.|反驳；驳斥；否认|He had hardly finished when someone rose to refute his points 他还没有说完，就有人起来驳斥他的观点|refute sb.'s argument/claim 驳斥某人的论点/说法
 ---
 might|n.|力量，威力
 force|n./v.|力量；武力/强迫；迫使
 reinforce|v.|增援；增强；加强；加固
 ---
-impair|v.|削弱；妨碍
-mitigate|v.|减轻；缓和||mitigation n. 缓和；减轻
+impair|v.|削弱；妨碍|If a witness is allowed to withhold information, it impairs the legal process 如果允许证人知情不报，会妨碍法律程序
+mitigate|v.|减轻；缓和|Nothing could mitigate the cruelty with which she had treated him 她对他太残暴了，没有什么能为她开脱|mitigation n. 缓和；减轻
 comfort|n./v.|安慰；舒适/缓和抚慰
 ---
 event|n.|事件；大事；公开活动
@@ -3501,10 +3502,10 @@ happen|v.|发生；出现；碰巧
 occur|v.|发生，出现||occurrence n. 发生，出现，发生的事情
 ---
 savage|adj./v./n.|野蛮的；凶狠的/凶狠的攻击/野蛮人
-reckless|adj.|鲁莽的；不计后果的
-fierce|adj.|凶猛的；猛烈的；（天气或温度）恶劣的
+reckless|adj.|鲁莽的；不计后果的|He is very reckless when he is drunk|recklessness n. 不顾后果，鲁莽。be reckless of 不注意
+fierce|adj.|凶猛的；猛烈的；（天气或温度）恶劣的|They launched a fierce attack against the enemy position 他们向敌人的阵地发起了猛烈的进攻
 ---
-foul|adj./v.|恶臭的；恶劣的；邪恶的/弄脏；对...犯规
+foul|adj./v.|恶臭的；恶劣的；邪恶的/弄脏；对...犯规|The foul weather spoiled our vacation 恶劣的天气毁了我们的假期|a foul deed 邪恶的行为
 evil|n./adj.|邪恶；祸害/邪恶的
 devil|n.|魔鬼；恶棍
 ---
@@ -3521,8 +3522,8 @@ grave|n./adj.|坟墓；死亡/庄重的；严肃的
 tomb|n.|坟墓；塚
 hell|n.|地狱；苦境
 ---
-maritime|adj.|海的，海上的，海事的
-naval|adj.|海军的
+maritime|adj.|海的，海上的，海事的|That maritime peril happened at night|maritime court 海事法庭
+naval|adj.|海军的||navy n. 海军
 fleet|n.|舰队，船队；机群，车队
 ---
 troop|n./v.|一群，一对；[~s]军队/结队前行
@@ -3538,7 +3539,7 @@ devastate|v.|毁坏，摧毁|They intended to devastate the town at a stroke|dev
 ---
 risk|n./v.|危险，风险/冒着...的危险
 adventure|n./v.|冒险，冒险尽量/去（某地）探险
-peril|n.|重大危险，险情，危险
+peril|n.|重大危险，险情，危险|Preparedness averts peril|avert v. 防止，避免。at one's (own) peril 自担风险
 catastrophe|n.|重大灾难，大祸
 collapse|n./v.|倒塌，崩溃
 ---
@@ -3555,7 +3556,7 @@ interrupt|v.|打断；中断
 retreat|n./v.|撤退；退避
 shrink|v.|退缩；缩水；（使）减少
 withdraw|v.|回收；（使）撤退；提（款）
-withstand|v.|承受；顶住；经受住
+withstand|v.|承受；顶住；经受住|The bridge is built to withstand an earthquake of 8.0 magnitude 这座桥可以经受 8 级地震|magnitude n. 巨大；重大；重要性。~ severe tests 经得住严峻的考验
 ---
 compromise|v.|妥协
 surrender|n./v.|投降；（被迫）放弃
@@ -3591,15 +3592,15 @@ owe|v.|欠；应把...归功于；欠，感激
 ---
 patrol|n./v.|巡逻，巡查
 guard|n./v.|卫兵，警卫员/看守，守卫，保卫
-camouflage|v./n.|伪装
+camouflage|v./n.|伪装||protection camouflage 防护伪装
 obstacle|n.|障碍；障碍物
-burrow|n./v.|地洞，地道/掘地洞
+burrow|n./v.|地洞，地道/掘地洞|The prairie dog stores food in its burrow|prairie dog 草原犬鼠
 ---
 spy|n./v.|间谍，特务/收集情报，从事间谍活动
 scout|n./v.|侦查员，侦察机/侦查，搜寻
 general|n./adj.|将军/总的，一般性的
 soldier|n.|战士，士兵
-veteran|n.|老兵，老手
+veteran|n.|老兵，老手|The baseball veteran loved to coach young players
 ===
 社会角色
 +++
