@@ -1,5 +1,9 @@
 const sentences = [
   {
+    no: null,
+    title: '简单的主谓宾结构',
+  },
+  {
     no: 1,
     sentence: '经常做运动会提高人的自信',
     translationFromBook: 'Regular exercise can increase one\'s self-confidence',
@@ -154,6 +158,10 @@ const sentences = [
     remark: '',
   },
   {
+    no: null,
+    title: '主语 + 及物动词 + 宾语 + 宾语补足语',
+  },
+  {
     no: 23,
     sentence: '基因工程能让人们培养新品种农作物',
     translationFromBook: 'Genetic engineering allows people to nurture crop varieties',
@@ -208,6 +216,28 @@ const sentences = [
     translationFromBook: 'The ageing population has prompted countries to raise statutory retirement age',
     chatgpt: 'The aging population is prompting the country to raise statutory retirement age',
     remark: 'ageing 和 aging 这两种拼写都可以',
+  },
+  {
+    no: null,
+    title: '主语 + 及物动词 + 间接宾语 + 直接宾语',
+  },
+  {
+    no: 31,
+    sentence: ' 政府应该给一些城市提供资金去保护历史建筑（historic buildings）',
+    translationFromBook: 'Governments should offer some cities funds to preserve historic buildings',
+    chatgpt: 'The government should provide funds to some cities to preserve historic buildings',
+    remark: '',
+  },
+  {
+    no: null,
+    title: '被动语态',
+  },
+  {
+    no: 32,
+    sentence: '学校应该允许老师强制捣蛋的小孩离开教室',
+    translationFromBook: 'Teachers should be permitted to use force to remove the disruptive children from the classroom',
+    chatgpt: 'The troublesome children should be allowed to remove from the classroom by the teachers',
+    remark: '',
   },
 
   {
