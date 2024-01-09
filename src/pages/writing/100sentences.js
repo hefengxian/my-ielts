@@ -239,6 +239,21 @@ const sentences = [
     chatgpt: 'The troublesome children should be allowed to remove from the classroom by the teachers',
     remark: '',
   },
+  {
+    no: 33,
+    sentence: '农村的失业问题在某种程度上可以通过城乡转移（rural-to-urban shift）来解决',
+    translationFromBook: 'Unemployment in rural areas can be addressed partially by the rural-to-urban shift',
+    chatgpt: 'The issue of unemployment in rural areas can be addressed to some extent through rural-to-urban shift',
+    remark: 'in/of rural areas 这里的区别 in 强调位置 of 强调属性、特点。address/solve 前者强调对问题处理的过程比一定解决问题，后者强调处理问题的方案彻底解决问题。to some extent/partially/partly 可以一定程度互换',
+  },
+  {
+    no: 34,
+    sentence: '高层建筑有时候被认为是影响市容的东西（eyesore）',
+    translationFromBook: 'High-rise buildings are sometimes regarded as eyesores of the city',
+    chatgpt: 'High-rise buildings are sometimes considered as eyesores that impact the cityscape',
+    remark: 'eyesore n. （公共场所的）不顺眼的东西，难看的东西。consider/regard as 前者强调主观、个人的看法，后者强调正式、客观的看法',
+  },
+
 
   {
     no: '',
