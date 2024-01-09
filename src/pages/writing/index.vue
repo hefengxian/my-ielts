@@ -58,21 +58,26 @@ import sentences from './100sentences'
                 </thead>
                 <tbody class="bg-white dark:bg-gray-800">
                   <tr v-for="item of sentences" :key="item.no" class="text-sm text-gray-900 dark:text-white">
-                    <td class="p-4">
-                      {{ item.no }}
-                    </td>
-                    <td class="p-4">
-                      {{ item.sentence }}
-                    </td>
-                    <td class="p-4">
-                      {{ item.translationFromBook }}
-                    </td>
-                    <td class="p-4">
-                      {{ item.chatgpt }}
-                    </td>
-                    <td class="p-4">
-                      {{ item.remark }}
-                    </td>
+                    <template v-if="item.no == null">
+                      <td colspan="5" class="px-4 pt-4 font-bold text-xl">{{ item.title }}</td>
+                    </template>
+                    <template v-else>
+                      <td class="p-4">
+                        {{ item.no }}
+                      </td>
+                      <td class="p-4">
+                        {{ item.sentence }}
+                      </td>
+                      <td class="p-4">
+                        {{ item.translationFromBook }}
+                      </td>
+                      <td class="p-4">
+                        {{ item.chatgpt }}
+                      </td>
+                      <td class="p-4">
+                        {{ item.remark }}
+                      </td>
+                    </template>
                   </tr>
                 </tbody>
               </table>
