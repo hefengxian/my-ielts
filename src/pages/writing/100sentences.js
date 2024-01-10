@@ -253,6 +253,20 @@ const sentences = [
     chatgpt: 'High-rise buildings are sometimes considered as eyesores that impact the cityscape',
     remark: 'eyesore n. （公共场所的）不顺眼的东西，难看的东西。consider/regard as 前者强调主观、个人的看法，后者强调正式、客观的看法',
   },
+  {
+    no: 35,
+    sentence: '太空科技的投资应该获得政府的支持',
+    translationFromBook: 'The investment in space technology should be supported by the government',
+    chatgpt: 'Space technology investments should be supported by the government',
+    remark: '对于可数名词要么是复数要么加冠词。investment in 表示对某领域的投资属于习惯用法所以尽量用这个介词',
+  },
+  {
+    no: 36,
+    sentence: '历史文物因为其历史重要性而被保存',
+    translationFromBook: 'Historic relics should be preserved for their historic significance',
+    chatgpt: 'Historical artifacts are preserved due to their historical significance',
+    remark: '历史文物：historic relics/artifacts。历史重要性：historic significance。historic 强调历史重要性，historical 表示历史有关的',
+  },
 
 
   {
