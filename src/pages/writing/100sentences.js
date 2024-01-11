@@ -267,7 +267,20 @@ const sentences = [
     chatgpt: 'Historical artifacts are preserved due to their historical significance',
     remark: '历史文物：historic relics/artifacts。历史重要性：historic significance。historic 强调历史重要性，historical 表示历史有关的',
   },
-
+  {
+    no: 37,
+    sentence: '学校活动的设置要让孩子体会到成就感，提升他们的幸福感',
+    translationFromBook: 'Sports or other school activities can be designed to give children a sense of accomplishment and to promote their well-being',
+    chatgpt: 'A sense of achievement and an enhanced sense of happiness should be experienced by children through the arrangement of school activities',
+    remark: 'school activities/design/give/a sense of accomplishment/promote/well-bing',
+  },
+  {
+    no: 38,
+    sentence: '一些员工被鼓励去打破陈规',
+    translationFromBook: 'Some employees are encouraged to break the mould',
+    chatgpt: 'Some employees are encouraged to break conventions',
+    remark: 'mould/mold 霉菌、模子、性格的意思；break the mould/mold 打破常规',
+  },
 
   {
     no: '',
