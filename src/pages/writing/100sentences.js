@@ -281,6 +281,21 @@ const sentences = [
     chatgpt: 'Some employees are encouraged to break conventions',
     remark: 'mould/mold 霉菌、模子、性格的意思；break the mould/mold 打破常规',
   },
+  {
+    no: 39,
+    sentence: '因为堵车，上下班的时间变得更长了',
+    translationFromBook: 'Commuting time has been prolonged because of traffic congestion',
+    chatgpt: 'Due to traffic congestion, the commuting time has been extended',
+    remark: 'commute v./n. 上下班往返，通勤；变换，改变（支付方式）；减刑/通勤。commuting time 通勤时间。prolong v. 延长，拖延。have/has been done 现在完成时的被动',
+  },
+  {
+    no: 40,
+    sentence: '电脑技能可以运用到学习和工作中',
+    translationFromBook: 'Computer skills can be applied in their studies as well as their working lives',
+    chatgpt: 'Computer skills can be applied to learning and work',
+    remark: 'computer skills 电脑技能。apply 运用，介词用 in。as well (as) = in addition (to) 除什么之外，也，和',
+  },
+
 
   {
     no: '',
