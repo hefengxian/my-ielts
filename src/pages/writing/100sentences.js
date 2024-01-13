@@ -295,15 +295,29 @@ const sentences = [
     chatgpt: 'Computer skills can be applied to learning and work',
     remark: 'computer skills 电脑技能。apply 运用，介词用 in。as well (as) = in addition (to) 除什么之外，也，和',
   },
-
-
   {
+    no: 41,
+    sentence: '大部分的环境破坏都可以归咎于人类的活动',
+    translationFromBook: 'Most of environmental degradation is attributed to human activities.',
+    chatgpt: 'Most environmental damage can be attributed to human activities.',
+    remark: 'degradation n. 玷污，损害，危害；落魄，降低身份，丢脸。environmental degradation 环境恶化。attribute sth. to sb./sth. 动词短语：把...归因于；认为...由...生产；认为...是...所为',
+  },
+  {
+    no: 42, 
+    sentence: '许多孩子每天接触暴力内容',
+    translationFromBook: 'Many children are exposed to violent content every day',
+    chatgpt: '第一次给的和书上的一模一样，强行换一句之后：Many children are exposed to violent content on a daily basis',
+    remark: 'expose sb. to sth. 使...遭受（有害或不愉快的遭受）；使...暴露于（险境）。另外要注意 everyday adj. 日常的，普通的和 every day 不一样',
+  },
+
+
+/*   {
     no: '',
     sentence: '',
     translationFromBook: '',
     chatgpt: '',
     remark: '',
-  },
+  }, */
 ]
 
 export default sentences
