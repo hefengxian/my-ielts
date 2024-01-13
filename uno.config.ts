@@ -35,6 +35,10 @@ export default defineConfig({
     presetIcons({
       scale: 1.2,
       warn: true,
+      collections: {
+        carbon: () => import('@iconify-json/carbon/icons.json').then(i => i.default),
+        simpleIcons: () => import('@iconify-json/simple-icons/icons.json').then(i => i.default),
+      }
     }),
     presetWebFonts({
       provider: 'bunny',
