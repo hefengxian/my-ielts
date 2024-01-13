@@ -37,7 +37,7 @@ import sentences from './100sentences'
           <div class="inline-block min-w-full align-middle">
             <div class="overflow-hidden shadow sm:rounded-lg">
               <table class="min-w-full divide-y divide-gray-200 dark:divide-gray-600">
-                <thead class="bg-gray-50 dark:bg-gray-700">
+               <!--  <thead class="bg-gray-50 dark:bg-gray-700">
                   <tr>
                     <th class="p-4 w-0 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
                       #
@@ -48,37 +48,43 @@ import sentences from './100sentences'
                     <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
                       翻译
                     </th>
-                    <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
-                      ChatGPT
-                    </th>
+                  
                     <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
                       备注
                     </th>
                   </tr>
-                </thead>
-                <tbody class="bg-white dark:bg-gray-800">
-                  <tr v-for="item of sentences" :key="item.no" class="text-sm text-gray-900 dark:text-white">
+                </thead> -->
+                <tbody class="bg-white dark:bg-gray-800 border-b-1">
+                  <template v-for="item of sentences" :key="item.no" class="text-sm text-gray-900 dark:text-white">
                     <template v-if="item.no == null">
-                      <td colspan="5" class="px-4 pt-4 font-bold text-xl">{{ item.title }}</td>
+                      <tr class="border-t-1 border-x-1">
+                        <td colspan="5" class="p-4 font-bold text-xl">{{ item.title }}</td>
+                      </tr>
                     </template>
                     <template v-else>
-                      <td class="p-4">
-                        {{ item.no }}
-                      </td>
-                      <td class="p-4">
-                        {{ item.sentence }}
-                      </td>
-                      <td class="p-4">
-                        {{ item.translationFromBook }}
-                      </td>
-                      <td class="p-4">
-                        {{ item.chatgpt }}
-                      </td>
-                      <td class="p-4">
-                        {{ item.remark }}
-                      </td>
+                      <tr class="border-t-1">
+                        <td class="p-4 border-x-1" rowspan="2">
+                          {{ item.no }}
+                        </td>
+                        <td class="p-4 border-r-1" rowspan="2">
+                          {{ item.sentence }}
+                        </td>
+                        <td class="p-4 border-r-1 border-b-1 flex items-center">
+                          <div class="mr-4" title="来自书上标准答案"><i class="i-carbon-book block"></i></div>
+                          <div>{{ item.translationFromBook }}</div>
+                        </td>
+                        <td class="p-4 border-r-1 w-30%" rowspan="2">
+                          {{ item.remark }}
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="p-4 border-r-1 flex items-center">
+                          <div class="mr-4" title="来自 ChatGPT"><i class="i-simple-icons-openai block"></i></div>
+                          <div>{{ item.chatgpt }}</div>
+                        </td>
+                      </tr>
                     </template>
-                  </tr>
+                  </template>
                 </tbody>
               </table>
             </div>
