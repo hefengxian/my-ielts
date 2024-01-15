@@ -309,6 +309,20 @@ const sentences = [
     chatgpt: '第一次给的和书上的一模一样，强行换一句之后：Many children are exposed to violent content on a daily basis',
     remark: 'expose sb. to sth. 使...遭受（有害或不愉快的遭受）；使...暴露于（险境）。另外要注意 everyday adj. 日常的，普通的和 every day 不一样',
   },
+  {
+    no: 43,
+    sentence: '家庭环境被认为是小孩成长最重要的影响因素',
+    translationFromBook: 'The family environment is widely thought/believed to be the most import influence on children\'s development',
+    chatgpt: 'The family environment is considered the most crucial influencing factor in child\'s upbringing',
+    remark: 'upbringing n. 抚养，养育；教育，教养',
+  },
+  {
+    no: 44,
+    sentence: '随着越来越多的年轻人参加志愿者工作，社区的凝聚力（cohesion）会加强',
+    translationFromBook: 'With an increasing number of young people participating in volunteer work, community cohesion will be enhanced',
+    chatgpt: 'As more and more young people engage in volunteer work, the cohesion of the community will be strengthened',
+    remark: '这里书上的例子前面半句算是个介词短语作状语，ChatGPT 给的前面是个状语从句，是个完整的句子',
+  },
 
 
 /*   {
