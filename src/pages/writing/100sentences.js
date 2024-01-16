@@ -323,6 +323,24 @@ const sentences = [
     chatgpt: 'As more and more young people engage in volunteer work, the cohesion of the community will be strengthened',
     remark: '这里书上的例子前面半句算是个介词短语作状语，ChatGPT 给的前面是个状语从句，是个完整的句子',
   },
+  {
+    no: 45,
+    sentence: '移民有时候被认为是对社会团结的一个威胁',
+    translationFromBook: 'Immigrants are sometimes recognized as a threat to social cohesion',
+    chatgpt: 'Immigration is sometimes considered as a thread to social cohesion',
+    remark: '社会团结：social cohesion',
+  },
+  {
+    no: null,
+    title: '主语 + 不及物动词',
+  },
+  {
+    no: 46,
+    sentence: '没有受过高等教育的年轻人只能找到低技术含量的工作',
+    translationFromBook: 'Youny people without tertiary education qualifications normally end up working in low-skilled jobs',
+    chatgpt: 'Youny people without higher education are limited to jobs with low skill requirements',
+    remark: 'tertiary adj. 第三的，第三级的；高等教育的，第三产业的 ~ education 高等教育，~ industry 第三产业。\n 在英语中，通常使用 "to" 介词来连接不及物动词。这是因为 "to" 表示方向、目标、目的等概念，而不及物动词通常需要一个目标或方向。',
+  },
 
 
 /*   {
