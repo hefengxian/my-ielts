@@ -69,16 +69,16 @@ import sentences from './100sentences'
                         <td class="p-4 border-r-1" rowspan="2">
                           {{ item.sentence }}
                         </td>
-                        <td class="p-4 border-r-1 border-b-1 flex items-center">
+                        <td class="p-4 border-b-1 flex items-center">
                           <div class="mr-4" title="来自书上标准答案"><i class="i-carbon-book block"></i></div>
                           <div>{{ item.translationFromBook }}</div>
                         </td>
-                        <td class="p-4 border-r-1 w-30%" rowspan="2">
+                        <td class="p-4 border-x-1 w-30% whitespace-pre-line" rowspan="2">
                           {{ item.remark }}
                         </td>
                       </tr>
                       <tr>
-                        <td class="p-4 border-r-1 flex items-center">
+                        <td class="p-4 flex items-center">
                           <div class="mr-4" title="来自 ChatGPT"><i class="i-simple-icons-openai block"></i></div>
                           <div>{{ item.chatgpt }}</div>
                         </td>
