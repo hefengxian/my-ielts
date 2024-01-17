@@ -341,7 +341,20 @@ const sentences = [
     chatgpt: 'Youny people without higher education are limited to jobs with low skill requirements',
     remark: 'tertiary adj. 第三的，第三级的；高等教育的，第三产业的 ~ education 高等教育，~ industry 第三产业。\n 在英语中，通常使用 "to" 介词来连接不及物动词。这是因为 "to" 表示方向、目标、目的等概念，而不及物动词通常需要一个目标或方向。',
   },
-
+  {
+    no: 47,
+    sentence: '一些人不支持转基因食品',
+    translationFromBook: 'Some people disapprove of genetically modified food',
+    chatgpt: 'Some people do not support genetically (GM) foods -> 这个句子不是不及物动词结构',
+    remark: '转基因：GM=gennetically modified。do not 和 don\'t 一般前者更适合书面更正式，意思是一样的',
+  },
+  {
+    no: 48,
+    sentence: '旅游景点竭力满足游客的需要和品味',
+    translationFromBook: 'Tourist spots endeavor to cater for tourists\' needs and tastes',
+    chatgpt: 'Tourist attractions strive to meet the needs and tastes of visitors',
+    remark: '主语+不及物动词+to do不定式\n景点：tourist spots/attractions',
+  },
 
 /*   {
     no: '',
