@@ -355,6 +355,20 @@ const sentences = [
     chatgpt: 'Tourist attractions strive to meet the needs and tastes of visitors',
     remark: '主语+不及物动词+to do不定式\n景点：tourist spots/attractions',
   },
+  {
+    no: 49,
+    sentence: '在竞争激烈的社会，有工作的成年人往往关注职业发展',
+    translationFromBook: 'In a highly competitive society, working adults usually focus on career advancement',
+    chatgpt: 'In a competitive society, working adults often focus on career development',
+    remark: 'advancement n. 发展，提高，改善',
+  },
+  {
+    no: 50,
+    sentence: '审美观是因为文化而异的',
+    translationFromBook: 'Perception of beauty differs from culture to culture',
+    chatgpt: 'Aesthetic perspectives vary with cultural differences',
+    remark: 'perception n. 认识，观念，看法；感知，感觉；感知能力，认识能力，洞察力 \nfrom culture to culture \n perspective n. （思考问题的）角度，观点，想法 \n get/keep sth in perspective 合理地评价；正确地看待',
+  },
 
 /*   {
     no: '',
