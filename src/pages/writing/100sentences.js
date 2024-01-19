@@ -303,7 +303,7 @@ const sentences = [
     remark: 'degradation n. 玷污，损害，危害；落魄，降低身份，丢脸。environmental degradation 环境恶化。attribute sth. to sb./sth. 动词短语：把...归因于；认为...由...生产；认为...是...所为',
   },
   {
-    no: 42, 
+    no: 42,
     sentence: '许多孩子每天接触暴力内容',
     translationFromBook: 'Many children are exposed to violent content every day',
     chatgpt: '第一次给的和书上的一模一样，强行换一句之后：Many children are exposed to violent content on a daily basis',
@@ -345,7 +345,7 @@ const sentences = [
     no: 47,
     sentence: '一些人不支持转基因食品',
     translationFromBook: 'Some people disapprove of genetically modified food',
-    chatgpt: 'Some people do not support genetically (GM) foods -> 这个句子不是不及物动词结构',
+    chatgpt: 'Some people do not support genetically modified (GM) foods -> 这个句子不是不及物动词结构',
     remark: '转基因：GM=gennetically modified。do not 和 don\'t 一般前者更适合书面更正式，意思是一样的',
   },
   {
