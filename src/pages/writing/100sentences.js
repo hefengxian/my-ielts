@@ -369,6 +369,34 @@ const sentences = [
     chatgpt: 'Aesthetic perspectives vary with cultural differences',
     remark: 'perception n. 认识，观念，看法；感知，感觉；感知能力，认识能力，洞察力 \nfrom culture to culture \n perspective n. （思考问题的）角度，观点，想法 \n get/keep sth in perspective 合理地评价；正确地看待',
   },
+  {
+    no: 51,
+    sentence: '因为费用的下降，航空业最近几十年发展的很快',
+    translationFromBook: 'Because of low-cost carries, the aviation industry has developed at an stounding pace over the past decades',
+    chatgpt: 'Due to the decrease in costs, the aviation industry has developed rapidly in recent decades',
+    remark: 'astounding adj. 令人震惊的；使人惊骇的。\npace n. （移动的）步速；（发生的）速度；节奏',
+  },
+  {
+    no: 52,
+    sentence: '动物实验有时候检验不出药物的副作用',
+    translationFromBook: 'Animal experiments sometimes fail to detect the undesirable side effects of drugs',
+    chatgpt: '给出的句子和书上的一样，换了一种表达之后是：At times. The use of animal experiments does not reveal the adverse effects of medications',
+    remark: 'adverse adj. 不离的；负面的；有害的',
+  },
+  {
+    no: 53,
+    sentence: '非法捕杀导致某些动物的灭亡',
+    translationFromBook: 'Some animals have died out because of illegal hunting',
+    chatgpt: 'Illegal hunting results in the extinction of certain animals',
+    remark: 'die out 逐渐消失；灭绝',
+  },
+  {
+    no: 54,
+    sentence: '电脑对人类交流技能的影响随着年龄而变化',
+    translationFromBook: 'The impact of computers on communication skills varies across ages',
+    chatgpt: 'The impact of computers on human communication skills varies with age',
+    remark: 'across 是介词，表示横跨某个区域表面；cross 是个动词',
+  },
 
 /*   {
     no: '',
