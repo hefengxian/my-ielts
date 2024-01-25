@@ -397,6 +397,38 @@ const sentences = [
     chatgpt: 'The impact of computers on human communication skills varies with age',
     remark: 'across 是介词，表示横跨某个区域表面；cross 是个动词',
   },
+  {
+    no: null,
+    title: '主系表结构',
+  },
+  {
+    no: 55,
+    sentence: '很多女孩都不愿意再男人居多的行业里（male-dominated world）找工作',
+    translationFromBook: 'Many girls are not willing to seek employment in a male-dominated world',
+    chatgpt: 'Many girls are unwilling to seek employment in male-dominated industries',
+    remark: '',
+  },
+  {
+    no: 56,
+    sentence: '学校的主要功能是给下一代传授知识（impart knowlege）',
+    translationFromBook: 'The main function of schools is to impart knowlesys to the next generation',
+    chatgpt: 'The primary function of schools is to impart knowlege to the next generation',
+    remark: 'school 是可数的所以要加复数或者冠词\nChatGPT 说 to the next generation 可以改成 for ~',
+  },
+  {
+    no: 57,
+    sentence: '艺术不属于学校的主科',
+    translationFromBook: 'The arts are not among core subject areas at school',
+    chatgpt: 'Art is not considered/regarded as a core subject in schools',
+    remark: '',
+  },
+  {
+    no: 58,
+    sentence: '因为经济前景（economic outlook）不够明朗，很多公司不太可能招聘新的职员',
+    translationFromBook: 'Because of the uncertainty about he economic outlook, many companies are unlikely to recruit new employees',
+    chatgpt: 'Due to the unclear economic outlook, many companies are less likely to hire new employees',
+    remark: '',
+  },
 
 /*   {
     no: '',
