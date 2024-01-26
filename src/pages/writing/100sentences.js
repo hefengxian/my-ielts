@@ -429,6 +429,34 @@ const sentences = [
     chatgpt: 'Due to the unclear economic outlook, many companies are less likely to hire new employees',
     remark: '',
   },
+  {
+    no: 59,
+    sentence: '空运可能产生很多温室气体',
+    translationFromBook: 'Air freight is likely to create enormous greenhouse gases',
+    chatgpt: 'Air transport may generate a significant amount of greenhouse gases',
+    remark: 'freight n.货物、货运；运费',
+  },
+  {
+    no: 60,
+    sentence: '孩子很可能有行为问题',
+    translationFromBook: 'Some children are likely to have behavioral/behavioural problems',
+    chatgpt: 'The child is likely to have behavioral issues',
+    remark: 'behavioral/behavioural 写法是等价的',
+  },
+  {
+    no: 61,
+    sentence: '人口大量扩张是大量垃圾产生的原因',
+    translationFromBook: 'The rapid population expansion is the main reason for the huge accumulation of waste',
+    chatgpt: 'The substantial expansion of population is a cause of the significant increase in waste production',
+    remark: 'substantial adj. 大的；可观的；价值巨大的；重大的；基本上；大体上',
+  },
+  {
+    no: 62,
+    sentence: '严厉的惩罚是减少犯罪率的有效手段',
+    translationFromBook: 'Imposing stiff punishment is an effective method to reduce crime',
+    chatgpt: 'Harsh punishment is an effective means of reducing crime rates',
+    remark: 'impose v. 推行；强制实施；把（尤指信仰或者生活方式）强加于；勉强；打扰；麻烦',
+  },
 
 /*   {
     no: '',
