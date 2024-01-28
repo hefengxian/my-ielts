@@ -457,6 +457,35 @@ const sentences = [
     chatgpt: 'Harsh punishment is an effective means of reducing crime rates',
     remark: 'impose v. 推行；强制实施；把（尤指信仰或者生活方式）强加于；勉强；打扰；麻烦',
   },
+  {
+    no: 63,
+    sentence: '我们的环境还是很糟糕',
+    translationFromBook: 'Our environment is still in a dire state',
+    chatgpt: 'Our environment is still quite poor',
+    remark: 'dire adj. 严重的；危急的；极端的；很坏的',
+  },
+  {
+    no: 64,
+    sentence: '因为失业率高涨，大学生迫于压力而努力学习',
+    translationFromBook: 'Undergraduates feel under increasing pressure to study hard, because of the soaring unemployment rate',
+    chatgpt: 'Due to the soaring umemployment rate, college students strive to study under pressure',
+    remark: 'feel 也是系动词\nsoaring adj. 高耸的；展翅翱翔的\nstrive vi. （尤指长期或不畏艰难地）努力，奋斗，力争',
+  },
+  {
+    no: 65,
+    sentence: '种族歧视依然非常严重',
+    translationFromBook: 'Racial discrimination remains a serious problem',
+    chatgpt: 'Racial discrimination remains very severe',
+    remark: 'remain 系动词',
+  },
+  {
+    no: 66,
+    sentence: '死记乘法表并不是提高算数能力的最好方式',
+    translationFromBook: 'Learning the times table by rote is not the best way to improve numeracy',
+    chatgpt: 'Rote memorization of the multiplication table is not the effective way to enhance arithmetic skills',
+    remark: 'learning sth. by rote 死记硬背地学。\nrote learning 死记硬背\nnumeracy n. 基本计算能力，识数',
+  },
+
 
 /*   {
     no: '',
