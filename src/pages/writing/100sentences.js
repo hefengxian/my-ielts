@@ -485,6 +485,34 @@ const sentences = [
     chatgpt: 'Rote memorization of the multiplication table is not the effective way to enhance arithmetic skills',
     remark: 'learning sth. by rote 死记硬背地学。\nrote learning 死记硬背\nnumeracy n. 基本计算能力，识数',
   },
+  {
+    no: 67,
+    sentence: '贫穷国家的首要任务是满足人们的基本生存需求',
+    translationFromBook: 'The top priority for deprived countries is to satisfy citizens\' basic needs',
+    chatgpt: 'The primary task of impoverished nations is to meet the basic survival needs of their people',
+    remark: 'deprive v. 夺走，抢去，剥夺。\ndeprived adj. 短缺的，匮乏的；贫寒的。a ~ area 贫困地区。\nimpoverished adj. 赤贫的；（质量）恶化的。\nsurvive 是动词',
+  },
+  {
+    no: 68,
+    sentence: '转基因食品对健康的影响然然未知',
+    translationFromBook: 'The health effect of GE food remains unclear/yet to be known',
+    chatgpt: 'The impact of genetically modified food on health remains uncertain',
+    remark: 'GE=genetically engineered 也表示转基因和之前的 GM 一个意思',
+  },
+  {
+    no: 69,
+    sentence: '网络购物已经成为很多人日常生活中很普通的一部分',
+    translationFromBook: 'Online shopping has become a normal part of people\'s everyday life.',
+    chatgpt: 'Online shopping has become a commonplace aspect of many people\'s daily lives',
+    remark: 'become/became/become 一般式/过去式/过去分词。\ncommonplace adj./n. 平常的；常见的；普通的；普遍的/陈词滥调；老生常谈。\nlife 的复数形式 lives',
+  },
+  {
+    no: 70,
+    sentence: '在消费社会里，人们不再满足于生活必需品（bare necessities）',
+    translationFromBook: 'In the consumer society, bare necessities are not able to satisfy people\'s needs',
+    chatgpt: 'In consumer society, people are no longer satisfied with just the bare necessities of life',
+    remark: 'the bare necessities 生活必需品',
+  },
 
 
 /*   {
