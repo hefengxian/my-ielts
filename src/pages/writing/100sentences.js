@@ -513,6 +513,38 @@ const sentences = [
     chatgpt: 'In consumer society, people are no longer satisfied with just the bare necessities of life',
     remark: 'the bare necessities 生活必需品',
   },
+  {
+    no: 71,
+    sentence: '人们不健康的生活方式是他们倾向于依赖科技的结果',
+    translationFromBook: 'People\'s unhealthy lifestyle is the result of their tendency to rely heavily on technology',
+    chatgpt: 'Unhealthy lifestyles among people are a result of their tendency to rely on technology',
+    remark: 'tendency n. （思想、行为等的）倾向；趋势',
+  },
+  {
+    no: 72,
+    sentence: '贫穷是社区犯罪增多的原因',
+    translationFromBook: 'Poverty is the reason of the crime wave in many communities',
+    chatgpt: 'Poverty is a contributing factor of the increase in community crime',
+    remark: 'crime wave n. 犯罪率激增',
+  },
+  {
+    no: 73,
+    sentence: '电动汽车的发明是我们为维护环境所做的一部分努力',
+    translationFromBook: 'The invention of electric vehicles is a part of our effort to sustain the environment',
+    chatgpt: 'The invention of electric cars is part of our efforts to preserve the environment',
+    remark: '',
+  },
+  {
+    no: null,
+    title: 'it 作形式主语或者形式宾语的句子',
+  },
+  {
+    no: 74,
+    sentence: '送贵重的礼物（lavish gifts）是中国人的习惯',
+    translationFromBook: 'It is very common for Chinese people to exchange lavish gifts',
+    chatgpt: 'It is a Chinese custom to give lavish gifts',
+    remark: '',
+  },
 
 
 /*   {
