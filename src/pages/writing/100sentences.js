@@ -545,6 +545,34 @@ const sentences = [
     chatgpt: 'It is a Chinese custom to give lavish gifts',
     remark: '',
   },
+  {
+    no: 75,
+    sentence: '未来几十年，我们很难保护植物多样性',
+    translationFromBook: 'We will find it difficult to preserve biodiversity in the coming decades',
+    chatgpt: 'In the coming decades, it will be challenging to preserve plant biodiversity',
+    remark: 'biodiversity n. 生物多样性',
+  },
+  {
+    no: 76,
+    sentence: '随着年龄的增长，人们很难和家人、朋友保持联系',
+    translationFromBook: 'With age, people find it difficult to maintain contact with family and friends',
+    chatgpt: 'As people grow older, it becomes difficult to stay in touch with family and friends',
+    remark: '年龄增长：with age/grow older',
+  },
+  {
+    no: 77,
+    sentence: '免费上大学使得家境不好的学生有同等上学的机会',
+    translationFromBook: 'Free university education makes it possible for students from less well-off backgrounds to have equal access to tertiary education',
+    chatgpt: 'Free university education provides equal opportunities for students from disadvantaged backgrounds to attend college',
+    remark: 'well off adj. 富有的',
+  },
+  {
+    no: 78,
+    sentence: '很多人觉得有必要赶时髦',
+    translationFromBook: 'Many people consider it necessary to follow fashion',
+    chatgpt: 'Many people feel it necessary to keep up trends',
+    remark: '',
+  },
 
 
 /*   {
