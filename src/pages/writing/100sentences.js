@@ -573,6 +573,38 @@ const sentences = [
     chatgpt: 'Many people feel it necessary to keep up trends',
     remark: '',
   },
+  {
+    no: 79,
+    sentence: '经费削减让很多年轻人很难接受大学教育',
+    translationFromBook: 'Budget cuts make it difficult for many young people to receive a college education',
+    chatgpt: 'Budget cuts make it difficult for many young people to afford a college education',
+    remark: '经费、预算削减 budget cuts',
+  },
+  {
+    no: 80,
+    sentence: '有时候，很难去评估人类行为照成的环境代价',
+    translationFromBook: 'Sometimes, it is difficult to evaluate the environmental cost of human activities',
+    chatgpt: 'Sometimes, it is difficult to assess the environmental costs of human behavior',
+    remark: 'behavior 不可数',
+  },
+  {
+    no: null,
+    title: 'there be 句型',
+  },
+  {
+    no: 81,
+    sentence: '在大城市有一些贫困的社区',
+    translationFromBook: 'There are some economically deprived communities in large cities',
+    chatgpt: 'There are some impoverished communities in big cities',
+    remark: 'economically deprived 经济贫困。deprived adj./v. 贫困的/剥夺',
+  },
+  {
+    no: 82,
+    sentence: '按照能力分班和学生的成绩没有明显的联系',
+    translationFromBook: 'There is no clear link between grouping students by ability and their levels of attainments',
+    chatgpt: 'There is no clear correlation between ability-based grouping and students\' grades',
+    remark: 'attainment n. 实现，获得，赢得；成就，造诣\ncorrelation n. 相互联系；练习；相关',
+  },
 
 
 /*   {
