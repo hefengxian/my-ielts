@@ -605,7 +605,38 @@ const sentences = [
     chatgpt: 'There is no clear correlation between ability-based grouping and students\' grades',
     remark: 'attainment n. 实现，获得，赢得；成就，造诣\ncorrelation n. 相互联系；练习；相关',
   },
-
+  {
+    no: null,
+    title: '并列句',
+  },
+  {
+    no: 83,
+    sentence: '使用多媒体可以提升学生的注意力，让他们对课程保持兴趣',
+    translationFromBook: 'Using multimedia tools can improve students\'s concentration and keep them interested',
+    chatgpt: 'Using multimedia can enhance students\' attention and keep them interested in the course',
+    remark: '',
+  },
+  {
+    no: 84,
+    sentence: '名人的成就鼓励年轻人努力学习，坚韧不拔',
+    translationFromBook: 'The achievement of celebrities can motivate young people to study hard and show perseverance',
+    chatgpt: 'The achievements of celebrities inspire young people to study hard and persevere（这里 ChatGPT 翻译成了 2 个动词并列 inspire/perserve）',
+    remark: 'perseverance n. 不屈不挠，坚持不懈',
+  },
+  {
+    no: 85,
+    sentence: '在发展中国家开设新的分公司可以降低生产成本，产生巨大的利润',
+    translationFromBook: 'Opening new branches in developing contries can reduce the cost of production and generate huge profits',
+    chatgpt: 'Opening new branches in developing contries can reduce production costs and generate significant profits',
+    remark: 'in developing contries 是固定词组而不是 in the ~',
+  },
+  {
+    no: 86,
+    sentence: '生活方式的轻微变化能够产生巨大的不同，并且可以减少我们的日常活动对环境的影响',
+    translationFromBook: 'Small lifestyle changes can make a huge difference and reduce the environmental impact of our daily activities',
+    chatgpt: 'Slight changes in lifestyle can make a huge difference and reduce the impact of our daily activities on the environment',
+    remark: '',
+  },
 
 /*   {
     no: '',
