@@ -4,10 +4,10 @@ atmosphere|n.|大气层；氛围|The approaching examination created a tense atm
 hydrosphere|n.|水圈；大气中的水汽|All the water in the earth's surface is included in the hydrosphere
 lithosphere|n.|岩石圈|The lithosphere and the hydrosphere together form the earth's surface
 ---
-oxygen|n.|氧气
-oxide|n.|氧化物
-carbon dioxide|n.|二氧化碳
-hydrogen|n.|氢气
+oxygen|n.|氧气|Oxygen Hydrogen and oxygen are gases.
+oxide|n.|氧化物|Oxide is a part of our daily life.
+carbon dioxide|n.|二氧化碳|Carbon dioxide Soft drinks usually contain carbon dioxide.
+hydrogen|n.|氢气|Two parts hydrogen, one part oxygen, you'll get water every time. He is the core of the working group.
 ---
 core|n.|中心；核心；地核
 crust|n.|地壳；外壳|The crust on the snow was thick enough for to walk on it
