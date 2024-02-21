@@ -637,6 +637,42 @@ const sentences = [
     chatgpt: 'Slight changes in lifestyle can make a huge difference and reduce the impact of our daily activities on the environment',
     remark: '',
   },
+  {
+    no: null,
+    title: '状语从句',
+  },
+  {
+    no: 87,
+    sentence: '因为没有实习机会，对学生来说提升工作技能是很难的',
+    translationFromBook: 'It is difficult for students to improve pratical skills if school do not provide work placements',
+    chatgpt: 'Without internship opportunities, it is difficult for students to enhance their job skills',
+    remark: 'work placement n. 工作实习\ninternship n. 实习期',
+  },
+  {
+    no: 88,
+    sentence: '即使获得了文凭，大学生也没办法赚到很多钱',
+    translationFromBook: 'University students cannot make a decent living even though they have gained quanlifications',
+    chatgpt: 'Even with a diploma, college students may not be able to earn a lot of money',
+    remark: '',
+  },
+  {
+    no: 89,
+    sentence: '因为激烈的竞争和技术的迅速发展，现在经营一家公司是一个艰巨的任务',
+    translationFromBook: 'Running an organization in today\'s world can be a daunting task because competition is stiff and technology is developing rapidly',
+    chatgpt: 'Running a company is a daunting task in today\'s world, due to fierce competition and rapid technological advancement —— from Gemini',
+    remark: 'daunting adj. 令人发怵的；使人气馁的\nadvancement n. 发展，提高，改善',
+  },
+  {
+    no: null,
+    title: '名词性从句',
+  },
+  {
+    no: 90,
+    sentence: '事实是，因为机械化的原因，一些工作已经被砍掉',
+    translationFromBook: 'The fact is that some jobs have been made redundant because of mechanization',
+    chatgpt: 'The fact is that some jobs have been eliminated due to mechanization',
+    remark: 'redundant adj. （词、短语等）多余的，不需要的；失业的，被裁减的\nmechanization n. 机械化\neliminate v. 消灭，干掉，排除',
+  },
 
 /*   {
     no: '',
