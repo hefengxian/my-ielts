@@ -673,6 +673,38 @@ const sentences = [
     chatgpt: 'The fact is that some jobs have been eliminated due to mechanization',
     remark: 'redundant adj. （词、短语等）多余的，不需要的；失业的，被裁减的\nmechanization n. 机械化\neliminate v. 消灭，干掉，排除',
   },
+  {
+    no: 91,
+    sentence: '现在很多人选择变的环并减少能源的使用，事实确实如此',
+    translationFromBook: 'It is true that many people today have chosen to go green and reduce cut down on the use of energy',
+    chatgpt: 'It is true that many people are now choosing to be environmentally friendly and reduce their energy consumption',
+    remark: '',
+  },
+  {
+    no: 92,
+    sentence: '判刑会对年轻人产生伤害，因为犯罪记录会给他们的职业生涯留下阴影',
+    translationFromBook: ' A prison sentence can be damaging to young people due to the fact that the criminal record can cast a long shadow on their career',
+    chatgpt: 'A criminal conviction can have a harmful impact on a young person\'s life, as it can leave a criminal record that can follow then throughout their career',
+    remark: 'cast v. 把（光或阴影）投向，投射\nconviction n. 定罪，判罪\nthroughout prep./adv. 在各处，自始至终',
+  },
+  {
+    no: 93,
+    sentence: '我相信快餐广告和普遍肥胖有直接关系',
+    translationFromBook: 'I believe that there is a direct link between fast food advertisements and rising levels of obesity',
+    chatgpt: 'I believe that there is a direct relationship between fast food advertising and obesity',
+    remark: 'obesity n. 肥胖',
+  },
+  {
+    no: null,
+    title: '定语从句',
+  },
+  {
+    no: 94,
+    sentence: '将政府的资金用于污染清理工作可以创造一个舒适的环境',
+    translationFromBook: 'Money can be used for clean-up operation which can help create a pleasant environment',
+    chatgpt: 'Directing government funding towards pollution cleanup efforts can create a more livable environment',
+    remark: '',
+  },
 
 /*   {
     no: '',
