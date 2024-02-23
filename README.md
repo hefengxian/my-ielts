@@ -83,3 +83,5 @@ pnpm run dev
 # 构建
 pnpm run build
 ```
+
+## 禁止将本项目用于任何商业目的！！！
