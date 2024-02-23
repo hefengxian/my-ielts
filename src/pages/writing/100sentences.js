@@ -705,14 +705,48 @@ const sentences = [
     chatgpt: 'Directing government funding towards pollution cleanup efforts can create a more livable environment',
     remark: '',
   },
-
-/*   {
-    no: '',
-    sentence: '',
-    translationFromBook: '',
-    chatgpt: '',
+  {
+    no: 95,
+    sentence: '有些广告鼓励消费者买一些自己不需要的东西，应该对其加强管制',
+    translationFromBook: 'It is necessary to put/impose restrictions on those advertisements which encourage people to buy more than they need',
+    chatgpt: 'Some advertisements, which encourage consumers to buy things they don\'t need, should be subject to stricter regulation',
+    remark: 'be subject to something 有；遭受；承受',
+  },
+  {
+    no: 96,
+    sentence: '植树造林有助于提高空气质量，从而降低一些疾病的风险，比如呼吸道疾病',
+    translationFromBook: 'Afforestation can help to improve air quality, which can reduce the risk of suffering health problems such as respiratory diseases',
+    chatgpt: 'Afforestation helps improve air quality, thereby reducing the risk of certain diseases, such as respiratory illnesses',
+    remark: 'afforestation n. 造林\nrespiratory adj. 呼吸的',
+  },
+  {
+    no: 97,
+    sentence: '政府应该控制这些夸张报道社会问题的新闻',
+    translationFromBook: 'Authorities should censor those news reports which give an exaggerated account of some social problems',
+    chatgpt: 'The government should control the news that exaggerates socail issues',
+    remark: 'exaggerate v. 夸张，夸大，对...言过其实',
+  },
+  {
+    no: 98,
+    sentence: '这就是如今的文员经常有健康问题的原因',
+    translationFromBook: 'It is the reason why clerical workers today suffer health problems',
+    chatgpt: 'This is why clerical workers often experience health issues nowadays',
+    remark: 'clerical adj. 办公室、文书工作的；牧师的；神职人员的',
+  },
+  {
+    no: 99,
+    sentence: '许多员工愿意去那些可以获得晋升机会的公司里工作',
+    translationFromBook: 'Many employees are willing to work for companies where they can obtain promotional opportunities',
+    chatgpt: 'Many employees are willing to work in companies where they can get opportunities for promotion',
     remark: '',
-  }, */
+  },
+  {
+    no: 100,
+    sentence: '许多年轻人选择在说英语的国家学习，在那里，他们可以在世界著名的大学学习',
+    translationFromBook: 'Many young people have chosen to study in English-speaking countries, where they can study at some world famous universities',
+    chatgpt: 'Many young people choose to study in English-speaking countries where they can attend world-renowned universities',
+    remark: 'world-renowned adj. （在某一领域）世界知名的',
+  },
 ]
 
 export default sentences
