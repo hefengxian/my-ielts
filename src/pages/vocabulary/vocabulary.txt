@@ -485,7 +485,7 @@ primate|n.|灵长动物
 vertebrate|n.|脊椎动物
 reptile|n.|爬行动物
 ---
-amphibian|n./adj.|两栖动物；两栖的
+amphibian|n./adj.|两栖动物/两栖的
 carnivore|n.|肉食动物
 herbivore|n.|食草动物
 ---
@@ -495,10 +495,10 @@ fauna|n.|（尤指某一地区的）动物群|The park is also home to grizzly b
 flora|n.|（尤指某一地区的）植物群
 species|n.|物种
 ---
-flock|n./v.|（羊或鸟）群；聚集|Sheep usually flock together
+flock|n./v.|（羊或鸟）群/聚集|Sheep usually flock together
 herd|n.|兽群；畜群|The herdsman looks after a herd of animals
 swarm|n.|（蜜蜂昆虫的）一大群；（快速移动的）人群
-throng|n./v.|人群；群集
+throng|n./v.|人群/群集
 crowd|n.|人群；观众；一群人
 ---
 beast|n.|野兽；凶残的人；畜生
@@ -507,22 +507,22 @@ cruel|adj.|残忍的；残暴的
 ---
 originate|v.|发源；来自；创始
 derive|v.|得到；（使）源自|I derived a lot of pleasure from meeting new people at college|derive from/be derived from 源自；来自
-stem|v./n.|起源于；来自；茎；梗|Correct decisions stem from correct judgments|stem from 源自；起源于
+stem|v./n.|起源于；来自/茎；梗|Correct decisions stem from correct judgments|stem from 源自；起源于
 ---
 ancestor|n.|祖宗；祖先
-descendant|n./v.|后裔；后代；下降的
+descendant|n./adj.|后裔；后代/下降的
 offspring|n.|后代；子孙；产物
 subgroup|n.|子群|According to a subgroup analysis, violence produce more violence
 ---
 feed|v.|供养；喂养；进食
-breed|v./n.|饲养；繁殖；品种
+breed|v./n.|饲养；繁殖/品种
 interbreed|v.|（使）品种杂交
 ---
 hybridize|v.|=hybridise （使）杂交
 proliferate|v.|迅速增殖；剧增
 sterility|n.|不生育|This disease causes sterility in both males and females
 ---
-mate|v./n.|交配；配偶
+mate|v./n.|交配/配偶
 courtship|n.|求偶
 lay|v.|产；放置；铺设|They lay eggs from the July to the middle of August
 ---
@@ -532,18 +532,18 @@ spawn|n./v.|（鱼、蛙的）卵；产卵；引起
 mature|adj./v.|成熟的；成熟|You are a mature man now, you are no longer a boy|immature adj. 不成熟的，未完全发育的
 ---
 skin|n.|皮肤
-claw|n.|爪；钳；鳌；爪状物
+claw|n./v.|爪；钳；鳌；爪状物/抓；挠；撕
 paw|n.|（动物的）脚掌；爪子
 beak|n.|鸟嘴；喙
 ---
 fin|n.|鳍
 wing|n.|翅膀
 plume|n.|羽毛
-feather|n.|羽毛
+feather|n.|羽毛||"plume" 更强调装饰性和华丽，而 "feather" 则更通用，用于描述鸟类的普通羽毛
 ---
 fur|n.|软毛；毛皮
-bristle|n.|鬃毛
-curl|n./v.|卷曲；螺旋状物；（使）卷曲
+bristle|n.|鬃毛；短而硬的毛，刚毛
+curl|n./v.|卷曲；螺旋状物/（使）卷曲||"curl" 更强调弯曲或卷曲的动作或形状，而 "curve" 更倾向于描述曲线的形状或者趋势。
 ---
 insect|n.|昆虫
 worm|n.|蠕虫
@@ -577,7 +577,7 @@ fox|n.|狐狸🦊；狡猾的人
 ---
 cub|n.|幼兽|The cub licked the milk from its mother's breast
 calf|n.|幼兽；小牛🐂|Did you see the cow with her calf
-pup|n.|幼小动物|I'll get you an Alsatian pup for Christmas|puppy n. 幼犬
+pup|n.|幼小动物|I'll get you an Alsatian pup for Christmas|puppy n. 幼犬。Alsatian n. 阿尔萨斯狼狗，德国牧羊犬（同 German shepherd）
 lamb|n.|羔羊|The little lamb was caught by the wolf|a lost lamb 迷途的羔羊
 ---
 cattle|n.|牛
@@ -595,7 +595,7 @@ falcon|n.|隼；猎鹰
 hawk|n.|鹰；隼
 eagle|n.|雕
 owl|n.|猫头鹰
-swallow|n.|燕子
+swallow|n.|燕子||和吞咽是一个词
 sparrow|n.|麻雀
 pigeon|n.|鸽子
 crow|n.|乌鸦
@@ -616,7 +616,7 @@ sting|v./n.|刺；叮；（使）感觉刺痛；鳌针；蜇痛|It is the nature
 bark|v./n.|吠；大声嚷；树皮
 roar|n./v.|吼叫；咆哮
 ---
-rub|v./n.|擦；摩擦；困难；障碍
+rub|v./n.|擦；摩擦/困难；障碍||the ~ 问题，困难，障碍
 creep|v.|爬行；悄悄地爬行|We take off our shoes and creep cautiously along the passage|creep along 沿着...爬行
 crawl|v.|爬；爬行；卑躬屈膝；巴结
 ---
@@ -651,7 +651,7 @@ devour|v.|吞食；狼吞虎咽的吃
 ---
 instinct|n.|本能；天性；直觉
 intuitive|adj.|直觉的
-potential|n./adj.|潜力；潜在的
+potential|n./adj.|潜力/潜在的
 intelligence|n.|智慧；智力；情报；谍报|Use your intelligence, and you're succeed some day|intelligent adj. 聪明的。an intelligence agent 情报人员。artificial intelligence 人工智能
 functional|adj.|功能的；起作用的
 ---
@@ -660,7 +660,7 @@ flexible|adj.|灵活的；弹性的
 acoustic|adj.|听觉的；声音的
 optical|adj.|视觉的；光学的
 ---
-nocturnal|adj.|夜间活动的|Hamsters are nocturnal creatures
+nocturnal|adj.|夜间活动的|Hamsters are nocturnal creatures|hamster n. 仓鼠
 dormant|adj.|睡着的；休眠的；（动物等）冬眠的
 hibernation|n.|冬眠
 ---
@@ -682,7 +682,7 @@ subsistence|n.|勉强维持生活|The standard of living at that time was on the
 exist|v.|存在；生存
 exterminate|v.|消灭；根除|We've made great efforts to exterminate mosquitoes and flies
 ---
-tame|v./adj.|驯养；制服；驯服的；乏味的|The tame lions can communicate and dance together with the actors|tame nature 征服大自然
+tame|v./adj.|驯养；制服/驯服的；乏味的|The tame lions can communicate and dance together with the actors|tame nature 征服大自然
 keeper|n.|看守人；饲养员
 shepherd|n.|牧羊人，羊倌|The shepherd set out to look for sheep that had wandered away|sheepdog n. 牧羊犬
 ===
@@ -1521,7 +1521,7 @@ chronology|n.|年代学；年表；事件发生的顺序表
 ---
 emperor|n.|皇帝
 king|n.|国王
-queen|n.|王后；女王|They were bowing as the king and queen walked in. 当国王和王后进来时，他们屈膝致敬|bow v./n. （使）鞠躬；（使）欠身；点头致意/弓 
+queen|n.|王后；女王|They were bowing as the king and queen walked in. 当国王和王后进来时，他们屈膝致敬|bow v./n. （使）鞠躬；（使）欠身；点头致意/弓
 ---
 prince|n.|王子；亲王
 princess|n.|公主；王妃|The princess was ostracised for marrying a rich bourgeois man. 公主因与一位富有的资本家结婚而遭到排挤|ostracize=ostracise v. 故意避开；排挤，排斥。bourgeois  /ˈbɔːʒ.wɑː/ adj. 中产阶级的；追求物质享受的；平庸粗俗的
@@ -1547,7 +1547,7 @@ incident|n.|（尤指不寻常的、重要的或暴力的）事件；（两国�
 thrive|v.|繁荣；兴旺发达；茁壮成长|First thrive and then wive. 先立业，后成家|wive v. 娶妻
 prosperity|n.|繁荣；兴旺|The empire was on the wane after its period of prosperity. 帝国在经历繁盛之后逐渐衰落|wane v. 衰减，减弱 on the ~ （权力、人气等）衰落，减弱。 prosper v. 成功；繁荣。prosperous adj. 繁荣的
 setback|n.|挫折；阻碍|This setback has drained away my keenness|drain sth. away （使）彻底消失;（使）流失。keenness n. 积极；敏锐，精明；渴望，热衷；锋利
-adversity|n.|逆境|Hardship disposes man to meet adversity. 困苦使人们愿意去客户困境|dispose sb. to/towards sb./sth. 表示使某人对某人或某事物产生一种倾向、态度或情感。 
+adversity|n.|逆境|Hardship disposes man to meet adversity. 困苦使人们愿意去客户困境|dispose sb. to/towards sb./sth. 表示使某人对某人或某事物产生一种倾向、态度或情感。
 ===
 语言演化
 +++
