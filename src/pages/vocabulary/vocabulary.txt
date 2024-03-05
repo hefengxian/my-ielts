@@ -3185,12 +3185,12 @@ collaborate|v.|合作
 ===
 法律法规
 +++
-law|n.|法律；规律；定理
+law|n.|法律；规律；定理|Those who break the law are subjected to justice. 违法者要受到法律的制裁|be subject to something 有；遭受，承受。enact a law 通过法律
 legal|adj.|法律的；合法的
 rule|n./v.|规则/统治
 regulation|n.|规则；规定；管理
 ---
-item|n.|条目
+item|n.|条目|This is the next item on the agenda|agenda n. 议事日程;（会议的）议程；议事日程;（会议的）议程
 treaty|n.|条约；协议
 agreement|n.|同意；协定
 charter|n./v.|宪章/租；包（船、车、飞机等）
@@ -3256,7 +3256,7 @@ reasonable|adj.|合理的；理智的
 suitable|adj.|合适的，适宜的
 ---
 judge|n.|法官；裁判员
-jury|n.|陪审团；评判委员会
+jury|n.|陪审团；评判委员会|The jury will retire to consider its verdict today. 陪审团今天将退庭商议其裁决|verdict n. 裁决
 trial|n.|试验；审判
 suspect|n./v.|嫌疑犯/怀疑
 ---
@@ -3264,7 +3264,7 @@ sentence|n./v.|判决/宣判
 arrest|v./n.|逮捕；吸引（注意）/逮捕||arrest sb.'s attention 引起某人的注意
 jail|n./v.|监狱/监禁
 prison|n.|监狱，监禁
-confine|n./v.|[~s]边界；范围/限制；监禁
+confine|n./v.|[~s]边界；范围/限制；监禁|this is outside the confines of human knowledge|be confined to 局限于。 within the confines of 在（某范围）之内
 ---
 oversee|v.|监督；监管
 supervise|v.|监督；管理；指导
@@ -3275,10 +3275,10 @@ commit|v.|犯（罪）；做（坏事）
 sin|n./s.|罪孽/犯戒律
 crime|n.|罪行；犯罪活动
 ---
-vice|n.|恶行；缺点
+vice|n.|恶行；缺点|Virtue and vise are different things: former leads to peace, the latter to misery|virtue n. 美德；高尚品德。misery n. 痛苦，悲惨；常常不高兴/老发牢骚的人
 bribe|n./v.|贿赂/向...行贿||bribery n. 贿赂行为。bribee n. 受贿者 briber n. 行贿者
 rob|v.|抢劫；夺走
-pirate|n./v.|海盗；盗版者/盗印，且用
+pirate|n./v.|海盗；盗版者/盗印，窃用
 ---
 steal|n.|偷，窃取；剽窃
 thief|n.|窃贼；偷窃犯
@@ -3293,7 +3293,7 @@ liar|n.|说谎的人
 trap|n./v.|陷阱；诡计/诱骗
 trick|n./v.|诡计/哄骗
 pretend|v.|假装，假扮
-fool|n./v.|蠢人；傻子/欺骗
+fool|n./v.|蠢人；傻子/欺骗|A fool's haste is no speed. 欲速则不达|foolish adj. 愚蠢的。make a fool of sb. 愚弄某人。haste n. 仓促，匆忙
 stigma|n.|耻辱；污名
 ---
 confess|v.|供认；忏悔
