@@ -361,7 +361,7 @@ sunlight|n.|阳光
 short-day|adj.|短日照的|Soybean is a typical short-day corp 大豆是典型的短日照作物
 shade-tolerant|adj.|耐阴的
 fungus|n.|真菌
-mould|n./v.|=mold 霉菌；发霉|The walls were black with mould
+mould|n./v.|=mold 霉菌/发霉|The walls were black with mould
 ---
 pollen|n./v.|花粉；给...授粉|Each spring, pollen from nearby plants is blown into the water
 germinate|v.|发芽|Warmth is needed for the seeds to germinate
@@ -1413,7 +1413,7 @@ purify|v.|净化；使纯净
 filter|v./n.|过滤；（光或声音）透过；过滤器||filter through （消息等）慢慢传开；走漏
 distil|v.|=distill 蒸馏；提取...的精华
 mode|n.|模式；方式
-mould|v./n.|=mold 浇铸；塑造；模子
+mould|v./n.|=mold 浇铸；塑造/模子||和霉菌是一个词
 prototype|n.|原型；雏形
 ---
 framework|n.|框架；体系；结构
@@ -1423,24 +1423,24 @@ phase|n.|阶段；时期|The first phase of the project has been completed
 operate|v.|操作；运营；做手术||operation n. 操作；企业；手术
 facilitate|v.|使便利；促进|Many modern inventions facilitate housework
 transform|v.|使改变形态；使改观||transformation n. 变化；转变
-convert|v./n.|（使）转变、改变（信仰、观点等）；皈依者||conversion n. 转变；换算。convert defeat into victory 转败为胜
+convert|v./n.|（使）转变、改变（信仰、观点等）/皈依者||conversion n. 转变；换算。convert defeat into victory 转败为胜
 alter|v.|变更；改变||alternative adj. 可供选择的。an alter ego 知己；个性的另一面
-shift|v./n.|转移；变换；轮班|The wind shifted to the north|the day shift 白班。the night shift 晚班
+shift|v./n.|转移；变换/轮班|The wind shifted to the north|the day shift 白班。the night shift 晚班
 ---
-turn|v./n.|转移；转变；（一次轮到的）机会||turning n. 旋转；转弯处
+turn|v./n.|转移；转变/（一次轮到的）机会||turning n. 旋转；转弯处
 adapt|v.|适应；改编||adaptation n. 适应。adapt to sth. 适应某事
 adjust|v.|调节；改变（行为或观点）以适应||adjustment n. 调整；适应。 adjust to 适应
 ---
-pinpoint|v./n.|精确指明...位置；针尖；极小的事物
+pinpoint|v./n.|精确指明...位置/针尖；极小的事物
 accurate|adj.|准确的；正确无误的
 precise|adj.|精确的；准确的；一丝不苟的|precisely adv. 正是；恰好地。at that precise moment 恰好在那个时刻
 correct|adj.|正确的||correction n. 改正。incorrect adj. 不正确的；错误的
 ---
 error|n.|错误；过失
-mistake|n./v.|错误；误解
+mistake|n./v.|错误/误解
 flaw|n.|缺陷；错误
 wrong|adj./adv.|错误的；错误地||go wrong 出现问题；出差错
-fault|n./v.|缺点；故障；找出缺点||faulty adj. 有错误的；有缺陷的。false adj. 不正确的。find fault with 挑错；挑剔；抱怨
+fault|n./v.|缺点；故障/找出缺点||faulty adj. 有错误的；有缺陷的。false adj. 不正确的。find fault with 挑错；挑剔；抱怨
 ---
 stumble|v.|犯错误；绊脚；跌跌撞撞的走
 contingency|n.|意外事件；可能发生的事
@@ -1899,23 +1899,23 @@ soap|n./v.|肥皂；用肥皂擦洗
 ---
 tub|n.|桶；盆；（美）鱼缸；浴盆
 plug|n./v.|塞子；插头；把...塞住
-tap|n.|旋塞；龙头
+tap|n.|旋塞；龙头|He rigged a rubber hose to tap in kitchen|和轻拍是一个单词。 rig v. 安装；装配
 pipe|n.|管子；管道；烟斗
 tube|n.|管；显像管；（英国/伦敦）地铁
 ---
 mop|n./v.|拖把；用拖把擦
-broom|n./v.|扫帚；用扫帚扫
+broom|n./v.|扫帚；用扫帚扫|She used a broom to sweep up the scraps of paper|scrap n. 碎片，碎屑 ~ paper 废纸
 sweep|v.|打扫；（迅猛的）吹走；掠过||sweep the board 囊括所有奖项
 ---
 mattress|n.|床垫
 carpet|n.|地毯||red carpet （迎接贵宾用的）红毯
 rug|n.|小地毯；（盖肩或腿的）小毛毯
 mat|n.|地垫
-cushion|n.|软垫||a back cushion 靠背垫。a sofa cushion 沙发垫
+cushion|n.|软垫|She plumps up the sofa cushion 她把沙发垫拍得鼓鼓的|plump adj./v. 丰满的；饱满的；发福的/使丰满；使鼓起。 ~ sth. up 鼓起，变丰满。 a back cushion 靠背垫。a sofa cushion 沙发垫
 pad|n./v.|衬垫；便签本；（用软材料）填塞
 ---
-blanket|n.|毛毯；毯子
-quilt|n.|被子
+blanket|n.|毛毯；毯子|She huddled herself in the blanket|huddle v. 蜷缩；缩成一团
+quilt|n.|被子|If you air your quilt on such a wet day, it'll soak up the moisture|晾，这里用的 air。soak sth. up 吸收，吸掉（液体）
 sheet|n.|被单；床单；一张（纸）；薄板
 pillow|n.|枕头
 sponge|n.|海绵
@@ -1924,12 +1924,12 @@ towel|n.|毛巾
 staple|n.|订书钉；主要部分
 nail|n./v.|指甲；钉子；（用钉子）钉住
 razor|n.|剃刀；（用剃刀）剃||an electric razor 电动剃须刀
-shave|v.|剃须；刮脸
+shave|v.|剃须；刮脸|I lathered my face and started to shave|lather n./v. 肥皂泡/形成泡沫；在...涂皂泡
 ---
 fuse|n./v.|保险丝；导火线；（使）融化、融合
 cable|n.|电缆；缆绳；电报；有线电视|a cable car 缆车
-cord|n.|细绳；粗线
-strand|n.|缕；股；滨；案
+cord|n.|细绳；粗线；（体内的）线、索、带||vocal cords 声带
+strand|n.|缕，股；滨，岸|One strand of silk doesn't make a thread 单丝不成线
 ---
 match|n./v.|火柴；比赛；匹配的人或物；与...匹配
 candle|n.|蜡烛
@@ -2006,7 +2006,7 @@ drawer|n.|抽屉
 umbrella|n.|伞
 raincoat|n.|雨衣
 ---
-dredge|n./v.|挖泥船；挖掘机；挖掘；撒（糖；面粉等）
+dredge|n./v.|挖泥船；挖掘机/挖掘；撒（糖；面粉等）
 can|v./n.|把（食品）罐装保存；罐头；听
 mill|n./v.|磨粉机；磨坊；碾碎；无目的地乱转
 ---
@@ -2053,7 +2053,7 @@ counterfeit|adj./v.|假冒的；伪造
 fake|adj./n.|假冒的；冒充者；假货
 ---
 fragile|adj.|易碎的；脆弱的
-miniature|adj./n.|微型的；很小的；微缩模型；微型画
+miniature|adj./n.|微型的；很小的/微缩模型；微型画
 available|adj.|可获得的
 durable|adj.|耐用的；持久的
 ===
@@ -2522,7 +2522,7 @@ mall|n.|购物中心
 complex|n.|综合建筑群
 ---
 supermarket|n.|超市
-booth|n.|售货摊；电话亭；小隔间
+booth|n.|售货摊；电话亭；小隔间|Would you please watch over my booth?请照料一下我的摊位号码？|a telephone booth 电话亭。a photo booth 自助快照亭
 casino|n.|赌场
 studio|n.|演播室；工作室；单间公寓
 ---
@@ -2567,7 +2567,7 @@ weld|v.|焊接；使紧密结合
 saw|n.|锯
 screw|n.|螺丝钉；螺旋架
 drill|n./v.|钻机；反复练习/钻孔；训练
-plumb|n./v.|（表示垂直度的）铅锤/用铅锤线校正
+plumb|n./v.|（表示垂直度的）铅锤/用铅锤线校正|We need to plumb the line
 ---
 viaduct|n.|高架桥
 span|n.|跨距；跨度；持续时间||span of life 寿命
@@ -2599,7 +2599,7 @@ internal|adj.|内部的；自身的；国内的
 交通旅行
 +++
 navigate|v.|航行；横渡
-voyage|n.|航海、航天；航行
+voyage|n.|航海，航行；旅行|He goes on a voyage on a warship in the name of the government
 aviation|n.|航空；航空学；航空工业
 ---
 journey|n.|旅行；历程
@@ -2657,7 +2657,7 @@ vehicle|n.|车辆；交通工具；手段；工具
 auto|n.|汽车
 express|n./v./adj.|特快列车；快递服务/表示/特快的
 ---
-tram|n.|[尤英]有轨电车
+tram|n.|[尤英]有轨电车||[US]streetcar/trolley
 coach|n./v.|[英]长途汽车；教练；私人教师/训练
 ambulance|n.|救护车
 ---
@@ -2707,7 +2707,7 @@ carrier|n.|航空母舰；运输工具
 steamer|n.|汽船；轮船
 liner|n.|邮轮；客轮
 ---
-vessel|n.|大船；舰；容器；器皿
+vessel|n.|大船；舰；容器；器皿；血管
 ferry|n./v.|渡船/渡运
 sail|v.|航行；驾驶（帆船）
 ---
@@ -2719,7 +2719,7 @@ deck|n./v.|甲板/装饰
 turbine|n.|涡轮机
 propeller|n.|螺旋桨，推进器
 ---
-stern|n.|船尾
+stern|n./adj.|船尾/严厉的，苛刻的；严峻的，棘手的
 aboard|adv.|在（船、飞机等）上
 embark|v.|上船、飞机等；开始做
 ---
@@ -2881,14 +2881,14 @@ citizen|n.|公民；市民
 resident|n./adj.|居民；居住的
 ---
 ethnic|adj.|民族的；种族的|She is keen on ethnic dance|an ethnic minority 少数民族
-racial|adj.|种族的；；人种的
+racial|adj.|种族的；人种的
 clan|n.|宗族；家族；帮派
 ---
 franchise|v./n.|向…授予（或出售）特许经销权/特许权||the franchise 选举权
-entitle|v.|给...权力（或资格）；给...题名
+entitle|v.|给...权力（或资格）；给...题名||be entitled to/do sth. 有获得某物/做某事的权利
 preference|n.|偏爱；优先权
 ---
-vote|n./v.|选举权；投票/表决、投票
+vote|n./v.|选举权；投票/表决、投票|The vote will be held next month|vote against 投票反对
 elect|v.|选举；选择
 respondent|n.|（民意测验的）调查对象
 poll|n.|民意调查；选举投票；投票数
@@ -2913,7 +2913,7 @@ viewpoint|n.|观点；看法；视角
 standpoint|n.|立场；立足点
 outlook|n.|观点；展望；前景
 guideline|n.|指导方针
-ethic|n.|行为准则；ethics 道德规范，伦理标准
+ethic|n.|行为准则；ethics 道德规范，伦理标准|Merchants must observe their code of ethics|ethical adj. 道德的；伦理的。a work ~ 职业道德观
 ---
 suggest|v.|建议；暗示
 advise|v.|劝告；建议；通知
@@ -3711,7 +3711,7 @@ mate|n.|伙伴；[构成复合词]同伴
 colleague|n.|同事；同僚
 ---
 comrade|n.|同志；（尤指共患难的）同伴
-acquaintance|n.|像是之人，泛泛之交；认识；了解
+acquaintance|n.|相识之人，泛泛之交；认识；了解
 friendship|n.|友谊；有情；友好
 affection|n.|喜爱，喜欢；[~s]爱情
 ---
