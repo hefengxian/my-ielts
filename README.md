@@ -1,11 +1,15 @@
 <p><br></p>
 
-![Salvation lies within IELTS](salvation_lies_within_IELTS.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="public/salvation_lies_within_IELTS_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="public/salvation_lies_within_IELTS_light.svg">
+  <img alt="Slogan: Salvation lies within IELTS" src="public/salvation_lies_within_IELTS_light.svg">
+</picture>
 
 <p><br></p>
 <p><br></p>
 <h1 align='center'>
-  My <span style="color: red; font-weight: bold;">IELTS™</span>
+  My <span>IELTS™</span>
 </h1>
 
 <h2>在线地址 <a href="https://hefengxian.github.io/my-ielts/#/">https://hefengxian.github.io/my-ielts/</a></h2>
