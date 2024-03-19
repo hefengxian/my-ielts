@@ -14,7 +14,11 @@
 
 <h2>在线地址 <a href="https://hefengxian.github.io/my-ielts/#/">https://hefengxian.github.io/my-ielts/</a></h2>
 
-[![Home](public/screenshot/screenshot-home.png)](https://hefengxian.github.io/my-ielts/#/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="public/screenshot/screenshot-home-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="public/screenshot/screenshot-home-light.png">
+  <img alt="Home" src="public/screenshot/screenshot-home-light.png">
+</picture>
 
 
 ## 概述
@@ -33,7 +37,11 @@
 - 逻辑词群记忆法
 - 原书音频
 
-![Vocabulary](public/screenshot/screenshot-vocabulary.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="public/screenshot/screenshot-vocabulary-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="public/screenshot/screenshot-vocabulary-light.png">
+  <img alt="Vocabulary" src="public/screenshot/screenshot-vocabulary-light.png">
+</picture>
 
 ### 语法
 
@@ -43,7 +51,11 @@
 - 讲义
 - 思维导图
 
-![Grammar](public/screenshot/screenshot-grammar.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="public/screenshot/screenshot-grammar-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="public/screenshot/screenshot-grammar-light.png">
+  <img alt="Grammar" src="public/screenshot/screenshot-grammar-light.png">
+</picture>
 
 ### 听力
 
@@ -53,7 +65,11 @@
 - 听力 179 考点词
 - [WIP] 雅思听力王语料库
 
-![Listening](public/screenshot/screenshot-listening.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="public/screenshot/screenshot-listening-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="public/screenshot/screenshot-listening-light.png">
+  <img alt="Listening" src="public/screenshot/screenshot-listening-light.png">
+</picture>
 
 ### 口语
 
@@ -63,7 +79,11 @@ TODO
 
 - 538 考点词同义替换
 
-![Reading](public/screenshot/screenshot-reading.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="public/screenshot/screenshot-reading-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="public/screenshot/screenshot-reading-light.png">
+  <img alt="Reading" src="public/screenshot/screenshot-reading-light.png">
+</picture>
 
 
 ### 写作
@@ -72,7 +92,11 @@ TODO
 
 - 顾家北手把手教你雅思写作 V6.0 —— 100 句翻译练习
 
-![Writing](public/screenshot/screenshot-writing.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="public/screenshot/screenshot-writing-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="public/screenshot/screenshot-writing-light.png">
+  <img alt="Writing" src="public/screenshot/screenshot-writing-light.png">
+</picture>
 
 ## 开发
 
