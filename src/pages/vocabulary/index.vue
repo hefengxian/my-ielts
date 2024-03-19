@@ -63,17 +63,28 @@ onUpdated(() => {
     el.load()
 })
 
-document.addEventListener('keyup', (ev) => {
+document.addEventListener('keydown', (ev) => {
   // 激活的那个音频可以通过方向键进行快进/退
-  if (['ArrowLeft', 'ArrowRight'].includes(ev.key)) {
+  if (['ArrowLeft', 'ArrowRight', ' '].includes(ev.key)) {
     ev.preventDefault()
     const audioTags = document.getElementsByTagName('audio')
+    const keyMap = {
+      ArrowLeft: -3,
+      ArrowRight: 3,
+    }
     for (const audioTag of audioTags) {
-      if (!audioTag.paused) {
-        audioTag.blur()
-        const step = (ev.key === 'ArrowLeft' ? -3 : 3)
+      if (!audioTag.paused && keyMap[ev.key]) {
+        // audioTag.blur()
+        const step = keyMap[ev.key]
         audioTag.currentTime = audioTag.currentTime + step
         // console.log(step, audioTag.currentTime)
+      }
+      if (' ' === ev.key) {
+        if (audioTag.paused) {
+          audioTag.play()
+        } else {
+          audioTag.pause()
+        }
       }
     }
   }
@@ -97,9 +108,9 @@ document.addEventListener('keyup', (ev) => {
               v-model="category"
               class="block w-full flex-1 border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400"
             >
-              <option value="">
+              <!-- <option value="">
                 全部章节
-              </option>
+              </option> -->
               <option
                 v-for="(_, k) in refVocabulary"
                 :key="k"
