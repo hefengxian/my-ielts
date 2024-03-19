@@ -2008,7 +2008,7 @@ raincoat|n.|雨衣
 ---
 dredge|n./v.|挖泥船；挖掘机/挖掘；撒（糖；面粉等）
 can|v./n.|把（食品）罐装保存；罐头；听
-mill|n./v.|磨粉机；磨坊；碾碎；无目的地乱转
+mill|n./v.|磨粉机；磨坊/碾碎；无目的地乱转
 ---
 forge|n./v.|炼铁炉；锻造；伪造
 alloy|n.|合金；（金属的）成色
@@ -3073,7 +3073,7 @@ attend|v.|参加，出席
 absent|adj.|缺席的；不在场的；心不在焉的
 ---
 sale|n.|买；销售；销售额
-wholesale|批发
+wholesale|n.| 批发
 auction|v./n.|拍卖
 bid|v./n.|出价；投标
 ---
