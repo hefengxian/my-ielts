@@ -38,7 +38,7 @@ export default defineConfig({
       collections: {
         carbon: () => import('@iconify-json/carbon/icons.json').then(i => i.default),
         simpleIcons: () => import('@iconify-json/simple-icons/icons.json').then(i => i.default),
-      }
+      },
     }),
     presetWebFonts({
       provider: 'bunny',
@@ -46,6 +46,7 @@ export default defineConfig({
         sans: 'DM Sans',
         serif: 'DM Serif Display',
         mono: 'DM Mono',
+        Charmonman: 'Charmonman',
       },
     }),
   ],

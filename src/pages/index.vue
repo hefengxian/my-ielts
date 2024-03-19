@@ -49,6 +49,9 @@ const menus = reactive([
   <div class="px-4 pt-6 2xl:px-0">
     <section class="mb-4 border border-gray-200 rounded-lg bg-white p-4 shadow-sm dark:border-gray-700 dark:bg-gray-800 sm:p-6">
       <div class="mx-auto max-w-screen-xl px-4 py-8 lg:px-6 sm:py-16">
+        <h1 style="font-family: Charmonman;" class="mb-16 text-center text-6xl text-gray-900 dark:text-white">
+          Salvation lies within IELTS
+        </h1>
         <div class="mb-8 max-w-screen-md lg:mb-16">
           <h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
             我的 IELTS 备考中心
