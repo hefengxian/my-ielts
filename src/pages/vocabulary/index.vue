@@ -69,15 +69,15 @@ document.addEventListener('keydown', (ev) => {
     ev.preventDefault()
     const audioTags = document.getElementsByTagName('audio')
     const keyMap = {
-      ArrowLeft: -3,
-      ArrowRight: 3,
+      ArrowLeft: -5,
+      ArrowRight: 5,
     }
     for (const audioTag of audioTags) {
-      if (!audioTag.paused && keyMap[ev.key]) {
-        // audioTag.blur()
+      audioTag.blur()
+      if (keyMap[ev.key]) {
         const step = keyMap[ev.key]
         audioTag.currentTime = audioTag.currentTime + step
-        // console.log(step, audioTag.currentTime)
+        // console.log(step, audioT ag.currentTime)
       }
       if (' ' === ev.key) {
         if (audioTag.paused) {
@@ -89,6 +89,13 @@ document.addEventListener('keydown', (ev) => {
     }
   }
 })
+
+function play(audioPath) {
+  const audio = document.createElement('audio')
+  audio.src = audioPath
+  console.log(audioPath)
+  audio.play()
+}
 </script>
 
 <template>
@@ -116,7 +123,7 @@ document.addEventListener('keydown', (ev) => {
                 :key="k"
                 :value="k"
               >
-                {{ _.audio.replace('.mp3', '') }}
+                {{ k }}
               </option>
             </select>
             <!-- <input type="text" name="email" class="ml-3 block w-full border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-gray-900 dark:border-gray-600 focus:border-primary-500 dark:bg-gray-700 sm:text-sm dark:text-white focus:ring-primary-500 dark:focus:border-primary-500 dark:focus:ring-primary-500 dark:placeholder-gray-400" placeholder="关键词"> -->
@@ -146,6 +153,9 @@ document.addEventListener('keydown', (ev) => {
                     <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
                       #
                     </th>
+                    <th class="p-4 text-xs font-medium tracking-wider text-gray-500 dark:text-white">
+                      <br>
+                    </th>
                     <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
                       词
                     </th>
@@ -169,14 +179,14 @@ document.addEventListener('keydown', (ev) => {
                     :key="categoryLabel"
                   >
                     <tr class="bg-hex-f3f3f3">
-                      <td colspan="6" class="px-4 py-6 text-sm font-normal text-gray-900 dark:bg-gray-500 dark:text-white">
+                      <td colspan="7" class="px-4 py-6 text-sm font-normal text-gray-900 dark:bg-gray-500 dark:text-white">
                         <div class="flex flex-row">
                           <div class="flex flex-1 items-center">
                             <span class="text-lg">{{ categoryLabel }}</span>
                             （ {{ _category.groupCount }} 组 {{ _category.wordCount }} 个词 ）
                           </div>
                           <div class="justify-items-end">
-                            <audio controls>
+                            <audio controls class="chapter">
                               <source :src="`vocabulary/audio/${_category.audio}`" type="audio/mpeg">
                             </audio>
                           </div>
@@ -196,6 +206,9 @@ document.addEventListener('keydown', (ev) => {
                         <td class="p-4">
                           {{ item.id }}
                         </td>
+                        <td>
+                          <i class="i-carbon-volume-up-filled block cursor-pointer" @click="play(`/vocabulary/audio/${categoryLabel}/${item.word}.mp3`)" />
+                        </td>
                         <td class="whitespace-nowrap p-4">
                           <a
                             class="hover:underline"
@@ -204,6 +217,7 @@ document.addEventListener('keydown', (ev) => {
                             :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${item.word}`"
                           >{{ item.word }}</a>
                         </td>
+                        
                         <td style="font-style: italic; font-family: times;">
                           {{ item.pos }}
                         </td>

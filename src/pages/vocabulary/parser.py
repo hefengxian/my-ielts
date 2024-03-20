@@ -22,11 +22,11 @@ def parse():
     for category in categories:
         category_index += 1
         category_parts = category.split('+++\n')
-        label = category_parts[0].strip()
+        label = f"{str(category_index).zfill(2)}_{category_parts[0].strip()}"
         category_body = result[label]
         word_groups = category_parts[1].split('---\n')
         category_body['label'] = label
-        category_body['audio'] = f"{str(category_index).zfill(2)}_{label}.mp3"
+        category_body['audio'] = f"{label}.mp3"
         category_body['groupCount'] = len(word_groups)
         word_count = 0
         for word_group in word_groups:
@@ -38,6 +38,8 @@ def parse():
                 word_count += 1
                 cur_id += 1
                 word_parts = word.split('|')
+                # if category_index == 5:
+                #     print(word_parts[0])
                 word_dict = {'id': cur_id}
                 for part_index in part_mapping:
                     dict_key = part_mapping[part_index]

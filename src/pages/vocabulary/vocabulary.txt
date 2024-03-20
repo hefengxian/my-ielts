@@ -2225,7 +2225,7 @@ barbecue|n./v.|烧烤野餐、烤架/烧烤
 supper|n.|晚餐
 banquet|n.|宴会
 ---
-refreshment(s)|n.|茶点、点心
+refreshment|n.|茶点、点心
 snack|n.|快餐、小吃、零食
 appetiser|n.|=appetizer 开胃饮料、开胃小菜
 cuisine|n.|菜肴、烹饪
