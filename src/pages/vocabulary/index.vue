@@ -207,7 +207,7 @@ function play(audioPath) {
                           {{ item.id }}
                         </td>
                         <td>
-                          <i class="i-carbon-volume-up-filled block cursor-pointer" @click="play(`/vocabulary/audio/${categoryLabel}/${item.word}.mp3`)" />
+                          <i class="i-carbon-volume-up-filled block cursor-pointer" @click="play(`vocabulary/audio/${categoryLabel}/${item.word}.mp3`)" />
                         </td>
                         <td class="whitespace-nowrap p-4">
                           <a
