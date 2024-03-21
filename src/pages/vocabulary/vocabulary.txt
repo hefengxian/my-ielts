@@ -1712,8 +1712,8 @@ scene|n.|景色；现场；（戏剧的）场面
 stage|n.|舞台；阶段||the stage 戏剧演出
 ---
 gallery|n.|美术馆
-exhibition|n.展览
-aesthetic|adj. n.|=esthetic 审美的；审美观
+exhibition|n.|展览
+aesthetic|adj./n.|=esthetic 审美的；审美观
 ---
 collect|v.|收集；收藏
 select|v./adj.|选择；挑选；精选的
@@ -2258,11 +2258,11 @@ pan|n.|平底锅、[美]烤盘
 pot|n.|锅、壶
 ---
 stove|n.|炉子
-furnace|n.|熔炉
+furnace|n.|熔炉；暖气炉
 oven|n.|烤炉、烤箱
 ---
 tin|n.|锡、罐头
-lid|n.|盖子
+lid|n.|盖子；眼睑，眼皮|He slammed the lid down|slam v. （使）重重撞上，（使）砰地关上
 drink|v./n.|饮、喝；喝酒/饮料
 beverage|n.|（水以外的）饮料
 ---
@@ -2284,7 +2284,7 @@ vegetable|n.|蔬菜
 tomato|n.|番茄
 potato|n.|土豆
 ---
-pea|n.|豌豆
+pea|n.|豌豆|This kind of pea has a long pod（荚）
 bean|n.|豆
 cucumber|n.|黄瓜
 ---
@@ -2309,7 +2309,7 @@ grape|n.|葡萄
 papaya|n.|番木瓜
 ---
 peach|n.|桃子
-pear|n.|犁
+pear|n.|梨
 plum|n.|李子、梅子
 ---
 orange|n.|橙子
@@ -2374,7 +2374,7 @@ pepper|n.|胡椒粉、柿子树
 ---
 ginger|n.|姜
 garlic|n.|蒜
-scallion|n.|大葱
+scallion|n.|大葱|Kimchi is a well-known Korean side dish（配菜） make from fermented（发酵的） cabbage, radish, scallion or cucumber
 ---
 vinegar|n.|醋
 salt|n.|盐
