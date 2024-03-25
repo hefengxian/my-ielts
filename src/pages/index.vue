@@ -50,7 +50,7 @@ const menus = reactive([
     <section class="mb-4 border border-gray-200 rounded-lg bg-white p-4 shadow-sm dark:border-gray-700 dark:bg-gray-800 sm:p-6">
       <div class="mx-auto max-w-screen-xl px-4 py-8 lg:px-6 sm:py-16">
         <h1 style="font-family: Charmonman;" class="mb-16 text-center text-6xl text-gray-900 dark:text-white">
-          Salvation lies within <span class="text-#f00 font-bold">IELTS</span>
+          Salvation lies within <span class="font-bold text-#f00">IELTS</span>
         </h1>
         <div class="mb-8 max-w-screen-md lg:mb-16">
           <h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
