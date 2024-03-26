@@ -90,10 +90,14 @@ document.addEventListener('keydown', (ev) => {
   }
 })
 
+let audio = null
 function play(audioPath) {
-  const audio = document.createElement('audio')
+  if (audio) {
+    audio.pause()
+    audio.currentTime = 0
+  }
+  audio = document.createElement('audio')
   audio.src = audioPath
-  console.log(audioPath)
   audio.play()
 }
 </script>
