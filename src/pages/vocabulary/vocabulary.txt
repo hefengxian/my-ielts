@@ -2242,7 +2242,7 @@ silver|n./adj.|银、银器/银的、银色的
 ceramic|adj./n.|陶瓷的/陶瓷制品
 porcelain|n.|瓷器、瓷
 ---
-bowl|n.|碗
+bowl|n.|碗|I have a bowl of cereal every morning|cereal n. 谷类植物，谷物；（尤指早晨加牛奶食用的）谷类食物，麦片。a fish bowl 鱼缸
 dish|n.|碟、菜肴
 saucer|n.|茶托、茶碟
 tray|n.|盘、托盘
@@ -3131,7 +3131,7 @@ remuneration|n.|报酬
 subsidy|n.|津贴，补贴||subsidise=subsidize v. 资助，给...发津贴
 earn|v.|赚得；赢得；获得
 ---
-undertaking|n.|任务；事业；许诺；保证
+undertaking|n.|任务；事业；许诺；保证|I give an undertaking that we shall proceed with the legislation|a written undertaking 书面保证。an undertaking clause 承诺条款
 career|n.|职业；事业；职业生涯
 profession|n.|职业
 ---
