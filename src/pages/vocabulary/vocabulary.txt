@@ -2906,8 +2906,8 @@ steady|adj.|稳定的；不摇晃的
 ---
 flourish|v.|繁荣；兴旺；茁壮成长
 succeed|v.|成功
-prospect|n.|希望；可能性；风景
-perspective|n.|景观；观点
+prospect|n.|希望；可能性；风景|There is not much prospect of his being elected as a congressman
+perspective|n.|景观；观点|We all have confidence in this new technology from a developmental perspective
 ---
 viewpoint|n.|观点；看法；视角
 standpoint|n.|立场；立足点
