@@ -3247,6 +3247,7 @@ controversy|n.|争议；辩论
 whisper|v.|低声说；私下谈论
 mutter|v.|低声低语；小声抱怨
 murmur|n./v.|低声说/咕哝；低语
+silent|adj.|沉默的；寂静无声的|He couldn't speak English and was completely silent during the visit|silence n./v. 沉默；寂静/使安静
 mute|adj./n.|缄默的；哑的；无声的/哑巴
 ---
 investigate|v.|调查
