@@ -4,6 +4,13 @@ import vocabulary from './vocabulary'
 
 const CHAPTER_KEY = 'vocabulary_chapter'
 
+const isTrainingModel = ref(true)
+const isShowMeaning = ref(true)
+const isAutoPlayWordAudio = ref(true)
+const isOnlyShowErrors = ref(false)
+const isFinishTraining = ref(false)
+
+const trainingStats = ref('')
 const keyword = ref('')
 const chapters = Object.keys(vocabulary)
 const category = ref(localStorage.getItem(CHAPTER_KEY) || chapters[0])
@@ -12,17 +19,18 @@ const loaded = ref(false)
 const refVocabulary = reactive(vocabulary)
 const wordList = computed(() => {
   const result = structuredClone(vocabulary) // deep clone
-  const keywordValue = keyword.value.trim().toLowerCase()
+  // const keywordValue = keyword.value.trim().toLowerCase()
   const categoryValue = category.value
 
   if (categoryValue !== '') {
-    for (const key in result) {
-      if (key !== categoryValue)
-        delete result[key]
-    }
+    // for (const key in result) {
+    //   if (key !== categoryValue)
+    //     delete result[key]
+    // }
+    return { [categoryValue]: result[categoryValue] }
   }
 
-  if (keywordValue !== '') {
+  /* if (keywordValue !== '') {
     for (const key in result) {
       const category = result[key]
       const words = []
@@ -33,14 +41,38 @@ const wordList = computed(() => {
       })
       category.words = words
     }
-  }
-  return result
+  } */
+  return {}
 })
 
 watch(category, (newVal, oldVal) => {
   // console.log(newVal, oldVal)
   localStorage.setItem(CHAPTER_KEY, newVal)
 })
+
+function calcStats() {
+  let error = 0
+  let missing = 0
+  let correct = 0
+  if (isTrainingModel.value) {
+    let cur = refVocabulary[category.value]
+    // 遍历所有单词的属性
+    for (let group of cur.words) {
+      for (let item of group) {
+        if (item.spellValue) {
+          if (item.spellError) {
+            error++
+          } else {
+            correct++
+          }
+        } else {
+          missing++
+        }
+      }
+    }
+  }
+  return `${missing} 个未完成，${correct} 个正确，${error} 个错误`
+}
 
 onMounted(() => {
   loaded.value = true
@@ -105,6 +137,70 @@ function copyText(item) {
   const text = `${item.word} ${item.pos} ${item.meaning}`
   navigator.clipboard.writeText(text)
 }
+
+function onInputKeydown(e) {
+  e.stopPropagation()
+  const { key, target } = e
+  // console.log(key, target.id)
+  if (key === 'Enter') {
+    // 切换到下一个 input
+    document.getElementById((Number(target.id) + 1).toString())?.focus()
+  }
+}
+
+function onInputFoucsIn(e, audioPath) {
+  if (isAutoPlayWordAudio.value) {
+    play(audioPath)
+  }
+}
+
+function onInputFoucsOut(e, item) {
+  const { target } = e
+  const spellValue = target.value.toLowerCase().trim()
+  if (spellValue.length < 1) {
+    item.spellValue = ''
+    item.spellError = false
+  } else {
+    item.spellValue = spellValue
+    item.spellError = spellValue !== item.word.toLowerCase().trim()
+  }
+  trainingStats.value = calcStats()
+}
+
+function playFirstWordAudio() {
+  if (isAutoPlayWordAudio.value && isTrainingModel.value) {
+    for (let categoryLabel in wordList.value) {
+      const item = wordList.value[categoryLabel].words[0][0]
+      play(`vocabulary/audio/${categoryLabel}/${item.word}.mp3`)
+      break
+    }
+  }
+}
+
+function getInputStyleClass(item) {
+  const cls = {
+    error: 'ml-4 bg-red-50 border border-red-500 text-red-900 placeholder-red-700 text-sm rounded-lg focus:ring-red-500 dark:bg-gray-700 focus:border-red-500 inline-block p-2.5 dark:text-red-500 dark:placeholder-red-500 dark:border-red-500',
+    normal: 'ml-4 inline-block border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400',
+    success: 'ml-4 bg-green-50 border border-green-500 text-green-900 dark:text-green-400 placeholder-green-700 dark:placeholder-green-500 text-sm rounded-lg focus:ring-green-500 focus:border-green-500 inline-block p-2.5 dark:bg-gray-700 dark:border-green-500',
+  }
+  if (isFinishTraining.value) {
+    if (item.spellError) return cls['error']
+    if (item.spellValue.length > 0 && !item.spellError) return cls['success']
+  }
+  return cls['normal']
+}
+
+function copyAllError() {
+  const words = refVocabulary[category.value].words
+  const errorWords = []
+  for (let group of words) {
+    for (let item of group) {
+      if (item.spellError) errorWords.push(`${item.word} ${item.pos} ${item.meaning}`)
+    }
+  }
+  navigator.clipboard.writeText(errorWords.join('\n'))
+}
+// playFirstWordAudio()
 </script>
 
 <template>
@@ -120,34 +216,49 @@ function copyText(item) {
         </div>
         <div class="items-center sm:flex">
           <div class="flex items-center">
-            <select
-              v-model="category"
-              class="block w-full flex-1 border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400"
-            >
+            <select v-model="category"
+              class="block w-full flex-1 border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400">
               <!-- <option value="">
                 全部章节
               </option> -->
-              <option
-                v-for="(_, k) in refVocabulary"
-                :key="k"
-                :value="k"
-              >
+              <option v-for="(_, k) in refVocabulary" :key="k" :value="k">
                 {{ k }}
               </option>
             </select>
             <!-- <input type="text" name="email" class="ml-3 block w-full border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-gray-900 dark:border-gray-600 focus:border-primary-500 dark:bg-gray-700 sm:text-sm dark:text-white focus:ring-primary-500 dark:focus:border-primary-500 dark:focus:ring-primary-500 dark:placeholder-gray-400" placeholder="关键词"> -->
-            <div class="relative ml-2 flex-1">
+            <!-- <div class="relative ml-2 flex-1">
               <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
-                <svg class="h-4 w-4 text-gray-500 dark:text-gray-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-                  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z" />
+                <svg class="h-4 w-4 text-gray-500 dark:text-gray-400" aria-hidden="true"
+                  xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+                  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z" />
                 </svg>
               </div>
-              <input
-                v-model="keyword"
-                type="search"
-                class="block w-full border border-gray-300 rounded-lg bg-gray-50 p-2.5 pl-10 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400" placeholder="Search"
-              >
-            </div>
+              <input v-model="keyword" type="search"
+                class="block w-full border border-gray-300 rounded-lg bg-gray-50 p-2.5 pl-10 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400"
+                placeholder="Search">
+            </div> -->
+            <label class="inline-flex items-center cursor-pointer ml-2">
+              <input v-model="isTrainingModel" type="checkbox" class="sr-only peer">
+              <div
+                class="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600">
+              </div>
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">练习模式</span>
+            </label>
+            <label v-if="isTrainingModel" class="inline-flex items-center cursor-pointer ml-2">
+              <input v-model="isShowMeaning" type="checkbox" class="sr-only peer">
+              <div
+                class="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600">
+              </div>
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">释义</span>
+            </label>
+            <label v-if="isTrainingModel" class="inline-flex items-center cursor-pointer ml-2">
+              <input v-model="isAutoPlayWordAudio" type="checkbox" class="sr-only peer">
+              <div
+                class="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600">
+              </div>
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">自动播放</span>
+            </label>
           </div>
         </div>
       </div>
@@ -183,64 +294,64 @@ function copyText(item) {
                   </tr>
                 </thead>
                 <tbody class="bg-white dark:bg-gray-800">
-                  <template
-                    v-for="(_category, categoryLabel) in wordList"
-                    :key="categoryLabel"
-                  >
-                    <tr class="bg-hex-f3f3f3">
-                      <td colspan="7" class="px-4 py-6 text-sm font-normal text-gray-900 dark:bg-gray-500 dark:text-white">
-                        <div class="flex flex-row">
-                          <div class="flex flex-1 items-center">
-                            <span class="text-lg">{{ categoryLabel }}</span>
-                            （ {{ _category.groupCount }} 组 {{ _category.wordCount }} 个词 ）
-                          </div>
-                          <div class="justify-items-end">
-                            <audio controls class="chapter">
-                              <source :src="`vocabulary/audio/${_category.audio}`" type="audio/mpeg">
-                            </audio>
-                          </div>
+                  <tr class="bg-hex-f3f3f3">
+                    <td colspan="7"
+                      class="px-4 py-6 text-sm font-normal text-gray-900 dark:bg-gray-500 dark:text-white">
+                      <div class="flex flex-row">
+                        <div class="flex flex-1 items-center">
+                          <span class="text-lg">{{ category }}</span>
+                          （ {{ refVocabulary[category].groupCount }} 组 {{ refVocabulary[category].wordCount }} 个词 ）
+                        </div>
+                        <div class="justify-items-end">
+                          <audio controls class="chapter">
+                            <source :src="`vocabulary/audio/${refVocabulary[category].audio}`" type="audio/mpeg">
+                          </audio>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                  <template v-for="(wordGroup, i) of refVocabulary[category].words" :key="wordGroup.label">
+                    <tr v-for="item of wordGroup"
+                      v-show="isTrainingModel && (isOnlyShowErrors ? item.spellError : true)" :key="item.id"
+                      :class="{ 'bg-gray-50 dark:bg-gray-700': item.id % 2 === 0, [`group-color-${i % 15}`]: true }"
+                      :id="`tr_${item.id}`" class="text-sm text-gray-900 dark:text-white">
+                      <td class="p-4">
+                        {{ item.id }}
+                      </td>
+                      <td>
+                        <i class="i-ph-speaker-simple-high-bold inline-block cursor-pointer"
+                          @click="play(`vocabulary/audio/${category}/${item.word}.mp3`)" />
+
+                        <template v-if="isTrainingModel">
+                          <i :class="`${item.showSource ? 'i-ph-eye-slash-bold' : 'i-ph-eye-bold'} inline-block cursor-pointer ml-4`"
+                            title="显示原词" @click="item.showSource = !item.showSource" />
+                          <input :id="item.id" autocomplete="off" @focusout="onInputFoucsOut($event, item)"
+                            @focusin="onInputFoucsIn($event, `vocabulary/audio/${category}/${item.word}.mp3`)"
+                            @keydown="onInputKeydown" :class="getInputStyleClass(item)" type="text">
+                        </template>
+                      </td>
+                      <td class="group relative whitespace-nowrap p-4 pr-6">
+                        <div v-if="!isTrainingModel || item.showSource || (isTrainingModel && isOnlyShowErrors && item.spellError)">
+                          <a class="hover:underline" :title="`在剑桥词典中查询 ${item.word}`" target="_blank"
+                            :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${item.word}`">{{
+              item.word }}</a>
+                          <i class="i-ph-copy absolute right-0 hidden cursor-pointer px-4 group-hover:inline-block"
+                            @click="copyText(item)" />
                         </div>
                       </td>
+                      <td style="font-style: italic; font-family: times;">
+                        {{ item.pos }}
+                      </td>
+                      <td class="p-4">
+                        {{ isShowMeaning ? item.meaning : '' }}
+                      </td>
+                      <td class="p-4">
+                        {{ isTrainingModel ? '' : item.example }}
+                      </td>
+                      <td class="p-4">
+                        {{ isTrainingModel ? '' : item.extra }}
+                      </td>
                     </tr>
-                    <template
-                      v-for="(wordGroup, i) of _category.words"
-                      :key="wordGroup.label"
-                    >
-                      <tr
-                        v-for="item of wordGroup"
-                        :key="item.id"
-                        :class="{ 'bg-gray-50 dark:bg-gray-700': item.id % 2 === 0, [`group-color-${i % 15}`]: true }"
-                        class="text-sm text-gray-900 dark:text-white"
-                      >
-                        <td class="p-4">
-                          {{ item.id }}
-                        </td>
-                        <td>
-                          <i class="i-carbon-volume-up-filled block cursor-pointer" @click="play(`vocabulary/audio/${categoryLabel}/${item.word}.mp3`)" />
-                        </td>
-                        <td class="group relative whitespace-nowrap p-4 pr-6">
-                          <a
-                            class="hover:underline"
-                            :title="`在剑桥词典中查询 ${item.word}`"
-                            target="_blank"
-                            :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${item.word}`"
-                          >{{ item.word }}</a>
-                          <i class="i-ph-copy absolute right-0 hidden cursor-pointer px-4 group-hover:inline-block" @click="copyText(item)" />
-                        </td>
-                        <td style="font-style: italic; font-family: times;">
-                          {{ item.pos }}
-                        </td>
-                        <td class="p-4">
-                          {{ item.meaning }}
-                        </td>
-                        <td class="p-4">
-                          {{ item.example }}
-                        </td>
-                        <td class="p-4">
-                          {{ item.extra }}
-                        </td>
-                      </tr>
-                    </template>
                   </template>
                 </tbody>
               </table>
@@ -249,46 +360,36 @@ function copyText(item) {
         </div>
       </div>
       <!-- Card Footer -->
-      <!-- <div class="flex items-center justify-between pt-3 sm:pt-6">
+      <div class="flex items-center justify-between pt-3 sm:pt-6">
         <div>
-          <button class="inline-flex items-center rounded-lg p-2 text-center text-sm font-medium text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white" type="button" data-dropdown-toggle="transactions-dropdown">
-            Last 7 days <svg class="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" /></svg>
-          </button>
-          <div id="transactions-dropdown" class="z-50 my-4 hidden list-none rounded bg-white text-base shadow divide-y divide-gray-100 dark:bg-gray-700 dark:divide-gray-600">
-            <div class="px-4 py-3" role="none">
-              <p class="truncate text-sm font-medium text-gray-900 dark:text-white" role="none">
-                Sep 16, 2021 - Sep 22, 2021
-              </p>
-            </div>
-            <ul class="py-1" role="none">
-              <li>
-                <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Yesterday</a>
-              </li>
-              <li>
-                <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Today</a>
-              </li>
-              <li>
-                <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Last 7 days</a>
-              </li>
-              <li>
-                <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Last 30 days</a>
-              </li>
-              <li>
-                <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Last 90 days</a>
-              </li>
-            </ul>
-            <div class="py-1" role="none">
-              <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Custom...</a>
-            </div>
-          </div>
+          <!-- <button
+            class="inline-flex items-center rounded-lg p-2 text-center text-sm font-medium text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white"
+            type="button" data-dropdown-toggle="transactions-dropdown">
+            Last 7 days <svg class="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button> -->
+          <p v-if="isTrainingModel">{{ trainingStats }}</p>
         </div>
         <div class="flex-shrink-0">
-          <a href="#" class="inline-flex items-center rounded-lg p-2 text-xs font-medium uppercase text-primary-700 hover:bg-gray-100 sm:text-sm dark:text-primary-500 dark:hover:bg-gray-700">
-            Transactions Report
-            <svg class="ml-1 h-4 w-4 sm:h-5 sm:w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
-          </a>
+          <button type="button"
+            class="rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+            @click="isFinishTraining = true">
+            完成练习
+          </button>
+          <button type="button"
+            class="ml-2 rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+            @click="isOnlyShowErrors = !isOnlyShowErrors">
+            仅展示错词
+          </button>
+          <button type="button"
+            class="ml-2 rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+            @click="copyAllError">
+            拷贝错词
+          </button>
         </div>
-      </div> -->
+      </div>
     </div>
   </div>
 </template>

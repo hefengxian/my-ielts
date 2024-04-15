@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 from collections import defaultdict
 from urllib import request
@@ -40,7 +41,7 @@ def parse():
                 word_parts = word.split('|')
                 # if category_index == 5:
                 #     print(word_parts[0])
-                word_dict = {'id': cur_id}
+                word_dict = {'id': cur_id, 'spellError': False, 'spellValue': '', 'showSource': False}
                 for part_index in part_mapping:
                     dict_key = part_mapping[part_index]
                     word_dict[dict_key] = word_parts[part_index] if part_index < len(
@@ -55,7 +56,7 @@ def parse():
   * pos = part of speech
   */
 
-const vocabulary = {dict(result).__str__()}
+const vocabulary = {json.dumps(result, ensure_ascii=False)}
 
 export default vocabulary
 """
