@@ -1,6 +1,7 @@
 <!-- eslint-disable eslint-comments/no-unlimited-disable -->
 <script setup generic="T extends any, O extends any">
 import vocabulary from './vocabulary'
+
 const CHAPTER_KEY = 'vocabulary_chapter'
 
 const keyword = ref('')
@@ -79,12 +80,11 @@ document.addEventListener('keydown', (ev) => {
         audioTag.currentTime = audioTag.currentTime + step
         // console.log(step, audioT ag.currentTime)
       }
-      if (' ' === ev.key) {
-        if (audioTag.paused) {
+      if (ev.key === ' ') {
+        if (audioTag.paused)
           audioTag.play()
-        } else {
+        else
           audioTag.pause()
-        }
       }
     }
   }
@@ -99,6 +99,11 @@ function play(audioPath) {
   audio = document.createElement('audio')
   audio.src = audioPath
   audio.play()
+}
+
+function copyText(item) {
+  const text = `${item.word} ${item.pos} ${item.meaning}`
+  navigator.clipboard.writeText(text)
 }
 </script>
 
@@ -213,15 +218,15 @@ function play(audioPath) {
                         <td>
                           <i class="i-carbon-volume-up-filled block cursor-pointer" @click="play(`vocabulary/audio/${categoryLabel}/${item.word}.mp3`)" />
                         </td>
-                        <td class="whitespace-nowrap p-4">
+                        <td class="group relative whitespace-nowrap p-4 pr-6">
                           <a
                             class="hover:underline"
                             :title="`在剑桥词典中查询 ${item.word}`"
                             target="_blank"
                             :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${item.word}`"
                           >{{ item.word }}</a>
+                          <i class="i-ph-copy absolute right-0 hidden cursor-pointer px-4 group-hover:inline-block" @click="copyText(item)" />
                         </td>
-                        
                         <td style="font-style: italic; font-family: times;">
                           {{ item.pos }}
                         </td>
