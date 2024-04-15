@@ -3808,7 +3808,7 @@ argument|n.|辩论，争论；论点，论据
 ---
 mention|v./n.|提及；说起
 hurry|v./n.|赶紧；催促/匆忙
-hasten|v.|赶紧；促进
+hasten|v.|赶紧；促进|It was now obvious that she was hastening to restore the car to it's owner
 urge|v.|催促，敦促/冲动
 ---
 scold|v.|责骂，斥责
