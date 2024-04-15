@@ -1743,7 +1743,7 @@ lyric|n./adj.|抒情诗；抒情的
 band|n.|乐队；带；波段
 solo|n./adj.|独奏；独唱；独奏的；独唱的
 melody|n.|乐曲；旋律
-rhythm|n.|节奏；韵律
+rhythm|n.|节奏；韵律|I can't dance to music without good rhythm
 ---
 tone|n.|音色；声调；腔调
 tune|n./v.|曲调；短乐曲；调试
@@ -1816,7 +1816,7 @@ throw|v.|投；掷；抛；扔
 toss|v.|扔；抛；掷；（使）颠簸
 ---
 slide|v./n.|滑动；逐渐降低；滑行；下跌
-slip|v./n.|滑跤；滑落；溜；滑到||a slip of the tongue 口误；失言
+slip|v./n.|滑跤；滑落；溜；滑到|She slipped and fell down the stairs|a slip of the tongue 口误；失言
 glide|v./n.|滑动；掠过；滑行
 tumble|v.|摔倒；滚下
 ---
@@ -1841,7 +1841,7 @@ hunt|v./n.|打猎；搜寻；猎取||hunter n. 猎人。hunt for 寻找
 ---
 race|n.|赛跑；速度竞赛；人种；种族
 marathon|n.|马拉松
-pedestrian|n.|步行者；行人||a pedestrian crossing 人形横道
+pedestrian|n.|步行者；行人|In the accident a pedestrian and a cyclist were injured|a pedestrian crossing 人形横道
 pace|n./v.|步速；速度；步调；节奏；来回踱步
 step|n.|步伐；步骤||footstep n. 脚步声；足迹。step by step 一步一步；逐步
 ---
@@ -1852,9 +1852,9 @@ vacation|v./n.|休假；假期
 hike|n./v.|徒步旅行；远足
 ---
 jog|v.|慢跑||jogger n. 慢跑锻炼的人。jogging n. 慢跑
-stride|v.|大步走；阔步行走
+stride|v.|大步走；阔步行走|They are strading forward both in English and in Mathematics
 wander|v.|闲逛；漫步；走神；开小差
-linger|v.|逗留；流连；继续存留
+linger|v.|逗留；流连；继续存留|We linger at the beach whole summer
 lag|v./n.|落后；间隔；时间差||lag behind sb./sth. 落后于某人/某物
 ---
 climb|v.|攀登；爬
