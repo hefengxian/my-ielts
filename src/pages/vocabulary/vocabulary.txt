@@ -23,8 +23,8 @@ mishap|n.|小灾难|A mishap prevented him from attending the routine company me
 catastrophic|adj.|灾难性的|If the forecast had been wrong, the consequences could have been catastrophic
 calamity|n.|灾难；不幸的事|A hurricane would be a calamity for this low-lying coastal region|cause a calamity 酿成灾祸
 ---
-endanger|v.|使遭受危险；危及|If you are work hard without reset, you will endanger your health|endangered adj./濒临灭绝
-jeopardise|v.|=jeopardize 危害；危及|If you are rude to the boss, your chances of success may be jeopardised|jeopardise sb.'s life 危及某人生命
+endanger|v.|使遭受危险；危及|If you are work hard without reset, you will endanger your health|endangered adj. 濒临灭绝
+jeopardise/jeopardize|v.|危害；危及|If you are rude to the boss, your chances of success may be jeopardised|jeopardise sb.'s life 危及某人生命
 destructive|adj.|破坏性的；有害的|Jealousy is an extremely destructive emotion
 ---
 El Nino|n.|厄尔尼诺现象
@@ -246,7 +246,7 @@ deforest|v.|毁掉...深林||deforestation n. 毁林，滥伐深林
 ---
 barren|adj.|贫瘠的；荒芜的；不结果实的
 fertile|adj.|富饶的；肥沃的
-fertilise|v.|=fertilize 施肥于
+fertilise/fertilize|v.| 施肥于
 ---
 solar|adj.|太阳的；日光的
 lunar|adj.|月亮的；月球的
@@ -264,7 +264,7 @@ sunshine|n.|阳光；日光
 shade|n./v.|阴影部分；背阴处；给...遮挡（光线）
 shadow|n.|影子
 ---
-vapour|n.|=vapor 蒸汽；水汽||与 steam 的区别是，steam 一般指的是水蒸气，vapor 泛指蒸汽，比如 mercury vapor 汞蒸汽
+vapour/vapor|n.| 蒸汽；水汽||与 steam 的区别是，steam 一般指的是水蒸气，vapor 泛指蒸汽，比如 mercury vapor 汞蒸汽
 evaporate|v.|使蒸发；消失
 circulate|v.|循环；流通；传播
 precipitate|v.|凝结；沉淀|Clouds usually precipitate as rain or snow|precipitation n. 沉淀；降水量；陡然下落
@@ -329,7 +329,7 @@ genetics|n.|遗传学|In genetics, genes were formerly called factors|gene n. �
 mutation|n.|突变；变异
 variation|n.|变种；变异||vary v. 变化
 diversity|n.|多样性
-hybridisation|n.|=hybridization 杂交||hybrid car
+hybridisation/hybridization|n.|杂交||hybrid car
 classify|v.|分类|Librarians spend a lot of time classifying books|classified adj. 机密的；秘密的
 ---
 reproduce|v.|繁殖
@@ -347,7 +347,7 @@ yield|v./n.|产出；屈服；服从；产量；投资收益|This land yields we
 rear|v./n.|培养；抚养；饲养；后部|Most farmer in this area rear sheep
 arable|adj.|适合耕种的|This area changed quickly from arable land to desert
 ---
-plough|n./v.|=plow 犁；耕|The ground was ploughed/plowed and planted with corn
+plough/plow|n./v.| 犁；耕|The ground was ploughed/plowed and planted with corn
 spade|n.|铲；锹|He bought a new spade
 rake|n./v.|耙子；耙；搜索|With an ancient rusty rake I went to work|rake up leaves 耙落叶；His is raking it in 他很赚钱
 ---
@@ -361,7 +361,7 @@ sunlight|n.|阳光
 short-day|adj.|短日照的|Soybean is a typical short-day corp 大豆是典型的短日照作物
 shade-tolerant|adj.|耐阴的
 fungus|n.|真菌
-mould|n./v.|=mold 霉菌/发霉|The walls were black with mould
+mould/mold|n./v.| 霉菌/发霉|The walls were black with mould
 ---
 pollen|n./v.|花粉；给...授粉|Each spring, pollen from nearby plants is blown into the water
 germinate|v.|发芽|Warmth is needed for the seeds to germinate
@@ -459,7 +459,7 @@ impact|n.|影响
 ---
 seasonal|adj.|季节性的
 experimental|adj.|实验性的
-favourable|adj.|=favorable 有利的；赞成的；肯定的
+favourable/favorable|adj.|有利的；赞成的；肯定的
 ---
 productive|adj.|多产的
 effective|adj.|有效的
@@ -471,7 +471,7 @@ immense|adj.|巨大的；极好的|
 ---
 maximal|adj.|最大的
 minimal|adj.|最小的
-optimal|adj.|=optimum 最佳的；最理想的
+optimal/optimum|adj.| 最佳的；最理想的
 ===
 动物保护
 +++
@@ -518,7 +518,7 @@ feed|v.|供养；喂养；进食
 breed|v./n.|饲养；繁殖/品种
 interbreed|v.|（使）品种杂交
 ---
-hybridize|v.|=hybridise （使）杂交
+hybridize/hybridise|v.|（使）杂交
 proliferate|v.|迅速增殖；剧增
 sterility|n.|不生育|This disease causes sterility in both males and females
 ---
@@ -610,7 +610,7 @@ squirrel|n.|松树
 hare|n.|野兔
 frog|n.|青蛙
 ---
-behaviour|n.|=behavior 行为；活动方式
+behaviour/behavior|n.| 行为；活动方式
 bite|v./n.|咬；（昆虫）叮；吞饵
 sting|v./n.|刺；叮；（使）感觉刺痛；鳌针；蜇痛|It is the nature of the scorpion to sting|sting sb. into doing sth. 刺激某人做某事
 bark|v./n.|吠；大声嚷；树皮
@@ -754,7 +754,7 @@ liquid|n./adj.|液体；液体的
 fluid|n./adj.|液体；流体。流动的|When you are sick, you should drink plenty of fluids
 solid|n./adj.|固体。固体的；牢固的
 ---
-synthesise|v.|=synthesize 合成；综合|Darwinian theory has been synthesized with modern genetics
+synthesise/synthesize|v.| 合成；综合|Darwinian theory has been synthesized with modern genetics
 formation|n.|形成
 method|n.|方法
 ---
@@ -816,9 +816,9 @@ puzzle|n./v.|难题；谜。使迷惑
 riddle|n.|谜；谜语
 obscure|adj.|难以理解的|Rules for the game are somewhat obscure
 ---
-instil|v.|=instill 逐渐灌输|A sense of duty must be instilled in our children
+instil/instill|v.| 逐渐灌输|A sense of duty must be instilled in our children
 cram|v.|把...塞进；（为应考）临时死记硬背
-emphasise|v.|=emphasize 强调；着重
+emphasise/emphasize|v.|强调；着重
 enhance|v.|提高；增强|A good score of IELTS enhance my change of getting the offer
 ---
 enable|v.|使能够
@@ -837,7 +837,7 @@ abuse|v.|滥用；虐待|It's easy to abuse one's power|alcohol abuse 酗酒
 intelligent|adj.|聪明的
 clever|adj.|聪明的；精明的
 smart|adj.|聪明的；智能的
-all-round|adj.|=all-around 有多方面才能的；全面的|She is an all-round artist
+all-round/all-around|adj.|有多方面才能的；全面的|She is an all-round artist
 ---
 genius|n.|天才人物；天赋
 elite|n.|精英
@@ -884,7 +884,7 @@ candidate|n.|候选人；求职者；考生
 degree|n.|学位；程度|He left without completing his degree|to a certain degree 在某种程度上
 qualify|v.|（使）有资格、有权
 certify|v.|证明；颁发专业合格证书
-license|n.|=licence 执照；许可证
+license/licence|n.|执照；许可证
 permit|n.|许可证
 ---
 diploma|n.|毕业文凭
@@ -908,11 +908,11 @@ alumni|n.|[alumnus 的复数形式]毕业生；校友|My alumni and alumna are p
 campus|n.|（大专院校的）校园
 orientation|n.|迎新会；方向
 platform|n.|平台；讲台
-coed|adj./n.|=co-educational 男女同校的。（男女同校的大学生中的）女生|A nationwide research is under way for typical coeds
+coed/co-educational|adj./n.|男女同校的。（男女同校的大学生中的）女生|A nationwide research is under way for typical coeds
 ---
 register|v./n.|登记；注册。登记表；注册簿
 roster|n.|花名册；登记表；执勤表|I am on the roster for tomorrow night
-enrol|v.|=enroll 登记；注册；加入
+enrol/enroll|v.|登记；注册；加入
 matriculation|n.|注册入大学
 ---
 accommodation|n.|住处；食宿招待
@@ -920,7 +920,7 @@ dorm|n.|宿舍
 dining hall|n.|食堂
 canteen|n.|水壶；[英]食堂
 ---
-laboratory|n.|=lab 实验室；研究室
+laboratory/lab|n.|实验室；研究室
 experiment|n.|实验；试验
 data|n.|[datum 的复数形式]数据
 quantity|n.|数量
@@ -942,7 +942,7 @@ journal|n.|日报；周报；（尤指专门科学的）杂志；日志
 coverage|n.|新闻报道；覆盖范围
 ---
 bibliography|n.|参考书目
-encyclopedia|n.|=encyclopaedia 百科全书
+encyclopedia/encyclopaedia|n.|百科全书
 biography|n.|传记
 documentary|n./adj.|纪录片；记录的
 series|n.|连续的；一系列；系列节目
@@ -958,7 +958,7 @@ manual|n.|使用手册；指南；手工的
 ---
 frame|n.|框架；眼镜框；构架
 index|n./v.|指数；索引；为...编索引
-catalogue|n.|=catalog 目录
+catalogue/catalog|n.|目录
 category|n.|种类；类别；范畴
 ---
 inventory|n.|库存；详细目录
@@ -1001,7 +1001,7 @@ engineering|n.|工程；工程学
 mechanics|n.|力学；机械学
 electronics|n.|电子学；电子器件|That country wants to increase tariffs on items such as electronics|electron n. 电子。electronic adj. 电子的；电子学的。electrical adj. 电的；电气科学的。electricity n. 电；电流；电学
 ---
-maths|n.|=mathematics 数学
+maths/mathematics|n.|数学
 arithmetic|n.|算数
 geometry|n.|几何学
 algebra|n.|代数
@@ -1063,7 +1063,7 @@ width|n.|宽度
 length|n.|长度
 ---
 decimal|adj./n.|小数的；十进制的。小数
-percent|n.|=per cent 百分之...
+percent/per cent|n.|百分之...
 proportion|n.|比例
 ---
 rate|n.|比率；率；速度
@@ -1157,16 +1157,16 @@ consult|v.|请教；查阅
 ---
 skim|v.|掠过；擦过；略读
 scan|v./n.|细看；浏览；扫描
-scrutinise|v.|=scrutinize 仔细检查|scrutiny n. 详细审查
+scrutinise/scrutinize|v.|仔细检查|scrutiny n. 详细审查
 recite|v.|背诵；朗诵
 dictate|v.|让（某人）听写；命令；强行规定|The English teacher dictates to the class every other week|dictaion n. 听写；口述
 ---
-examination|n.|=exam 考试；抽查
+examination/exam|n.|考试；抽查
 test|v./n.|测试；检验
 quiz|n.|小测验
 presentation|n.|陈述；表演；演出
 ---
-plagiarise|v.|=plagiarize 抄袭
+plagiarise/plagiarize|v.|抄袭
 copy|n./v.|复制品。抄写；复制
 print|v./n.|打印。印刷品；照片
 ---
@@ -1206,7 +1206,7 @@ predict|v.|预测
 perceive|v.|感知；察觉；意识到|I perceived that it was not possible to make her change her mind
 detect|v.|察觉；发觉；侦查出
 discern|v.|察觉出；分辨出
-recognise|v.|=recognize 认识；辨认出
+recognise/recognize|v.|认识；辨认出
 conscious|adj.|意识到的；有知觉的
 ---
 reckon|v.|估计；期望；认为
@@ -1220,7 +1220,7 @@ persist|v.|坚持不懈；持续存在
 ---
 understand|v.|懂得；理解
 comprehend|v.|理解；领悟
-analyse|v.|=analyze 分析
+analyse/analyze|v.|分析
 ---
 diagnose|v.|判断；诊断
 infer|v.|推断；推理
@@ -1259,7 +1259,7 @@ survey|n./v.|民意调查；对...进行民意调查||动词的时候重音在�
 research|n.|调查；探索
 observe|v.|观察；观测；注意到
 ---
-inquire|v.|=enquire 询问；调查||inquiry n. 询问；调查。 inquire into 调查
+inquire/enquire|v.|询问；调查||inquiry n. 询问；调查。 inquire into 调查
 query|n./v.|疑问；询问；怀疑；询问
 questionnaire|n.|调查表；调查问卷
 ---
@@ -1321,11 +1321,11 @@ field|n.|领域
 realm|n.|领域
 foundation|n.|基础；地基；基金会
 ---
-specialise|v.|=specialize 专攻||specialize in 专攻；专门研究；专门经营
+specialise/specialize|v.|专攻||specialize in 专攻；专门研究；专门经营
 absorb|v.|理解；掌握
 concentrate|v.|（集中）心思；（使）浓缩||concentration n. 专心；浓度。concentrate on 专心于
 focus|v./n.|集中于；焦点
-utilise|v.|=utilize 利用||utility n. 效用；有用。utilities n. （水、电、煤气等）公用事业。utilizbation=utilization n. 利用；使用
+utilise/utilize|v.|利用||utility n. 效用；有用。utilities n. （水、电、煤气等）公用事业。utilizbation=utilization n. 利用；使用
 usage|n.|使用；用法
 tester|n.|测试员；测试仪
 apply|v.|应用；适用||apply to 适用于。apply A to B 把 A 应用于 B
@@ -1392,7 +1392,7 @@ high-definition|adj.|高分辨率的
 audio|adj.|声音的
 vision|n.|视觉；视力
 fantasy|n.|幻想|He is unable to divorce fantasy from reality|fantastic adj. 奇异的；奇妙的
-science fiction|n.|=sci-fi 科幻作品
+science fiction/sci-fi|n.|科幻作品
 ---
 pump|n./v.|泵；（用泵）抽
 generator|n.|发电机
@@ -1411,9 +1411,9 @@ simplify|v.|简化；精简||simplicity n. 简单；质朴。simple adj. 简单�
 ---
 purify|v.|净化；使纯净
 filter|v./n.|过滤；（光或声音）透过；过滤器||filter through （消息等）慢慢传开；走漏
-distil|v.|=distill 蒸馏；提取...的精华
+distil/distill|v.|蒸馏；提取...的精华
 mode|n.|模式；方式
-mould|v./n.|=mold 浇铸；塑造/模子||和霉菌是一个词
+mould/mold|v./n.|浇铸；塑造/模子||和霉菌是一个词
 prototype|n.|原型；雏形
 ---
 framework|n.|框架；体系；结构
@@ -1449,7 +1449,7 @@ circumstance|n.|情况；条件；环境；境遇
 文化历史
 +++
 culture|n.|文化；文明；教养|China plays an important role in promoting Asian culture|cultural adj. 文化的。multicultural adj. 文化多样的
-civilisation|n.|=civilization 文明|Western civilization was cradled in Ancient Greece 古希腊滋养了西方文明|cradle n./v. 摇篮，吊架，发源地/轻轻抱着 —— 这里翻译成了滋养。civilize=civilise v. 使文明，开化
+civilisation/civilization|n.|文明|Western civilization was cradled in Ancient Greece 古希腊滋养了西方文明|cradle n./v. 摇篮，吊架，发源地/轻轻抱着 —— 这里翻译成了滋养。civilize=civilise v. 使文明，开化
 renaissance|n.|the Renaissance 文艺复兴时期|The Renaissance was an epoch of unparalleled cultural achievement 文艺复兴时期是一个在文化上取得空前成就的时代|epoch n. （尤指出现新进步和大变革的）时代，纪元，时期——注意美音和英音的发音区别。unparalleled adj. 无双的，无比的，空前的
 epic|n./adj.|史诗；宏大的|Their epic fight is the subject of a new film|他们的伟大战斗是一部新电影的主题
 ideology|n.|意识形态；思想体系|An obsolete ideology can hamper an economy|obsolete adj. 废弃的，过时的，老化的，淘汰的。hamper v./n. 阻碍，妨碍/带盖的方形大容器，食品盒，洗衣篮
@@ -1672,12 +1672,12 @@ recreation|n.|休闲；娱乐||a recreation ground 公共娱乐场
 ---
 amuse|v.|逗乐；给...提供娱乐||amuse oneself 自娱自乐
 gossip|n.|闲聊；流言蜚语
-rumour|n.|=rumor 谣言；传闻
+rumour/rumor|n.|谣言；传闻
 consensus|n.|共识；一致的意见
 ---
 festival|n.|节日
 feast|n.|盛宴；（宗教）节日
-programme|n./v.|=program 节目；方案；程序；为系统设置程序；计划||programmer n. 程序设计员
+programme/program|n./v.|节目；方案；程序；为系统设置程序；计划||programmer n. 程序设计员
 rehearsal|n.|排练
 ---
 perform|v.|表演；演出
@@ -1713,7 +1713,7 @@ stage|n.|舞台；阶段||the stage 戏剧演出
 ---
 gallery|n.|美术馆
 exhibition|n.|展览
-aesthetic|adj./n.|=esthetic 审美的；审美观
+aesthetic/esthetic|adj./n.|审美的；审美观
 ---
 collect|v.|收集；收藏
 select|v./adj.|选择；挑选；精选的
@@ -1747,7 +1747,7 @@ rhythm|n.|节奏；韵律|I can't dance to music without good rhythm
 ---
 tone|n.|音色；声调；腔调
 tune|n./v.|曲调；短乐曲；调试
-disc|n.|=disk 光碟；唱片；磁盘
+disc/disk|n.|光碟；唱片；磁盘
 ---
 piano|n.|钢琴
 violin|n.|小提琴
@@ -1869,7 +1869,7 @@ stuff|n.|东西；原料
 item|n.|一件物品；一件商品
 merchandise|n.|商品
 souvenir|n.|纪念品
-artifact|n.|=artefact 人造物品；手工艺品
+artifact/artefact|n.|人造物品；手工艺品
 ---
 material|n./adj.|材料；原料；人才；物质的
 raw|adj.|天然的；未经加工的；（感情）原始的
@@ -2026,7 +2026,7 @@ plaster|n.|灰泥；熟石膏
 ---
 leather|n.|皮革；皮衣
 plastic|n./adj.|塑料；有塑性的；塑料的
-fiber|n.|=fibre 纤维；纤维素
+fiber/fibre|n.|纤维；纤维素
 ---
 fabric|n.|织物；布料
 knit|v.|编织；针织
@@ -2075,7 +2075,7 @@ idol|n.|偶像；受到崇拜的人或物；神像
 ---
 luxury|n.|奢侈；奢侈品||luxurious adj. 奢侈的；豪华的
 extravagant|adj.|奢侈的；过分的
-jewelry|n.|=jewellery 珠宝；手势
+jewelry/jewellery|n.|珠宝；手势
 ---
 jewel|n.|宝石
 gem|n.|宝石；珍品
@@ -2185,12 +2185,12 @@ rag|n.|破布|She wrapped the box with an old rag|ragged adj. 破旧的
 shabby|adj.|破旧的；衣衫褴褛的
 tight|adj.|紧的
 ---
-colour|n.|=color 颜色；颜料|Due to the use of nature pigments, these folk paintings retain their color well. 因为使用了天然颜料，这些民俗画的颜色很好地保留了下来|retain [formal]v. 保持；保留；保有；留住；容纳。colorful=colourful adj. 富于色彩的
+colour/color|n.|颜色；颜料|Due to the use of nature pigments, these folk paintings retain their color well. 因为使用了天然颜料，这些民俗画的颜色很好地保留了下来|retain [formal]v. 保持；保留；保有；留住；容纳。colorful=colourful adj. 富于色彩的
 white|adj./n.|白的；白色|He was white with fury 他气的脸色发白|whitewash v. 粉刷，刷石灰水
 yellow|adj./n.|黄的；黄色
 brown|adj./n.|褐色的；褐色
 ---
-grey|adj./n.|=gray 灰色的；灰色
+grey/gray|adj./n.|灰色的；灰色
 pink|adj./n.|粉色的；粉色
 purple|adj./n.|紫色的；紫色
 tan|adj./n.|棕黄色的；棕黄色；晒成的棕褐色
@@ -2227,7 +2227,7 @@ banquet|n.|宴会
 ---
 refreshment|n.|茶点、点心
 snack|n.|快餐、小吃、零食
-appetiser|n.|=appetizer 开胃饮料、开胃小菜
+appetiser/appetizer|n.|开胃饮料、开胃小菜
 cuisine|n.|菜肴、烹饪
 menu|n.|菜单
 order|n./v.|订单、点的餐/点（酒菜等）
@@ -2272,7 +2272,7 @@ coffee|n.|咖啡
 ---
 alcohol|n.|酒精、乙醇、酒
 liquor|n.|烈性酒
-whisky|n.|=whiskey 威士忌酒
+whisky/whiskey|n.|威士忌酒
 brandy|n.|白兰地酒
 drunk|adj.|醉的
 ---
@@ -2382,7 +2382,7 @@ sugar|n.|糖
 candy|n.|糖果
 honey|n.|蜂蜜
 ---
-flavor|n.|=flavour 味道、口味、特色、风格
+flavor/flavour|n.|味道、口味、特色、风格
 sour|adj.|酸的
 sweet|adj.|甜的、愉快的
 bitter|adj.|苦的；痛苦的；严寒的
@@ -2480,7 +2480,7 @@ corridor|n.|走廊、通道
 ---
 stair|n.|楼梯
 staircase|n.|（建筑内的）楼梯
-storey|n.|=story 楼层
+storey/story|n.|楼层
 layer|n.|层|There is a layer of dust on the table. Clean it before the guests arrive
 ---
 elevator|n.|[美]电梯|Her job is to operate an elevator|lift n. [英]电梯。a freight elevator 货梯
@@ -2501,7 +2501,7 @@ reception|n.|接待处
 lobby|n./v.|大厅；前厅；游说/游说||lobbyist n. 说客
 bench|n.|长凳||the bench 法官职位
 ---
-parlour|n.|=parlor客厅
+parlour/parlor|n.|客厅
 fireplace|n.|壁炉
 radiator|n.|暖气设备
 living room|n.|客厅、起居室
@@ -2678,7 +2678,7 @@ horsepower|n.|马力
 wheel|n.|方向盘；车轮
 ---
 brake|n./v.|车闸；刹车/刹车
-tire|n.|=tyre 轮胎
+tire/tyre|n.|轮胎
 honk|n./v.|汽车喇叭声；鹅叫声/按（汽车喇叭）
 ---
 crew|n.|全体工作人员；一组工作人员
@@ -2695,7 +2695,7 @@ vanish|v.|突然消失；绝迹
 disappear|v.|失踪；消失
 hazard|n./v.|危险/使冒风险
 ---
-harbour|n.|=harbor 港口
+harbour/harbor|n.| 港口
 dock|n.|码头；船坞
 anchor|n.|锚
 ---
@@ -2836,7 +2836,7 @@ affect|v.|影响；打动；使悲伤
 importance|n.|重要，重要性|The police officer emphasised the importance of careful driving|important adj. 重要的；有势力的。realise the importance 意识到重要性
 significance|n.|重要性；意义
 ---
-organization|n.|=organisation 组织；团体；机构
+organization/organisation|n.|组织；团体；机构
 association|n.|协会；团体；关联
 union|n.|联合；联盟；工会
 ---
@@ -2994,7 +2994,7 @@ coupon|n.|优惠券
 ---
 currency|n.|货币；通用，流行
 exchange|n.|交换；兑换
-swap|v./n.|=swop 交换
+swap/swop|v./n.|交换
 receipt|n.|收据；收到
 invoice|n./v.|发票/开发票给
 ---
@@ -3094,8 +3094,8 @@ stock|n.|股本；股票；库存
 ---
 account|n.|账户；解释
 deposit|n.|存款；押金
-instalment|n.|=installment （分期付款的）一期付款
-cheque|n.|=check 支票
+instalment/installment|n.|（分期付款的）一期付款
+cheque/check|n.|支票
 ---
 cash|n./v.|现金/兑现（支票）
 coin|n./v.|硬币/铸币；创造（新词语）
@@ -3139,14 +3139,14 @@ occupation|n.|占领，占据；职业
 job|n.|职业；工作
 vocation|n.|（认为特别适合自己的）职业；使命感
 ---
-labour|n.|=labor 劳动；体力劳动
+labour/labor|n.|劳动；体力劳动
 workforce|n.|劳动力；全体员工
 workaholic|n.|工作狂
 personnel|n.|人员，职员；人事部门
 clerk|n.|店员，办事员，接待员
 ---
 interview|n./v.|面试；采访/对...进行面试；采访
-résumé|n.|=resume UK /ˈrez.juː.meɪ/ US /ˈrez.ə.meɪ/ 履历；简历；摘要
+résumé/resume|n.|UK /ˈrez.juː.meɪ/ US /ˈrez.ə.meɪ/ 履历；简历；摘要
 recommend|v.|推荐；劝告；介绍
 employ|v.|雇用；采用
 hire|v./n.|雇用；租用/租赁（业）
@@ -3478,7 +3478,7 @@ enemy|n.|敌人；仇敌；敌军
 ---
 strategy|n.|策略；战略
 tactic|n.|策略，战术
-maneuver|n.|=manoeuvre 策略；技巧；[~s]军事演习|The army is doing maneuvers at sea
+maneuver/manoeuvre|n.|策略；技巧；[~s]军事演习|The army is doing maneuvers at sea
 blueprint|n.|蓝图；行动计划
 ---
 warn|v.|警告；告诫
@@ -3566,7 +3566,7 @@ avoid|v.|避免；躲开
 ---
 quit|v.|放弃，停止；辞去，离开
 abandon|v.|放弃，抛弃，丢弃
-forgo|v.|=forego 放弃
+forgo/forego|v.|放弃
 discard|v.|丢弃，抛弃
 rid|adj.|[get ~ of]摆脱，丢弃
 ---
@@ -3585,7 +3585,7 @@ tablet|n.|碑，匾，药片
 statue|n.|雕像，塑像
 medal|n.|勋章，奖章
 ---
-honor|n./v.|=honour 尊敬，敬意，冗余/尊敬，给予表扬
+honor/honour|n./v.|尊敬，敬意，冗余/尊敬，给予表扬
 glorious|adj.|光荣的，荣耀的||glory n. 光荣，荣耀
 contribute|v.|捐献，做贡献，撰稿
 devote|v.|献身，投入
@@ -3699,7 +3699,7 @@ each|pron./det.|各个，各自
 individual|n./adj.|个人；个体/个别的，单独的
 ---
 commuter|n.|上下班，往返者
-neighborhood|n.|=neighbourhood 街坊；居住区；周边地区
+neighborhood/neighbourhood|n.|街坊；居住区；周边地区
 member|n.|成员；会员
 ---
 boss|n./v.|老板，上司/对...指手画脚
@@ -3737,7 +3737,7 @@ specialist|n.|专家；专科医生
 consultant|n.|顾问；[英]会诊医师
 veterinary|adj.|兽医的
 ---
-counsellor|n.|=counselor 顾问，辅导顾问；（美国的）律师
+counsellor/counselor|n.|顾问，辅导顾问；（美国的）律师
 solicitor|n.|（英国的）诉状律师，事务律师；（美国的）法务官
 attorney|n.|（美国的）律师
 umpire|n.|裁判员
@@ -3883,7 +3883,7 @@ arrange|v.|安排，整理，使有条理
 manipulate|v.|（熟练的）操作；操纵
 steer|v.|掌舵；驾驶；操纵
 ---
-baptize|v.|=baptise 给...施行洗礼||baptism n. 洗礼；浸礼
+baptize/baptise|v.|给...施行洗礼||baptism n. 洗礼；浸礼
 bet|v./n.|下注；打赌；敢说/打赌；赌注
 stake|n./v.|赌注；桩/以...打赌
 gamble|v./n.|赌博；冒险
@@ -3891,7 +3891,7 @@ promise|n./v.|诺言/承诺
 ---
 attract|v.|吸引；引起
 obsess|v.|（是）痴迷、心神不宁||be obsessed by/with 被...迷住，对...着迷
-mesmerize|v.|=mesmerise 吸引；迷住
+mesmerize/mesmerise|v.|吸引；迷住
 nightmare|n.|噩梦，梦魇
 ---
 amaze|v.|使惊奇，使惊愕
@@ -3939,7 +3939,7 @@ tempt|v.|引诱，诱惑，怂恿
 designate|v.|指明；选派；指派||appoint v. 指派
 assign|v.|布置；分配；指定；确定
 distribute|v.|分发，分配
-despatch|v.|=dispatch 派遣；调派；迅速处理
+despatch/dispatch|v.|派遣；调派；迅速处理
 detach|v.|（使）分开，（使）分离；派遣
 ---
 undo|v.|解开，打开，取笑
@@ -3966,7 +3966,7 @@ itch|v./n.|发痒；渴望/痒；渴望
 attempt|v./n.|尝试；试图/尝试；企图
 strive|v.|努力；奋斗||strive after/for 为...奋斗
 effort|n.|努力；努力的成果
-fulfil|v.|=fulfill 履行；实现；完成；满足
+fulfil/fulfill|v.|履行；实现；完成；满足
 ---
 range|v.|（在一定幅度内的）变动||ranger n. 护林员；公园看管人
 sort|n./v.|种类，类别/把...分类
@@ -4243,7 +4243,7 @@ diabetes|n.|糖尿病
 obesity|n.|（过度）肥胖；肥胖症
 overweight|adj./n./v.|超重的；过胖的/超重/使超重；过于重视
 hypertension|n.|高血压
-paralyse|v.|=paralyze 使麻痹；使瘫痪；使无助
+paralyse/paralyze|v.|使麻痹；使瘫痪；使无助
 ---
 dizzy|adj./v.|头晕目眩的；眩晕的/使眩晕
 insane|adj.|患精神病的；疯狂的|His must insane to drive his car so fast|an insane asylum 精神病院
@@ -4257,7 +4257,7 @@ pimple|n.|粉刺；丘疹
 ---
 stroke|n.|中风；打击；一笔（画）
 plague|n.|瘟疫|Plague came in the wake of earthquake
-flu|n.|=influenze 流行性感冒
+flu/influenze|n.|流行性感冒
 fever|n./v.|狂热；发烧；发热/（使）发烧；（使）狂热
 ---
 headache|n.|头痛
@@ -4403,7 +4403,7 @@ lively|adj.|活泼的；活跃的；栩栩如生的
 ---
 lovely|adj.|可爱的；令人愉快的
 fond|adj.|喜爱的；溺爱的
-favor|n.|=favour 偏爱；赞同；恩惠；帮助
+favor/favour|n.|偏爱；赞同；恩惠；帮助
 ---
 surprising|adj.|令人惊讶的；出人意料的
 startle|v./n.|使大吃一惊/吃惊
@@ -4447,7 +4447,7 @@ thoughtful|adj.|认真思考的；考虑周到的；体贴的
 sympathetic|adj.|同情的；和谐的
 ready|adj.|准备好的；愿意的
 ---
-apologize|v.|=apologise 道歉；赔罪
+apologize/apologise|v.|道歉；赔罪
 apology|n.|道歉；辩解
 mercy|n.|仁慈；宽容；怜悯
 admire|v.|赞美；钦佩；仰慕
@@ -4580,7 +4580,7 @@ jealous|adj.|嫉妒的；妒忌的
 ---
 doubt|n./v.|怀疑，疑问/怀疑；不信
 suspicion|n.|怀疑，嫌疑
-skeptical|adj.|=sceptical 怀疑的
+skeptical/sceptical|adj.|怀疑的
 ---
 unsatisfactory|adj.|不能令人满意的；不符合要求的；不足的
 unstable|adj.|不稳定的；易变的；不牢固的

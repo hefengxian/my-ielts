@@ -44,8 +44,8 @@ def parse():
                 word_dict = {'id': cur_id, 'spellError': False, 'spellValue': '', 'showSource': False}
                 for part_index in part_mapping:
                     dict_key = part_mapping[part_index]
-                    word_dict[dict_key] = word_parts[part_index] if part_index < len(
-                        word_parts) else '-'
+                    word_dict[dict_key] = word_parts[part_index] if part_index < len(word_parts) else '-'
+                word_dict['word'] = word_dict['word'].split('/')
                 group.append(word_dict)
             if group:
                 category_body['words'].append(group)

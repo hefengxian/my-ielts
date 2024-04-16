@@ -162,7 +162,7 @@ function onInputFoucsOut(e, item) {
     item.spellError = false
   } else {
     item.spellValue = spellValue
-    item.spellError = spellValue !== item.word.toLowerCase().trim()
+    item.spellError = !item.word.map(v => v.toLowerCase().trim()).includes(spellValue)
   }
   trainingStats.value = calcStats()
 }
@@ -198,7 +198,7 @@ function copyAllError() {
       if (item.spellError) errorWords.push(`${item.word} ${item.pos} ${item.meaning}`)
     }
   }
-  navigator.clipboard.writeText(errorWords.join('\n'))
+  navigator.clipboard.writeText(errorWords.join('\n\n'))
 }
 // playFirstWordAudio()
 </script>
@@ -332,9 +332,10 @@ function copyAllError() {
                       </td>
                       <td class="group relative whitespace-nowrap p-4 pr-6">
                         <div v-if="!isTrainingModel || item.showSource || (isTrainingModel && isOnlyShowErrors && item.spellError)">
-                          <a class="hover:underline" :title="`在剑桥词典中查询 ${item.word}`" target="_blank"
-                            :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${item.word}`">{{
-              item.word }}</a>
+                          <p v-for="w in item.word">
+                            <a class="hover:underline" :title="`在剑桥词典中查询 ${w}`" target="_blank"
+                            :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${w}`">{{ w }}</a>
+                          </p>
                           <i class="i-ph-copy absolute right-0 hidden cursor-pointer px-4 group-hover:inline-block"
                             @click="copyText(item)" />
                         </div>
