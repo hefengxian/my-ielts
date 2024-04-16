@@ -4,7 +4,7 @@ import vocabulary from './vocabulary'
 
 const CHAPTER_KEY = 'vocabulary_chapter'
 
-const isTrainingModel = ref(true)
+const isTrainingModel = ref(false)
 const isShowMeaning = ref(true)
 const isAutoPlayWordAudio = ref(true)
 const isOnlyShowErrors = ref(false)
@@ -312,7 +312,7 @@ function copyAllError() {
                   </tr>
                   <template v-for="(wordGroup, i) of refVocabulary[category].words" :key="wordGroup.label">
                     <tr v-for="item of wordGroup"
-                      v-show="isTrainingModel && (isOnlyShowErrors ? item.spellError : true)" :key="item.id"
+                      v-show="(isTrainingModel && (isOnlyShowErrors ? item.spellError : true)) || !isTrainingModel" :key="item.id"
                       :class="{ 'bg-gray-50 dark:bg-gray-700': item.id % 2 === 0, [`group-color-${i % 15}`]: true }"
                       :id="`tr_${item.id}`" class="text-sm text-gray-900 dark:text-white">
                       <td class="p-4">
@@ -372,7 +372,7 @@ function copyAllError() {
           </button> -->
           <p v-if="isTrainingModel">{{ trainingStats }}</p>
         </div>
-        <div class="flex-shrink-0">
+        <div class="flex-shrink-0" v-if="isTrainingModel">
           <button type="button"
             class="rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             @click="isFinishTraining = true">
@@ -381,7 +381,7 @@ function copyAllError() {
           <button type="button"
             class="ml-2 rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             @click="isOnlyShowErrors = !isOnlyShowErrors">
-            仅展示错词
+            {{ isOnlyShowErrors ? '展示所有' : '仅展示错词' }}
           </button>
           <button type="button"
             class="ml-2 rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
