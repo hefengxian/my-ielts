@@ -55,19 +55,17 @@ function calcStats() {
   let missing = 0
   let correct = 0
   if (isTrainingModel.value) {
-    let cur = refVocabulary[category.value]
+    const cur = refVocabulary[category.value]
     // 遍历所有单词的属性
-    for (let group of cur.words) {
-      for (let item of group) {
+    for (const group of cur.words) {
+      for (const item of group) {
         if (item.spellValue) {
-          if (item.spellError) {
+          if (item.spellError)
             error++
-          } else {
+          else
             correct++
-          }
-        } else {
-          missing++
         }
+        else { missing++ }
       }
     }
   }
@@ -149,9 +147,8 @@ function onInputKeydown(e) {
 }
 
 function onInputFoucsIn(e, audioPath) {
-  if (isAutoPlayWordAudio.value) {
+  if (isAutoPlayWordAudio.value)
     play(audioPath)
-  }
 }
 
 function onInputFoucsOut(e, item) {
@@ -160,21 +157,12 @@ function onInputFoucsOut(e, item) {
   if (spellValue.length < 1) {
     item.spellValue = ''
     item.spellError = false
-  } else {
+  }
+  else {
     item.spellValue = spellValue
     item.spellError = !item.word.map(v => v.toLowerCase().trim()).includes(spellValue)
   }
   trainingStats.value = calcStats()
-}
-
-function playFirstWordAudio() {
-  if (isAutoPlayWordAudio.value && isTrainingModel.value) {
-    for (let categoryLabel in wordList.value) {
-      const item = wordList.value[categoryLabel].words[0][0]
-      play(`vocabulary/audio/${categoryLabel}/${item.word}.mp3`)
-      break
-    }
-  }
 }
 
 function getInputStyleClass(item) {
@@ -184,23 +172,25 @@ function getInputStyleClass(item) {
     success: 'ml-4 bg-green-50 border border-green-500 text-green-900 dark:text-green-400 placeholder-green-700 dark:placeholder-green-500 text-sm rounded-lg focus:ring-green-500 focus:border-green-500 inline-block p-2.5 dark:bg-gray-700 dark:border-green-500',
   }
   if (isFinishTraining.value) {
-    if (item.spellError) return cls['error']
-    if (item.spellValue.length > 0 && !item.spellError) return cls['success']
+    if (item.spellError)
+      return cls.error
+    if (item.spellValue.length > 0 && !item.spellError)
+      return cls.success
   }
-  return cls['normal']
+  return cls.normal
 }
 
 function copyAllError() {
   const words = refVocabulary[category.value].words
   const errorWords = []
-  for (let group of words) {
-    for (let item of group) {
-      if (item.spellError) errorWords.push(`${item.word} ${item.pos} ${item.meaning}`)
+  for (const group of words) {
+    for (const item of group) {
+      if (item.spellError)
+        errorWords.push(`${item.word} ${item.pos} ${item.meaning}`)
     }
   }
   navigator.clipboard.writeText(errorWords.join('\n\n'))
 }
-// playFirstWordAudio()
 </script>
 
 <template>
@@ -216,8 +206,10 @@ function copyAllError() {
         </div>
         <div class="items-center sm:flex">
           <div class="flex items-center">
-            <select v-model="category"
-              class="block w-full flex-1 border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400">
+            <select
+              v-model="category"
+              class="block w-full flex-1 border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400"
+            >
               <!-- <option value="">
                 全部章节
               </option> -->
@@ -238,25 +230,25 @@ function copyAllError() {
                 class="block w-full border border-gray-300 rounded-lg bg-gray-50 p-2.5 pl-10 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400"
                 placeholder="Search">
             </div> -->
-            <label class="inline-flex items-center cursor-pointer ml-2">
-              <input v-model="isTrainingModel" type="checkbox" class="sr-only peer">
+            <label class="ml-2 inline-flex cursor-pointer items-center">
+              <input v-model="isTrainingModel" type="checkbox" class="peer sr-only">
               <div
-                class="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600">
-              </div>
+                class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
+              />
               <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">练习模式</span>
             </label>
-            <label v-if="isTrainingModel" class="inline-flex items-center cursor-pointer ml-2">
-              <input v-model="isShowMeaning" type="checkbox" class="sr-only peer">
+            <label v-if="isTrainingModel" class="ml-2 inline-flex cursor-pointer items-center">
+              <input v-model="isShowMeaning" type="checkbox" class="peer sr-only">
               <div
-                class="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600">
-              </div>
+                class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
+              />
               <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">释义</span>
             </label>
-            <label v-if="isTrainingModel" class="inline-flex items-center cursor-pointer ml-2">
-              <input v-model="isAutoPlayWordAudio" type="checkbox" class="sr-only peer">
+            <label v-if="isTrainingModel" class="ml-2 inline-flex cursor-pointer items-center">
+              <input v-model="isAutoPlayWordAudio" type="checkbox" class="peer sr-only">
               <div
-                class="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600">
-              </div>
+                class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
+              />
               <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">自动播放</span>
             </label>
           </div>
@@ -295,8 +287,10 @@ function copyAllError() {
                 </thead>
                 <tbody class="bg-white dark:bg-gray-800">
                   <tr class="bg-hex-f3f3f3">
-                    <td colspan="7"
-                      class="px-4 py-6 text-sm font-normal text-gray-900 dark:bg-gray-500 dark:text-white">
+                    <td
+                      colspan="7"
+                      class="px-4 py-6 text-sm font-normal text-gray-900 dark:bg-gray-500 dark:text-white"
+                    >
                       <div class="flex flex-row">
                         <div class="flex flex-1 items-center">
                           <span class="text-lg">{{ category }}</span>
@@ -311,33 +305,48 @@ function copyAllError() {
                     </td>
                   </tr>
                   <template v-for="(wordGroup, i) of refVocabulary[category].words" :key="wordGroup.label">
-                    <tr v-for="item of wordGroup"
-                      v-show="(isTrainingModel && (isOnlyShowErrors ? item.spellError : true)) || !isTrainingModel" :key="item.id"
-                      :class="{ 'bg-gray-50 dark:bg-gray-700': item.id % 2 === 0, [`group-color-${i % 15}`]: true }"
-                      :id="`tr_${item.id}`" class="text-sm text-gray-900 dark:text-white">
+                    <tr
+                      v-for="item of wordGroup"
+                      v-show="(isTrainingModel && (isOnlyShowErrors ? item.spellError : true)) || !isTrainingModel" :id="`tr_${item.id}`"
+                      :key="item.id"
+                      :class="{ 'bg-gray-50 dark:bg-gray-700': item.id % 2 === 0, [`group-color-${i % 15}`]: true }" class="text-sm text-gray-900 dark:text-white"
+                    >
                       <td class="p-4">
                         {{ item.id }}
                       </td>
                       <td>
-                        <i class="i-ph-speaker-simple-high-bold inline-block cursor-pointer"
-                          @click="play(`vocabulary/audio/${category}/${item.word}.mp3`)" />
+                        <i
+                          class="i-ph-speaker-simple-high-bold inline-block cursor-pointer"
+                          @click="play(`vocabulary/audio/${category}/${item.word[0]}.mp3`)"
+                        />
 
                         <template v-if="isTrainingModel">
-                          <i :class="`${item.showSource ? 'i-ph-eye-slash-bold' : 'i-ph-eye-bold'} inline-block cursor-pointer ml-4`"
-                            title="显示原词" @click="item.showSource = !item.showSource" />
-                          <input :id="item.id" autocomplete="off" @focusout="onInputFoucsOut($event, item)"
-                            @focusin="onInputFoucsIn($event, `vocabulary/audio/${category}/${item.word}.mp3`)"
-                            @keydown="onInputKeydown" :class="getInputStyleClass(item)" type="text">
+                          <i
+                            :class="`${item.showSource ? 'i-ph-eye-slash-bold' : 'i-ph-eye-bold'} inline-block cursor-pointer ml-4`"
+                            title="显示原词" @click="item.showSource = !item.showSource"
+                          />
+                          <input
+                            :id="item.id" autocomplete="off" :class="getInputStyleClass(item)"
+                            type="text"
+                            @focusout="onInputFoucsOut($event, item)" @focusin="onInputFoucsIn($event, `vocabulary/audio/${category}/${item.word}.mp3`)" @keydown="onInputKeydown"
+                          >
                         </template>
                       </td>
-                      <td class="group relative whitespace-nowrap p-4 pr-6">
+                      <td class="group relative whitespace-nowrap p-4">
                         <div v-if="!isTrainingModel || item.showSource || (isTrainingModel && isOnlyShowErrors && item.spellError)">
-                          <p v-for="w in item.word">
-                            <a class="hover:underline" :title="`在剑桥词典中查询 ${w}`" target="_blank"
-                            :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${w}`">{{ w }}</a>
+                          <p v-for="w in item.word" :key="w">
+                            <a
+                              class="hover:underline" :title="`在剑桥词典中查询 ${w}`" target="_blank"
+                              :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${w}`"
+                            >{{ w }}</a>
                           </p>
-                          <i class="i-ph-copy absolute right-0 hidden cursor-pointer px-4 group-hover:inline-block"
-                            @click="copyText(item)" />
+
+                          <div
+                            class="absolute right-0 top-0 hidden h-100% items-center group-hover:flex"
+                            @click="copyText(item)"
+                          >
+                            <i class="i-ph-copy block cursor-pointer px-4" />
+                          </div>
                         </div>
                       </td>
                       <td style="font-style: italic; font-family: times;">
@@ -371,22 +380,30 @@ function copyAllError() {
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
             </svg>
           </button> -->
-          <p v-if="isTrainingModel">{{ trainingStats }}</p>
+          <p v-if="isTrainingModel">
+            {{ trainingStats }}
+          </p>
         </div>
-        <div class="flex-shrink-0" v-if="isTrainingModel">
-          <button type="button"
+        <div v-if="isTrainingModel" class="flex-shrink-0">
+          <button
+            type="button"
             class="rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-            @click="isFinishTraining = true">
+            @click="isFinishTraining = true"
+          >
             完成练习
           </button>
-          <button type="button"
+          <button
+            type="button"
             class="ml-2 rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-            @click="isOnlyShowErrors = !isOnlyShowErrors">
+            @click="isOnlyShowErrors = !isOnlyShowErrors"
+          >
             {{ isOnlyShowErrors ? '展示所有' : '仅展示错词' }}
           </button>
-          <button type="button"
+          <button
+            type="button"
             class="ml-2 rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-            @click="copyAllError">
+            @click="copyAllError"
+          >
             拷贝错词
           </button>
         </div>
