@@ -19,7 +19,7 @@ jobs:
           node-version: lts/Hydrogen
       
       - name: Install Dependencies
-        run: npm -g install pnpm && pnpm i
+        run: npm -g install pnpm@8.6.10 && pnpm i
 
       # - name: Run Tests
       #   run: yarn test
