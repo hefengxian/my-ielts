@@ -25,7 +25,7 @@
 
 雅思备考资料，包含词汇、语法、听说读写最出名的一些内容
 
-- [WIP] 练习模式，可以听着音频默写单词，自动遮盖、统计等
+- [x] 词汇练习模式
 
 ## 规划栏目
 
@@ -37,10 +37,18 @@
 - 逻辑词群记忆法
 - 原书音频
 
+词列表
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="public/screenshot/screenshot-vocabulary-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="public/screenshot/screenshot-vocabulary-light.png">
   <img alt="Vocabulary" src="public/screenshot/screenshot-vocabulary-light.png">
+</picture>
+
+练习模式
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="public/screenshot/screenshot-vocabulary-training-mode-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="public/screenshot/screenshot-vocabulary-training-mode-light.png">
+  <img alt="Vocabulary" src="public/screenshot/screenshot-vocabulary-training-mode-light.png">
 </picture>
 
 ### 语法

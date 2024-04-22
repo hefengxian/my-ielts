@@ -328,7 +328,9 @@ function copyAllError() {
                           <input
                             :id="item.id" autocomplete="off" :class="getInputStyleClass(item)"
                             type="text"
-                            @focusout="onInputFoucsOut($event, item)" @focusin="onInputFoucsIn($event, `vocabulary/audio/${category}/${item.word}.mp3`)" @keydown="onInputKeydown"
+                            @focusout="onInputFoucsOut($event, item)" 
+                            @focusin="onInputFoucsIn($event, `vocabulary/audio/${category}/${item.word[0]}.mp3`)" 
+                            @keydown="onInputKeydown"
                           >
                         </template>
                       </td>
@@ -372,14 +374,6 @@ function copyAllError() {
       <!-- Card Footer -->
       <div class="flex items-center justify-between pt-3 sm:pt-6">
         <div>
-          <!-- <button
-            class="inline-flex items-center rounded-lg p-2 text-center text-sm font-medium text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white"
-            type="button" data-dropdown-toggle="transactions-dropdown">
-            Last 7 days <svg class="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"
-              xmlns="http://www.w3.org/2000/svg">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-            </svg>
-          </button> -->
           <p v-if="isTrainingModel">
             {{ trainingStats }}
           </p>
