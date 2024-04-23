@@ -9,6 +9,7 @@ const isShowMeaning = ref(true)
 const isAutoPlayWordAudio = ref(true)
 const isOnlyShowErrors = ref(false)
 const isFinishTraining = ref(false)
+const isShowSource = ref(false)
 
 const trainingStats = ref('')
 const keyword = ref('')
@@ -245,6 +246,13 @@ function copyAllError() {
               <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">释义</span>
             </label>
             <label v-if="isTrainingModel" class="ml-2 inline-flex cursor-pointer items-center">
+              <input v-model="isShowSource" type="checkbox" class="peer sr-only">
+              <div
+                class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
+              />
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">原词</span>
+            </label>
+            <label v-if="isTrainingModel" class="ml-2 inline-flex cursor-pointer items-center">
               <input v-model="isAutoPlayWordAudio" type="checkbox" class="peer sr-only">
               <div
                 class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
@@ -335,7 +343,7 @@ function copyAllError() {
                         </template>
                       </td>
                       <td class="group relative whitespace-nowrap p-4">
-                        <div v-if="!isTrainingModel || item.showSource || (isTrainingModel && isOnlyShowErrors && item.spellError)">
+                        <div v-if="!isTrainingModel || item.showSource || (isTrainingModel && isOnlyShowErrors && item.spellError) || isShowSource">
                           <p v-for="w in item.word" :key="w">
                             <a
                               class="hover:underline" :title="`在剑桥词典中查询 ${w}`" target="_blank"
