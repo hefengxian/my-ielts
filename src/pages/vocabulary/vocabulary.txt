@@ -3959,7 +3959,7 @@ reassure|v.|使安心；使放心
 wish|v./n.|想要（某事发生）/希望
 aspire|v.|有志于；渴望||aspire to do sth. 渴望做某事
 desire|n./v.|愿望；欲望/渴望，期望
-yearn|v.|渴望；向往||yearn for 渴望
+yearn|v.|渴望；向往|The children who had been abducted and sold yearned to return to their homes|yearn for 渴望。abduct v. 绑架，劫持，诱拐
 invoke|v.|唤起（情感等）；向...祈求帮助；恳求||invoke sb.'s help 恳求某人帮忙
 ---
 itch|v./n.|发痒；渴望/痒；渴望
@@ -3975,7 +3975,7 @@ launch|v.|发射；发布；推出；发起
 commence|v.|开始；着手
 ---
 exploit|v.|开发；开采；开拓
-explore|V.|勘察；考察；探讨
+explore|v.|勘察；考察；探讨
 exert|v.|运用，行驶；施加||exert an influence on 对...施加影响
 ---
 tackle|v./n.|处理；应对；处理/用具；器材
