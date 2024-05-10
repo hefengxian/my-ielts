@@ -4164,7 +4164,7 @@ waist|n.|腰；腰部
 organ|n.|器官；手风琴；机构
 liver|n.|肝脏
 stomach|n.|胃口；胃；腹部
-womb|n.|自宫；发源地
+womb|n.|子宫；发源地
 kidney|n.|肾脏
 ---
 lung|n.|肺
@@ -4532,7 +4532,7 @@ irritate|v.|激怒；使急躁；刺激
 hate|v.|恨；憎恨；不喜欢
 hatred|n.|憎恶；憎恨；仇恨|His words stirred up my hatred. 他的话激起了我的仇恨
 ---
-nuisance|n.|讨厌或麻烦的人或午||Commit No Nuisance 禁止随地小便
+nuisance|n.|讨厌或麻烦的人或物||Commit No Nuisance 禁止随地小便
 disgust|v./n.|使厌恶；使作呕/厌恶
 vex|v.|使烦恼；使恼火|She was vexed at her failure. 她因失败而恼火
 harass|v.|烦扰
