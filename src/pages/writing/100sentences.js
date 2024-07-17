@@ -13,7 +13,7 @@ const sentences = [
   {
     no: 2,
     sentence: '教学质量对学生成绩有很大的影响',
-    translationFromBook: 'The quality of teaching can make huge deffernce to students\' academic performance',
+    translationFromBook: 'The quality of teaching can make huge difference to students\' academic performance',
     chatgpt: 'Academic achievement is heavily dependent on the quality of teaching',
     remark: '',
   },
@@ -141,7 +141,7 @@ const sentences = [
     sentence: '因为全球化，人们需要和来自全球不同背景的人一起工作',
     translationFromBook: 'Because of globalization, people need to work with those from diverse backgrounds',
     chatgpt: 'Due to globalization, people need to work with individuals from diverse backgrounds around the world',
-    remark: 'ChatGPT 给的另一个表达：Due to globalization, those from diverse backgounds around the world need to work togather',
+    remark: 'ChatGPT 给的另一个表达：Due to globalization, those from diverse backgrounds around the world need to work together',
   },
   {
     no: 21,
@@ -207,7 +207,7 @@ const sentences = [
     no: 29,
     sentence: '乡村地区给人们提供远离现代生活的压力和噪声的机会',
     translationFromBook: 'Rural areas provide people with opportunities to escape pressure and noises of modern life',
-    chatgpt: 'Rural areas provide people with opportunities to escape pressues and noise of modern life —— 和书的答案只是复数用的词是 pressure',
+    chatgpt: 'Rural areas provide people with opportunities to escape pressure and noise of modern life —— 和书的答案只是复数用的词是 pressure',
     remark: 'pressure 和 noise 都是可数又不可数，ChatGPT 表示都可以用',
   },
   {
@@ -337,8 +337,8 @@ const sentences = [
   {
     no: 46,
     sentence: '没有受过高等教育的年轻人只能找到低技术含量的工作',
-    translationFromBook: 'Youny people without tertiary education qualifications normally end up working in low-skilled jobs',
-    chatgpt: 'Youny people without higher education are limited to jobs with low skill requirements',
+    translationFromBook: 'Young people without tertiary education qualifications normally end up working in low-skilled jobs',
+    chatgpt: 'Young people without higher education are limited to jobs with low skill requirements',
     remark: 'tertiary adj. 第三的，第三级的；高等教育的，第三产业的 ~ education 高等教育，~ industry 第三产业。\n 在英语中，通常使用 "to" 介词来连接不及物动词。这是因为 "to" 表示方向、目标、目的等概念，而不及物动词通常需要一个目标或方向。',
   },
   {
@@ -346,7 +346,7 @@ const sentences = [
     sentence: '一些人不支持转基因食品',
     translationFromBook: 'Some people disapprove of genetically modified food',
     chatgpt: 'Some people do not support genetically modified (GM) foods -> 这个句子不是不及物动词结构',
-    remark: '转基因：GM=gennetically modified。do not 和 don\'t 一般前者更适合书面更正式，意思是一样的',
+    remark: '转基因：GM=genetically modified。do not 和 don\'t 一般前者更适合书面更正式，意思是一样的',
   },
   {
     no: 48,
@@ -372,7 +372,7 @@ const sentences = [
   {
     no: 51,
     sentence: '因为费用的下降，航空业最近几十年发展的很快',
-    translationFromBook: 'Because of low-cost carries, the aviation industry has developed at an stounding pace over the past decades',
+    translationFromBook: 'Because of low-cost carries, the aviation industry has developed at an astounding pace over the past decades',
     chatgpt: 'Due to the decrease in costs, the aviation industry has developed rapidly in recent decades',
     remark: 'astounding adj. 令人震惊的；使人惊骇的。\npace n. （移动的）步速；（发生的）速度；节奏',
   },
@@ -410,9 +410,9 @@ const sentences = [
   },
   {
     no: 56,
-    sentence: '学校的主要功能是给下一代传授知识（impart knowlege）',
-    translationFromBook: 'The main function of schools is to impart knowlesys to the next generation',
-    chatgpt: 'The primary function of schools is to impart knowlege to the next generation',
+    sentence: '学校的主要功能是给下一代传授知识（impart knowledge）',
+    translationFromBook: 'The main function of schools is to impart knowledge to the next generation',
+    chatgpt: 'The primary function of schools is to impart knowledge to the next generation',
     remark: 'school 是可数的所以要加复数或者冠词\nChatGPT 说 to the next generation 可以改成 for ~',
   },
   {
@@ -468,7 +468,7 @@ const sentences = [
     no: 64,
     sentence: '因为失业率高涨，大学生迫于压力而努力学习',
     translationFromBook: 'Undergraduates feel under increasing pressure to study hard, because of the soaring unemployment rate',
-    chatgpt: 'Due to the soaring umemployment rate, college students strive to study under pressure',
+    chatgpt: 'Due to the soaring unemployment rate, college students strive to study under pressure',
     remark: 'feel 也是系动词\nsoaring adj. 高耸的；展翅翱翔的\nstrive vi. （尤指长期或不畏艰难地）努力，奋斗，力争',
   },
   {
@@ -620,15 +620,15 @@ const sentences = [
     no: 84,
     sentence: '名人的成就鼓励年轻人努力学习，坚韧不拔',
     translationFromBook: 'The achievement of celebrities can motivate young people to study hard and show perseverance',
-    chatgpt: 'The achievements of celebrities inspire young people to study hard and persevere（这里 ChatGPT 翻译成了 2 个动词并列 inspire/perserve）',
+    chatgpt: 'The achievements of celebrities inspire young people to study hard and persevere（这里 ChatGPT 翻译成了 2 个动词并列 inspire/preserve）',
     remark: 'perseverance n. 不屈不挠，坚持不懈',
   },
   {
     no: 85,
     sentence: '在发展中国家开设新的分公司可以降低生产成本，产生巨大的利润',
-    translationFromBook: 'Opening new branches in developing contries can reduce the cost of production and generate huge profits',
-    chatgpt: 'Opening new branches in developing contries can reduce production costs and generate significant profits',
-    remark: 'in developing contries 是固定词组而不是 in the ~',
+    translationFromBook: 'Opening new branches in developing countries can reduce the cost of production and generate huge profits',
+    chatgpt: 'Opening new branches in developing countries can reduce production costs and generate significant profits',
+    remark: 'in developing countries 是固定词组而不是 in the ~',
   },
   {
     no: 86,
@@ -644,14 +644,14 @@ const sentences = [
   {
     no: 87,
     sentence: '因为没有实习机会，对学生来说提升工作技能是很难的',
-    translationFromBook: 'It is difficult for students to improve pratical skills if school do not provide work placements',
+    translationFromBook: 'It is difficult for students to improve practical skills if school do not provide work placements',
     chatgpt: 'Without internship opportunities, it is difficult for students to enhance their job skills',
     remark: 'work placement n. 工作实习\ninternship n. 实习期',
   },
   {
     no: 88,
     sentence: '即使获得了文凭，大学生也没办法赚到很多钱',
-    translationFromBook: 'University students cannot make a decent living even though they have gained quanlifications',
+    translationFromBook: 'University students cannot make a decent living even though they have gained qualifications',
     chatgpt: 'Even with a diploma, college students may not be able to earn a lot of money',
     remark: '',
   },
@@ -723,7 +723,7 @@ const sentences = [
     no: 97,
     sentence: '政府应该控制这些夸张报道社会问题的新闻',
     translationFromBook: 'Authorities should censor those news reports which give an exaggerated account of some social problems',
-    chatgpt: 'The government should control the news that exaggerates socail issues',
+    chatgpt: 'The government should control the news that exaggerates social issues',
     remark: 'exaggerate v. 夸张，夸大，对...言过其实',
   },
   {
