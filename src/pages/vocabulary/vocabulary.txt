@@ -10,7 +10,7 @@ carbon dioxide|n.|二氧化碳
 hydrogen|n.|氢气
 ---
 core|n.|中心；核心；地核
-crust|n.|地壳；外壳|The crust on the snow was thick enough for to walk on it
+crust|n.|地壳；外壳|The crust on the snow was thick enough for us to walk on it
 mantle|n./v.|地幔；斗篷；披风；覆盖|Parents often use mantles for their babies to keep warm
 ---
 longitude|n.|经度
