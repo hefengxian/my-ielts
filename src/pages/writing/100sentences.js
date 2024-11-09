@@ -312,7 +312,7 @@ const sentences = [
   {
     no: 43,
     sentence: '家庭环境被认为是小孩成长最重要的影响因素',
-    translationFromBook: 'The family environment is widely thought/believed to be the most import influence on children\'s development',
+    translationFromBook: 'The family environment is widely thought/believed to be the most important influence on children\'s development',
     chatgpt: 'The family environment is considered the most crucial influencing factor in child\'s upbringing',
     remark: 'upbringing n. 抚养，养育；教育，教养',
   },
