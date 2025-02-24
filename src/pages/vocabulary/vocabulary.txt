@@ -606,7 +606,7 @@ cock|n.|公鸡；雄禽
 ---
 mouse|n.|老鼠；鼠标
 rat|n.|老鼠；卑鄙的人
-squirrel|n.|松树
+squirrel|n.|松鼠
 hare|n.|野兔
 frog|n.|青蛙
 ---
