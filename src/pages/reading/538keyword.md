@@ -4,7 +4,7 @@
 
 | 排名 | 考点词 | 词性 | 常考中文词义 | 雅思阅读真题命题方式 | 备注 |
 |---|---|---|---|---|---|
-1|resemble|v.|像，与……相似|like,look,like,be similar to
+1|resemble|v.|像，与……相似|like,look,be similar to
 2|recognize|v.|认出，识别；承认|perceive,acknowledge,realize,appreciate, admit ,identify, comprehend, understand, know
 3|adjust |v.|调整，使适合| change, modify, shift, alter
 4|approach| n.|方法| method, way
@@ -16,7 +16,7 @@
 10|coin| v.|创造| first used, invent
 11|artificial| adj.|人造的，仿造的| synthetic, man-made
 12|prompt| v.|促进，激起| initiate, immediately
-13|exchange| v.|交换 |share, apply A to B
+13|exchange| v.|交换 |share, swap, trade
 14|underlie |v.|成为……基础| based on, ground, root
 15|ignore| v.|忽视，不顾| neglect, overlook, underestimate
 16|fertiliser| n.|化肥，肥料| chemical, toxic, unnatural
@@ -71,7 +71,7 @@
 57|secrete|v.|分泌|discharge, exude
 58|exaggerate|v.|夸大，夸张|overstate
 59|transmit|v.|传达，传输| pass, send ,transfer
-60|extinct|v.|灭绝|die out, lost
+60|extinct|adj.|灭绝的|die out, lost
 61|exclusive|adj.|独有的；排外的；专一的|only
 62|guarantee|v.|保证，担保|assure
 63|inherit|v.|继承|receive
@@ -109,7 +109,7 @@
 95|innate|adj.|天生的；内在的，直觉的|built-in, inborn
 96|pattern|n.|模式|formation
 97|therapy|n.|治疗，理疗|treatment
-98|original|adj.|原始的,最初的|initial, fist
+98|original|adj.|原始的,最初的|initial, first
 99|confidential|adj.|机密的,秘密的|undisclosed, secret, hidden
 100|cognitive|adj.|认知的|mental
 101|comply with||照做，遵守|obey
@@ -124,14 +124,14 @@
 110|halt|n.|停止|stop, quit
 111|fragile|adj.|脆弱的|vulnerable
 112|retain|v.|记住|maintain
-113|vanish|n.|消失，绝迹|disappear
-114|delivery|n.|递送|send
-115|erode|v.|侵蚀|rust, damage
+113|vanish|v.|消失，绝迹|disappear
+114|delivery|n.|递送|dispatch
+115|erode|v.|侵蚀|wear away, corrode, degrade
 116|induce|v.|引起，引诱|cause, lead to
 117|stable|adj.|稳定的|constant, unchanged
-118|integrate|v.|使……成整体|combine, whole
-119|equal|adj.| 平等的 ; 相等的；胜任的|fair, even
-120|grant|v.|拨款；授予|offer
+118|integrate|v.|使……成整体|combine, incorporate
+119|equal|adj.| 平等的; 相等的; 胜任的|equivalent, matching, capable
+120|grant|v.|拨款；授予|award, provide, approve funding
 
 ## 第 3 类考点词
 
@@ -156,7 +156,7 @@ x|attitude|n.|看法，态度|opinion
 x|authority|n.|当局，权威|government
 x|be consistent with||与……一致|compatible
 x|bear|v.|承担；忍受|tolerate
-x|blight|v.|损害；枯萎|destroy
+x|blight|v.|使衰败，破坏（尤指植物或前景）|damage, ruin, wither
 x|boundary|n.|边界；底线|barrier
 x|bungle|v.|搞糟，拙劣地工作|mishandle
 x|burden|n.|负担|load
@@ -165,7 +165,7 @@ x|capacity|n.|容量|volume
 x|catastrophic|adj.|灾难的|disastrous
 x|cater|v.|迎合；满足需求|serve
 x|certify|v.|证明，保证|verify
-x|civic|adj.|实名的|municipal
+x|civic|adj.|公民的，市政的|municipal, civil
 x|comment|n./v.|评论；意见/评论|remark
 x|commitment|n.|承诺，许诺，义务；致力|engagement
 x|communal|adj.|公共的，公社的|public
@@ -185,19 +185,19 @@ x|correlation|n.|相关，关联|link
 x|courtship|n.|求爱（时期）|mate
 x|crash|n.|碰撞|collapse
 x|credibility|n.|可信性|reliance
-x|criminal|n.|罪犯，犯人|conviction
+x|criminal|n.|罪犯，犯罪者|offender, delinquent
 x|crisis|n.|危机|risk
-x|criticism|n.|评论|condemn
+x|criticism|n.|批评；指责|critique, disapproval
 x|curb|v.|限制，抑制|restrict
 x|damp|adj.|潮湿的|wet
 x|dazzle|v.|使目眩；使……眼花|flash
 x|deadline|n.|最后期限|limit
 x|delay|n.|延期，耽搁|postpone
-x|democratic|adj.|民主的|republic
+x|democratic|adj.|民主的|participatory
 x|demographic|adj.|人口统计学的；人口学|population statistic
 x|dental|adj.|牙科的，牙齿的|teeth
 x|depression|n.|抑郁，沮丧|frustration
-x|designate|n.|指定；指派，标出|appoint
+x|designate|v.|指定；指派，标出|appoint, assign, mark
 x|detain|v.|留住|hold
 x|devastate|v.|毁坏，毁灭|wreck
 x|disclose|v.|公开；揭露|expose
@@ -212,7 +212,7 @@ x|dominant|adj.|占优势的，占支配地位的|overbearing
 x|dramatic|adj.|戏剧化的；激动人心的，引人注意的|striking
 x|drought|n.|干旱|dry
 x|durable|adj.|持久的|lasting
-x|eco-friendly|adj.|生态有好的，环保的|environmentally-friendly
+x|eco-friendly|adj.|生态友好的，环保的|environmentally-friendly
 x|elaborate|v.|详细阐述，详细叙述|illustrate
 x|elderly|adj.|高龄的|aged
 x|eliminate|v.|消除，排除|dispose
@@ -236,7 +236,7 @@ x|extend|v.|扩展，延伸，推广|expand
 x|extract|n./v.|摘录/提取|quotation
 x|famine|n.|饥荒|hunger
 x|finite|adj.|有限的|limited
-x|fitness|n.|健康的|health
+x|fitness|n.|健康状况，体能|physical condition, health
 x|foe|n.|敌人，危害物|enemy
 x|format|n.|格式|structure
 x|fragment|n.|碎片|piece
@@ -258,24 +258,24 @@ x|inactive|adj.|不活跃的，不活动的|passive
 x|inappropriate|adj.|不适当的|hard
 x|indulge|v.|沉溺（于）|spoil
 x|infest|v.|侵害；寄生于|plague
-x|installment|n.|安装；分期付款|payment on its completion
+x|installment|n.|分期付款|regular/periodic payment
 x|intelligence|n.|智力|mind
 x|intense|adj.|强烈的；紧张的；热情的|strong
 x|interaction|n.|相互作用，交流互动|social activities
-x|interference|n.|干涉|interdependence
+x|interference|n.|干涉，干扰|interposition, disruption
 x|interior|n./adj.|内部/内部的|inner
 x|interrupt|v.|中断|stop
-x|introverted|adj.|内向的，含蓄的|shyness
+x|introverted|adj.|内向的|reserved, inward-looking
 x|involve|v.|包含，牵涉|associate
-x|keen|adj.|热切的；强迫的，强烈的|strong
+x|keen|adj.|热切的；强烈的|eager, enthusiastic
 x|label|v.|打上标签|display
 x|lack|v.|缺乏；不足|shortage
 x|landscape|n.|风景|scene
 x|likelihood|n.|可能性|chance
 x|limb|n.|四肢|arm or leg
 x|linguistic|adj.|语言(学)的|language
-x|log|v./n.|记录/原木|record
-x|look-in|n.|成功的机会|opportunity, chance
+x|log|v./n.|记录；日志/原木|record, logging
+x|look-in|n.|informal•British/成功的机会|opportunity, chance
 x|lopsided|adj.|不平衡的|uneven
 x|mainly|adv.|主要的，大体|primarily
 x|malfunction|v.|发生故障;不起作用|breakdown
@@ -284,9 +284,9 @@ x|manage to do||设法完成某事|success
 x|manifest|v.|出现，表现|obvious
 x|manufacture|n.|生产|produce
 x|marine|adj.|海产的；航海的；海运的|sea
-x|mate|n.|配偶|spouse
+x|mate|n.|配偶，伴侣|partner, spouse
 x|mechanism|n.|机制，原理|method
-x|mental|adj.|精神的，心理的|intelligent
+x|mental|adj.|精神的，心理的|psychological, cognitive
 x|mercury|n.|汞，水银|liquid metal
 x|meteorological|adj.|气象学的|weather
 x|migrate|v.|转移,迁移|move
@@ -300,7 +300,7 @@ x|norm|n.|规范|regulation
 x|notoriety|n.|名声|famous
 x|objective|n./adj.|目标，目的/客观的|goal
 x|obligation|n.|义务|responsibility
-x|obscure|v.|掩盖，使模糊不清|hide
+x|obscure|v.|使模糊不清，晦涩化|blur, cloud, obscure
 x|obtain|v.|获得|get
 x|odd|adj.|古怪的|strange
 x|odour|n.|气味|smell
@@ -309,13 +309,13 @@ x|official|n./adj.|官员/官方的|authority
 x|optimum|n./adj.|最佳效果/最适宜的|best
 x|ordinary|adj.|普通的；平凡的；平常的|common
 x|organ|n.|器官；机构|a part of a body
-x|out of the question||不可能|impossible
+x|out of the question||不可能的事|impossible, not an option
 x|overcome|v.|克服|defeat
 x|overtake|v.|赶上|surpass
-x|paralyse|v.|使……麻痹；使……瘫痪|cannot move
+x|paralyse|v.|使麻痹，使瘫痪|disable, incapacitate
 x|paramount|adj.|最重要的，主要的|principal
 x|participate|v.|参加|join
-x|patient|adj./n.|有耐性的，能容忍的/病人；患者|repetitive
+x|patient|adj./n.|有耐心的，能容忍的/病人；患者|tolerant, calm, ill person
 x|peak|n./v.|最高峰，顶点/使……达到顶峰|top
 x|permit|n./v.|许可证，执照/许可|allow
 x|persuade|v.|说服，劝说|influence
@@ -332,7 +332,7 @@ x|praise|n.|赞扬|commend
 x|predict|v.|预测，预知|expect
 x|pressing|adj.|迫切的|urgent
 x|private|adj.|私人的；私有的；私下的|personal
-x|prohibit|v.|禁止的|not allowed
+x|prohibit|v.|禁止|forbid, ban
 x|prolong|v.|拉长，延长|extend
 x|promote|v.|促进，推销|improve
 x|prosper|v.|使成功，使繁荣|success
@@ -394,4 +394,4 @@ x|view|v.|看|overlook
 x|violent|adj.|暴力的；猛烈的|fierce
 x|visible|adj.|明显的，看得见的|see
 x|visual|adj.|视觉的|image
-x|well-being|n.|健康，康乐|health
+x|well-being|n.|健康，幸福，福祉|health, happiness, welfare
