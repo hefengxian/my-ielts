@@ -1,0 +1,1 @@
+import{_ as r,c as s,o,a as e}from"./index-3f5c2776.js";const a={},t={class:"px-4 pt-6 2xl:px-0"},c=e("div",{class:"mb-4 border border-gray-200 rounded-lg bg-white p-4 shadow-sm dark:border-gray-700 dark:bg-gray-800 sm:p-6"},[e("ul",null,[e("li",null,"逻辑链 TODO")])],-1),d=[c];function n(_,l){return o(),s("div",t,d)}const p=r(a,[["render",n]]);export{p as default};
