@@ -77,7 +77,7 @@ glacier|n.|冰川；冰河|The glacier dislocated the great stones
 swamp|n.|沼泽；湿地|In the swamp we were beset by mosquitoes
 ---
 delta|n.|三角洲|The Nile Delta used to be a fertile land
-plain|n./adj.|平原；简朴的；明白的|Once there were seventy million baffalo roaming in the great plains
+plain|n./adj.|平原；简朴的；明白的|Once there were seventy million buffalo roaming in the great plains
 plateau|n.|高原|The atmosphere is thin on the plateau
 oasis|n.|绿洲；宜人之地|Oasis symbolizes a hope in desert areas
 ---
@@ -119,10 +119,10 @@ source|n.|河的源头；根源|I have heard from reliable sources that the comp
 shallow|adj.|浅的；肤浅的；浅薄的|The sea is shallow here
 ---
 superficial|adj.|表皮的；表层的|Superficial scratches can be easily removed
-flat|adj.|平躺的；扁平的；单调的|In flat open country, there is plenty of grass for the cattle to graze
+flat|adj.|平躺的；扁平的；单调的|In flat open country, there is plenty of grass for the cattle to feed on
 smooth|adj.|光滑的；平稳的；流畅的|The process of negotiation was not entirely smooth
 rough|adj.|粗糙的；粗略的|You'd better give us a rough idea of your price
-sandy|adj.|含沙的；铺满沙的|We walked acroos the fields on the sandy path
+sandy|adj.|含沙的；铺满沙的|We walked across the fields on the sandy path
 stony|adj.|石头的；多石的|The ground in this part of the country is poor and stony
 ---
 vertical|adj.|垂直的；直立的|In some places, the cliff is almost vertical and too dangerous to climb
@@ -139,7 +139,7 @@ weather|n.|天气，气象|In warm weather, you should wear clothing that is coo
 meteorology|n.|气象学|Nowadays few people like to study meteorology
 ---
 mild|adj.|温和的；不严重的|The weather is mild today. It is neither hot nor cold
-heating|n.|供暖；暖气装置|The worker is installing a heating system
+heating|n.|供暖；暖气装置|The workers are installing a heating system
 moderate|adj./v.|适度的；温和的；中等的/使缓和|The wind was strong all day, but it moderated in the evening|a moderate climate 温和的气候
 warm|adj./v.|温暖的/（使）变暖|The blood of a warm-blooded animal remains around the same temperature both on warm and cold days
 ---
@@ -214,7 +214,7 @@ outskirts|n.|郊区；市郊|We live on the outskirts of the city
 ---
 remote|adj.|遥远的；偏僻的；疏远的|She came from a remote village|a remote control 遥控器
 desolate|adj.|荒凉的|So how should they escape from these desolate canyons?
-distant|adj.|疏远的；遥远的|It snows all year around in that distant little village|the distant past 遥远的过去
+distaaaaaaaant|adj.|疏远的；遥远的|It snows all year around in that distant little village|the distant past 遥远的过去
 adjacent|adj.|邻近的；毗连的|We stayed in adjacent rooms|adjacent to 与...毗连的
 ---
 toxic|adj.|有毒的|All medicines are toxic|poisonous adj. 有毒的；toxic waste 有毒的废物；highly toxic 剧毒的
@@ -286,7 +286,7 @@ gush|v./n.|涌出|In a moment more, the crowd began to gush forth from the doors
 ---
 dense|adj.|密集的；稠密的|There will be dense fog in northern parts of the country tomorrow|density n. 密度
 intensity|n.|强度；强烈|I was surprised by the intensity of his anxiety
-intensive|adj.|加强的；集中的；密集的|Intensive care in hospitals is given to the serioyly ill|intensive care unit ICU
+intensive|adj.|加强的；集中的；密集的|Intensive care in hospitals is given to the seriously ill|intensive care unit ICU
 ---
 emerge|v.|浮现；露出；暴露；摆脱出来|The sun emerged from behind the clouds
 flash|v./n.|闪光；反射|The good news was flashed across the country|flash through sb.'s mind 闪过某人脑海
@@ -309,69 +309,69 @@ petroleum|n.|石油|Petroleum is an important natural resource|petrology n. 岩�
 ===
 植物研究
 +++
-photosynthesis|n.|光合作用
-respire|v.|呼吸||相比于 breathe 更正式，但是 breath 更常用
-dioxide|n.|二氧化物
+photosynthesis|n.|光合作用|The algae capture the sun's energy by photosynthesis and store it in organic molecules
+respire|v.|呼吸|Plants respire in the same way as animals, taking in oxygen and giveing out carbon dioxide|相比于 breathe 更正式，但是 breath 更常用
+dioxide|n.|二氧化物|Plants can absorb carbon dioxide and release oxygen
 ---
 vegetation|n.|植物；草木|There is not much vegetation in deserts|vegetable n. 蔬菜 vegetarian n. 素食者
-herb|n.|药草；香草
+herb|n.|药草；香草|There is herb garden behind the house
 perennial|n./adj.|多年生植物；长期的；持久的|These perennials should be planted where they can naturalize
 ---
-botany|n.|植物学
-ecology|n.|生态学；生态
-ecosystem|n.|生态系统
+botany|n.|植物学|He was involved in the structural botany
+ecology|n.|生态学；生态|I am interested in the ecology of desert
+ecosystem|n.|生态系统|Water is the core of a healthy ecosystem
 eco-friendly|adj.|对生态环境友好的|Attention to eco-friendly packaging is increasing|user-friendly adj. 便于使用的
 ---
 horticulture|n.|园艺学；园艺|Horticulture is the industry and science of plant cultivation
-organism|n.|有机体；生物||organ n. 器官
+organism|n.|有机体；生物|This insect behaves like a parasite, an organism that lives on or in another organism called a host|organ n. 器官
 genetics|n.|遗传学|In genetics, genes were formerly called factors|gene n. 基因。genetic adj. 基因的
 ---
-mutation|n.|突变；变异
-variation|n.|变种；变异||vary v. 变化
-diversity|n.|多样性
-hybridisation/hybridization|n.|杂交||hybrid car
+mutation|n.|突变；变异|The mutations in plants caused by radiation have been found in experiments
+variation|n.|变种；变异|Variation among dogs is limited to the possible permutations of their genes|vary v. 变化
+diversity|n.|多样性|This place used to a flourishing forest with regional diversity
+hybridisation/hybridization|n.|杂交|Somatic cell hybridization is a very useful technique|hybrid car 混合动力车；somatic cell 体细胞
 classify|v.|分类|Librarians spend a lot of time classifying books|classified adj. 机密的；秘密的
 ---
-reproduce|v.|繁殖
-evolve|v.|进化；发展||evolve from 从...进化而来
-fluctuate|v.|波动；起伏
+reproduce|v.|繁殖|When they can't reproduce, cancerous cells die off, instead of becoming dangerous
+evolve|v.|进化；发展|The developmental history of society tells us that man has evolved from some ancient primates|evolve from 从...进化而来；primates n. 灵长类动物
+fluctuate|v.|波动；起伏|The price of vegetables fluctuates seasonally
 ---
 reclaim|v.|开垦；利用|This land was reclaimed from the sea
 cultivate|v.|耕作；培养|The farmer is cultivating his land|cultivate the habit of 养成...的习惯
-sow|v.|播种
-harvest|v./n.|收割；收获；收成|A good summer harvest is not easy to come by|at the harvest
+sow|v.|播种|These seeds should be sown in April
+harvest|v./n.|收割；收获；收成|A good summer harvest is not easy to come by|at the harvest；come by 得到，顺便访问
 ---
 pluck|v.|采；摘|The pluck a rose for his lover
-pick|v.|拾；摘
+pick|v.|拾；摘|He picked the watch up from the carpet
 yield|v./n.|产出；屈服；服从；产量；投资收益|This land yields well|yielding adj. 易弯曲的；顺从的。unyielding adj. 坚硬的；不屈不挠的
-rear|v./n.|培养；抚养；饲养；后部|Most farmer in this area rear sheep
+rear|v./n.|培养；抚养；饲养；后部|Most farmers in this area rear sheep
 arable|adj.|适合耕种的|This area changed quickly from arable land to desert
 ---
 plough/plow|n./v.| 犁；耕|The ground was ploughed/plowed and planted with corn
 spade|n.|铲；锹|He bought a new spade
 rake|n./v.|耙子；耙；搜索|With an ancient rusty rake I went to work|rake up leaves 耙落叶；His is raking it in 他很赚钱
 ---
-stack|n./v.|堆；垛；堆积|I have a stack of homework to do|委婉的拒绝别人：I have stack of things to do. My friend has a stack of money that his is raking it in
+stack|n./v.|堆；垛；堆积|I have a stack of homework to do；He placed the books in a neat stack|委婉的拒绝别人：I have stack of things to do. My friend has a stack of money that his is raking it in
 heap|n.|（大而杂乱的）堆|A heap of clothes was lying in the corner
 bundle|n.|捆；包；束|He collected a bundle of sticks
 bunch|n.|一束（花）；一串（钥匙）|I bought a bunch of lilacs 我买了一束丁香花|I'm sorry. I have a bunch of work to do 礼貌的回绝
 vase|n.|瓶；花瓶|This flaw makes the vase less valable
 ---
-sunlight|n.|阳光
-short-day|adj.|短日照的|Soybean is a typical short-day corp 大豆是典型的短日照作物
-shade-tolerant|adj.|耐阴的
-fungus|n.|真菌
+sunlight|n.|阳光|The sunlight was reflected by the water
+short-day|adj.|短日照的|Soybean is a typical short-day crop 大豆是典型的短日照作物
+shade-tolerant|adj.|耐阴的|He highlighted the importance of shade-tolerant plants in gardens
+fungus|n.|真菌|Don't eat that fungus. It might be poisonous.
 mould/mold|n./v.| 霉菌/发霉|The walls were black with mould
 ---
 pollen|n./v.|花粉；给...授粉|Each spring, pollen from nearby plants is blown into the water
 germinate|v.|发芽|Warmth is needed for the seeds to germinate
 seed|n.|种子|The farmers were scattering seeds over the fields|seedling n. 秧苗；幼苗。sow seeds 播种
-burgeon|n./v.|嫩枝；新芽/极速生长；发芽；抽枝
+burgeon|n./v.|嫩枝；新芽/极速生长；发芽；抽枝|The firm aimed at the burgeoning market for augmented reality games|burgeoning market 新兴市场
 bud|n.|芽；苞；蓓蕾|The rose are in bud|break out into bud 发芽。buddy=bud 老兄
 ---
-flower|n./v.|花；开花植物/成熟；繁荣；开花
+flower|n./v.|花；开花植物/成熟；繁荣；开花|Cherry trees flower in the early spring
 blossom|v./n.|开花；花朵|The tree was covered with beautiful pink blossom|可以用于比喻，表示某事物或概念的发展、兴盛或繁荣。
-bloom|n.|花朵|The apple trees are out of bloom
+bloom|n.|花朵|The apple trees are out of bloom|out of bloom 花已凋谢，过了花期
 scent|n./v.|气味；香味；使具有香味|The flower scents the air
 aromatic|adj.|芳香的|Aromatic plants are often used in cooking
 ---
@@ -380,9 +380,9 @@ fruit|v.|结果实|The apple trees fruited early this year
 wither|v.|（使）枯萎|The grapes withered on the vine|withered adj. 凋谢了的；枯萎的
 decompose|v.|分解；腐烂|You can apply heat to decompose organic compounds 你可以加热来分解有机化合物
 ---
-rot|v./n.|使腐烂；使腐坏；腐烂
-decay|v.|腐烂
-stale|adj.|不新鲜的；没有新意的；陈腐的
+rot|v./n.|使腐烂；使腐坏；腐烂|Rot in the tree trunk caused the tree to fall
+decay|v.|腐烂|The vegetables have begun to decay
+stale|adj.|不新鲜的；没有新意的；陈腐的|He always bought two loaves of stale bread
 ---
 rainforest|n.|雨林
 jungle|n.|丛林
