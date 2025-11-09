@@ -475,105 +475,105 @@ optimal/optimum|adj.| 最佳的；最理想的|This is the optimal season for th
 ===
 动物保护
 +++
-biologist|n.|生物学家
-zoologist|n.|动物学家
-ecologist|n.|生态学家
-botanist|n.|植物学家
+biologist|n.|生物学家|The biologist brought out a specimen box and showed the items one by one
+zoologist|n.|动物学家|The zoologist had spent a long time living with monkeys
+ecologist|n.|生态学家|A contemporary ecologist once said man lives on the earth as a guest of green plants
+botanist|n.|植物学家|The botanist discovered many rare plants
 ---
-mammal|n.|哺乳动物
-primate|n.|灵长动物
-vertebrate|n.|脊椎动物
-reptile|n.|爬行动物
+mammal|n.|哺乳动物|Human beings also belonged to the mammal species
+primate|n.|灵长动物|Compared to body size, the primate's brain is larger than that of other animals
+vertebrate|n.|脊椎动物|Fish, birds, and human beings are all vertebrates
+reptile|n.|爬行动物|It is said that he hates reptiles
 ---
-amphibian|n./adj.|两栖动物/两栖的
-carnivore|n.|肉食动物
-herbivore|n.|食草动物
+amphibian|n./adj.|两栖动物/两栖的|Nobody knows why amphibians are disappearing. Dolphins are dying and coral is turning white
+carnivore|n.|肉食动物|Lions and tigers are carnivores
+herbivore|n.|食草动物|Pandas are classified as carnivores, but they mainly have a diet of an herbivore
 ---
-creature|n.|生物；动物
-wildlife|n.|野生动我
+creature|n.|生物；动物|The crocodile is a strange looking creature
+wildlife|n.|野生动物|Environmental pollution endangers wildlife
 fauna|n.|（尤指某一地区的）动物群|The park is also home to grizzly bears, and other Rocky Mountain faunas
-flora|n.|（尤指某一地区的）植物群
-species|n.|物种
+flora|n.|（尤指某一地区的）植物群|There they compiled precious documents on the manners, government, flora and fauna of the country
+species|n.|物种|Some species of animals have become extinct, because they could not adapt to a changing environment
 ---
 flock|n./v.|（羊或鸟）群/聚集|Sheep usually flock together
 herd|n.|兽群；畜群|The herdsman looks after a herd of animals
-swarm|n.|（蜜蜂昆虫的）一大群；（快速移动的）人群
-throng|n./v.|人群/群集
-crowd|n.|人群；观众；一群人
+swarm|n.|（蜜蜂昆虫的）一大群；（快速移动的）人群|I saw a swarm of bees attacking the poor monkey
+throng|n./v.|人群/群集|He was met a throng of journalists and photographers
+crowd|n.|人群；观众；一群人|The crowd was very well behaved
 ---
-beast|n.|野兽；凶残的人；畜生
-brute|n.|粗野的人；残忍的人|We all want punish the brute
-cruel|adj.|残忍的；残暴的
+beast|n.|野兽；凶残的人；畜生|The hunters blocked up the den of the beast
+brute|n.|粗野的人；残忍的人|We all want to punish the brute
+cruel|adj.|残忍的；残暴的|The death of their daughter was a cruel blow|creul blow 沉重打击
 ---
-originate|v.|发源；来自；创始
+originate|v.|发源；来自；创始|The use of the computer has originated many other societal reforms
 derive|v.|得到；（使）源自|I derived a lot of pleasure from meeting new people at college|derive from/be derived from 源自；来自
 stem|v./n.|起源于；来自/茎；梗|Correct decisions stem from correct judgments|stem from 源自；起源于
 ---
-ancestor|n.|祖宗；祖先
-descendant|n./adj.|后裔；后代/下降的
-offspring|n.|后代；子孙；产物
+ancestor|n.|祖宗；祖先|Lions and house cats evolved from a common ancestor
+descendant|n./adj.|后裔；后代/下降的|He is a descendant of Queen Victoria
+offspring|n.|后代；子孙；产物|They have two offspring
 subgroup|n.|子群|According to a subgroup analysis, violence produce more violence
 ---
-feed|v.|供养；喂养；进食
-breed|v./n.|饲养；繁殖/品种
-interbreed|v.|（使）品种杂交
+feed|v.|供养；喂养；进食|He has to work hard to feed and clothe his family 
+breed|v./n.|饲养；繁殖/品种|She breeds orchids in her greenhouse
+interbreed|v.|（使）品种杂交|Fish of different shapes are difficult to interbreed
 ---
-hybridize/hybridise|v.|（使）杂交
-proliferate|v.|迅速增殖；剧增
+hybridize/hybridise|v.|（使）杂交|Immediately rose breeders began to hybridize it with other red roses
+proliferate|v.|迅速增殖；剧增|Microbes proliferate rapidly
 sterility|n.|不生育|This disease causes sterility in both males and females
 ---
-mate|v./n.|交配/配偶
-courtship|n.|求偶
-lay|v.|产；放置；铺设|They lay eggs from the July to the middle of August
+mate|v./n.|交配/配偶|Many animals mate in the spring 
+courtship|n.|求偶|They attract females with elaborate courtship rituals
+lay|v.|产；放置；铺设|They lay eggs from the beginning of July to the middle of August
 ---
-hatch|v./n.|孵化
+hatch|v./n.|孵化|Don't count the chickens before they are hatched 不要过早打如意算盘
 brood|n./v.|一窝幼鸟；孵（蛋）|The bird was trying to find food for its brood
-spawn|n./v.|（鱼、蛙的）卵；产卵；引起
+spawn|n./v.|（鱼、蛙的）卵；产卵；引起|Many sea fishes spawn in rivers
 mature|adj./v.|成熟的；成熟|You are a mature man now, you are no longer a boy|immature adj. 不成熟的，未完全发育的
 ---
-skin|n.|皮肤
-claw|n./v.|爪；钳；鳌；爪状物/抓；挠；撕
-paw|n.|（动物的）脚掌；爪子
-beak|n.|鸟嘴；喙
+skin|n.|皮肤|When he fell he just broke the skin
+claw|n./v.|爪；钳；鳌；爪状物/抓；挠；撕|A hen's claw has four toes
+paw|n.|（动物的）脚掌；爪子|This is a black cat with white paws
+beak|n.|鸟嘴；喙|The bird picked a hole in the ice with its beak
 ---
-fin|n.|鳍
-wing|n.|翅膀
-plume|n.|羽毛
-feather|n.|羽毛||"plume" 更强调装饰性和华丽，而 "feather" 则更通用，用于描述鸟类的普通羽毛
+fin|n.|鳍|In the future, shark fin soup will be off the menu at a major resort in Singapore
+wing|n.|翅膀|A seagull fluttered down with an injured wing
+plume|n.|羽毛|This is the long plume of a heron in the breeding season
+feather|n.|羽毛|A feather is very light so that we say as light as a feather|"plume" 更强调装饰性和华丽，而 "feather" 则更通用，用于描述鸟类的普通羽毛
 ---
-fur|n.|软毛；毛皮
-bristle|n.|鬃毛；短而硬的毛，刚毛
-curl|n./v.|卷曲；螺旋状物/（使）卷曲||"curl" 更强调弯曲或卷曲的动作或形状，而 "curve" 更倾向于描述曲线的形状或者趋势。
+fur|n.|软毛；毛皮|Alice is allergic to fur of cats
+bristle|n.|鬃毛；短而硬的毛，刚毛|The brush is made of animal bristles
+curl|n./v.|卷曲；螺旋状物/（使）卷曲|As he got older, his hair lost its curl|"curl" 更强调弯曲或卷曲的动作或形状，而 "curve" 更倾向于描述曲线的形状或者趋势。
 ---
-insect|n.|昆虫
-worm|n.|蠕虫
-pest|n.|害虫；有害动物
+insect|n.|昆虫|The insect bit him and drew blood from his arm
+worm|n.|蠕虫|The worm was crushed under the feet
+pest|n.|害虫；有害动物|Insects which eat crops are pests
 parasite|n.|寄生虫|The life of the parasite is maintained by new blood-sucking mosquitoes
 ---
-spider|n.|蜘蛛
-butterfly|n.|蝴蝶
-mosquito|n.|蚊子
-cricket|n.|蟋蟀
+spider|n.|蜘蛛|The little girl thinks spiders are terrible creatures
+butterfly|n.|蝴蝶|A butterfly is flying up and down among the flowers
+mosquito|n.|蚊子|The mosquito is an annoying creature
+cricket|n.|蟋蟀|A cricket in the house is good luck
 ---
-penguin|n.|企鹅
+penguin|n.|企鹅|The penguin is polular with people
 seal|n./v.|海豹；封条；图章；密封|Polar bears set off in search of their favorite meal-seals
-tortoise|n.|龟；陆龟
-turtle|n.|海龟
-whale|n./v.|鲸；捕鲸
+tortoise|n.|龟；陆龟|Do you remember the story about a race between the tortoise and the hare?|hare n. 野兔
+turtle|n.|海龟|If you turn over a turtle on its back, it will become helpless
+whale|n./v.|鲸；捕鲸|We may live to see the extinction of the whale
 ---
-kangaroo|n.|袋鼠
-camel|n.|骆驼
-panda|n.|熊猫
+kangaroo|n.|袋鼠|The kangaroo is native to Australia
+camel|n.|骆驼|The merchant decided to use camels to carry his goods across the desert
+panda|n.|熊猫|Pandas are loved by people all over the world
 ---
-elephant|n.|大象
-trunk|n.|象鼻||这个词和植物研究那个树干是一个词
+elephant|n.|大象|A specific attribute of the elephant is its long trunk
+trunk|n.|象鼻|The elephant's trunk is powerful enough to uproot trees|这个词和植物研究那个树干是一个词
 ivory|n.|象牙|The professor lived in an ivory tower
-horn|n.|（牛羊等动物的）角；（乐器的）号
+horn|n.|（牛羊等动物的）角；（乐器的）号|The young goat is just beginning to grow horns
 ---
-bear|n.|熊
-wolf|n.|狼
-dragon|n.|龙；悍妇|Dragons are describes as monsters in most western countries
-fox|n.|狐狸🦊；狡猾的人
+bear|n.|熊|The bear is a large heavy animal with thick fur
+wolf|n.|狼|The wolf snapped at the hunter's hand
+dragon|n.|龙；悍妇|Dragons are described as monsters in most western countries
+fox|n.|狐狸🦊；狡猾的人|Don't trust him. He is a sly old fox
 ---
 cub|n.|幼兽|The cub licked the milk from its mother's breast
 calf|n.|幼兽；小牛🐂|Did you see the cow with her calf
