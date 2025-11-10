@@ -580,111 +580,111 @@ calf|n.|幼兽；小牛🐂|Did you see the cow with her calf
 pup|n.|幼小动物|I'll get you an Alsatian pup for Christmas|puppy n. 幼犬。Alsatian n. 阿尔萨斯狼狗，德国牧羊犬（同 German shepherd）
 lamb|n.|羔羊|The little lamb was caught by the wolf|a lost lamb 迷途的羔羊
 ---
-cattle|n.|牛
-ox|n.|（阉割的）公牛||复数形式 oxen
-bull|n.|公牛|He was a great bull of a man
-buffalo|n.|水牛；野牛
+cattle|n.|牛|There are many herds of cattle in the meadow
+ox|n.|（阉割的）公牛|The frequent, unresonable whips angered the ox|复数形式 oxen
+bull|n.|公牛|He was a great bull of a man 他以前是个大块头
+buffalo|n.|水牛；野牛|There were lots of buffaloes in North America a hundred years ago
 ---
-horse|n.|马🐴
-zebra|n.|斑马🦓
-donkey|n.|驴子
+horse|n.|马🐴|The horse became frightened and ran away
+zebra|n.|斑马🦓|There are several species of zebra
+donkey|n.|驴子|The donkey is eating grass on the field
 saddle|n.|鞍；马鞍；车座|He was putting a saddle on the horse|get into the saddle 上马
-harness|n.|马具；挽具|You cannot judge a horse by harness|in harness 通力合作；相互配合
+harness|n.|马具；挽具|You cannot judge a horse by its harness|in harness 通力合作；相互配合
 ---
-falcon|n.|隼；猎鹰
-hawk|n.|鹰；隼
-eagle|n.|雕
-owl|n.|猫头鹰
-swallow|n.|燕子||和吞咽是一个词
-sparrow|n.|麻雀
-pigeon|n.|鸽子
-crow|n.|乌鸦
+falcon|n.|隼；猎鹰|His falcon flew into a window of the empty castle and did not return
+hawk|n.|鹰；隼|A hawk hovered in the blue sky
+eagle|n.|雕|The eagle dive down on the rabbit
+owl|n.|猫头鹰|The owl is sacred for many Californian Indian people
+swallow|n.|燕子|There are many swallows flying in the sky|和吞咽是一个词
+sparrow|n.|麻雀|A sparrow is very alert in its movement
+pigeon|n.|鸽子|An old man sat on the park bench and fed the pigeons
+crow|n.|乌鸦|The farmers tried to fear the crows out of the cornfield by planting several men of straw
 ---
-swan|n.|天鹅
-goose|n.|鹅；鹅肉
-cock|n.|公鸡；雄禽
+swan|n.|天鹅|The witch turns the princess into a swan
+goose|n.|鹅；鹅肉|They often have goose at Christmas time
+cock|n.|公鸡；雄禽|The cock has brighter colored feathers than the hen
 ---
-mouse|n.|老鼠；鼠标
-rat|n.|老鼠；卑鄙的人
-squirrel|n.|松鼠
-hare|n.|野兔
-frog|n.|青蛙
+mouse|n.|老鼠；鼠标|The cat was playing with a live mouse
+rat|n.|老鼠；卑鄙的人|Now I can see why people say he is such a rat
+squirrel|n.|松鼠|The squirrel ran up a tree and got out of my reach
+hare|n.|野兔|The hunter watched for the hare to come out of the burrow
+frog|n.|青蛙|A frog can live both on land and in water
 ---
-behaviour/behavior|n.| 行为；活动方式
-bite|v./n.|咬；（昆虫）叮；吞饵
-sting|v./n.|刺；叮；（使）感觉刺痛；鳌针；蜇痛|It is the nature of the scorpion to sting|sting sb. into doing sth. 刺激某人做某事
-bark|v./n.|吠；大声嚷；树皮
-roar|n./v.|吼叫；咆哮
+behaviour/behavior|n.| 行为；活动方式|They observed the behavior of their new pet
+bite|v./n.|咬；（昆虫）叮；吞饵|The mosquitoes are biting me
+sting|v./n.|刺；叮；（使）感觉刺痛；鳌针；蜇痛|It is the nature of the scorpion to sting|sting sb. into doing sth. 刺激某人做某事 scorpion 蝎子
+bark|v./n.|吠；大声嚷；树皮|Barking dogs seldom bite 
+roar|n./v.|吼叫；咆哮|The whole room rang with a roar
 ---
-rub|v./n.|擦；摩擦/困难；障碍||the ~ 问题，困难，障碍
+rub|v./n.|擦；摩擦/困难；障碍|It is an Eskimo custom to cub noses as a greeting|the ~ 问题，困难，障碍
 creep|v.|爬行；悄悄地爬行|We take off our shoes and creep cautiously along the passage|creep along 沿着...爬行
-crawl|v.|爬；爬行；卑躬屈膝；巴结
+crawl|v.|爬；爬行；卑躬屈膝；巴结|Your must not crawl into the favor of your superior
 ---
-habitat|n.|栖息地
-nest|n.|巢；窝；穴
-hive|n./v.|蜂房；繁忙的场所；（使）入蜂箱；（像蜜蜂般）密集群居
-cell|n.|蜂房巢室；细胞；单人牢房
+habitat|n.|栖息地|The Arctic region is the habitat of the polar bear
+nest|n.|巢；窝；穴|The male hunts for food while his mate guards the nest
+hive|n./v.|蜂房；繁忙的场所；（使）入蜂箱；（像蜜蜂般）密集群居|This marketplace was once a hive of activity 一片繁忙景象
+cell|n.|蜂房巢室；细胞；单人牢房|The prisoner was locked in a cell
 ---
-cage|n.|笼子
-stable|n./adj.|马厩；牛棚；稳定的
-barn|n.|谷仓；牲口棚
+cage|n.|笼子|The lion paced the floor of his cage restlessly
+stable|n./adj.|马厩；牛棚；稳定的|The horse in the stable has broken out
+barn|n.|谷仓；牲口棚|The cows were feeding on hay in the barn
 hedge|n.|树篱；障碍物|There is a opening in the hedge|on the hedge 抱骑墙态度的
-barrier|n.|障碍
-bar|n.|栅；栏杆；条；长块
+barrier|n.|障碍|Lack of confidence is the biggest barrier to the improvement of your English
+bar|n.|栅；栏杆；条；长块|A bar of chocolate is enough to stop his crying
 ---
-anatomy|n.|解剖学
-epidemic|n./adj.|流行病；（坏事的）盛行；流行性的；极为盛行的
-gene|n.|基因
+anatomy|n.|解剖学|We have to do anatomy next term
+epidemic|n./adj.|流行病；（坏事的）盛行；流行性的；极为盛行的|Violence is reaching epidemic levels in some of the films and TV shows
+gene|n.|基因|You have good genes from your parents, so you should live a long time
 ---
-germ|n.|微生物；细菌
-bacteria|n.|细菌；bacterium 的复数形式
-virus|n.|病毒
-microbe|n.|微生物
+germ|n.|微生物；细菌|Disinfectants are used to kill germs
+bacteria|n.|细菌；bacterium 的复数形式|Bacteria in drinking water have spread the illness
+virus|n.|病毒|My computer was accidentally infected with a virus called Trojan Horse
+microbe|n.|微生物|Would the good microbes do battle with the bad microbes and help to restore their health?
 ---
-metabolism|n.|新陈代谢
+metabolism|n.|新陈代谢|Some people's metabolism is more efficient than others
 protein|n.|蛋白质|You need more protein to build you up
-vitamin|n.|维生素
+vitamin|n.|维生素|Fresh green foodstuffs contain rich vitamins
 ---
 secrete|v.|分泌|The kidneys secrete urine|secret n. 秘密
-excrete|v.|排泄；分泌|The function of kidneys are excrete waste products
-devour|v.|吞食；狼吞虎咽的吃
+excrete|v.|排泄；分泌|The function of kidneys is to excrete waste products
+devour|v.|吞食；狼吞虎咽的吃|The lion devoured the deer
 ---
-instinct|n.|本能；天性；直觉
-intuitive|adj.|直觉的
-potential|n./adj.|潜力/潜在的
-intelligence|n.|智慧；智力；情报；谍报|Use your intelligence, and you're succeed some day|intelligent adj. 聪明的。an intelligence agent 情报人员。artificial intelligence 人工智能
-functional|adj.|功能的；起作用的
+instinct|n.|本能；天性；直觉|Don't trust anything except your instinct
+intuitive|adj.|直觉的|He seemed to have an intuitive knowledge of how I was feeling
+potential|n./adj.|潜力/潜在的|She showed great potential as an actress
+intelligence|n.|智慧；智力；情报；谍报|Use your intelligence, and you're sure to succeed some day|intelligent adj. 聪明的。an intelligence agent 情报人员。artificial intelligence 人工智能
+functional|adj.|功能的；起作用的|What are the functional benefits of the brand?
 ---
-sensitive|adj.|灵敏的；易担忧的；需谨慎对待的
-flexible|adj.|灵活的；弹性的
-acoustic|adj.|听觉的；声音的
-optical|adj.|视觉的；光学的
+sensitive|adj.|灵敏的；易担忧的；需谨慎对待的|She is sensitive to what people think of her
+flexible|adj.|灵活的；弹性的|We can visit your company on Monday or Tuesday. Our plans are fairly flexible
+acoustic|adj.|听觉的；声音的|Acoustic beauty is also very important to the modern gardens
+optical|adj.|视觉的；光学的|Microscopes and telescopes are optical instruments
 ---
 nocturnal|adj.|夜间活动的|Hamsters are nocturnal creatures|hamster n. 仓鼠
-dormant|adj.|睡着的；休眠的；（动物等）冬眠的
-hibernation|n.|冬眠
+dormant|adj.|睡着的；休眠的；（动物等）冬眠的|Many living things are dormant in winter
+hibernation|n.|冬眠|Some animals can overwinter without the hibernation
 ---
-track|v./n.|追踪；足迹；踪迹；轨道
+track|v./n.|追踪；足迹；踪迹；轨道|The hunter followed the animal's tracks
 trace|v./n.|追踪；查出；追溯；痕迹；少许|They traced the criminal to a house in the city|a trace of 少许；一丝。track back to 追溯到
 alternate|v.|（使）交替；（使）轮流|Sunny weather alternated with rain|alternative adj. 可供选择的 n. 可供选择的事物
 ---
-prey|n./v.|猎物；捕食
-predator|n.|掠夺者；捕食性动物
-victim|n.|受害者
-captive|n./adj.|俘虏；被关押的；收控制的
+prey|n./v.|猎物；捕食|snacks track their prey by its scent
+predator|n.|掠夺者；捕食性动物|These predators of the African grasslands live on mice and rabbits
+victim|n.|受害者|One of the booming victims was dead on arrival in hospital
+captive|n./adj.|俘虏；被关押的；收控制的|Armed gunmen broke into the church and took the priest captive|break into 侵入，闯入
 defensive|adj.|防御性的|we took a defensive attitude in the negotiation|defend v. 防卫。self-defensive adj. 自卫的
 ---
-undergo|v.|经历；经受
-suffer|v.|遭受；受折磨；变糟
-vulnerable|adj.|易受伤的；脆弱的
+undergo|v.|经历；经受|I underwent so much suffering in early years that I am afraid of nothing today
+suffer|v.|遭受；受折磨；变糟|They suffered huge losses in the financial crisis
+vulnerable|adj.|易受伤的；脆弱的|The young girl looked very vulnerable
 ---
-subsistence|n.|勉强维持生活|The standard of living at that time was on the edge of subsistence 当时的生活水平出于勉强维生边缘
-exist|v.|存在；生存
+subsistence|n.|勉强维持生活|The standard of living at that time was on the edge of subsistence 当时的生活水平处于勉强维生边缘|creature comforts 物质享受
+exist|v.|存在；生存|Most scientists believe that water doesn't exist on the surface of the Moon
 exterminate|v.|消灭；根除|We've made great efforts to exterminate mosquitoes and flies
 ---
 tame|v./adj.|驯养；制服/驯服的；乏味的|The tame lions can communicate and dance together with the actors|tame nature 征服大自然
-keeper|n.|看守人；饲养员
-shepherd|n.|牧羊人，羊倌|The shepherd set out to look for sheep that had wandered away|sheepdog n. 牧羊犬
+keeper|n.|看守人；饲养员|He turned his eyes towards the food, which the keeper had brought
+shepherd|n.|牧羊人，羊倌|The shepherd set out to look for the sheep that had wandered away|sheepdog n. 牧羊犬
 ===
 太空探索
 +++
