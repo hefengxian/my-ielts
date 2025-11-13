@@ -689,99 +689,99 @@ shepherd|n.|牧羊人，羊倌|The shepherd set out to look for the sheep that h
 太空探索
 +++
 galaxy|n.|星系|The sun is only a very small start in the Galaxy|the Galaxy 银河系
-cosmos|n.|宇宙
-universe|n.|宇宙；万物；世界
-interstellar|adj.|星际的|These elements become part of the interstellar gas and dust
+cosmos|n.|宇宙|Our world is but a small part of the cosmos
+universe|n.|宇宙；万物；世界|The depth of the universe is immeasurable
+interstellar|adj.|星际的|These elements become a part of the interstellar gas and dust
 ---
-terrestrial|adj.|地球的；陆地的
-celestial|adj.|天上的
-astronomy|n.|天文学
-astrology|n.|占星术；占星学
-astronaut|n.|宇航员
+terrestrial|adj.|地球的；陆地的|Forests are home to over 80% of terrestrial biodiversity
+celestial|adj.|天上的|The rosy light beamed like a celestial dawn
+astronomy|n.|天文学|Physics and astronomy are cognate sciences|cognate adj. 同源的；有共同起源的
+astrology|n.|占星术；占星学|Some who follow Chinese astrology, expect it to a good year
+astronaut|n.|宇航员|An american astronaut is begining a year-long trip in space
 ---
-comet|n.|彗星
-meteorite|n.|陨石
+comet|n.|彗星|The probes will travel with the comet for a full year
+meteorite|n.|陨石|He discovered an unusual meteorite
 crater|n.|（撞击或爆炸形成的）坑|They came to the lip of a dead volcanic crater
 ---
-dust|n.|尘土；灰尘
-ash|n.|灰烬
+dust|n.|尘土；灰尘|The mirror is covered with a film of dust
+ash|n.|灰烬|Don't drop your cigarette ash on the carpet. Use an ashtray
 envelope|n.|外裹物；外层|The surface of the sun is a glowing gas envelope
 chunk|n.|厚块|My mother bought a chunk of meat|a chunk of 一大块，一厚块
 ---
-spacecraft|n.|宇宙飞船
-spaceship|n.|宇宙飞船
+spacecraft|n.|宇宙飞船|The spacecraft is orbiting the moon
+spaceship|n.|宇宙飞船|The scientists are able to calculate accurately when the spaceship will reach the moon
 probe|n.|太空探测器；详尽调查|Their probe into the cause of the fire proved futile
-module|n.|模块
+module|n.|模块|A module is a part of a space vehicle that can work independently
 ---
 propulsion|n.|推进力|This aircraft works by jet propulsion
-pressure|n.|压力
-dynamics|n.|动力学；动态
-motion|n.|作物；移动
+pressure|n.|压力|We will never capitulate to pressure from outside|capitulate v. 投降
+dynamics|n.|动力学；动态|And our goal is to find out the dynamics of this problem
+motion|n.|作物；移动|Parts of the film were shown again in slow motion
 ---
-vent|n./v.|排气口；排放；发泄
-tail|n.|尾部
-curve|n.|曲线；弧线
+vent|n./v.|排气口；排放；发泄|When gases and steam can get vented from a valcano's cracks, it's probably not about to erupt
+tail|n.|尾部|He drove into the back of my truck and smashed the tail light
+curve|n.|曲线；弧线|The stairs ascended in a graceful curve
 ---
-exploration|n.|探索
-expedition|n.|远征；探险
-flyby|n.|（航天器对行星或卫星的）飞掠
+exploration|n.|探索|The Elizabethan age was an time of exploration and discovery
+expedition|n.|远征；探险|This is an expedition to find the beginning of the Yangtze River 
+flyby|n.|（航天器对行星或卫星的）飞掠|Because of the flyby height, the plane resembles an increasingly big bird
 ---
-observatory|n.|天文台
-telescope|n.|望远镜
+observatory|n.|天文台|According to the observatory, there will be a total solar eclipse tomorrow
+telescope|n.|望远镜|What is the range of this telescope?
 spectacle|n.|壮观的景象；奇观|The sunrise was a splendid spectacle|spectacular adj. 壮观的；壮丽的
 ---
-orbit|n.|轨道
-ecliptic|n.|黄道
-diameter|n.|直径
-radius|n.|半径
+orbit|n.|轨道|The earth moves in an approximately circular orbit around the sun
+ecliptic|n.|黄道|Five bright planets move among the stars nearly ecliptic
+diameter|n.|直径|The earth is slightly flat at the poles so that the polar diameter is slightly less than the equatorial diameter
+radius|n.|半径|They searched within one mile radius of the school
 ---
-substance|n.|物质；实质；要旨
-composition|n.|成分；构成；作品；创作
+substance|n.|物质；实质；要旨|Is there a basic substance that everything else is made of?
+composition|n.|成分；构成；作品；创作|Scientists study the composition of the soil
 compound|n./adj./v.|混合物；化合物。复合的；组合的。混合|English loves compound words: "washing machine" and that sort of thing
 ---
-fossil|n.|化石
-sample|n.|样品；样本
-specimen|n.|样品；标本
+fossil|n.|化石|I know that the majority of the energy we consume comes from fossil fuel energy sources
+sample|n.|样品；样本|I need nothing but a sample
+specimen|n.|样品；标本|The biologist brought out a specimen box and showed the items one by one
 ---
-particle|n.|颗粒；微粒；极小量
-molecule|n.|分子
-atom|n.|原子
-ion|n.|离子
-electron|n.|电子
+particle|n.|颗粒；微粒；极小量|There are particles of dust everywhere
+molecule|n.|分子|There is a molecule separator in the lab
+atom|n.|原子|An molecule of water is made up of two atoms of hydrogen and one atom of oxygen
+ion|n.|离子|Both of these partickes can produce ion pairs
+electron|n.|电子|Electrons are negatively charged with electricity
 quantum|n.|量子|In this example, we employed the quantum mechanics principle
 ---
-liquid|n./adj.|液体；液体的
+liquid|n./adj.|液体；液体的|If you add too much liquid, the mixture will not be thick enough
 fluid|n./adj.|液体；流体。流动的|When you are sick, you should drink plenty of fluids
-solid|n./adj.|固体。固体的；牢固的
+solid|n./adj.|固体。固体的；牢固的|The new office has a very solid structure
 ---
 synthesise/synthesize|v.| 合成；综合|Darwinian theory has been synthesized with modern genetics
-formation|n.|形成
-method|n.|方法
+formation|n.|形成|In planet formation, as in adolescence, you've got your late bloomers| late bloomer 晚熟的人，大器晚成
+method|n.|方法|New methods of teaching foreign languages are adopted in this institute
 ---
-spectrum|n.|光谱；范围
-dimension|n.|维度
-frequency|n.|频率；发生次数
-signal|n.|信号
-antenna|n.|天线
+spectrum|n.|光谱；范围|A spectrum is formed by a ray of light passing through a prism
+dimension|n.|维度|A line has one dimension and a square has two
+frequency|n.|频率；发生次数|This radio signal has a frequency of 800 kilohertz
+signal|n.|信号|Her speech yesterday was a signal that her her view has changed
+antenna|n.|天线|You should fix the televison antenna before receiving programs
 circuit|n.|线路；电路；巡回|For many years, He was top banana on the circuit 许多年来，他都是巡回剧团里的主角——top banana主要人物
 ---
-refraction|n.|折射
-ultraviolet|n./adj.|紫外辐射。紫外线的
-radioactive|adj.|放射性的
+refraction|n.|折射|Over water the diurnal change in refraction is likely to be small
+ultraviolet|n./adj.|紫外辐射。紫外线的|The ozone layer absorbs most of the sun's ultraviolet radiation
+radioactive|adj.|放射性的|Nuclear energy gives millions heat, light and power, just as it creates unwanted radioactive side effects
 ---
-distinct|adj.|明显的；截然不同的
+distinct|adj.|明显的；截然不同的|Those two ideas are quite distinct from each other
 discernible|adj.|可辨别的；看得清的|Night fell, but the outline of the factory buildings was still discernible
-invisible|adj.|看不见的
+invisible|adj.|看不见的|Some stars are invisible to the naked eye
 ---
-collision|n.|碰撞事故；冲突
-squash|v./n.|压扁；壁球
-fragment|n./v.|碎片；片段；（使）碎裂
+collision|n.|碰撞事故；冲突|He is responsible for the rear-end collision|rear-end collision 追尾碰撞
+squash|v./n.|压扁；壁球|I sat on my hat and squashed it
+fragment|n./v.|碎片；片段；（使）碎裂|He was still in bad condition and could give only a fragmented account of the accident
 ---
-cataclysmic|adj.|剧变的；灾难的|One can readily trace the disappearance of dinosaurs to a cataclysmic
-overwhelming|adj.|压倒性的
-despair|v./n.|绝望
-desperate|adj.|绝望的；急需要的
-hopeless|adj.|无望的；极差的
+cataclysmic|adj.|剧变的；灾难的|One can readily trace the disappearance of dinosaurs to a cataclysmic event
+overwhelming|adj.|压倒性的|The flood was overwhelming and the city was soon flooded
+despair|v./n.|绝望|This boy is his mother's last despair
+desperate|adj.|绝望的；急需要的|The man lost in the desert was desperate for water
+hopeless|adj.|无望的；极差的|He feels that his chances of winning the contest are hopeless
 ===
 学校教育
 +++
