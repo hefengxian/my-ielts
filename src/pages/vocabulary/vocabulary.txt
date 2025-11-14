@@ -384,94 +384,94 @@ rot|v./n.|使腐烂；使腐坏；腐烂|Rot in the tree trunk caused the tree t
 decay|v.|腐烂|The vegetables have begun to decay
 stale|adj.|不新鲜的；没有新意的；陈腐的|He always bought two loaves of stale bread
 ---
-rainforest|n.|雨林
-jungle|n.|丛林
-plantation|n.|种植园
-field|n.|原野；场地；野外
-terrace|n.|梯田
+rainforest|n.|雨林|The rainforest is being systematically destroyed
+jungle|n.|丛林|Tigets are found in the jungle of Asia
+plantation|n.|种植园|They work on plantations
+field|n.|原野；场地；野外|The student of the geological class will be out on field exploration for the duration of the school year
+terrace|n.|梯田|The terrace channels are convenient for irrigation
 ---
-timber|n.|木材；木料；林木
-charcoal|n.|木炭
-log|n.|原木；日志
-logo|n.|标识；徽标
-forestry|n.|林学；林业
+timber|n.|木材；木料；林木|The farmer spent a day in the woods, hewing timber|hew v. 砍；劈
+charcoal|n.|木炭|Preare a fire in a charcoal grill|grill n. 烧烤架；v. 烧，烤
+log|n.|原木；日志|A log got in his way as he drove
+logo|n.|标识；徽标|The letterhead was impressed with the company logo
+forestry|n.|林学；林业|Mountainous areas covered with forests are the very place for foresty development
 ---
-branch|n.|树枝；分支机构；分店
-trunk|n.|树干；躯干；大箱子
-bough|n.|大树枝|The window of his car was broken by a bough during last night's storm
-root|n./v.|根；使生根||root cause 根本原因
+branch|n.|树枝；分支机构；分店|The company's head office in is the city, but it has branches all over the country
+trunk|n.|树干；躯干；大箱子|Can she move that trunk by herself?
+bough|n.|大树枝|The window of her car was broken by a bough during last night's storm
+root|n./v.|根；使生根|The dog is snuffling about the root of a tree|root cause 根本原因
 ---
-hay|n.|干草|Make hay with sun shines|hit the hay 上床睡觉
+hay|n.|干草|Make hay while sun shines 趁晴晒草，趁热打铁|hit the hay 上床睡觉
 straw|n.|稻草；麦秆；吸管|This hat is made of straw
-reed|n.|芦苇|The roof is made of dried reed
+reed|n.|芦苇|The roof is made of dried reeds
 thorn|n.|刺；荆棘|She got her finger pricked by a thorn|thorny adj. 多刺的；棘手的；a thorn in my side/flesh 眼中钉、肉中刺
-weed|n.|杂草
+weed|n.|杂草|The garden is choked with weeds
 ---
-grass|n.|草；草地
-meadow|n.|草地；牧草
-lawn|n.|草地；草坪|My mother asked me to mow the lawn
+grass|n.|草；草地|The grass was wet with dew
+meadow|n.|草地；牧草|The children ran free across the meadow
+lawn|n.|草地；草坪|My mother asked me to mow the lawn|mow v. 割草
 ---
 olive|n.|橄榄；橄榄树|The olive branch is the emblem of peace. 橄榄枝是和平的象征
-pine|n.|松树；松木
-vine|n.|葡萄藤
+pine|n.|松树；松木|It's a place noted for its pine trees and springs
+vine|n.|葡萄藤|The grapes withered on the vine
 ---
-violet|n.|紫罗兰
-tulip|n.|郁金香
+violet|n.|紫罗兰|The violet is dainty spring flower|dainty adj. 精致的；美味的
+tulip|n.|郁金香|She trimmed the stalks of the tulips before putting them in a vase
 mint|n./v.|薄荷；铸币厂/铸造（硬币）|We sat in the back row, sucking mints 我们坐在后排，嘴里咂着薄荷糖
 ---
-reef|n.|暗礁|The ship was wrecked on a reef. 这船触礁失事了
+reef|n.|暗礁|The ship was wrecked on a reef. 这船触礁失事了|wreck v. 失事；毁坏
 alga|n.|海藻|Some of the algae are edible|algal adj. 海藻的。algae 复数形式
-enzyme|n.|酶
+enzyme|n.|酶|One enzyme can activate a thousand of these chemical reactions in a hour
 catalyst|n.|催化剂；促进因素|A catalyst is a substance which speeds up a chemical reaction|a catalyst for changing 改变...的催化剂
 ---
-release|v./n.|释放；发布
-emission|n.|排放；散发；排放物|This conference aims to reduce carbon emissions or greenhouse gas emissions around this world
-absorb|v.|吸收；吸引全部注意力
+release|v./n.|释放；发布|I released the horse and it ran away
+emission|n.|排放；散发；排放物|This conference aims to reduce carbon emissions or greenhouse gas emissions around the world
+absorb|v.|吸收；吸引全部注意力|Dry sand absorbs water
 circulation|n.|流通；循环；流传|Sea surface temperature and atmospheric circulation are strongly coupled
 ---
 exceed|v.|超出|The driver exceeds the speed limit|exceed expectation 意料之外
 uptake|n.|摄取；领会|The doctor advised me to reduce the salt uptake
 nutrient|n.|营养物质|The nutrient in the soil acts as a stimulus to growth in plants|nutrition n. 营养
-energy|n.|能源；精力
+energy|n.|能源；精力|The majority of the energy we consume comes from fossil fuel energy sources
 ---
-surroundings|n.|环境可与environment互换
+surroundings|n.|环境可与environment互换|The adaptability of the youth to new surroundings is one of they good qualities
 mechanism|n.|机制；构造|Bones and muscles are parts of the mechanism of the body骨骼和肌肉是身体构造的一部分
-counterbalance|n./v.|其平衡作用的事物；抵消；对...起平衡作用
+counterbalance|n./v.|其平衡作用的事物；抵消；对...起平衡作用|Their strength in defense couterbalances our strength in attack
 ---
-protect|v.|保护
-preserve|v.|保护；维持；保存
+protect|v.|保护|We have to do what it takes to protect our parks and protect our planet for generations to come
+preserve|v.|保护；维持；保存|It is the duty of the police to preserve public order
 conservation|n.|（对自然环境的）保护；保存|Some accommodation between conservation and tourism is essential. 对自然环境的保护和旅游业之前的相互协调是至关重要的 —— accommodation 除了有住宿还有和解协调的意思|conversation n. 交谈
 ---
-bush fire|n.|林区大火
+bush fire|n.|林区大火|The friendly fallow deer were trapped by a bush fire
 extinguish|v.|扑灭（火）；使（想法；感情等）破灭|They tried every means to extinguish the fire
-destruct|v.|（使）自毁
-ruin|v./n.|毁坏；摧毁；毁灭；废墟
+destruct|v.|（使）自毁|The tape would self-destruct in 20 minutes
+ruin|v./n.|毁坏；摧毁；毁灭；废墟|The stome ruinned the crops
 perish|v.|毁灭；消亡；腐烂|Flowers perish when frost comes
 ---
 demolish|v.|毁坏；拆除；推翻|The fire demolished the town
 infringe|v.|侵犯；违反|The press infringed a copyright agreement
-undermine|v.|破坏；逐渐削弱
-extinction|n.|灭绝||extinct adj. 已灭绝的
+undermine|v.|破坏；逐渐削弱|The constant criticism was beginning to undermine her confidence
+extinction|n.|灭绝||extinct adj. 已灭绝的|By 2050, a quarter of the earth's species could be threatend with extinction
 ---
-pattern|n.|模式；样式；底样
+pattern|n.|模式；样式；底样|Training and education follow different patterns in different regions
 outcome|n.|结果|We are anxiously awaiting the outcome of their discussion
-impact|n.|影响
+impact|n.|影响|We are a flash in time, but our impact is forever
 ---
-seasonal|adj.|季节性的
-experimental|adj.|实验性的
-favourable/favorable|adj.|有利的；赞成的；肯定的
+seasonal|adj.|季节性的|The greatest seasonal change on our planet is now underway
+experimental|adj.|实验性的|There is no cure or vaccine, but some patients have been given experimental treatments
+favourable/favorable|adj.|有利的；赞成的；肯定的|It's encouraging to receive a favorable report on one study
 ---
-productive|adj.|多产的
-effective|adj.|有效的
-efficient|adj.|效率高的
+productive|adj.|多产的|Once the plants have produced fruit, they become less productive
+effective|adj.|有效的|These are effective measures
+efficient|adj.|效率高的|These new coffee machine is more efficient than the old one
 ---
-considerable|adj.|相当多的
-massive|adj.|巨大的；大规模的；庞大的
-immense|adj.|巨大的；极好的|
+considerable|adj.|相当多的|It is a considerable sum of money
+massive|adj.|巨大的；大规模的；庞大的|There are massive mineral resources in the west part of China
+immense|adj.|巨大的；极好的|They plunged into their work with immense zeal|plunge v. 投入；跳入 zeal n. 热情
 ---
-maximal|adj.|最大的
-minimal|adj.|最小的
-optimal/optimum|adj.| 最佳的；最理想的
+maximal|adj.|最大的|She obtained maximal benefit from the course
+minimal|adj.|最小的|I stayed with friends so my expenses were minimal
+optimal/optimum|adj.| 最佳的；最理想的|This is the optimal season for the growth of plants
 ===
 动物保护
 +++
