@@ -785,146 +785,146 @@ hopeless|adj.|无望的；极差的|He feels that his chances of winning the con
 ===
 学校教育
 +++
-education|n.|
-primary|adj.
-secondary|adj.
+education|n.|教育|A good education gives your child a good start in life
+primary|adj.|初级的；主要的|The primary cause of his failure was his underestimation of the enemy
+secondary|adj.|中级的；次要的|The most important factor is price. Location is a secondary issue
 ---
-university|n.
-college|n.|学院；大学
-institute|n.|研究所
+university|n.|大学|She is a student at Peking University
+college|n.|学院；大学|Their son will start college in the autumn
+institute|n.|研究所|The government set up an institute devoted to renewable energy sources
 academy|n.|专科院校；（美国的）私立学校；研究会；学会|This is an academy of music|academic adj. 学术的；学院的
 ---
-learn|v.|学习；得知
-study|v./n.|学习；研究
-acquire|v.|获得；购得
-knowledge|n.|知识
+learn|v.|学习；得知|It is more useful to learn modern languages, such as English and French, than Latin
+study|v./n.|学习；研究|This reference book is very useful to study from
+acquire|v.|获得；购得|We hope to acquire the knowledge within happiness
+knowledge|n.|知识|To the young boy, his big brother was the fountain of all knowledge
 ---
-expertise|n.|专门技能
+expertise|n.|专门技能|We were amazed at his expertise on herbs
 novice|n.|新手|I'm a complete novice at yoga
 recruit|v.|吸收（新成员）|The country's first act would be to recruit for the navy
 ---
 literate|adj.|有读写能力的|Over one-quarter of the adult population are not fully literate|literacy n. 读写能力
-illiteracy|n.|文盲
-numerate|adj.|识数的；有计算能力的
+illiteracy|n.|文盲|We must do our best to eliminate illiteracy
+numerate|adj.|识数的；有计算能力的|All students should be numerate and literate when they leave school
 ---
-problem|n.|问题；习题
-issue|n./v.|重要问题；发行。公布；发出
-affair|n.|事件；公共事件
+problem|n.|问题；习题|Heavy traffic poses a big problem in many big cities
+issue|n./v.|重要问题；发行。公布；发出|On this issue, they thought as one
+affair|n.|事件；公共事件|The minister is busy with important state affairs
 controversial|adj.|有争议的|They tried to stay away from controversial topics at the dinner party
 ---
-puzzle|n./v.|难题；谜。使迷惑
-riddle|n.|谜；谜语
+puzzle|n./v.|难题；谜。使迷惑|He is puzzled about the matter
+riddle|n.|谜；谜语|He figured out the riddel at last
 obscure|adj.|难以理解的|Rules for the game are somewhat obscure
 ---
 instil/instill|v.| 逐渐灌输|A sense of duty must be instilled in our children
-cram|v.|把...塞进；（为应考）临时死记硬背
-emphasise/emphasize|v.|强调；着重
-enhance|v.|提高；增强|A good score of IELTS enhance my change of getting the offer
+cram|v.|把...塞进；（为应考）临时死记硬背|Lectures were all called off, so students can cram for the semester finals
+emphasise/emphasize|v.|强调；着重|I try to emphasize my strengths without sounding boastful|boastful adj. 自夸的
+enhance|v.|提高；增强|A good score of IELTS will enhance my change of getting the offer
 ---
-enable|v.|使能够
-inspire|v.|鼓舞；给...灵感
-motive|n.|动机；缘由
-motivate|v.|激发；驱使
+enable|v.|使能够|This dictionary will enable you to understand English words
+inspire|v.|鼓舞；给...灵感|Our task is to motivate the voters and inspire them to join our cause|join one's cause 参加某人的事业
+motive|n.|动机；缘由|His motive for working so hard is that he needs money
+motivate|v.|激发；驱使|Good teachers are those who can motivate their students
 ---
-stimulate|v.|刺激；激励
-spur|v./n.|鞭策；激发。马刺；刺激
+stimulate|v.|刺激；激励|I'm trying to stimulate him to study harder
+spur|v./n.|鞭策；激发。马刺；刺激|Pride spur the man to fight
 impetus|n.|推动；促进；动量；惯性|The car ran down the bridge under it's own impetus
 ---
 indulge|v.|迁就；放任；沉湎；让...享受一下|You can indulge yourself without spending a fortune
-spoil|v.|宠坏；溺爱；破坏；糟蹋
+spoil|v.|宠坏；溺爱；破坏；糟蹋|You should be careful because you make a mistake which will spoil your life
 abuse|v.|滥用；虐待|It's easy to abuse one's power|alcohol abuse 酗酒
 ---
-intelligent|adj.|聪明的
-clever|adj.|聪明的；精明的
-smart|adj.|聪明的；智能的
+intelligent|adj.|聪明的|Clara is a highly intelligent girl
+clever|adj.|聪明的；精明的|Even clever people may do something stupid when put on the spot|put sb. on the spot 使某人处于尴尬境地
+smart|adj.|聪明的；智能的|This boy is very smart. He may become another Stephen Hawking
 all-round/all-around|adj.|有多方面才能的；全面的|She is an all-round artist
 ---
-genius|n.|天才人物；天赋
-elite|n.|精英
-idiot|n.|白痴；傻瓜
+genius|n.|天才人物；天赋|His genius is not confined to maths and physics
+elite|n.|精英|The army was controlled by a small ruling elite
+idiot|n.|白痴；傻瓜|He is behaving like an perfect idiot
 ---
-wisdom|n.|智慧；学问
-wit|n.|风趣的人；机智；风趣；智慧|Holmes was a gregarious, a great wit, a man of wide interests
+wisdom|n.|智慧；学问|Confucius's words hold a great deal of wisdom
+wit|n.|风趣的人；机智；风趣；智慧|Holmes was a gregarious, a great wit, a man of wide interests|gregarious adj. 爱交际的；合群的
 aptitude|n.|天生的才能；资质|That student has an aptitude for music|apt adj. 恰当的；聪明的
 capable|adj.|有能力的；有才能的|Not everyone is capable of judging fine arts|capability n. 能力。capacity n. 容量。be capable of 能够
 ---
 excellent|adj.|杰出的；优秀的|She had a high reputation for her excellent detective novels|excel v. 擅长；突出
-outstanding|adj.|突出的；杰出的
-brilliant|adj.|光辉的；聪明的；（光线等）明亮的
+outstanding|adj.|突出的；杰出的|He is an outstanding athelete and deserved to win
+brilliant|adj.|光辉的；聪明的；（光线等）明亮的|He drew the curtains and brilliant sunlight flooded into the room
 ---
 prestige|n.|威望；声望|These new policies will affect the president's national and international prestige|prestigious adj. 有名望的；享有声望的
-reputation|n.|名誉；声誉
+reputation|n.|名誉；声誉|If a company has a good reputation, investors will natually back it
 eminent|adj.|著名的；杰出的|The students are expecting the arrival of an eminent scientist
 notorious|adj.|名声狼藉的|The notorious thief was finally caught and put to prison|notoriety n. 坏名声
 ---
-esteem|v.|尊重；尊敬
-respect|n./v.|尊敬；敬重
-diligent|adj.|勤勉的；勤奋的
+esteem|v.|尊重；尊敬|I esteem it as a privilege to attend this conference and give a report here|hold sb. in high esteem 高度尊重某人
+respect|n./v.|尊敬；敬重|You should know how to respect to yourself before you can get respect from others
+diligent|adj.|勤勉的；勤奋的|She is diligent and busy with all kinds of experiments all the time
 painstaking|adj.|极其仔细的；辛苦的|The mastery of a language requires painstaking effort
 ---
-skill|n.|技巧
-approach|n./v.|方法。接近
-scheme|n./v.|计划；方案；阴谋。谋划|All the scheme an intrigues are doomed to failure
+skill|n.|技巧|It requires an athlete to have great skill, cool nerves and quick reflexes|cool nerves 冷静的头脑
+approach|n./v.|方法。接近|I like his approach to the problem
+scheme|n./v.|计划；方案；阴谋。谋划|All the schemes and intrigues are doomed to failure
 ---
-headmaster|n.|[英]男校长
+headmaster|n.|[英]男校长|His track record as a headmaster was excellent|track record 履历记录，过去的成绩
 principal|n./adj.|[美]（中小学）校长；[英]大学校长；学院院长。首要的|He is going to resign from the position of principal
-dean|n.|（大学的）学院院长；系主任
-faculty|n.|（大学的）系、院；全体教员
+dean|n.|（大学的）学院院长；系主任|She is the dean of the Faculty of Social Sciences
+faculty|n.|（大学的）系、院；全体教员|Faculty members devote most of their time to scholarly research
 ---
-professor|n.|教授
-scholar|n.|学者
-scientist|n.|科学家
-mentor|n.|导师；顾问
-tutor|n.|家庭教师；（英国大学或者学院的）导师
+professor|n.|教授|Our professor is learned man with great insight
+scholar|n.|学者|He is a serious scholar who is highly respected by his students
+scientist|n.|科学家|I admired him as a true scientist and a very moral man
+mentor|n.|导师；顾问|He fed on the great ideas of his mentor
+tutor|n.|家庭教师；（英国大学或者学院的）导师|She was my personal tutor at university
 ---
-lecturer|n.|讲师
-assistant|n.|助理；助手
-candidate|n.|候选人；求职者；考生
+lecturer|n.|讲师|I have to submit this report to my lecturer
+assistant|n.|助理；助手|Her assistant was accused of theft and fraud by the police|theft and fraud 盗窃和诈骗
+candidate|n.|候选人；求职者；考生|They are interviewing candidates for the positions of sales manager
 ---
 degree|n.|学位；程度|He left without completing his degree|to a certain degree 在某种程度上
-qualify|v.|（使）有资格、有权
-certify|v.|证明；颁发专业合格证书
-license/licence|n.|执照；许可证
-permit|n.|许可证
+qualify|v.|（使）有资格、有权|His knowledge and skill qualify him for the job
+certify|v.|证明；颁发专业合格证书|I certify on my honor that she is innocent
+license/licence|n.|执照；许可证|His driving license was suspended for three months
+permit|n.|许可证|You can't work here without a work permit
 ---
-diploma|n.|毕业文凭
-diplomat|n.|外交官；善于交际的人
+diploma|n.|毕业文凭|My cousin won her diploma in only three years
+diplomat|n.|外交官；善于交际的人|As a natural diplomat, he found it easy to get the two sides to reach an consensus
 ambassador|n.|大使|He was appointed ambassador to France|embassy n. 大使馆
 ---
-pupil|n.|小学生；瞳孔|As a girl, she had been a model pupil
-graduate|n./v.|毕业生；毕业
-ceremony|n.|典礼；礼节
+pupil|n.|小学生；瞳孔|As a girl, she had been a model pupil|a model pupil 模范学生
+graduate|n./v.|毕业生；毕业|Preference will be given to graduates in journalism
+ceremony|n.|典礼；礼节|What the old headmaster said at the graduation ceremony dwells in my mind
 ---
-bachelor|n.|学士；单身汉
-master|n./v.|硕士；大师。精通；控制
-doctor|n.|博士；医生
+bachelor|n.|学士；单身汉|To do the job you must have at least a bachelor's degree in engineering
+master|n./v.|硕士；大师。精通；控制|They are able to master the situation
+doctor|n.|博士；医生|He is a doctor of philosophy
 ---
-fresher|n.|[英]（大学）一年级新生
-sophomore|n.|[美]（大学或高中）二年级学士
-junior|n./adj.|[美]（大学或高中）三年级学生；较年幼者。青少年的；级别（或地位）较低的
-senior|n./adj.|[美]（大学或高中）毕业班学士；较年长者。成人的；资深的
+fresher|n.|[英]（大学）一年级新生|Only a few months ago, the freshers started their exciting life at university
+sophomore|n.|[美]（大学或高中）二年级学士|My sophomore year at college was perhaps the most remarkable year of my life
+junior|n./adj.|[美]（大学或高中）三年级学生；较年幼者。青少年的；级别（或地位）较低的|At that time, I was a sophomore and Miss Yang was a junior
+senior|n./adj.|[美]（大学或高中）毕业班学士；较年长者。成人的；资深的|The seniors defeated the juniors by 4-2
 alumni|n.|[alumnus 的复数形式]毕业生；校友|My alumni and alumna are present at my birthday party
 ---
-campus|n.|（大专院校的）校园
-orientation|n.|迎新会；方向
-platform|n.|平台；讲台
+campus|n.|（大专院校的）校园|The campus covers an area of about 1.37 square kilometers
+orientation|n.|迎新会；方向|The university will hold a one day orientation session for freshmen
+platform|n.|平台；讲台|He spoke to us from a platform in the lecture hall
 coed/co-educational|adj./n.|男女同校的。（男女同校的大学生中的）女生|A nationwide research is under way for typical coeds
 ---
-register|v./n.|登记；注册。登记表；注册簿
+register|v./n.|登记；注册。登记表；注册簿|You must register for the tax
 roster|n.|花名册；登记表；执勤表|I am on the roster for tomorrow night
-enrol/enroll|v.|登记；注册；加入
-matriculation|n.|注册入大学
+enrol/enroll|v.|登记；注册；加入|They enrolled that freshman as a member of the club
+matriculation|n.|注册入大学|Matriculation was increasing in many universities in the 1990s
 ---
-accommodation|n.|住处；食宿招待
-dorm|n.|宿舍
-dining hall|n.|食堂
-canteen|n.|水壶；[英]食堂
+accommodation|n.|住处；食宿招待|The authorities must provide suitble accommodation for the family
+dorm|n.|宿舍|Are you going to live in the student dorm or at home?
+dining hall|n.|食堂|This is my first time to eat in your dining hall
+canteen|n.|水壶；[英]食堂|This canteen is much frequented by students
 ---
-laboratory/lab|n.|实验室；研究室
-experiment|n.|实验；试验
-data|n.|[datum 的复数形式]数据
-quantity|n.|数量
-quality|n.|质量
+laboratory/lab|n.|实验室；研究室|It is important to check when the laboratory can do the tests
+experiment|n.|实验；试验|We will have an experiment in the laboratory this afternoon
+data|n.|[datum 的复数形式]数据|The data should updated once a week
+quantity|n.|数量|Our company is more concerned with quality than with quantity
+quality|n.|质量|It is a bad year for films in terms of quality rather than quantity
 ---
 library|n.|图书馆；个人收藏
 literature|n.|文学；文学作品；文献
