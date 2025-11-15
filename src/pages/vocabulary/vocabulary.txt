@@ -926,118 +926,118 @@ data|n.|[datum 的复数形式]数据|The data should updated once a week
 quantity|n.|数量|Our company is more concerned with quality than with quantity
 quality|n.|质量|It is a bad year for films in terms of quality rather than quantity
 ---
-library|n.|图书馆；个人收藏
-literature|n.|文学；文学作品；文献
-article|n.|文章
-author|n.|作者；作家
+library|n.|图书馆；个人收藏|I went to the library and return your books for you
+literature|n.|文学；文学作品；文献|Literature stands related to men as science stands to nature
+article|n.|文章|The editor asked him to contribute a weekly article on european affairs
+author|n.|作者；作家|The author's style is subtle and elegant
 ---
-tale|n.|故事；传说
-fiction|n.|小说；虚构；杜撰
-story|n.|故事；小说；（尤指口头的）叙述
-diary|n.|日记；日记簿
+tale|n.|故事；传说|She looks like a princess in a fairy tale
+fiction|n.|小说；虚构；杜撰|The writer poignantly described her own mothering experiences in her fiction
+story|n.|故事；小说；（尤指口头的）叙述|Her little sister often asks her to retell the story
+diary|n.|日记；日记簿|Her diary is full of entries about him
 ---
-poetry|n.|诗
-magazine|n.|杂志；期刊；弹夹
-journal|n.|日报；周报；（尤指专门科学的）杂志；日志
-coverage|n.|新闻报道；覆盖范围
+poetry|n.|诗|I myself enjoy cinema, drama, poetry and travelling
+magazine|n.|杂志；期刊；弹夹|This magazine has a large circulation
+journal|n.|日报；周报；（尤指专门科学的）杂志；日志|This study was published by two journals of repute
+coverage|n.|新闻报道；覆盖范围|The wedding of the two movie stars got massive media coverage
 ---
-bibliography|n.|参考书目
-encyclopedia/encyclopaedia|n.|百科全书
-biography|n.|传记
-documentary|n./adj.|纪录片；记录的
-series|n.|连续的；一系列；系列节目
+bibliography|n.|参考书目|The bibliography is a very important part of a paper
+encyclopedia/encyclopaedia|n.|百科全书|I know someone who is a walking encyclopedia. She knows about everything
+biography|n.|传记|One of my friends likes to read biographies of great men to enhance himself
+documentary|n./adj.|纪录片；记录的|The documentary left me in a state of shock
+series|n.|连续的；一系列；系列节目|She published a new book series for English learners
 ---
-record|n.|记录；履历
-file|n./v.|档案；把...归档
-profile|n.|概述；人物简介；侧面轮廓
+record|n.|记录；履历|The subjects in the research were asked to keep a record of everything they ate for a week
+file|n./v.|档案；把...归档|The police have a file on him
+profile|n.|概述；人物简介；侧面轮廓|Her beautiful profile impressed the judgers very much
 ---
-draft|n.|草稿；汇票；起草
-sketch|n./v.|概略；概述
-brochure|n.|小册子
-manual|n.|使用手册；指南；手工的
+draft|n.|草稿；汇票；起草|When the first draft was completed, she took a break
+sketch|n./v.|概略；概述|I have figured out a basic sketch of a plan
+brochure|n.|小册子|I'll send the company brochure right away
+manual|n.|使用手册；指南；手工的|The maintenance manual gives diagrams and instructions for repairing your car
 ---
-frame|n.|框架；眼镜框；构架
-index|n./v.|指数；索引；为...编索引
-catalogue/catalog|n.|目录
-category|n.|种类；类别；范畴
+frame|n.|框架；眼镜框；构架|The house has a wooden frame which is braced with bricks
+index|n./v.|指数；索引；为...编索引|The index is arranged in alphabetical order
+catalogue/catalog|n.|目录|You can look for the book in the library catalogue
+category|n.|种类；类别；范畴|There are different categories of books in the library
 ---
-inventory|n.|库存；详细目录
-content|n./adj.|内容；目录；含量。满足的
-context|n.|上下文；语境；背景
-list|n./v.|一览表；目录。列举；把...列表
+inventory|n.|库存；详细目录|We made an inventory of everything in the old museum
+content|n./adj.|内容；目录；含量。满足的|The calorie content in a regular coke is very high
+context|n.|上下文；语境；背景|We should judge the past in its historic context
+list|n./v.|一览表；目录。列举；把...列表|The results are listed in numerical order
 ---
-chapter|n.|（书的）章；（人生或历史的）重要时刻
-volume|n.|卷；体积；容积；音量
-reel|n.|卷轴；卷筒；一卷胶卷
+chapter|n.|（书的）章；（人生或历史的）重要时刻|Steamboat travel opened a new chapter in America's exploration of the west
+volume|n.|卷；体积；容积；音量|The volume of this container is one cubic meter
+reel|n.|卷轴；卷筒；一卷胶卷|I put a new reel of film in my camera
 ---
-subject|n.|科目；主题；实验对象
-object|n./v.|物体；目标。反对
-major|n./v./adj.|[美]主修科目；专业。主修。主要的
+subject|n.|科目；主题；实验对象|In the car, she reverted to the subject which is uppermost in her mind
+object|n./v.|物体；目标。反对|He strongly objects to getting up early
+major|n./v./adj.|[美]主修科目；专业。主修。主要的|She majored in international economy at university
 minor|n./adj.|[美]辅修科目。不严重的|My major is English, but I also have a minor in history.
 ---
 sociology|n.|社会学|A few years ago, sociology was the most popular subject for undergraduates
-politics|n.|政治学；政治；政治事务
-economics|n.|经济学
+politics|n.|政治学；政治；政治事务|He closed down the business and went into politics
+economics|n.|经济学|Whenever they start talking about economics, I feel totally out of my depth|out of my depth 一窍不通，力所不及
 ---
-marketing|n.|市场营销
-accounting|n.|会计
-audit|n./v.|审计。旁听；审计
-statistics|n.|统计学
+marketing|n.|市场营销|This company puts a high value on marketing
+accounting|n.|会计|A company's accounting records must be open for inspection at all times
+audit|n./v.|审计。旁听；审计|They worked all day without a break and finished the audit on time
+statistics|n.|统计学|There's a compulsory course in statistics
 ---
-psychology|n.|心理学；心理特征
-philosophy|n.|哲学
-logic|n.|逻辑学；逻辑
+psychology|n.|心理学；心理特征|The professor has considerable expertise in studying a criminal's psychology
+philosophy|n.|哲学|He has a master degree in philosophy
+logic|n.|逻辑学；逻辑|Socrates laied the foundations of logic
 ---
-biology|n.|生物学；生命机理
-physics|n.|物理学
-chemistry|n.|化学
+biology|n.|生物学；生命机理|Biology is the study of living things
+physics|n.|物理学|He is one of top students in physics
+chemistry|n.|化学|I am not good at organic chemistry
 ---
-agriculture|n.|农业；农学
-logistics|n.|物流；后勤
-geography|n.|地理学；地形；地势
-history|n.|历史；历史学
+agriculture|n.|农业；农学|In the past, agriculture located a family to a place
+logistics|n.|物流；后勤|I have a good command in the procedures of logistics
+geography|n.|地理学；地形；地势|I'd like to introduce you to my geography professor
+history|n.|历史；历史学|China is a oriental country with a long history
 ---
-engineering|n.|工程；工程学
-mechanics|n.|力学；机械学
+engineering|n.|工程；工程学|The percentage of girls in engineering has increased in recent years
+mechanics|n.|力学；机械学|He is studying the mechanics and now is learning all the parts of an engine
 electronics|n.|电子学；电子器件|That country wants to increase tariffs on items such as electronics|electron n. 电子。electronic adj. 电子的；电子学的。electrical adj. 电的；电气科学的。electricity n. 电；电流；电学
 ---
-maths/mathematics|n.|数学
-arithmetic|n.|算数
-geometry|n.|几何学
-algebra|n.|代数
-calculus|n.|微积分；结实
+maths/mathematics|n.|数学|The teacher will test us in maths
+arithmetic|n.|算数|Arab brought arithmetic and algebra to the fore once again and placed it almost on a par with geometry|on a par with 与...同等，和...一样
+geometry|n.|几何学|Geometry is a piece of cake for me, but a big headache for my friend Clare
+algebra|n.|代数|The young boy is good at algebra
+calculus|n.|微积分；结实|Calculus is a difficult course for most students
 ---
-plus|prep./adj.|加上。正数的；在零以上的
-sum|n.|总和；总数；金额
-total|adj./n.|总的；全部的。总数
+plus|prep./adj.|加上。正数的；在零以上的|Intelligence plus wit makes for an interesting person
+sum|n.|总和；总数；金额|The man has decided to give his son a huge sum of money for his independence from the family
+total|adj./n.|总的；全部的。总数|In total, over 100, 000 people were killed in the tsunami and a great many of people were homeless
 ---
-merger|n.|合并；并归
-equation|n.|相等；平衡；综合体；方程式；等式
+merger|n.|合并；并归|The proposed merger between two of the largest software companies has been passed
+equation|n.|相等；平衡；综合体；方程式；等式|If you're trying to lose weight in a healthy way, exercise should be part of the equation
 identical|adj.|同一的|This is the identical hotel we stayed at last year
 ---
-minus|adj./prep.|负的；零以下的；减去
-subtract|v.|减去；减
-multiply|v.|乘；使相乘；使成倍增加；繁殖
+minus|adj./prep.|负的；零以下的；减去|The temperature is minus ten degrees now
+subtract|v.|减去；减|The littel girl has begun to learn to add and subtract
+multiply|v.|乘；使相乘；使成倍增加；繁殖|Friendships multiply joy and divide grievance
 ---
-divide|v.|除以；除
-dividend|n.|被除数
-remainder|n.|余数；剩余部分
-rational|n./adj.|有理数；（数、式等）有理的
+divide|v.|除以；除|Twelve divided by three is four
+dividend|n.|被除数|In twelve divided by two, twelve is the dividend
+remainder|n.|余数；剩余部分|Divide four into thirteen and the remainder is one
+rational|n./adj.|有理数；（数、式等）有理的|A rational number can be expressed as a ratio of two integers
 ---
-parameter|n.|参数；起限定作用的因素
-variable|n./adj.|变量；可变因素。易变的
-even|adj./adv.|均匀的；偶数的；相等的。甚至
-odd|adj.|奇数的；古怪的
+parameter|n.|参数；起限定作用的因素|Political descent is a parameter of modern life
+variable|n./adj.|变量；可变因素。易变的|There are some variables that can change our plan
+even|adj./adv.|均匀的；偶数的；相等的。甚至|He won the first round and I won the second, so our scores are even now
+odd|adj.|奇数的；古怪的|One, three, five, and seven are odd numbers
 mean|n./adj.|平均数；平均值。平均的|The professor asked the students to take 200 values and calculate the mean|mean distance 平均距离
 ---
-double|adj./n./v.|两倍的。两倍数；两倍量。使加倍
-triple|adj./n./v|三倍的；三重的。三倍数；三包两。使增至三倍
-quadruple|adj./n./v.|四倍的。四倍
-multiple|n./adj.|倍数。多样的，数量多的
+double|adj./n./v.|两倍的。两倍数；两倍量。使加倍|Many things now cost double what they did a couple of years ago
+triple|adj./n./v|三倍的；三重的。三倍数；三包两。使增至三倍|His income triped
+quadruple|adj./n./v.|四倍的。四倍|Our profits have quadrupled in the last decade
+multiple|n./adj.|倍数。多样的，数量多的|Eighteen is a multiple of six
 ---
-maximum|n.|最大值；最大限度
-minimum|n.|最小值；最小限度
-approximately|adv.|大约
+maximum|n.|最大值；最大限度|The maximum load for this truck is ten tons
+minimum|n.|最小值；最小限度|You must get a minimum of 60 questions right to pass the test
+approximately|adv.|大约|The yelk contains all the fat and approximately half the protein of the egg
 ---
 chart|n.|图；图表；海图
 graph|n.|图表；图
