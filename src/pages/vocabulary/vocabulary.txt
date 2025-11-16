@@ -1039,132 +1039,132 @@ maximum|n.|最大值；最大限度|The maximum load for this truck is ten tons
 minimum|n.|最小值；最小限度|You must get a minimum of 60 questions right to pass the test
 approximately|adv.|大约|The yelk contains all the fat and approximately half the protein of the egg
 ---
-chart|n.|图；图表；海图
-graph|n.|图表；图
-diagram|n.|图表；示意图；图解
-table|n.|表格；桌子
-matrix|n.|矩阵；铸模
+chart|n.|图；图表；海图|This chart displays the links connecting these groups
+graph|n.|图表；图|They made a graph of how cold the weather was everyday for a month
+diagram|n.|图表；示意图；图解|The teacher draws a diagram showing how the plant seedling bends towards the sunlight
+table|n.|表格；桌子|We should create a table for the sales data
+matrix|n.|矩阵；铸模|She can not find the matrix for the competition
 ---
-rectangle|n.|长方形；矩形
-cube|n.|立方体；立方；三次幂；立方的东西
-angle|n.|角度；脚
-triangle|n.|三角形；三角关系
-diagonal|adj./n.|斜纹的；对角线的。对角线；斜纹织物
-straight|adj./adv.|直的；笔直地；直接
+rectangle|n.|长方形；矩形|the plate itself is a small rectangle made of gold
+cube|n.|立方体；立方；三次幂；立方的东西|She dropped a cube of sugar into her coffee and stirred it with a spoon
+angle|n.|角度；脚|The temple is especially beautiful to look at from this angle
+triangle|n.|三角形；三角关系|The three places form a triangle
+diagonal|adj./n.|斜纹的；对角线的。对角线；斜纹织物|The two diagonals of a square cross in the center
+straight|adj./adv.|直的；笔直地；直接|The old lady closed her book and looked straight at me
 ---
-circle|n.|圆
-round|adj./n./adv.|圆的。绕圈；一轮。环绕
-dot|n./v.|点。在...打点
+circle|n.|圆|The circle is ten centimeters in diameter
+round|adj./n./adv.|圆的。绕圈；一轮。环绕|He went round and round but could find no way to get out of the room
+dot|n./v.|点。在...打点|On the map, convenience stores are marked by a red dot
 sphere|n.|球体；球状物；范围；领域|We move in different social sphere
-cone|n.|圆锥体；锥形物|The police have sectioned off the road with traffic cones
+cone|n.|圆锥体；锥形物|The police have sectioned off the road with traffic cones|section off 划分，隔开
 ---
 extent|n.|广度；范围；程度|No one cares about the extent of his debts|to some extent 在某种程度上
-width|n.|宽度
-length|n.|长度
+width|n.|宽度|In front of the mountain is a river of great width
+length|n.|长度|The room is 7 meters in length and 5 meters in breadth
 ---
-decimal|adj./n.|小数的；十进制的。小数
-percent/per cent|n.|百分之...
-proportion|n.|比例
+decimal|adj./n.|小数的；十进制的。小数|The decimal system is widely used
+percent/per cent|n.|百分之...|I am 100 percent in agreement
+proportion|n.|比例|This door is very narrow in proportion to its height
 ---
-rate|n.|比率；率；速度
-ratio|n.|比|The ratio of 3 to 9 is the same as that 9 to 27|in direct ratio 按正比例。in inverse ratio 按反比例
+rate|n.|比率；率；速度|The rate of inflation decreased to 5 percent last year
+ratio|n.|比|The ratio of 3 to 9 is the same as that of 9 to 27|in direct ratio 按正比例。in inverse ratio 按反比例
 fraction|n.|分数；小部分；片段|She spends only a fraction of her earnings on clothes
 ---
-scale|n./v.|刻度；规模。攀登 scales 天平；鳞
-ounce|n.|盎司；少量
-density|n.|密度；浓度
+scale|n./v.|刻度；规模。攀登 scales 天平；鳞|A machine for weighing people has a scale from one pound to 300 pounds on it
+ounce|n.|盎司；少量|An ounce of prevention is worth of a pound of cure 预防胜于治疗
+density|n.|密度；浓度|The population density of big cities is incresing year by year
 ---
-Fahrenheit|adj.|华氏温标的
-mercury|n.|水银；水星
-battery|n.|电池；（物品的）一组
-volt|n.|伏特
+Fahrenheit|adj.|华氏温标的|Water freezes at 32 degrees Fahrenheit
+mercury|n.|水银；水星|The mercury stood at nearly 40 degrees C
+battery|n.|电池；（物品的）一组|You can charge your car battery at this car park
+volt|n.|伏特|A child miraculously survived a 25, 000 volt electric shock
 ---
-radiate|v.|辐射；发散；从中心向四周散开
+radiate|v.|辐射；发散；从中心向四周散开|Four avenues radiate from the square
 emit|v.|散发 (光、热、气等)；发出（声音）|The tail exhaust pipe of the car emitted poisonous smoke
-transparent|adj.|透明的；易看穿的
-hollow|adj.|中空的；空心的
+transparent|adj.|透明的；易看穿的|Not all glass is transparent
+hollow|adj.|中空的；空心的|The trunk of this tree looks solid, but in fact, it is hollow
 ---
-ozone|n.|臭氧
-gravity|n.|地球引力；重力
-friction|n.|摩擦力；摩擦；不和；矛盾
+ozone|n.|臭氧|The ozone layer protects the earth from most of the sun's ultraviolet radiation
+gravity|n.|地球引力；重力|Enormous energy is needed to launch a spacecraft against gravity
+friction|n.|摩擦力；摩擦；不和；矛盾|In designing this device, it is necessary to reduce friction as much as possible
 eccentric|adj.|不同心圆的；古怪的|The old lady has some eccentric habits
 displace|v.|移动...的位置；取代；代替|A bone in his knee was displaced when he crashed against another player
 ---
 boil|v./n.|煮沸。沸点|The watched pot never boils 性急烧水不沸|boil down to 归结为。on the boil 在沸腾
-melt|v.|（使）融/熔化
-dissolve|v.|（使）溶解；解散
+melt|v.|（使）融/熔化|Iron melts at a great heat
+dissolve|v.|（使）溶解；解散|Sugar dissolves in water
 ---
 rust|v./n.|（使）生锈。锈；铁锈|If you leave your metal tools outside in the rain, they will rust|rusty adj. 生锈的
 ferment|v./n.|（使）发酵；骚动。酶；发酵；动乱|The whole country was in a state of ferment|yeast n. 酵母；酵母菌
 dilute|v./adj.|冲淡；稀释。稀释了的；减弱了的|The nurse diluted the drug with saline water
-acid|n./adj.|酸。酸的；讽刺的；尖刻的
-noxious|adj.|有害的|Increasing tax on petrol would encourage people to drive cars with fewer emissions
+acid|n./adj.|酸。酸的；讽刺的；尖刻的|When she spoke, her tone was like acid
+noxious|adj.|有害的|Increasing tax on petrol would encourage people to drive cars with fewer noxious emissions
 ---
-static|adj.|静态的
-inert|adj.|无生气的；惰性的；不活泼
+static|adj.|静态的|This cloth material has static electricity
+inert|adj.|无生气的；惰性的；不活泼|Helium and neon are inert gases
 inherent|adj.|内在的；固有的|Polarity is inherent in a magent|be inherent in 为...所固有
 ---
-formula|n.|公式；方程式；原则；配方；分子式
-component|n.|成分；组成
+formula|n.|公式；方程式；原则；配方；分子式|The formula for water is H2O
+component|n.|成分；组成|Regular exercise is one of the key components of a healthy lifestyle
 compose|v.|组成；构成；创作；写|Water is composed of hydrogen and oxygen|composer n. 作曲家。be composed of 由...组成
-mixture|n.|混合物
-blend|n./v.|混合；（使）交融。混合物
+mixture|n.|混合物|her new play is mixture of sadness and humour
+blend|n./v.|混合；（使）交融。混合物|His manner was a blend of friendliness and respect
 ---
-theory|n.|理论；学说
+theory|n.|理论；学说|There are many theories about the origin of the universe
 empirical|adj.|经验主义的；以实验为依据的|His thesis is not very convincing for lack of empirical evidence
-practical|adj.|实际的；有用的；务实的；心灵手巧的
+practical|adj.|实际的；有用的；务实的；心灵手巧的|He is very practical. He can make or mend almost anything
 ---
-doctrine|n.|学说；教义；信条
-principle|n.|原则；（科学）原理
-discipline|n.|纪律；训练
+doctrine|n.|学说；教义；信条|The doctrine is unchangable
+principle|n.|原则；（科学）原理|A bicycle and a motorcycle are built on the same principle
+discipline|n.|纪律；训练|It takes years of discipline to become a ballerina
 ---
-term|n.|期限；术语；[英]学期
-semester|n.|学期
-timetable|n.|时间表；课程表
-schedule|n.|日程安排；[美]时刻表
-deadline|n.|截止日期
+term|n.|期限；术语；[英]学期|The protocol would have many positive results in the long term
+semester|n.|学期|There are two semesters in a year
+timetable|n.|时间表；课程表|There are eight English classes listed on this term's timetable 
+schedule|n.|日程安排；[美]时刻表|The next thing on my schedule is to buy some milk in the supermarket
+deadline|n.|截止日期|I hope we can finish this before the deadline
 ---
-course|n.|课程
-lesson|n.|一堂课；课程；教训
+course|n.|课程|She is currently doing a business studies course at Leeds
+lesson|n.|一堂课；课程；教训|The lesson from your failure is perhaps a broader one
 curriculum|n.|课程；全部课程|The staff should work together to revise the school curriculum|extra-curriculum 课外的。curriculum vitae 履历 CV
-seminar|n.|研讨会；讨论课
-forum|n.|论坛；讨论会；公开讨论广场
-syllabus|n.|教学大纲
-system|n.|系统；体系；制度
+seminar|n.|研讨会；讨论课|Why didn't you come to yesterday's seminar?
+forum|n.|论坛；讨论会；公开讨论广场|The forum is now open to all small and medium-sized enterprises
+syllabus|n.|教学大纲|The syllabus changes every year
+system|n.|系统；体系；制度|The new system is still in the planning stage
 ---
-rudimentary|adj.|基本的；粗浅的
-basic|adj.|基本的；基础的
-fundamental|adj.|基础的；基本的；根本的
+rudimentary|adj.|基本的；粗浅的|He only has a rudimentary knowledge of the dinosaurs
+basic|adj.|基本的；基础的|The government increased prices on some basic commodities like meat and dairy products
+fundamental|adj.|基础的；基本的；根本的|Another fundamental consideration in the conception of a design is function
 ---
-elementary|adj.|基本的；初级的
+elementary|adj.|基本的；初级的|Their course of study includes elementary hygiene and medical theories
 profound|adj.|（影响）深刻的，深远的；见解深刻的|His brother's words have had a profound effect on him
-superficial|adj.|表面的；外表的；肤浅的
-surface|n.|表面；地面；水面
+superficial|adj.|表面的；外表的；肤浅的|He is too superficial to appreciate great literature like this
+surface|n.|表面；地面；水面|The surface of the bamboo feels so smooth
 ---
-compulsory|adj.|强制的
-prerequisite|n./adj.|必备条件。必备的
-selective|adj.|选择性的
-elective|adj.|选择性的
+compulsory|adj.|强制的|Britain did not introduce compulsory primary education until 1880
+prerequisite|n./adj.|必备条件。必备的|Training is a prerequisite for competence
+selective|adj.|选择性的|The man seem to have a very selective recall of past events
+elective|adj.|选择性的|Besides the required courses, I'm taking an elective in computer science
 ---
-assignment|n.|作业；任务
-submit|v.|提交；服从||submit to 服从于；屈从于。submit sth. to 把某物提交给
-preview|n./v.|预习
-review|n./v.|回顾；复习
+assignment|n.|作业；任务|A brave fighter never shrinks from danger when executing an assignment
+submit|v.|提交；服从|I hope you can submit your term papers before the deadline|submit to 服从于；屈从于。submit sth. to 把某物提交给
+preview|n./v.|预习|Please do the preview and review work
+review|n./v.|回顾；复习|We must hold a careful review of historical events
 ---
-revise|v.|修订；修改
-inspect|v.|检查；检阅；视察
-consult|v.|请教；查阅
+revise|v.|修订；修改|The writer was revising what he had written
+inspect|v.|检查；检阅；视察|The mayor will inspect our school tomorrow
+consult|v.|请教；查阅|In this case, I recommended that you consult your doctor
 ---
-skim|v.|掠过；擦过；略读
-scan|v./n.|细看；浏览；扫描
-scrutinise/scrutinize|v.|仔细检查|scrutiny n. 详细审查
-recite|v.|背诵；朗诵
+skim|v.|掠过；擦过；略读|It's important for you to skim through this article
+scan|v./n.|细看；浏览；扫描|I just had a quick scan through your book again
+scrutinise/scrutinize|v.|仔细检查|The jeweler scrutinized the ruby for flaws|scrutiny n. 详细审查
+recite|v.|背诵；朗诵|Each child had to recite a poem in class
 dictate|v.|让（某人）听写；命令；强行规定|The English teacher dictates to the class every other week|dictaion n. 听写；口述
 ---
-examination/exam|n.|考试；抽查
-test|v./n.|测试；检验
-quiz|n.|小测验
-presentation|n.|陈述；表演；演出
+examination/exam|n.|考试；抽查|Did you have to get through an entrance examination
+test|v./n.|测试；检验|The scientist have already experimented at test sites
+quiz|n.|小测验|The quiz was a good opportunity for him to exhibit his knowledge
+presentation|n.|陈述；表演；演出|There is a presentation of our new play tonight
 ---
 plagiarise/plagiarize|v.|抄袭
 copy|n./v.|复制品。抄写；复制
