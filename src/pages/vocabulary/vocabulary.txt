@@ -1166,132 +1166,132 @@ test|v./n.|测试；检验|The scientist have already experimented at test sites
 quiz|n.|小测验|The quiz was a good opportunity for him to exhibit his knowledge
 presentation|n.|陈述；表演；演出|There is a presentation of our new play tonight
 ---
-plagiarise/plagiarize|v.|抄袭
-copy|n./v.|复制品。抄写；复制
-print|v./n.|打印。印刷品；照片
+plagiarise/plagiarize|v.|抄袭|It is not a viable option to plagiarize someone's work
+copy|n./v.|复制品。抄写；复制|This painting is a copy of the one in the museum
+print|v./n.|打印。印刷品；照片|Print these words in Italics across the top of the page
 ---
-thesis|n.|论文
-essay|n.|短文；小品文
-paper|n.|论文；纸
-dissertation|n.|专题论文；（尤指）学位论文
-project|n.|（大中学生的）专题研究；项目；方案
+thesis|n.|论文|To be specific, the argument in your graduation thesis is logical
+essay|n.|短文；小品文|This essay represents a considerable improvement on your recent work
+paper|n.|论文；纸|She is working hard at her term paper in the library
+dissertation|n.|专题论文；（尤指）学位论文|Each student will have a supervisor to advise on the writing of a dissertation
+project|n.|（大中学生的）专题研究；项目；方案|It is an elaborate project that applies to many purposes
 ---
-heading|n.|标题；主题
-outset|n.|开端；开始
-outline|n.|概要；轮廓
+heading|n.|标题；主题|The heading was in large print
+outset|n.|开端；开始|The science fiction fascinates the readers from the outset
+outline|n.|概要；轮廓|This document provided a broad outline of the country's development after the World War II
 ---
-point|n.|点；要点
+point|n.|点；要点|That is not the point in question
 gist|n.|主旨；要点|He cannot understand the gist of their argument
-opinion|n.|看法；评价
-introduce|v.|介绍；引进
+opinion|n.|看法；评价|She asked her friends' opinions about her plans
+introduce|v.|介绍；引进|Britain did not introduce complusory primary education until 1880
 ---
-reference|n.|参考；推荐函；提及；涉及
-cite|v.|引用
-elicit|v.|引出；探出；套出
-quote|v.|引用；引述；报（价）
+reference|n.|参考；推荐函；提及；涉及|This book is for reference only
+cite|v.|引用|I'll just cite some figures for comparison
+elicit|v.|引出；探出；套出|At last, we elicited some important information from him
+quote|v.|引用；引述；报（价）|The author frequently quoted Shakespeare
 ---
-extract|n.|摘录
-abstract|n./adj./v.|摘要。抽象的。提取；把...抽象出
-summary|n.|摘要；概要
+extract|n.|摘录|The following extract is taken from his commentary on the movie
+abstract|n./adj./v.|摘要。抽象的。提取；把...抽象出|Iron is abstracted from ore
+summary|n.|摘要；概要|The professor asked the students to make a summary of the reading material
 ---
-assume|v.|假定；设想；承担（责任）；取得（权力）||assumption n. 假设；假想
-presume|v.|假定；假设；料想
+assume|v.|假定；设想；承担（责任）；取得（权力）||assumption n. 假设；假想|We assume his innocence before hearing the evidence against it
+presume|v.|假定；假设；料想|From his words, I presumed that he had been in France for several years
 suppose|v.|假定；认为|Let us suppose another planet with conditions similar to those on the earth|be suppose to do sth. 应该做某事
 ---
-hypothesis|n.|假说；假设
-postulate|v./n.|假定；假设
-speculate|v.|推测
-predict|v.|预测
+hypothesis|n.|假说；假设|This is only a scientific hypothesis that has not been proved by experiments
+postulate|v./n.|假定；假设|The experts had postulated that this disease can be cured in a couple of decades
+speculate|v.|推测|The doctors could only speculate that he died of cancer
+predict|v.|预测|It is virtually impossible to predict the future accurately
 ---
 perceive|v.|感知；察觉；意识到|I perceived that it was not possible to make her change her mind
-detect|v.|察觉；发觉；侦查出
-discern|v.|察觉出；分辨出
-recognise/recognize|v.|认识；辨认出
-conscious|adj.|意识到的；有知觉的
+detect|v.|察觉；发觉；侦查出|The man is responsible for detecting some kind of weak signals
+discern|v.|察觉出；分辨出|The child find it hard to discern between red and green
+recognise/recognize|v.|认识；辨认出|I recoginized Peter at once, although I hadn't seen him for many years
+conscious|adj.|意识到的；有知觉的|He was conscious of his guilt
 ---
-reckon|v.|估计；期望；认为
-deem|v.|认为；相信
-imply|v.|暗指；意味着
-deliberate|v./adj.|深思熟虑；仔细考虑。审慎的
+reckon|v.|估计；期望；认为|We had reckoned on your support|reckon on sth. 指望，依赖
+deem|v.|认为；相信|The board deemed it urgent that these files be printed right away
+imply|v.|暗指；意味着|The way he talked implied that he was not willing to accept the agreement
+deliberate|v./adj.|深思熟虑；仔细考虑。审慎的|She deliberated the question before she made an answer
 ---
-represent|v.|代表；象征
-insist|v.|坚持；坚决认为（主张或要求）
-persist|v.|坚持不懈；持续存在
+represent|v.|代表；象征|A committee has been elected to represent us
+insist|v.|坚持；坚决认为（主张或要求）|We insist on self-reliance
+persist|v.|坚持不懈；持续存在|On the top the massive mountains, snow persists throughout the year
 ---
-understand|v.|懂得；理解
-comprehend|v.|理解；领悟
-analyse/analyze|v.|分析
+understand|v.|懂得；理解|What human beings have understood is just the tip of the iceberg
+comprehend|v.|理解；领悟|You can say you have comprehended a word if you can use it correctly and effectively
+analyse/analyze|v.|分析|We should analyze the cause and the effect of this event
 ---
-diagnose|v.|判断；诊断
-infer|v.|推断；推理
-deduce|v.|演绎；推论
-conclude|v.|推断出；得出结论；（使）结束
+diagnose|v.|判断；诊断|We can use a test to diagnose a variety of diseases
+infer|v.|推断；推理|From your smile, I infer that you like this drink
+deduce|v.|演绎；推论|We can deduce a conclusion from this premise|premise n. 前提
+conclude|v.|推断出；得出结论；（使）结束|What do you conclude from his explanation?
 ---
-analogy|n.|类比；类推||analogous adj. 类似的。by analogy 通过类推法
-compare|v.|比较；把...比作；比得上
-contrast|n.|对比；明显的差异||by contrast/in contrast 与之相比，相比之下。in contrast to 与...截然不同
+analogy|n.|类比；类推|The man drew an analogy between the human skin and a brick wall|analogous adj. 类似的。by analogy 通过类推法
+compare|v.|比较；把...比作；比得上|Your knowledge cannot yet compare with his
+contrast|n.|对比；明显的差异|There is a great contrast between good and evil|by contrast/in contrast 与之相比，相比之下。in contrast to 与...截然不同
 ---
-overlap|v.|与...复叠；（与...）部分相同
-contradiction|n.|矛盾；不一致；反驳
-disagree|v.|有分歧；不同意
-differ|v.|不同、相异||differ from 与...不同
+overlap|v.|与...复叠；（与...）部分相同|The plots and descriptions in these two novels largely overlap
+contradiction|n.|矛盾；不一致；反驳|Your attitude is in contradiction to your character
+disagree|v.|有分歧；不同意|I strongly disagree with this immoral approach to science
+differ|v.|不同、相异|The two theories differ from each other in many ways|differ from 与...不同
 ---
-diverse|adj.|不一样的；多种多样的
-nuance|n.|细微差别
-inductive|adj.|归纳的；诱导的
+diverse|adj.|不一样的；多种多样的|The original meaning of this word has become more diverse over time
+nuance|n.|细微差别|The investigator watched the suspect's face intently to catch every nuance of expression
+inductive|adj.|归纳的；诱导的|You need to infer by inductive reasoning
 ---
-detail|n.|细节；（画等的）细节||detailed adj. 详细的。in detail 详细地
-thorough|adj.|彻底的；详尽的
-example|n.|例子；榜样
-instance|n.|实例；情况；场合||for instance 例如
+detail|n.|细节；（画等的）细节|No detail was too small to escape the detective's attention|detailed adj. 详细的。in detail 详细地
+thorough|adj.|彻底的；详尽的|A thorough brushing helps to protect your teeth and gums
+example|n.|例子；榜样|Her diligence has set an example to the others
+instance|n.|实例；情况；场合|Nowadays we can read many instances of good people and good deeds in the press|for instance 例如
 ---
-confirm|v.|证实；确保；巩固
-demonstrate|v.|示范；演示；证明||demonstration n. 示范；游行示威。demonstrative adj. 情感外露的；喜怒形于色的。demonstrator n. 示范者；游行示威者
-illustrate|v.|（用图等）说明；给（书）加插图（或图表）
-manifest|v.|显示；表明
-prove|v.|证明；结果是
+confirm|v.|证实；确保；巩固|Her new film confirmed her as one of our leading directors
+demonstrate|v.|示范；演示；证明|He demonstrated how to use the new machine|demonstration n. 示范；游行示威。demonstrative adj. 情感外露的；喜怒形于色的。demonstrator n. 示范者；游行示威者
+illustrate|v.|（用图等）说明；给（书）加插图（或图表）|The book was illustrated with color photographs
+manifest|v.|显示；表明|Her bravery manifests itself in times of difficulty
+prove|v.|证明；结果是|He has proved his loyalty in the battle
 ---
-determine|v.|决定；下定决心；查明||determinant n. 决定因素。 determined adj. 下定决心的。determine to do sth. 决心做某事。determine beforehand 事先决定
-decide|v.|决定||decision n. 决定；抉择
-resolve|v.|决心；决定；（使）分解为；解决||resolution n. 决心；分辨率。solution n. 解决方案；溶液
+determine|v.|决定；下定决心；查明|He determined to move to another city and start a new life|determinant n. 决定因素。 determined adj. 下定决心的。determine to do sth. 决心做某事。determine beforehand 事先决定
+decide|v.|决定|Don't decide on important matters too quickly|decision n. 决定；抉择
+resolve|v.|决心；决定；（使）分解为；解决|She resolves that she will never eat junk food|resolution n. 决心；分辨率。solution n. 解决方案；溶液
 ---
-survey|n./v.|民意调查；对...进行民意调查||动词的时候重音在中间
-research|n.|调查；探索
-observe|v.|观察；观测；注意到
+survey|n./v.|民意调查；对...进行民意调查|A recent survey of public opinions shows that many people are worried about the rising house prices|动词的时候重音在中间
+research|n.|调查；探索|It is a good idea to do some research before you buy a house
+observe|v.|观察；观测；注意到|I observed a stranger enter my neighbor's home
 ---
-inquire/enquire|v.|询问；调查||inquiry n. 询问；调查。 inquire into 调查
-query|n./v.|疑问；询问；怀疑；询问
-questionnaire|n.|调查表；调查问卷
+inquire/enquire|v.|询问；调查|We must inquire into the matter|inquiry n. 询问；调查。 inquire into 调查
+query|n./v.|疑问；询问；怀疑；询问|I have serveral queries about the work you give me
+questionnaire|n.|调查表；调查问卷|We have sent out nealy 3000 questionnaires, but only a third of them were returned
 ---
-achieve|v.|实现；到达||achievement n. 成就；完成；达到。achieve success 取得成功
-accomplish|v.|达到（目的）；完成
-attain|v.|获得；达到||attainment n. 达到；成就。attain one's goal 达到某人目标
+achieve|v.|实现；到达|In many fields, women have yet to achieve the equal participation in policy making processes|achievement n. 成就；完成；达到。achieve success 取得成功
+accomplish|v.|达到（目的）；完成|Though the task was challenging, we managed to accomplish it on time
+attain|v.|获得；达到|Great efforts are needed before we can attain our goal|attainment n. 达到；成就。attain one's goal 达到某人目标
 ---
-credit|n.|赊购；学分；信任
-score|n.|得分、成绩
-mark|n./v.|分数；标记；标志着；给...打分；在...上做记号
-grade|v./n.|给...分等级：等级；成绩等级
+credit|n.|赊购；学分；信任|I need three more credits to graduate
+score|n.|得分、成绩|Now the score in the football game is one one
+mark|n./v.|分数；标记；标志着；给...打分；在...上做记号|It is dangerous to swim beyond this mark
+grade|v./n.|给...分等级：等级；成绩等级|This grade of jade can be bought at a fairly low price
 ---
-rank|n./v.|等级；排；列；给...评级；位列||ranking n. 排名（表）；等级
-row|n.|一排；一行
-queue|n./v.|行列；队列；排队等候
+rank|n./v.|等级；排；列；给...评级；位列|There are people of all ranks and classes|ranking n. 排名（表）；等级
+row|n.|一排；一行|A row of children are standing in front of a row of chairs1
+queue|n./v.|行列；队列；排队等候|We should join the queue inside the bank
 ---
-grant|v.|授予；准予；承认||take sth. for granted 认为某事是理所应当的
-praise|n./v.|赞美；赞扬||full of praise 赞不绝口 praise sb. for sth. 为某事赞扬某人
-appreciate|v.|赏识；感激；意识到
+grant|v.|授予；准予；承认|I grant that book gives us something insights into human nature, but generally speaking, it is boring|take sth. for granted 认为某事是理所应当的
+praise|n./v.|赞美；赞扬|American reviewers are lavish in their praise of this movie|full of praise 赞不绝口 praise sb. for sth. 为某事赞扬某人
+appreciate|v.|赏识；感激；意识到|We appreciate your efforts for the development of the company
 ---
-feedback|n.|反馈；反应
-underestimate|v.|低估||estimate v. 估算；n. 估算；评价
-overestimate|v.|高估
+feedback|n.|反馈；反应|We'd appreciate it if you gave us some feedback on our new product
+underestimate|v.|低估|Don't underestimate the difficulty of this job|estimate v. 估算；n. 估算；评价
+overestimate|v.|高估|Most customers overestimated the price of the overcoat
 ---
-apply|v.|申请
-fellowship|n.|研究生奖学金
-scholarship|n.|奖学金；学问；学识
-reward|n./v.|报答；赏金；报答||reward sb. for sth. 为某事报答某人。 as a reward for 作为对（某事）的报酬
+apply|v.|申请|My cousin applied to four universities and was accepted by all of them
+fellowship|n.|研究生奖学金|As a student, he was awarded the fellowship at Harvard
+scholarship|n.|奖学金；学问；学识|For a few, scholarships were their main source of support
+reward|n./v.|报答；赏金；报答|Virture is its own reward|reward sb. for sth. 为某事报答某人。 as a reward for 作为对（某事）的报酬
 ---
-award|n.|奖；奖品
-prize|n./v.|奖赏；珍视
-fee|n.|酬金；费用
+award|n.|奖；奖品|The novice writer is especially thrilled with this award
+prize|n./v.|奖赏；珍视|We prize honor above money
+fee|n.|酬金；费用|A higher fee doesn't necessarily mean a better course
 ===
 科技发明
 +++
