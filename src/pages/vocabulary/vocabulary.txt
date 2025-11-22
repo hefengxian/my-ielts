@@ -1295,156 +1295,157 @@ fee|n.|酬金；费用|A higher fee doesn't necessarily mean a better course
 ===
 科技发明
 +++
-technology|n.|技术||technological adj. 技术上的；advanced technology 先进的技术
-technique|n.|技巧；技术||technical adj. 技术的；技能的；工艺的。technician n. 技术员；技师
-polytechnic|adj./n.|有关多种工艺的；理工学院
-engineer|n.|工程师；技师
-mechanic|n.|技工；机械师；机修工
+technology|n.|技术|Life is made so much easier with modern science and technology|technological adj. 技术上的；advanced technology 先进的技术
+technique|n.|技巧；技术|I want to learn the latest technique in toy making|technical adj. 技术的；技能的；工艺的。technician n. 技术员；技师
+polytechnic|adj./n.|有关多种工艺的；理工学院|You trainees will acquire polytechnic training
+engineer|n.|工程师；技师|Each engineer needs to be in touch with the entire engineering department
+mechanic|n.|技工；机械师；机修工|This car has broken down again. I have to ring the mechanic
 ---
-advance|n./v.|发展；前进
-innovate|v.|创新；改革
-breakthrough|n.|突破
+advance|n./v.|发展；前进|We have advanced greatly in our knowledge of the universe
+innovate|v.|创新；改革|We must innovate in order to make progress
+breakthrough|n.|突破|Surgeons have made a great breakthrough in kidney transplantation
 ---
-gizmo|n.|小装置
-patent|n./v.|专利；专利权；得到...的专利权；给...专利证
-devise|v.|设计；发明||device n. 装置；设备
+gizmo|n.|小装置|The modern world is increasingly populated by intelligent gizmos, whose universal existence has removed much human labor
+patent|n./v.|专利；专利权；得到...的专利权；给...专利证|The government patented this device to its inventor
+devise|v.|设计；发明|The team is trying to devise a new system for handling mail order|device n. 装置；设备
 invent|v.|发明，创造|Do you who invented the magnetic needle?|invention n. 发明，创造。inventor n. 发明者，创造者
-discover|v.|发现
+discover|v.|发现|He discovered his talent for fashion design when he was very young
 ---
-disclose|v.|揭露；透露
-reveal|v.|展现；显示；透露
-uncover|v.|揭露；发现
-expose|v.|使暴露；揭发；使曝光
+disclose|v.|揭露；透露|The authority finally disclosed the truth to the press
+reveal|v.|展现；显示；透露|His deed revealed him to be a kind man
+uncover|v.|揭露；发现|The detective must uncover the murder by deduction of facts
+expose|v.|使暴露；揭发；使曝光|The crime of the corrupt officials must be exposed without any reserve
 ---
-domain|n.|（活动、学问等的）领域；领土；领地
-field|n.|领域
-realm|n.|领域
-foundation|n.|基础；地基；基金会
+domain|n.|（活动、学问等的）领域；领土；领地|This is out of my domain
+field|n.|领域|He has become famous in his own field
+realm|n.|领域|Such an idea only belongs in the realm of science fiction
+foundation|n.|基础；地基；基金会|He laid the foundations his success by hard work
 ---
-specialise/specialize|v.|专攻||specialize in 专攻；专门研究；专门经营
-absorb|v.|理解；掌握
-concentrate|v.|（集中）心思；（使）浓缩||concentration n. 专心；浓度。concentrate on 专心于
-focus|v./n.|集中于；焦点
-utilise/utilize|v.|利用||utility n. 效用；有用。utilities n. （水、电、煤气等）公用事业。utilizbation=utilization n. 利用；使用
-usage|n.|使用；用法
-tester|n.|测试员；测试仪
-apply|v.|应用；适用||apply to 适用于。apply A to B 把 A 应用于 B
+specialise/specialize|v.|专攻|Many students specialize in engineering|specialize in 专攻；专门研究；专门经营
+absorb|v.|吸收；理解；掌握|His ability to absorb bits of disconnected information was astonishing
+concentrate|v.|（集中）心思；（使）浓缩|They will concentrate on teaching the basics of reading, writing, and arithmetic|concentration n. 专心；浓度。concentrate on 专心于
+focus|v./n.|集中于；焦点|Today he was able to focus his message exclusively on the economy
+utilise/utilize|v.|利用|In order to utilize land more fully, they adopted close planting|utility n. 效用；有用。utilities n. （水、电、煤气等）公用事业。utilizbation=utilization n. 利用；使用
+usage|n.|使用；用法|The college board said what's on the new test will relate to usage
+tester|n.|测试员；测试仪|The battery tester is in my garage
+apply|v.|应用；适用|We should not only know the theory, but also how to apply it to practice|apply to 适用于。apply A to B 把 A 应用于 B
 ---
-device|n.|装置；设备；手段；策略
-appliance|n.|应用；（家用）器具
-facility|n.|设备；便利
-equipment|n.|设备
+device|n.|装置；设备；手段；策略|These newly designed devices will appear in the exhibition next month
+appliance|n.|应用；（家用）器具|The household appliances were just bought by him for his family
+facility|n.|设备；便利|This facility is open to both new and existing borrowers
+equipment|n.|设备|We should make better use of the existing equipment
 ---
-instrument|n.|仪器；工具；乐器
-tool|n.|工具
-gauge|n./v.|测量仪器；测量；判断
-measure|v./n.|测量；衡量；措施||measurable adj. 可测量的。measurement n. 测量；衡量；尺寸。take measures 采取措施
-calculate|v.|计算；考虑；打算||calculation n. 计算。calculator n. 计算器
-compute|n.|计算；估计
-count|v.|计算||counter n. 柜台；计数器
-estimate|n./v.|估计；估价；评价
-assess|v.|评估；估算
-evaluate|v.|评价；评估
+instrument|n.|仪器；工具；乐器|A plow is an instrument used for farming
+tool|n.|工具|Advertising is a tool that nearly every company is utilizing
+gauge|n./v.|测量仪器；测量；判断|It was difficult to gauge how people would respond
+measure|v./n.|测量；衡量；措施|Measure this impedance, and you can measure how much it has rained|measurable adj. 可测量的。measurement n. 测量；衡量；尺寸。take measures 采取措施
+calculate|v.|计算；考虑；打算|Our price has already been closely calculated. There is no room for reduction|calculation n. 计算。calculator n. 计算器
+compute|n.|计算；估计|I compute my loss at 500 dollars
+count|v.|计算|It is impossible to count the stars in the sky|counter n. 柜台；计数器
+estimate|n./v.|估计；估价；评价|Now I've realized that my estimate of her character was one-sided
+assess|v.|评估；估算|We will assess the damage caused by the flood
+evaluate|v.|评价；评估|The research project has only been underway for three months, so it is too early to evaluate its success
 ---
-accessory|n.|附件；配件
-byproduct|n.|副产品||bypass n. 旁路。bypath n. 旁道；小路。bywork n. 业余活计。byname n. 绰号
-auxiliary|adj.|辅助的；协助的；备用的
-versatile|adj.|多功能的；多用途的
+accessory|n.|附件；配件|Car accessories include the roof rack and radio
+byproduct|n.|副产品|Happiness is not a goal. It is a byproduct|bypass n. 旁路。bypath n. 旁道；小路。bywork n. 业余活计。byname n. 绰号
+auxiliary|adj.|辅助的；协助的；备用的|When there is a power shortage, they count on the auxiliary power supply
+versatile|adj.|多功能的；多用途的|Plastic is a versatile material in industry
 ---
-add|v.|添加；附加
-accumulate|v.|累积；（数额）不断增加
-assemble|v.|集合；聚集
+add|v.|添加；附加|He didn't add milk nor sugar to his coffee
+accumulate|v.|累积；（数额）不断增加|Dust and dirt soon accumulate if you don't clean your house regularly
+assemble|v.|集合；聚集|A large crowd had assembled outside the American Embassy
 ---
-gather|v.|收集；采集
-attach|v.|使依附；附加；缚；系；贴||attachment n. 附件；附属物。attach importance to 重视
-belong|v.|应在（某处）；适合（某种情形）||belong to 属于
+gather|v.|收集；采集|He took the trouble to gather the materials for me
+attach|v.|使依附；附加；缚；系；贴|China will not attach itself to any big power|attachment n. 附件；附属物。attach importance to 重视
+belong|v.|应在（某处）；适合（某种情形）|Russia a major oil exportor, but does not belong to OPEC|belong to 属于
 ---
-optics|n.|光学
-microscope|n.|显微镜||microphone n. 麦克风。microwave n. 微波；微波炉。microbe n. 微生物
-lens|n.|镜头；透镜
+optics|n.|光学|Newton published his first work on optics
+microscope|n.|显微镜|The optical microscope magnifies the object a thousand times|microphone n. 麦克风。microwave n. 微波；微波炉。microbe n. 微生物
+lens|n.|镜头；透镜|When viewing through a lens, we can see the thing clearer, larger or smaller
 ---
-radar|n.|雷达
-echo|n./v.|回声；发回声；模仿；重复
-sensor|n.|传感器
+radar|n.|雷达|Officials want to scan the tomb with radar in the hope of unlocking the mystery 
+echo|n./v.|回声；发回声；模仿；重复|The cathedral is echoing with joynous hymns|hyms n. 赞美诗
+sensor|n.|传感器|Place the sensor on a flat surface and rotate it slowly through 360 degress
 ---
-multimedia|n.|多媒体
-network|n.|网络
-browser|n.|浏览器
-dial|v.|拨（电话号码）
+multimedia|n.|多媒体|As part of the celebrations, they staged a big open-air multimedia event
+network|n.|网络|President Bush's speech was broadcast on national television network
+browser|n.|浏览器|In your web browser's cache are the most recent web files that you have downloaded
+dial|v.|拨（电话号码）|She picked up the phone and began to dial his number
 ---
-microcomputer|n.|微型计算机
-laptop|n.|笔记本电脑
-software|n.|软件
+microcomputer|n.|微型计算机|A newly devised microcomputer can act as a guide for a blind person
+laptop|n.|笔记本电脑|A laptop would be really useful when I'm working on the train
+software|n.|软件|This is a computer software shop
 ---
-keyboard|n.|键盘
-screen|n.|屏幕
-loudspeaker|n.|扬声器；喇叭
+keyboard|n.|键盘|The machine is operated through the keyboard
+screen|n.|屏幕|A list of items is repeatedly flashed on the screen
+loudspeaker|n.|扬声器；喇叭|The loudspeaker announced each airplane as it landed at the airport
 ---
-microphone|n.|麦克风；话筒
-cassette|n.|盒式磁带；底片盒
-tape|n.|磁带；录音带；胶带
+microphone|n.|麦克风；话筒|Unfortunately, I didn't have a microphone at the time to record us.
+cassette|n.|盒式磁带；底片盒|He inserted a cassette into the machine
+tape|n.|磁带；录音带；胶带|A technician loads a video tape into one of the machines
 ---
-binary|adj.|二进制的；二元的
-digital|adj.|数字的
-wireless|adj.|无线的
-high-definition|adj.|高分辨率的
+binary|adj.|二进制的；二元的|The machine does binary calculations
+digital|adj.|数字的|The BCC has just successfully demonstrated a new digital radio transmission system
+wireless|adj.|无线的|We still don't have the wireless network
+high-definition|adj.|高分辨率的|High-definition pictures can show details very clearly
 ---
-audio|adj.|声音的
-vision|n.|视觉；视力
+audio|adj.|声音的|The reproductive quality of audio tapes has improved enormously
+vision|n.|视觉；视力|I've had my eyes tested and the report says my vision is perfect
 fantasy|n.|幻想|He is unable to divorce fantasy from reality|fantastic adj. 奇异的；奇妙的
-science fiction/sci-fi|n.|科幻作品
+science fiction/sci-fi|n.|科幻作品|Science fiction films are very popular with youngsters
 ---
-pump|n./v.|泵；（用泵）抽
-generator|n.|发电机
+pump|n./v.|泵；（用泵）抽|At the farm, there was a old-fashioned pump for drawing water from a well
+generator|n.|发电机|A new type of wind generator may offer an answer to that problem
 gear|n./v.|齿轮；传动装置；使适合|Education should be geared to children's needs|in high gear 以高速档；高速地。gear up 换高速档；促进
 pivot|n.|枢轴；支点；中心；重点|The mother is often the pivot of family life
 ---
-hydraulic|adj.|水力的；液压的
-drainage|n.|排水系统；排水
-sewage|n.|（下水道的）污水
-ventilation|n.|通风设备；通风
+hydraulic|adj.|水力的；液压的|The boat has no fewer than five hydraulic pumps
+drainage|n.|排水系统；排水|The drainage of the city is poor. Some of the pipes are broken
+sewage|n.|（下水道的）污水|Discharge of raw sewage into the sea is unsanitary and unsafe
+ventilation|n.|通风设备；通风|Some people think that ventilation is the same thing as air conditioning
 ---
-compress|v.|压缩；压紧
+compress|v.|压缩；压紧|Raining in inflation can increase income inequality by compressing wages while allowing asset prices to soar
 condense|v.|减缩；精简；（使气体）凝结|A long story may be condensed into a few sentences
-refine|v.|精炼；提纯
-simplify|v.|简化；精简||simplicity n. 简单；质朴。simple adj. 简单的。simply adv. 简单地；仅仅
+refine|v.|精炼；提纯|The purpose of oil refinery is to refine crude petroleum
+simplify|v.|简化；精简|Try to simplify your explanation for the children|simplicity n. 简单；质朴。simple adj. 简单的。simply adv. 简单地；仅仅
 ---
-purify|v.|净化；使纯净
-filter|v./n.|过滤；（光或声音）透过；过滤器||filter through （消息等）慢慢传开；走漏
-distil/distill|v.|蒸馏；提取...的精华
-mode|n.|模式；方式
-mould/mold|v./n.|浇铸；塑造/模子||和霉菌是一个词
-prototype|n.|原型；雏形
+purify|v.|净化；使纯净|They opened the windows to purify the air of the room
+filter|v./n.|过滤；（光或声音）透过；过滤器|Sunlight filtered through the chinks of the shutters|filter through （消息等）慢慢传开；走漏
+distil/distill|v.|蒸馏；提取...的精华|You can distill the water from the lake and make it drinkable
+mode|n.|模式；方式|This fever will return from time to time if it follows its usual mode
+mould/mold|v./n.|浇铸；塑造/模子|It can be molded and shaped at will|和霉菌是一个词 at will 随意，任意
+prototype|n.|原型；雏形|The prototype for future school building was showed in the library
 ---
-framework|n.|框架；体系；结构
-aspect|n.|（问题、事务的）方面
+framework|n.|框架；体系；结构|This bridge over the river has a steel framework
+aspect|n.|（问题、事务的）方面|We must consider a problem in its all aspects
 phase|n.|阶段；时期|The first phase of the project has been completed
 ---
-operate|v.|操作；运营；做手术||operation n. 操作；企业；手术
+operate|v.|操作；运营；做手术|It's too difficult for him to operate this new sophisticated machine|operation n. 操作；企业；手术
 facilitate|v.|使便利；促进|Many modern inventions facilitate housework
-transform|v.|使改变形态；使改观||transformation n. 变化；转变
-convert|v./n.|（使）转变、改变（信仰、观点等）/皈依者||conversion n. 转变；换算。convert defeat into victory 转败为胜
-alter|v.|变更；改变||alternative adj. 可供选择的。an alter ego 知己；个性的另一面
+transform|v.|使改变形态；使改观|She transformed the room by painting it|transformation n. 变化；转变
+convert|v./n.|（使）转变、改变（信仰、观点等）/皈依者|The solar cell can convert the energy of sunlight into electric energy|conversion n. 转变；换算。convert defeat into victory 转败为胜
+alter|v.|变更；改变|If it is not a convenient time, we can alter the date|alternative adj. 可供选择的。an alter ego 知己；个性的另一面
 shift|v./n.|转移；变换/轮班|The wind shifted to the north|the day shift 白班。the night shift 晚班
 ---
-turn|v./n.|转移；转变/（一次轮到的）机会||turning n. 旋转；转弯处
-adapt|v.|适应；改编||adaptation n. 适应。adapt to sth. 适应某事
-adjust|v.|调节；改变（行为或观点）以适应||adjustment n. 调整；适应。 adjust to 适应
+turn|v./n.|转移；转变/（一次轮到的）机会|It was your turn last time. It's always your turn to be the boss|turning n. 旋转；转弯处
+adapt|v.|适应；改编|There will be more than one person who can adapt to your personality|adaptation n. 适应。adapt to sth. 适应某事
+adjust|v.|调节；改变（行为或观点）以适应|He soon adjusted to army life|adjustment n. 调整；适应。 adjust to 适应
 ---
-pinpoint|v./n.|精确指明...位置/针尖；极小的事物
-accurate|adj.|准确的；正确无误的
-precise|adj.|精确的；准确的；一丝不苟的|precisely adv. 正是；恰好地。at that precise moment 恰好在那个时刻
-correct|adj.|正确的||correction n. 改正。incorrect adj. 不正确的；错误的
+pinpoint|v./n.|精确指明...位置/针尖；极小的事物|With this device, we can pinpoint your exact location
+accurate|adj.|准确的；正确无误的|Hearsay definitely can't be regarded as accurate information
+precise|adj.|精确的；准确的；一丝不苟的|A lawyer needs a precise mind|precisely adv. 正是；恰好地。at that precise moment 恰好在那个时刻
+correct|adj.|正确的|The correct answers can be found at the bottom of page eight|correction n. 改正。incorrect adj. 不正确的；错误的
 ---
-error|n.|错误；过失
-mistake|n./v.|错误/误解
-flaw|n.|缺陷；错误
-wrong|adj./adv.|错误的；错误地||go wrong 出现问题；出差错
-fault|n./v.|缺点；故障/找出缺点||faulty adj. 有错误的；有缺陷的。false adj. 不正确的。find fault with 挑错；挑剔；抱怨
+error|n.|错误；过失|The accident was caused by human error
+mistake|n./v.|错误/误解|I may have made a mistake in that regard
+flaw|n.|缺陷；错误|This flaw makes the vase less valuable
+wrong|adj./adv.|错误的；错误地|Instead of complaining about what's wrong, be grateful for what's right|go wrong 出现问题；出差错
+fault|n./v.|缺点；故障/找出缺点|It is hard to fault the way he runs his own operation|faulty adj. 有错误的；有缺陷的。false adj. 不正确的。find fault with 挑错；挑剔；抱怨
 ---
-stumble|v.|犯错误；绊脚；跌跌撞撞的走
-contingency|n.|意外事件；可能发生的事
-circumstance|n.|情况；条件；环境；境遇
+stumble|v.|犯错误；绊脚；跌跌撞撞的走|The sudden weakness in her legs made her stumble
+contingency|n.|意外事件；可能发生的事|We must always be prepared for every contingency
+circumstance|n.|情况；条件；环境；境遇|Circumtances are the ruler of the weak, the instrument of the wise
+
 ===
 文化历史
 +++
