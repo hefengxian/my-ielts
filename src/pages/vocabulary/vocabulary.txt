@@ -1473,7 +1473,7 @@ local|adj./n.|当地的；本地人|He provided local delicacies for his guests.
 exotic|adj.|外来的；异国情调的|The exotic atmosphere will fascinate you
 foreigner|n.|外国人|Some foreigners assimilate easily into our way of life|assimilate v. 加入，融入，同化；学习；吸收
 alien|n./adj.|外侨；外星人；外国的；陌生的|I ran into an old friend in the alien land. 他乡遇故知|run into sb./sth. 偶然遇到、无意碰见（某人）/遇到、陷入（困境）；共计，合计。  alienate v. 使疏远；使不友好；离间。an alien culture 异域文化
-anthropologist|n.|人类学家|The anthropologist contrasted two culture in his lecture. 这位人类学家在讲座中将两种文化进行对比|contrast v./n. 对比，对照/差异，对照物，（屏幕、显示器）对比度。anthropology n. 人类学
+anthropologist|n.|人类学家|The anthropologist contrasted two cultures in his lecture. 这位人类学家在讲座中将两种文化进行对比|contrast v./n. 对比，对照/差异，对照物，（屏幕、显示器）对比度。anthropology n. 人类学
 humanitarian|n./adj.|人道主义者；人道主义的；博爱的|Hepburn is known as a great humanitarian
 ---
 heritage|n.|（国家的）遗产|They take great pride in their cultural heritage
@@ -1497,11 +1497,11 @@ soul|n.|灵魂；心灵；精神|No words can express the secret agony of my sou
 spirit|n.|精神；心灵|We need a spirit of enterprise if we are to overcome our difficulties. 如果要克服困难，我们就要有进取心|enterprise n. 公司，组织，企业，计划，事业；事业心，进取心，创业精神，冒险精神。spiritual adj. 精神上的
 ---
 sacred|adj.|神圣的；宗教的|This area was hollowed by sacred memories
-hallowed|adj.|神圣的；收尊崇的|The Ganges is hallowed as a sacret cleansing river
+hallowed|adj.|神圣的；收尊崇的|The Ganges is hallowed as a sacred cleansing river
 holy|adj.|神圣的；圣洁的；虔诚的|A holy person is spiritually pure
 ---
 Pope|n.|教皇|The election of a new pope is coming
-bishop|n.|主教|I've heard a whisper that the Bishop intends to leave. 我听到谣传说主教打算离开
+bishop|n.|主教|I've heard a whisper that the bishop intends to leave. 我听到谣传说主教打算离开
 missionary|n.|传教士|The missionary was sent to India last year
 priest|n.|牧师；神父；教士|The priest persuaded him to give up his bad habit
 ---
@@ -1552,28 +1552,28 @@ adversity|n.|逆境|Hardship disposes man to meet adversity. 困苦使人们愿�
 ===
 语言演化
 +++
-language|n.|语言
-symbol|n.|象征；符号；记号||symbolise=symbolize v. 象征
-sign|n./v.|符号；征兆；迹象；手势；签（名）
-gesture|n.|手势；姿势
-handwriting|n.|笔记；书写
+language|n.|语言|His misunderstanding of language was the primary cause of his other problems
+symbol|n.|象征；符号；记号|To them the monarchy is the special symbol of nationhood|symbolise=symbolize v. 象征
+sign|n./v.|符号；征兆；迹象；手势；签（名）|He made a sign for me to follow him
+gesture|n.|手势；姿势|He put his arm around her in a protective gesture
+handwriting|n.|笔记；书写|The address was in Anna's handwriting
 ---
-pictograph|n.|象形文字
-wedge|n.|楔子；楔形物；楔形文字
-knot|n.|（绳、线的）结；（树枝上的）节子
+pictograph|n.|象形文字|Generally speaking, the pictograph is the first text
+wedge|n.|楔子；楔形物；楔形文字|Put a wedge under the door so that it will stay open
+knot|n.|（绳、线的）结；（树枝上的）节子|He made a knot in the rope
 ---
-linguistics|n.|语言学
+linguistics|n.|语言学|He is engaged in the studies of linguistics
 semantic|adj.|语义的|There are two kinds of puns, phonetic pun and semantic pun. 双关语分为谐音双关语和语义双关语
-syntax|n.|句法
-grammar|n.|语法；语法书
+syntax|n.|句法|Let's investigate the syntax of Chinese
+grammar|n.|语法；语法书|He was known for his poor grammar and punctuation
 ---
-phonetics|n.|语音学||phonetic adj. 语音的
-pronounce|v.|发...的音；宣布||pronunciation n. 发音 pronounced adj. 显著的；表达明确的
+phonetics|n.|语音学|Daniel Jones is generally referred to be the foremost authority on phonetics|phonetic adj. 语音的
+pronounce|v.|发...的音；宣布|Did I pronounce your name correctly?|pronunciation n. 发音 pronounced adj. 显著的；表达明确的
 intonation|n.|语调|Some question are spoken with a rising intonation
-inflection|n.|语调的抑扬变化|She spoken in a low voice, always without inflection
+inflection|n.|语调的抑扬变化|She spoken in a low voice, always without inflection|inflection point 转折点
 ---
-dialect|n.|方言；地方话
-accent|n.|重音；口音；读音符号
+dialect|n.|方言；地方话|The dialect is spoken principally in the southern areas
+accent|n.|重音；口音；读音符号|He speaks with a strong southern accent
 utterance|n.|说话；言论|His every utterance will be scrutinized 他说的每句话都会被仔细审查|scrutinize=scrutinise v. 仔细查看、审查。scrutiny n. 仔细观察、审查
 oral|adj.|口头的|Students of English should have a lot of oral drills|drill n. 钻头，（尤指军事）练习 a spelling/pronunciation drill 拼写／发音练习
 verbal|adj.|口头的；言语的|Don't be afraid of verbal abuse or criticism.|nonverbal adj. 不用语言的
@@ -1581,61 +1581,61 @@ verbal|adj.|口头的；言语的|Don't be afraid of verbal abuse or criticism.|
 syllable|n.|音节|The stress is on the last syllable.
 phoneme|n.|音位|In actual speech, a phoneme is realized phonetically as a certain phone
 vowel|n.|元音|Each language has a different vowel system
-consonant|n.|辅音|These are common consonant clusters at the beginning of words
+consonant|n.|辅音|These are common consonant clusters at the beginning of words/像crack中的cr就是consonant cluster
 ---
-alphabet|n.|字母表；（一种语言的）全部字母
+alphabet|n.|字母表；（一种语言的）全部字母|Q comes between P and R in the English alphabet
 logogram|n.|语标，缩记符（如& 、@等） ;非字母语言的字符|ACP is the logogram of English of the African, Caribbean and Pacific states
-vocabulary|n.|词汇
-dictionary|n.|词典；字典
+vocabulary|n.|词汇|His vocabulary was sound and his grammer was excellent
+dictionary|n.|词典；字典|The dictionary is a vast treasure trove of information|treasure trove 宝库
 ---
-idiom|n.|习语
-phrase|n.|短语；习语
-clause|n.|从句；分句；条款
-expression|n.|词语；表达；表情
-tense|n./adj.|时态；紧张的
+idiom|n.|习语|Never too old to learn is an idiom
+phrase|n.|短语；习语|The phrase was not meant to be taken seriously
+clause|n.|从句；分句；条款|A confidentiality clause was added to the contract
+expression|n.|词语；表达；表情|Her expression of gratitude was simple and touching
+tense|n./adj.|时态；紧张的|Dut, who had at first been very tense, at last relaxed
 ---
-root|n.|根；词根
-prefix|n.|前置代号；词首；前缀
-suffix|n.|后缀
+root|n.|根；词根|The word "intoxicated" comes from the same root as the word "detoxify"
+prefix|n.|前置代号；词首；前缀|To make calls from Canada, use the prefix 01133 before the numbers given here
+suffix|n.|后缀|These ships were all numbered with the same suffix
 ---
-abbreviation|n.|缩写形式
-synonym|n.|同义词
-antonym|n.|反义词
+abbreviation|n.|缩写形式|BBC is an abbreviation for British Broadcasting Corporation
+synonym|n.|同义词|Don't mix up this pair of synonyms
+antonym|n.|反义词|Happy is an antonym of sad
 ---
-noun|n.|名词
-singular|n./adj.|单数；非凡的；单数的
-plural|n./adj.|复数；复数的；多元的
+noun|n.|名词|The word "person" is a countable noun
+singular|n./adj.|单数；非凡的；单数的|The young man has a singular ear for music
+plural|n./adj.|复数；复数的；多元的|A plural marriage is forbidden by many countries
 ---
-pronoun|n.|代词
-verb|n.|动词
-adjective|n.|形容词
+pronoun|n.|代词|He always put stress on the pronoun
+verb|n.|动词|A sentence usually contains a subject and a verb
+adjective|n.|形容词|The function of an adjective is to describe or add to the meaning of a noun
 ---
-adverb|n.|副词
-preposition|n.|介词
-conjunction|n.|连词
+adverb|n.|副词|Adverb is to describe a verb or an action
+preposition|n.|介词|You should cross out this preposition in the sentence
+conjunction|n.|连词|The word is a temporal conjunction
 ---
-consistent|adj.|一致的；（观点或看法）连贯的||inconsistent adj. 不一致的。consist v. 由...组成。be consistent with 与...一致
-complicated|adj.|复杂的||complicate v. 使复杂化
-complex|adj.|复杂的
+consistent|adj.|一致的；（观点或看法）连贯的|The policies, which will be put into place, are clear and consistent|inconsistent adj. 不一致的。consist v. 由...组成。be consistent with 与...一致
+complicated|adj.|复杂的|The business is a large, complicated organism|complicate v. 使复杂化
+complex|adj.|复杂的|As tools have become more and more complex, we need more complex controls to control them
 ---
-compile|v.|编撰
-version|n.|版本
-translate|v.|翻译；（使）转变
-paraphrase|v./n.|意译；改述
+compile|v.|编撰|It takes years of hard work to compile a good dictionary
+version|n.|版本|These books are Chinese versions of Shakespeare
+translate|v.|翻译；（使）转变|No matter how well a poem is translated, something of the spirit of the original work is lost
+paraphrase|v./n.|意译；改述|The teacher asked his students to paraphrase the long sentence
 ---
-interpret|v.|口译；解释；说明；领会；理解||interpretation n. 口译；解释。interpreter n. 口译员
-narrate|v.|讲（故事）；叙述
+interpret|v.|口译；解释；说明；领会；理解|He interpreted the silence as contempt|interpretation n. 口译；解释。interpreter n. 口译员
+narrate|v.|讲（故事）；叙述|The sailer narrated his life story to me in the tavern|tavern n. 酒馆
 ---
-illuminate|v.|阐释；说明；照亮
-decipher|v.|译解；辨认
+illuminate|v.|阐释；说明；照亮|We use pictures and drawings to illuminate our subject
+decipher|v.|译解；辨认|We can decipher the code intercepted by the broadcasting station
 eloquence|n.|雄辩；流利的口才|The audience are struck by her simple, spellbinding eloquence|be struck by 被...所触动、打动。spellbinding adj. 引人入胜的。eloquent adj. 雄辩的；有口才的
 ---
-communicate|v.|沟通；交流；传达
-discussion|n.|讨论；谈论
-brainstorm|n./v.|集体自由讨论；头脑风暴；集思广益；进行头脑风暴
+communicate|v.|沟通；交流；传达|We communicate mostly by e-mail
+discussion|n.|讨论；谈论|After a lot of discussion among the directors, the matter was settled in the end
+brainstorm|n./v.|集体自由讨论；头脑风暴；集思广益；进行头脑风暴|Managers get together and brainstorm a more permanent solution to the problem
 ---
-debate|v./n.|辩论；争论；讨论||debatable adj. 有争议的。debate about/on/upon sth. 就某事进行讨论。have a debate with sb. 与某人进行辩论
-commentary|n.|评论；批评；实况报道
+debate|v./n.|辩论；争论；讨论|The government is debating about the education laws|debatable adj. 有争议的。debate about/on/upon sth. 就某事进行讨论。have a debate with sb. 与某人进行辩论
+commentary|n.|评论；批评；实况报道|The conclusion of the commentary really hit the bull's eye|hit the bull's eye 一语中的；击中要害
 negotiate|v.|协商；谈判|We are not about to negotiate with terrorists.|negotiation n. 协商；谈判。negotiate about 就...进行协商
 contention|n.|争论；争辩；观点|My contention is that the scheme will never work|content n. 内容
 ===
