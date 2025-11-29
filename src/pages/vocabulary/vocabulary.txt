@@ -1641,105 +1641,105 @@ contention|n.|争论；争辩；观点|My contention is that the scheme will nev
 ===
 娱乐运动
 +++
-medium|n./adj.|媒介；中间的；中等的
-press|n.|新闻界；记者；报刊；出版社
-journalist|n.|记者；新闻工作者
+medium|n./adj.|媒介；中间的；中等的|The president's speech was broadcast through the medium of television
+press|n.|新闻界；记者；报刊；出版社|The power of the press is very great
+journalist|n.|记者；新闻工作者|No journalist was bold enough to challenge the prime minister
 ---
-critic|n.|批评家；挑剔的人||critical adj. 批评的；挑剔的。criticism n. 批评；职责。criticise=criticize v. 批评。a movie critic 影评人
-commentator|n.|评论员；实况解说员
-exponent|n.|阐述者；倡导者；拥护者
+critic|n.|批评家；挑剔的人|The critic said the new movie would not do well at the box office|critical adj. 批评的；挑剔的。criticism n. 批评；职责。criticise=criticize v. 批评。a movie critic 影评人 box office 票房，售票处
+commentator|n.|评论员；实况解说员|I enjoy the sport's commentator's commentaries very much
+exponent|n.|阐述者；倡导者；拥护者|He is an exponent of the opinions of Einstein
 ---
-announcer|n.|广播员；播音员
-correspondent|n.|通信者；通讯员；记者
-messenger|n.|邮递员；信使
-editor|n.|编辑；校订者
-typist|n.|打字员
+announcer|n.|广播员；播音员|The announcer started with the day's top stories
+correspondent|n.|通信者；通讯员；记者|That war correspondent proudly outgunned the army sharp shooters
+messenger|n.|邮递员；信使|The messenger brought you a note today
+editor|n.|编辑；校订者|She gave the editor a dishonest account of this event
+typist|n.|打字员|The two typists have already worked all day
 ---
-handout|n.|传单；讲义
-leaflet|n./v.|传单；散发传单
-propaganda|n.|宣传；鼓吹
+handout|n.|传单；讲义|Please read the handout carefully
+leaflet|n./v.|传单；散发传单|We were paid to leaflet advertisements in the shopping mall
+propaganda|n.|宣传；鼓吹|This report clearly contains elements of propaganda
 ---
-publish|v.|公布；出版；发行
-disseminate|v.|散布；传播
-foresee|v.|预见；预知
+publish|v.|公布；出版；发行|News of the pop star's sudden death was not published for several days
+disseminate|v.|散布；传播|The agency would collect and disseminate information
+foresee|v.|预见；预知|They can not foresee how things will turn out
 ---
-anticipate|v.|预期；预料||participate v. 参与
-expect|v.|预料；期待||expectation n. 期待；期望
-await|v.|等候；期待；将降临到...身上
+anticipate|v.|预期；预料|Sales are better than they have anticipated|participate v. 参与
+expect|v.|预料；期待|The managers expect exceptional sales growth in the last quarter|expectation n. 期待；期望
+await|v.|等候；期待；将降临到...身上|If you are lucky enough to vacation in the Alps, what delights will await you!
 ---
-pastime|n.|娱乐；消遣
-entertain|v.|娱乐；招待；心存；怀有||entertainment n. 娱乐；消遣；款待
-recreation|n.|休闲；娱乐||a recreation ground 公共娱乐场
+pastime|n.|娱乐；消遣|Listening to music is the favorite pastime of many people all over the world
+entertain|v.|娱乐；招待；心存；怀有|This television program is designed to educate and to entertain as well|entertainment n. 娱乐；消遣；款待
+recreation|n.|休闲；娱乐|She is in charge of recreation|a recreation ground 公共娱乐场
 ---
-amuse|v.|逗乐；给...提供娱乐||amuse oneself 自娱自乐
-gossip|n.|闲聊；流言蜚语
-rumour/rumor|n.|谣言；传闻
-consensus|n.|共识；一致的意见
+amuse|v.|逗乐；给...提供娱乐|Harry makes up funny stories to amuse his little brother|amuse oneself 自娱自乐
+gossip|n.|闲聊；流言蜚语|I've read about it in the gossip column
+rumour/rumor|n.|谣言；传闻|The rumor soon swept the entire company
+consensus|n.|共识；一致的意见|Could we reach a consensus on this issue? Let's take a vote
 ---
-festival|n.|节日
-feast|n.|盛宴；（宗教）节日
-programme/program|n./v.|节目；方案；程序；为系统设置程序；计划||programmer n. 程序设计员
-rehearsal|n.|排练
+festival|n.|节日|This music festival will feature fireworks, live music, and barbecue
+feast|n.|盛宴；（宗教）节日|The feast was served by his mother and sisters
+programme/program|n./v.|节目；方案；程序；为系统设置程序；计划|There was an interesting program on TV yesterday|programmer n. 程序设计员
+rehearsal|n.|排练|The play is in rehearsal now
 ---
-perform|v.|表演；演出
-imitate|v.|模仿；效仿
-mimic|v.|模仿；戏仿
-simulate|v.|模拟；假装；冒充||simulative adj. 模拟的；假装的
+perform|v.|表演；演出|A jazz band will perform live at tommorrow's party
+imitate|v.|模仿；效仿|He imitates other people to perfection
+mimic|v.|模仿；戏仿|He mimicked the teacher's accent
+simulate|v.|模拟；假装；冒充|We can use computers to simulate many situations|simulative adj. 模拟的；假装的
 ---
-circus|n.|马戏团；圆形广场（常用于地名）||a circus clown 马戏团小丑
-magic|n.|魔术；魔法
-drama|n.|戏；剧；戏剧艺术
+circus|n.|马戏团；圆形广场（常用于地名）|Last Christmas, the circus owner decided to take some presents to a children's hostipal|a circus clown 马戏团小丑
+magic|n.|魔术；魔法|The magician thrilled his audience with his magic
+drama|n.|戏；剧；戏剧艺术|My brother was studying a course in drama at university
 ---
-concert|n.|音乐会||musicale n. 社交音乐会。concertmaster n. 首席小提琴手。concertgoer n. 常去听音乐会者。concerto n. 协奏曲。conductor n. （乐队、合唱团）指挥。melody n. 旋律。rhythm n. 节奏。lyrics n. 歌词。score n. 总谱。in concert with 与...合作
-symphony|n.|交响乐
-orchestra|n.|管弦乐队
-ballet|n.|芭蕾舞；芭蕾舞剧
-opera|n.|歌剧
+concert|n.|音乐会|Various performers will present a concert to raise money for AIDS charities|musicale n. 社交音乐会。concertmaster n. 首席小提琴手。concertgoer n. 常去听音乐会者。concerto n. 协奏曲。conductor n. （乐队、合唱团）指挥。melody n. 旋律。rhythm n. 节奏。lyrics n. 歌词。score n. 总谱。in concert with 与...合作
+symphony|n.|交响乐|The Royal Stockholm Philharmonic Orchestra played Beethoven's Ninth Symphony
+orchestra|n.|管弦乐队|This orchestra has been established under the patronage of the government
+ballet|n.|芭蕾舞；芭蕾舞剧|I wanted to be a ballet dancer when I was a child
+opera|n.|歌剧|She joined the Royal Opera House the following year
 ---
-comedy|n.|喜剧
-tragedy|n.|悲剧；悲惨的事
-animation|n.|动画片；动画制作
+comedy|n.|喜剧|Dwayne Johnson talked about his experiences of starring in comedies
+tragedy|n.|悲剧；悲惨的事|She was too exhausted and distressed to talk about the tragedy
+animation|n.|动画片；动画制作|It is this cartoon that brought the animation industry back from the dead
 ---
-film|n.|影片；胶卷
-movie|n.|电影
-X-rated|adj.|X级的；青少年不宜的
+film|n.|影片；胶卷|A good film will be on this weekend
+movie|n.|电影|This movie was hyped up in the media before it was screened|hype up 大肆宣传
+X-rated|adj.|X级的；青少年不宜的|When Logan was showed in cinema, it was X-rated
 ---
-artist|n.|艺术家
-craftsman|n.|工匠；工艺师
-painter|n.|画家；油漆匠
+artist|n.|艺术家|He was not the kind of artist who could work collaboratively
+craftsman|n.|工匠；工艺师|The original designes were made by highly skilled craftsmen
+painter|n.|画家；油漆匠|This painter is not first class
 ---
-role|n.|角色
-scene|n.|景色；现场；（戏剧的）场面
-stage|n.|舞台；阶段||the stage 戏剧演出
+role|n.|角色|I played the role of the mean aunt in the play
+scene|n.|景色；现场；（戏剧的）场面|The scene is perfect when you see the sun rising slowly in the east
+stage|n.|舞台；阶段|Each stage of the battle was carried off flawlessly|the stage 戏剧演出
 ---
-gallery|n.|美术馆
-exhibition|n.|展览
-aesthetic/esthetic|adj./n.|审美的；审美观
+gallery|n.|美术馆|The pictures in the gallery were well spaced out|space out 使间隔开
+exhibition|n.|展览|They are coming to the exhibition as my guests
+aesthetic/esthetic|adj./n.|审美的；审美观|His aesthetic standards are quite different from mine
 ---
-collect|v.|收集；收藏
-select|v./adj.|选择；挑选；精选的
-opt|v.|选择||option n. 选择；选择权。 opt for sth. 选择某事物
+collect|v.|收集；收藏|He used to collect stamps, but now he likes to collect coins
+select|v./adj.|选择；挑选；精选的|They were selected from many applicants
+opt|v.|选择|My aunt opted for early retirement|option n. 选择；选择权。 opt for sth. 选择某事物
 ---
-photograph|n.|照片；相片
-portrait|n.|肖像；半身画像
-painting|n.|油画；会话；画作；涂漆
-sculpture|n.|雕塑
+photograph|n.|照片；相片|His photograph showed how the plant turned out
+portrait|n.|肖像；半身画像|Her portrait hangs in the lobby of the library
+painting|n.|油画；会话；画作；涂漆|This painting is invaluable
+sculpture|n.|雕塑|The smooth contour of the sculpture is wonderful
 ---
-draw|v.|画；拉；拔出
-sketch|n./v.|素描；草图；速写；画素描；画速写
-depict|v.|描述；描写；描绘
-describe|v.|描述；形容
+draw|v.|画；拉；拔出|Draw a line with the ruler
+sketch|n./v.|素描；草图；速写；画素描；画速写|I sketched the cat sleeping in the yard
+depict|v.|描述；描写；描绘|In this new biography, she is depicted as a lonely and unhappy woman
+describe|v.|描述；形容|Words can not describe the beauty of the scene
 ---
-carve|v.|雕刻；切下
-improvise|v.|临时做；即兴创作||improvisation n. 即兴创作
-musical|adj.|音乐的；悦耳的
-classical|adj.|古典的；传统的
+carve|v.|雕刻；切下|The statue was carved out of mable
+improvise|v.|临时做；即兴创作|If an actor forgets his lines on the stage, he has to improvise|improvisation n. 即兴创作
+musical|adj.|音乐的；悦耳的|The drum is one of the oldest musical instruments
+classical|adj.|古典的；传统的|Beethoven is regarded as one of the immortals of classical music
 ---
-jazz|n.|爵士乐
-rock|n.|摇滚乐；岩石
-hip-hop|n.|嘻哈文化
-pop|n.|流行音乐；流行乐曲
-lyric|n./adj.|抒情诗；抒情的
+jazz|n.|爵士乐|He is well versed in many styles of jazz| be well versed in 精通，熟悉
+rock|n.|摇滚乐；岩石|Glam rock developed in the early 1970s and David Bowie was one of the most influential glam rock artists
+hip-hop|n.|嘻哈文化|Hip-hop singers like to wear bling bling in their music videos to look fancy
+pop|n.|流行音乐；流行乐曲|The radio has fed him a stream of pop songs
+lyric|n./adj.|抒情诗；抒情的|I don't understand the lyrics, which are in French, but the song sounds peaceful
 ---
 band|n.|乐队；带；波段
 solo|n./adj.|独奏；独唱；独奏的；独唱的
