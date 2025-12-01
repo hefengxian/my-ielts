@@ -384,1067 +384,1068 @@ rot|v./n.|使腐烂；使腐坏；腐烂|Rot in the tree trunk caused the tree t
 decay|v.|腐烂|The vegetables have begun to decay
 stale|adj.|不新鲜的；没有新意的；陈腐的|He always bought two loaves of stale bread
 ---
-rainforest|n.|雨林
-jungle|n.|丛林
-plantation|n.|种植园
-field|n.|原野；场地；野外
-terrace|n.|梯田
+rainforest|n.|雨林|The rainforest is being systematically destroyed
+jungle|n.|丛林|Tigets are found in the jungle of Asia
+plantation|n.|种植园|They work on plantations
+field|n.|原野；场地；野外|The student of the geological class will be out on field exploration for the duration of the school year
+terrace|n.|梯田|The terrace channels are convenient for irrigation
 ---
-timber|n.|木材；木料；林木
-charcoal|n.|木炭
-log|n.|原木；日志
-logo|n.|标识；徽标
-forestry|n.|林学；林业
+timber|n.|木材；木料；林木|The farmer spent a day in the woods, hewing timber|hew v. 砍；劈
+charcoal|n.|木炭|Preare a fire in a charcoal grill|grill n. 烧烤架；v. 烧，烤
+log|n.|原木；日志|A log got in his way as he drove
+logo|n.|标识；徽标|The letterhead was impressed with the company logo
+forestry|n.|林学；林业|Mountainous areas covered with forests are the very place for foresty development
 ---
-branch|n.|树枝；分支机构；分店
-trunk|n.|树干；躯干；大箱子
-bough|n.|大树枝|The window of his car was broken by a bough during last night's storm
-root|n./v.|根；使生根||root cause 根本原因
+branch|n.|树枝；分支机构；分店|The company's head office in is the city, but it has branches all over the country
+trunk|n.|树干；躯干；大箱子|Can she move that trunk by herself?
+bough|n.|大树枝|The window of her car was broken by a bough during last night's storm
+root|n./v.|根；使生根|The dog is snuffling about the root of a tree|root cause 根本原因
 ---
-hay|n.|干草|Make hay with sun shines|hit the hay 上床睡觉
+hay|n.|干草|Make hay while sun shines 趁晴晒草，趁热打铁|hit the hay 上床睡觉
 straw|n.|稻草；麦秆；吸管|This hat is made of straw
-reed|n.|芦苇|The roof is made of dried reed
+reed|n.|芦苇|The roof is made of dried reeds
 thorn|n.|刺；荆棘|She got her finger pricked by a thorn|thorny adj. 多刺的；棘手的；a thorn in my side/flesh 眼中钉、肉中刺
-weed|n.|杂草
+weed|n.|杂草|The garden is choked with weeds
 ---
-grass|n.|草；草地
-meadow|n.|草地；牧草
-lawn|n.|草地；草坪|My mother asked me to mow the lawn
+grass|n.|草；草地|The grass was wet with dew
+meadow|n.|草地；牧草|The children ran free across the meadow
+lawn|n.|草地；草坪|My mother asked me to mow the lawn|mow v. 割草
 ---
 olive|n.|橄榄；橄榄树|The olive branch is the emblem of peace. 橄榄枝是和平的象征
-pine|n.|松树；松木
-vine|n.|葡萄藤
+pine|n.|松树；松木|It's a place noted for its pine trees and springs
+vine|n.|葡萄藤|The grapes withered on the vine
 ---
-violet|n.|紫罗兰
-tulip|n.|郁金香
+violet|n.|紫罗兰|The violet is dainty spring flower|dainty adj. 精致的；美味的
+tulip|n.|郁金香|She trimmed the stalks of the tulips before putting them in a vase
 mint|n./v.|薄荷；铸币厂/铸造（硬币）|We sat in the back row, sucking mints 我们坐在后排，嘴里咂着薄荷糖
 ---
-reef|n.|暗礁|The ship was wrecked on a reef. 这船触礁失事了
+reef|n.|暗礁|The ship was wrecked on a reef. 这船触礁失事了|wreck v. 失事；毁坏
 alga|n.|海藻|Some of the algae are edible|algal adj. 海藻的。algae 复数形式
-enzyme|n.|酶
+enzyme|n.|酶|One enzyme can activate a thousand of these chemical reactions in a hour
 catalyst|n.|催化剂；促进因素|A catalyst is a substance which speeds up a chemical reaction|a catalyst for changing 改变...的催化剂
 ---
-release|v./n.|释放；发布
-emission|n.|排放；散发；排放物|This conference aims to reduce carbon emissions or greenhouse gas emissions around this world
-absorb|v.|吸收；吸引全部注意力
+release|v./n.|释放；发布|I released the horse and it ran away
+emission|n.|排放；散发；排放物|This conference aims to reduce carbon emissions or greenhouse gas emissions around the world
+absorb|v.|吸收；吸引全部注意力|Dry sand absorbs water
 circulation|n.|流通；循环；流传|Sea surface temperature and atmospheric circulation are strongly coupled
 ---
 exceed|v.|超出|The driver exceeds the speed limit|exceed expectation 意料之外
 uptake|n.|摄取；领会|The doctor advised me to reduce the salt uptake
 nutrient|n.|营养物质|The nutrient in the soil acts as a stimulus to growth in plants|nutrition n. 营养
-energy|n.|能源；精力
+energy|n.|能源；精力|The majority of the energy we consume comes from fossil fuel energy sources
 ---
-surroundings|n.|环境可与environment互换
+surroundings|n.|环境可与environment互换|The adaptability of the youth to new surroundings is one of they good qualities
 mechanism|n.|机制；构造|Bones and muscles are parts of the mechanism of the body骨骼和肌肉是身体构造的一部分
-counterbalance|n./v.|其平衡作用的事物；抵消；对...起平衡作用
+counterbalance|n./v.|其平衡作用的事物；抵消；对...起平衡作用|Their strength in defense couterbalances our strength in attack
 ---
-protect|v.|保护
-preserve|v.|保护；维持；保存
+protect|v.|保护|We have to do what it takes to protect our parks and protect our planet for generations to come
+preserve|v.|保护；维持；保存|It is the duty of the police to preserve public order
 conservation|n.|（对自然环境的）保护；保存|Some accommodation between conservation and tourism is essential. 对自然环境的保护和旅游业之前的相互协调是至关重要的 —— accommodation 除了有住宿还有和解协调的意思|conversation n. 交谈
 ---
-bush fire|n.|林区大火
+bush fire|n.|林区大火|The friendly fallow deer were trapped by a bush fire
 extinguish|v.|扑灭（火）；使（想法；感情等）破灭|They tried every means to extinguish the fire
-destruct|v.|（使）自毁
-ruin|v./n.|毁坏；摧毁；毁灭；废墟
+destruct|v.|（使）自毁|The tape would self-destruct in 20 minutes
+ruin|v./n.|毁坏；摧毁；毁灭；废墟|The stome ruinned the crops
 perish|v.|毁灭；消亡；腐烂|Flowers perish when frost comes
 ---
 demolish|v.|毁坏；拆除；推翻|The fire demolished the town
 infringe|v.|侵犯；违反|The press infringed a copyright agreement
-undermine|v.|破坏；逐渐削弱
-extinction|n.|灭绝||extinct adj. 已灭绝的
+undermine|v.|破坏；逐渐削弱|The constant criticism was beginning to undermine her confidence
+extinction|n.|灭绝||extinct adj. 已灭绝的|By 2050, a quarter of the earth's species could be threatend with extinction
 ---
-pattern|n.|模式；样式；底样
+pattern|n.|模式；样式；底样|Training and education follow different patterns in different regions
 outcome|n.|结果|We are anxiously awaiting the outcome of their discussion
-impact|n.|影响
+impact|n.|影响|We are a flash in time, but our impact is forever
 ---
-seasonal|adj.|季节性的
-experimental|adj.|实验性的
-favourable/favorable|adj.|有利的；赞成的；肯定的
+seasonal|adj.|季节性的|The greatest seasonal change on our planet is now underway
+experimental|adj.|实验性的|There is no cure or vaccine, but some patients have been given experimental treatments
+favourable/favorable|adj.|有利的；赞成的；肯定的|It's encouraging to receive a favorable report on one study
 ---
-productive|adj.|多产的
-effective|adj.|有效的
-efficient|adj.|效率高的
+productive|adj.|多产的|Once the plants have produced fruit, they become less productive
+effective|adj.|有效的|These are effective measures
+efficient|adj.|效率高的|These new coffee machine is more efficient than the old one
 ---
-considerable|adj.|相当多的
-massive|adj.|巨大的；大规模的；庞大的
-immense|adj.|巨大的；极好的|
+considerable|adj.|相当多的|It is a considerable sum of money
+massive|adj.|巨大的；大规模的；庞大的|There are massive mineral resources in the west part of China
+immense|adj.|巨大的；极好的|They plunged into their work with immense zeal|plunge v. 投入；跳入 zeal n. 热情
 ---
-maximal|adj.|最大的
-minimal|adj.|最小的
-optimal/optimum|adj.| 最佳的；最理想的
+maximal|adj.|最大的|She obtained maximal benefit from the course
+minimal|adj.|最小的|I stayed with friends so my expenses were minimal
+optimal/optimum|adj.| 最佳的；最理想的|This is the optimal season for the growth of plants
 ===
 动物保护
 +++
-biologist|n.|生物学家
-zoologist|n.|动物学家
-ecologist|n.|生态学家
-botanist|n.|植物学家
+biologist|n.|生物学家|The biologist brought out a specimen box and showed the items one by one
+zoologist|n.|动物学家|The zoologist had spent a long time living with monkeys
+ecologist|n.|生态学家|A contemporary ecologist once said man lives on the earth as a guest of green plants
+botanist|n.|植物学家|The botanist discovered many rare plants
 ---
-mammal|n.|哺乳动物
-primate|n.|灵长动物
-vertebrate|n.|脊椎动物
-reptile|n.|爬行动物
+mammal|n.|哺乳动物|Human beings also belonged to the mammal species
+primate|n.|灵长动物|Compared to body size, the primate's brain is larger than that of other animals
+vertebrate|n.|脊椎动物|Fish, birds, and human beings are all vertebrates
+reptile|n.|爬行动物|It is said that he hates reptiles
 ---
-amphibian|n./adj.|两栖动物/两栖的
-carnivore|n.|肉食动物
-herbivore|n.|食草动物
+amphibian|n./adj.|两栖动物/两栖的|Nobody knows why amphibians are disappearing. Dolphins are dying and coral is turning white
+carnivore|n.|肉食动物|Lions and tigers are carnivores
+herbivore|n.|食草动物|Pandas are classified as carnivores, but they mainly have a diet of an herbivore
 ---
-creature|n.|生物；动物
-wildlife|n.|野生动我
+creature|n.|生物；动物|The crocodile is a strange looking creature
+wildlife|n.|野生动物|Environmental pollution endangers wildlife
 fauna|n.|（尤指某一地区的）动物群|The park is also home to grizzly bears, and other Rocky Mountain faunas
-flora|n.|（尤指某一地区的）植物群
-species|n.|物种
+flora|n.|（尤指某一地区的）植物群|There they compiled precious documents on the manners, government, flora and fauna of the country
+species|n.|物种|Some species of animals have become extinct, because they could not adapt to a changing environment
 ---
 flock|n./v.|（羊或鸟）群/聚集|Sheep usually flock together
 herd|n.|兽群；畜群|The herdsman looks after a herd of animals
-swarm|n.|（蜜蜂昆虫的）一大群；（快速移动的）人群
-throng|n./v.|人群/群集
-crowd|n.|人群；观众；一群人
+swarm|n.|（蜜蜂昆虫的）一大群；（快速移动的）人群|I saw a swarm of bees attacking the poor monkey
+throng|n./v.|人群/群集|He was met a throng of journalists and photographers
+crowd|n.|人群；观众；一群人|The crowd was very well behaved
 ---
-beast|n.|野兽；凶残的人；畜生
-brute|n.|粗野的人；残忍的人|We all want punish the brute
-cruel|adj.|残忍的；残暴的
+beast|n.|野兽；凶残的人；畜生|The hunters blocked up the den of the beast
+brute|n.|粗野的人；残忍的人|We all want to punish the brute
+cruel|adj.|残忍的；残暴的|The death of their daughter was a cruel blow|creul blow 沉重打击
 ---
-originate|v.|发源；来自；创始
+originate|v.|发源；来自；创始|The use of the computer has originated many other societal reforms
 derive|v.|得到；（使）源自|I derived a lot of pleasure from meeting new people at college|derive from/be derived from 源自；来自
 stem|v./n.|起源于；来自/茎；梗|Correct decisions stem from correct judgments|stem from 源自；起源于
 ---
-ancestor|n.|祖宗；祖先
-descendant|n./adj.|后裔；后代/下降的
-offspring|n.|后代；子孙；产物
+ancestor|n.|祖宗；祖先|Lions and house cats evolved from a common ancestor
+descendant|n./adj.|后裔；后代/下降的|He is a descendant of Queen Victoria
+offspring|n.|后代；子孙；产物|They have two offspring
 subgroup|n.|子群|According to a subgroup analysis, violence produce more violence
 ---
-feed|v.|供养；喂养；进食
-breed|v./n.|饲养；繁殖/品种
-interbreed|v.|（使）品种杂交
+feed|v.|供养；喂养；进食|He has to work hard to feed and clothe his family 
+breed|v./n.|饲养；繁殖/品种|She breeds orchids in her greenhouse
+interbreed|v.|（使）品种杂交|Fish of different shapes are difficult to interbreed
 ---
-hybridize/hybridise|v.|（使）杂交
-proliferate|v.|迅速增殖；剧增
+hybridize/hybridise|v.|（使）杂交|Immediately rose breeders began to hybridize it with other red roses
+proliferate|v.|迅速增殖；剧增|Microbes proliferate rapidly
 sterility|n.|不生育|This disease causes sterility in both males and females
 ---
-mate|v./n.|交配/配偶
-courtship|n.|求偶
-lay|v.|产；放置；铺设|They lay eggs from the July to the middle of August
+mate|v./n.|交配/配偶|Many animals mate in the spring 
+courtship|n.|求偶|They attract females with elaborate courtship rituals
+lay|v.|产；放置；铺设|They lay eggs from the beginning of July to the middle of August
 ---
-hatch|v./n.|孵化
+hatch|v./n.|孵化|Don't count the chickens before they are hatched 不要过早打如意算盘
 brood|n./v.|一窝幼鸟；孵（蛋）|The bird was trying to find food for its brood
-spawn|n./v.|（鱼、蛙的）卵；产卵；引起
+spawn|n./v.|（鱼、蛙的）卵；产卵；引起|Many sea fishes spawn in rivers
 mature|adj./v.|成熟的；成熟|You are a mature man now, you are no longer a boy|immature adj. 不成熟的，未完全发育的
 ---
-skin|n.|皮肤
-claw|n./v.|爪；钳；鳌；爪状物/抓；挠；撕
-paw|n.|（动物的）脚掌；爪子
-beak|n.|鸟嘴；喙
+skin|n.|皮肤|When he fell he just broke the skin
+claw|n./v.|爪；钳；鳌；爪状物/抓；挠；撕|A hen's claw has four toes
+paw|n.|（动物的）脚掌；爪子|This is a black cat with white paws
+beak|n.|鸟嘴；喙|The bird picked a hole in the ice with its beak
 ---
-fin|n.|鳍
-wing|n.|翅膀
-plume|n.|羽毛
-feather|n.|羽毛||"plume" 更强调装饰性和华丽，而 "feather" 则更通用，用于描述鸟类的普通羽毛
+fin|n.|鳍|In the future, shark fin soup will be off the menu at a major resort in Singapore
+wing|n.|翅膀|A seagull fluttered down with an injured wing
+plume|n.|羽毛|This is the long plume of a heron in the breeding season
+feather|n.|羽毛|A feather is very light so that we say as light as a feather|"plume" 更强调装饰性和华丽，而 "feather" 则更通用，用于描述鸟类的普通羽毛
 ---
-fur|n.|软毛；毛皮
-bristle|n.|鬃毛；短而硬的毛，刚毛
-curl|n./v.|卷曲；螺旋状物/（使）卷曲||"curl" 更强调弯曲或卷曲的动作或形状，而 "curve" 更倾向于描述曲线的形状或者趋势。
+fur|n.|软毛；毛皮|Alice is allergic to fur of cats
+bristle|n.|鬃毛；短而硬的毛，刚毛|The brush is made of animal bristles
+curl|n./v.|卷曲；螺旋状物/（使）卷曲|As he got older, his hair lost its curl|"curl" 更强调弯曲或卷曲的动作或形状，而 "curve" 更倾向于描述曲线的形状或者趋势。
 ---
-insect|n.|昆虫
-worm|n.|蠕虫
-pest|n.|害虫；有害动物
+insect|n.|昆虫|The insect bit him and drew blood from his arm
+worm|n.|蠕虫|The worm was crushed under the feet
+pest|n.|害虫；有害动物|Insects which eat crops are pests
 parasite|n.|寄生虫|The life of the parasite is maintained by new blood-sucking mosquitoes
 ---
-spider|n.|蜘蛛
-butterfly|n.|蝴蝶
-mosquito|n.|蚊子
-cricket|n.|蟋蟀
+spider|n.|蜘蛛|The little girl thinks spiders are terrible creatures
+butterfly|n.|蝴蝶|A butterfly is flying up and down among the flowers
+mosquito|n.|蚊子|The mosquito is an annoying creature
+cricket|n.|蟋蟀|A cricket in the house is good luck
 ---
-penguin|n.|企鹅
+penguin|n.|企鹅|The penguin is polular with people
 seal|n./v.|海豹；封条；图章；密封|Polar bears set off in search of their favorite meal-seals
-tortoise|n.|龟；陆龟
-turtle|n.|海龟
-whale|n./v.|鲸；捕鲸
+tortoise|n.|龟；陆龟|Do you remember the story about a race between the tortoise and the hare?|hare n. 野兔
+turtle|n.|海龟|If you turn over a turtle on its back, it will become helpless
+whale|n./v.|鲸；捕鲸|We may live to see the extinction of the whale
 ---
-kangaroo|n.|袋鼠
-camel|n.|骆驼
-panda|n.|熊猫
+kangaroo|n.|袋鼠|The kangaroo is native to Australia
+camel|n.|骆驼|The merchant decided to use camels to carry his goods across the desert
+panda|n.|熊猫|Pandas are loved by people all over the world
 ---
-elephant|n.|大象
-trunk|n.|象鼻||这个词和植物研究那个树干是一个词
+elephant|n.|大象|A specific attribute of the elephant is its long trunk
+trunk|n.|象鼻|The elephant's trunk is powerful enough to uproot trees|这个词和植物研究那个树干是一个词
 ivory|n.|象牙|The professor lived in an ivory tower
-horn|n.|（牛羊等动物的）角；（乐器的）号
+horn|n.|（牛羊等动物的）角；（乐器的）号|The young goat is just beginning to grow horns
 ---
-bear|n.|熊
-wolf|n.|狼
-dragon|n.|龙；悍妇|Dragons are describes as monsters in most western countries
-fox|n.|狐狸🦊；狡猾的人
+bear|n.|熊|The bear is a large heavy animal with thick fur
+wolf|n.|狼|The wolf snapped at the hunter's hand
+dragon|n.|龙；悍妇|Dragons are described as monsters in most western countries
+fox|n.|狐狸🦊；狡猾的人|Don't trust him. He is a sly old fox
 ---
 cub|n.|幼兽|The cub licked the milk from its mother's breast
 calf|n.|幼兽；小牛🐂|Did you see the cow with her calf
 pup|n.|幼小动物|I'll get you an Alsatian pup for Christmas|puppy n. 幼犬。Alsatian n. 阿尔萨斯狼狗，德国牧羊犬（同 German shepherd）
 lamb|n.|羔羊|The little lamb was caught by the wolf|a lost lamb 迷途的羔羊
 ---
-cattle|n.|牛
-ox|n.|（阉割的）公牛||复数形式 oxen
-bull|n.|公牛|He was a great bull of a man
-buffalo|n.|水牛；野牛
+cattle|n.|牛|There are many herds of cattle in the meadow
+ox|n.|（阉割的）公牛|The frequent, unresonable whips angered the ox|复数形式 oxen
+bull|n.|公牛|He was a great bull of a man 他以前是个大块头
+buffalo|n.|水牛；野牛|There were lots of buffaloes in North America a hundred years ago
 ---
-horse|n.|马🐴
-zebra|n.|斑马🦓
-donkey|n.|驴子
+horse|n.|马🐴|The horse became frightened and ran away
+zebra|n.|斑马🦓|There are several species of zebra
+donkey|n.|驴子|The donkey is eating grass on the field
 saddle|n.|鞍；马鞍；车座|He was putting a saddle on the horse|get into the saddle 上马
-harness|n.|马具；挽具|You cannot judge a horse by harness|in harness 通力合作；相互配合
+harness|n.|马具；挽具|You cannot judge a horse by its harness|in harness 通力合作；相互配合
 ---
-falcon|n.|隼；猎鹰
-hawk|n.|鹰；隼
-eagle|n.|雕
-owl|n.|猫头鹰
-swallow|n.|燕子||和吞咽是一个词
-sparrow|n.|麻雀
-pigeon|n.|鸽子
-crow|n.|乌鸦
+falcon|n.|隼；猎鹰|His falcon flew into a window of the empty castle and did not return
+hawk|n.|鹰；隼|A hawk hovered in the blue sky
+eagle|n.|雕|The eagle dive down on the rabbit
+owl|n.|猫头鹰|The owl is sacred for many Californian Indian people
+swallow|n.|燕子|There are many swallows flying in the sky|和吞咽是一个词
+sparrow|n.|麻雀|A sparrow is very alert in its movement
+pigeon|n.|鸽子|An old man sat on the park bench and fed the pigeons
+crow|n.|乌鸦|The farmers tried to fear the crows out of the cornfield by planting several men of straw
 ---
-swan|n.|天鹅
-goose|n.|鹅；鹅肉
-cock|n.|公鸡；雄禽
+swan|n.|天鹅|The witch turns the princess into a swan
+goose|n.|鹅；鹅肉|They often have goose at Christmas time
+cock|n.|公鸡；雄禽|The cock has brighter colored feathers than the hen
 ---
-mouse|n.|老鼠；鼠标
-rat|n.|老鼠；卑鄙的人
-squirrel|n.|松鼠
-hare|n.|野兔
-frog|n.|青蛙
+mouse|n.|老鼠；鼠标|The cat was playing with a live mouse
+rat|n.|老鼠；卑鄙的人|Now I can see why people say he is such a rat
+squirrel|n.|松鼠|The squirrel ran up a tree and got out of my reach
+hare|n.|野兔|The hunter watched for the hare to come out of the burrow
+frog|n.|青蛙|A frog can live both on land and in water
 ---
-behaviour/behavior|n.| 行为；活动方式
-bite|v./n.|咬；（昆虫）叮；吞饵
-sting|v./n.|刺；叮；（使）感觉刺痛；鳌针；蜇痛|It is the nature of the scorpion to sting|sting sb. into doing sth. 刺激某人做某事
-bark|v./n.|吠；大声嚷；树皮
-roar|n./v.|吼叫；咆哮
+behaviour/behavior|n.| 行为；活动方式|They observed the behavior of their new pet
+bite|v./n.|咬；（昆虫）叮；吞饵|The mosquitoes are biting me
+sting|v./n.|刺；叮；（使）感觉刺痛；鳌针；蜇痛|It is the nature of the scorpion to sting|sting sb. into doing sth. 刺激某人做某事 scorpion 蝎子
+bark|v./n.|吠；大声嚷；树皮|Barking dogs seldom bite 
+roar|n./v.|吼叫；咆哮|The whole room rang with a roar
 ---
-rub|v./n.|擦；摩擦/困难；障碍||the ~ 问题，困难，障碍
+rub|v./n.|擦；摩擦/困难；障碍|It is an Eskimo custom to cub noses as a greeting|the ~ 问题，困难，障碍
 creep|v.|爬行；悄悄地爬行|We take off our shoes and creep cautiously along the passage|creep along 沿着...爬行
-crawl|v.|爬；爬行；卑躬屈膝；巴结
+crawl|v.|爬；爬行；卑躬屈膝；巴结|Your must not crawl into the favor of your superior
 ---
-habitat|n.|栖息地
-nest|n.|巢；窝；穴
-hive|n./v.|蜂房；繁忙的场所；（使）入蜂箱；（像蜜蜂般）密集群居
-cell|n.|蜂房巢室；细胞；单人牢房
+habitat|n.|栖息地|The Arctic region is the habitat of the polar bear
+nest|n.|巢；窝；穴|The male hunts for food while his mate guards the nest
+hive|n./v.|蜂房；繁忙的场所；（使）入蜂箱；（像蜜蜂般）密集群居|This marketplace was once a hive of activity 一片繁忙景象
+cell|n.|蜂房巢室；细胞；单人牢房|The prisoner was locked in a cell
 ---
-cage|n.|笼子
-stable|n./adj.|马厩；牛棚；稳定的
-barn|n.|谷仓；牲口棚
+cage|n.|笼子|The lion paced the floor of his cage restlessly
+stable|n./adj.|马厩；牛棚；稳定的|The horse in the stable has broken out
+barn|n.|谷仓；牲口棚|The cows were feeding on hay in the barn
 hedge|n.|树篱；障碍物|There is a opening in the hedge|on the hedge 抱骑墙态度的
-barrier|n.|障碍
-bar|n.|栅；栏杆；条；长块
+barrier|n.|障碍|Lack of confidence is the biggest barrier to the improvement of your English
+bar|n.|栅；栏杆；条；长块|A bar of chocolate is enough to stop his crying
 ---
-anatomy|n.|解剖学
-epidemic|n./adj.|流行病；（坏事的）盛行；流行性的；极为盛行的
-gene|n.|基因
+anatomy|n.|解剖学|We have to do anatomy next term
+epidemic|n./adj.|流行病；（坏事的）盛行；流行性的；极为盛行的|Violence is reaching epidemic levels in some of the films and TV shows
+gene|n.|基因|You have good genes from your parents, so you should live a long time
 ---
-germ|n.|微生物；细菌
-bacteria|n.|细菌；bacterium 的复数形式
-virus|n.|病毒
-microbe|n.|微生物
+germ|n.|微生物；细菌|Disinfectants are used to kill germs
+bacteria|n.|细菌；bacterium 的复数形式|Bacteria in drinking water have spread the illness
+virus|n.|病毒|My computer was accidentally infected with a virus called Trojan Horse
+microbe|n.|微生物|Would the good microbes do battle with the bad microbes and help to restore their health?
 ---
-metabolism|n.|新陈代谢
+metabolism|n.|新陈代谢|Some people's metabolism is more efficient than others
 protein|n.|蛋白质|You need more protein to build you up
-vitamin|n.|维生素
+vitamin|n.|维生素|Fresh green foodstuffs contain rich vitamins
 ---
 secrete|v.|分泌|The kidneys secrete urine|secret n. 秘密
-excrete|v.|排泄；分泌|The function of kidneys are excrete waste products
-devour|v.|吞食；狼吞虎咽的吃
+excrete|v.|排泄；分泌|The function of kidneys is to excrete waste products
+devour|v.|吞食；狼吞虎咽的吃|The lion devoured the deer
 ---
-instinct|n.|本能；天性；直觉
-intuitive|adj.|直觉的
-potential|n./adj.|潜力/潜在的
-intelligence|n.|智慧；智力；情报；谍报|Use your intelligence, and you're succeed some day|intelligent adj. 聪明的。an intelligence agent 情报人员。artificial intelligence 人工智能
-functional|adj.|功能的；起作用的
+instinct|n.|本能；天性；直觉|Don't trust anything except your instinct
+intuitive|adj.|直觉的|He seemed to have an intuitive knowledge of how I was feeling
+potential|n./adj.|潜力/潜在的|She showed great potential as an actress
+intelligence|n.|智慧；智力；情报；谍报|Use your intelligence, and you're sure to succeed some day|intelligent adj. 聪明的。an intelligence agent 情报人员。artificial intelligence 人工智能
+functional|adj.|功能的；起作用的|What are the functional benefits of the brand?
 ---
-sensitive|adj.|灵敏的；易担忧的；需谨慎对待的
-flexible|adj.|灵活的；弹性的
-acoustic|adj.|听觉的；声音的
-optical|adj.|视觉的；光学的
+sensitive|adj.|灵敏的；易担忧的；需谨慎对待的|She is sensitive to what people think of her
+flexible|adj.|灵活的；弹性的|We can visit your company on Monday or Tuesday. Our plans are fairly flexible
+acoustic|adj.|听觉的；声音的|Acoustic beauty is also very important to the modern gardens
+optical|adj.|视觉的；光学的|Microscopes and telescopes are optical instruments
 ---
 nocturnal|adj.|夜间活动的|Hamsters are nocturnal creatures|hamster n. 仓鼠
-dormant|adj.|睡着的；休眠的；（动物等）冬眠的
-hibernation|n.|冬眠
+dormant|adj.|睡着的；休眠的；（动物等）冬眠的|Many living things are dormant in winter
+hibernation|n.|冬眠|Some animals can overwinter without the hibernation
 ---
-track|v./n.|追踪；足迹；踪迹；轨道
+track|v./n.|追踪；足迹；踪迹；轨道|The hunter followed the animal's tracks
 trace|v./n.|追踪；查出；追溯；痕迹；少许|They traced the criminal to a house in the city|a trace of 少许；一丝。track back to 追溯到
 alternate|v.|（使）交替；（使）轮流|Sunny weather alternated with rain|alternative adj. 可供选择的 n. 可供选择的事物
 ---
-prey|n./v.|猎物；捕食
-predator|n.|掠夺者；捕食性动物
-victim|n.|受害者
-captive|n./adj.|俘虏；被关押的；收控制的
+prey|n./v.|猎物；捕食|snacks track their prey by its scent
+predator|n.|掠夺者；捕食性动物|These predators of the African grasslands live on mice and rabbits
+victim|n.|受害者|One of the booming victims was dead on arrival in hospital
+captive|n./adj.|俘虏；被关押的；收控制的|Armed gunmen broke into the church and took the priest captive|break into 侵入，闯入
 defensive|adj.|防御性的|we took a defensive attitude in the negotiation|defend v. 防卫。self-defensive adj. 自卫的
 ---
-undergo|v.|经历；经受
-suffer|v.|遭受；受折磨；变糟
-vulnerable|adj.|易受伤的；脆弱的
+undergo|v.|经历；经受|I underwent so much suffering in early years that I am afraid of nothing today
+suffer|v.|遭受；受折磨；变糟|They suffered huge losses in the financial crisis
+vulnerable|adj.|易受伤的；脆弱的|The young girl looked very vulnerable
 ---
-subsistence|n.|勉强维持生活|The standard of living at that time was on the edge of subsistence 当时的生活水平出于勉强维生边缘
-exist|v.|存在；生存
+subsistence|n.|勉强维持生活|The standard of living at that time was on the edge of subsistence 当时的生活水平处于勉强维生边缘|creature comforts 物质享受
+exist|v.|存在；生存|Most scientists believe that water doesn't exist on the surface of the Moon
 exterminate|v.|消灭；根除|We've made great efforts to exterminate mosquitoes and flies
 ---
 tame|v./adj.|驯养；制服/驯服的；乏味的|The tame lions can communicate and dance together with the actors|tame nature 征服大自然
-keeper|n.|看守人；饲养员
-shepherd|n.|牧羊人，羊倌|The shepherd set out to look for sheep that had wandered away|sheepdog n. 牧羊犬
+keeper|n.|看守人；饲养员|He turned his eyes towards the food, which the keeper had brought
+shepherd|n.|牧羊人，羊倌|The shepherd set out to look for the sheep that had wandered away|sheepdog n. 牧羊犬
 ===
 太空探索
 +++
 galaxy|n.|星系|The sun is only a very small start in the Galaxy|the Galaxy 银河系
-cosmos|n.|宇宙
-universe|n.|宇宙；万物；世界
-interstellar|adj.|星际的|These elements become part of the interstellar gas and dust
+cosmos|n.|宇宙|Our world is but a small part of the cosmos
+universe|n.|宇宙；万物；世界|The depth of the universe is immeasurable
+interstellar|adj.|星际的|These elements become a part of the interstellar gas and dust
 ---
-terrestrial|adj.|地球的；陆地的
-celestial|adj.|天上的
-astronomy|n.|天文学
-astrology|n.|占星术；占星学
-astronaut|n.|宇航员
+terrestrial|adj.|地球的；陆地的|Forests are home to over 80% of terrestrial biodiversity
+celestial|adj.|天上的|The rosy light beamed like a celestial dawn
+astronomy|n.|天文学|Physics and astronomy are cognate sciences|cognate adj. 同源的；有共同起源的
+astrology|n.|占星术；占星学|Some who follow Chinese astrology, expect it to a good year
+astronaut|n.|宇航员|An american astronaut is begining a year-long trip in space
 ---
-comet|n.|彗星
-meteorite|n.|陨石
+comet|n.|彗星|The probes will travel with the comet for a full year
+meteorite|n.|陨石|He discovered an unusual meteorite
 crater|n.|（撞击或爆炸形成的）坑|They came to the lip of a dead volcanic crater
 ---
-dust|n.|尘土；灰尘
-ash|n.|灰烬
+dust|n.|尘土；灰尘|The mirror is covered with a film of dust
+ash|n.|灰烬|Don't drop your cigarette ash on the carpet. Use an ashtray
 envelope|n.|外裹物；外层|The surface of the sun is a glowing gas envelope
 chunk|n.|厚块|My mother bought a chunk of meat|a chunk of 一大块，一厚块
 ---
-spacecraft|n.|宇宙飞船
-spaceship|n.|宇宙飞船
+spacecraft|n.|宇宙飞船|The spacecraft is orbiting the moon
+spaceship|n.|宇宙飞船|The scientists are able to calculate accurately when the spaceship will reach the moon
 probe|n.|太空探测器；详尽调查|Their probe into the cause of the fire proved futile
-module|n.|模块
+module|n.|模块|A module is a part of a space vehicle that can work independently
 ---
 propulsion|n.|推进力|This aircraft works by jet propulsion
-pressure|n.|压力
-dynamics|n.|动力学；动态
-motion|n.|作物；移动
+pressure|n.|压力|We will never capitulate to pressure from outside|capitulate v. 投降
+dynamics|n.|动力学；动态|And our goal is to find out the dynamics of this problem
+motion|n.|作物；移动|Parts of the film were shown again in slow motion
 ---
-vent|n./v.|排气口；排放；发泄
-tail|n.|尾部
-curve|n.|曲线；弧线
+vent|n./v.|排气口；排放；发泄|When gases and steam can get vented from a valcano's cracks, it's probably not about to erupt
+tail|n.|尾部|He drove into the back of my truck and smashed the tail light
+curve|n.|曲线；弧线|The stairs ascended in a graceful curve
 ---
-exploration|n.|探索
-expedition|n.|远征；探险
-flyby|n.|（航天器对行星或卫星的）飞掠
+exploration|n.|探索|The Elizabethan age was an time of exploration and discovery
+expedition|n.|远征；探险|This is an expedition to find the beginning of the Yangtze River 
+flyby|n.|（航天器对行星或卫星的）飞掠|Because of the flyby height, the plane resembles an increasingly big bird
 ---
-observatory|n.|天文台
-telescope|n.|望远镜
+observatory|n.|天文台|According to the observatory, there will be a total solar eclipse tomorrow
+telescope|n.|望远镜|What is the range of this telescope?
 spectacle|n.|壮观的景象；奇观|The sunrise was a splendid spectacle|spectacular adj. 壮观的；壮丽的
 ---
-orbit|n.|轨道
-ecliptic|n.|黄道
-diameter|n.|直径
-radius|n.|半径
+orbit|n.|轨道|The earth moves in an approximately circular orbit around the sun
+ecliptic|n.|黄道|Five bright planets move among the stars nearly ecliptic
+diameter|n.|直径|The earth is slightly flat at the poles so that the polar diameter is slightly less than the equatorial diameter
+radius|n.|半径|They searched within one mile radius of the school
 ---
-substance|n.|物质；实质；要旨
-composition|n.|成分；构成；作品；创作
+substance|n.|物质；实质；要旨|Is there a basic substance that everything else is made of?
+composition|n.|成分；构成；作品；创作|Scientists study the composition of the soil
 compound|n./adj./v.|混合物；化合物。复合的；组合的。混合|English loves compound words: "washing machine" and that sort of thing
 ---
-fossil|n.|化石
-sample|n.|样品；样本
-specimen|n.|样品；标本
+fossil|n.|化石|I know that the majority of the energy we consume comes from fossil fuel energy sources
+sample|n.|样品；样本|I need nothing but a sample
+specimen|n.|样品；标本|The biologist brought out a specimen box and showed the items one by one
 ---
-particle|n.|颗粒；微粒；极小量
-molecule|n.|分子
-atom|n.|原子
-ion|n.|离子
-electron|n.|电子
+particle|n.|颗粒；微粒；极小量|There are particles of dust everywhere
+molecule|n.|分子|There is a molecule separator in the lab
+atom|n.|原子|An molecule of water is made up of two atoms of hydrogen and one atom of oxygen
+ion|n.|离子|Both of these partickes can produce ion pairs
+electron|n.|电子|Electrons are negatively charged with electricity
 quantum|n.|量子|In this example, we employed the quantum mechanics principle
 ---
-liquid|n./adj.|液体；液体的
+liquid|n./adj.|液体；液体的|If you add too much liquid, the mixture will not be thick enough
 fluid|n./adj.|液体；流体。流动的|When you are sick, you should drink plenty of fluids
-solid|n./adj.|固体。固体的；牢固的
+solid|n./adj.|固体。固体的；牢固的|The new office has a very solid structure
 ---
 synthesise/synthesize|v.| 合成；综合|Darwinian theory has been synthesized with modern genetics
-formation|n.|形成
-method|n.|方法
+formation|n.|形成|In planet formation, as in adolescence, you've got your late bloomers| late bloomer 晚熟的人，大器晚成
+method|n.|方法|New methods of teaching foreign languages are adopted in this institute
 ---
-spectrum|n.|光谱；范围
-dimension|n.|维度
-frequency|n.|频率；发生次数
-signal|n.|信号
-antenna|n.|天线
+spectrum|n.|光谱；范围|A spectrum is formed by a ray of light passing through a prism
+dimension|n.|维度|A line has one dimension and a square has two
+frequency|n.|频率；发生次数|This radio signal has a frequency of 800 kilohertz
+signal|n.|信号|Her speech yesterday was a signal that her her view has changed
+antenna|n.|天线|You should fix the televison antenna before receiving programs
 circuit|n.|线路；电路；巡回|For many years, He was top banana on the circuit 许多年来，他都是巡回剧团里的主角——top banana主要人物
 ---
-refraction|n.|折射
-ultraviolet|n./adj.|紫外辐射。紫外线的
-radioactive|adj.|放射性的
+refraction|n.|折射|Over water the diurnal change in refraction is likely to be small
+ultraviolet|n./adj.|紫外辐射。紫外线的|The ozone layer absorbs most of the sun's ultraviolet radiation
+radioactive|adj.|放射性的|Nuclear energy gives millions heat, light and power, just as it creates unwanted radioactive side effects
 ---
-distinct|adj.|明显的；截然不同的
+distinct|adj.|明显的；截然不同的|Those two ideas are quite distinct from each other
 discernible|adj.|可辨别的；看得清的|Night fell, but the outline of the factory buildings was still discernible
-invisible|adj.|看不见的
+invisible|adj.|看不见的|Some stars are invisible to the naked eye
 ---
-collision|n.|碰撞事故；冲突
-squash|v./n.|压扁；壁球
-fragment|n./v.|碎片；片段；（使）碎裂
+collision|n.|碰撞事故；冲突|He is responsible for the rear-end collision|rear-end collision 追尾碰撞
+squash|v./n.|压扁；壁球|I sat on my hat and squashed it
+fragment|n./v.|碎片；片段；（使）碎裂|He was still in bad condition and could give only a fragmented account of the accident
 ---
-cataclysmic|adj.|剧变的；灾难的|One can readily trace the disappearance of dinosaurs to a cataclysmic
-overwhelming|adj.|压倒性的
-despair|v./n.|绝望
-desperate|adj.|绝望的；急需要的
-hopeless|adj.|无望的；极差的
+cataclysmic|adj.|剧变的；灾难的|One can readily trace the disappearance of dinosaurs to a cataclysmic event
+overwhelming|adj.|压倒性的|The flood was overwhelming and the city was soon flooded
+despair|v./n.|绝望|This boy is his mother's last despair
+desperate|adj.|绝望的；急需要的|The man lost in the desert was desperate for water
+hopeless|adj.|无望的；极差的|He feels that his chances of winning the contest are hopeless
 ===
 学校教育
 +++
-education|n.|
-primary|adj.
-secondary|adj.
+education|n.|教育|A good education gives your child a good start in life
+primary|adj.|初级的；主要的|The primary cause of his failure was his underestimation of the enemy
+secondary|adj.|中级的；次要的|The most important factor is price. Location is a secondary issue
 ---
-university|n.
-college|n.|学院；大学
-institute|n.|研究所
+university|n.|大学|She is a student at Peking University
+college|n.|学院；大学|Their son will start college in the autumn
+institute|n.|研究所|The government set up an institute devoted to renewable energy sources
 academy|n.|专科院校；（美国的）私立学校；研究会；学会|This is an academy of music|academic adj. 学术的；学院的
 ---
-learn|v.|学习；得知
-study|v./n.|学习；研究
-acquire|v.|获得；购得
-knowledge|n.|知识
+learn|v.|学习；得知|It is more useful to learn modern languages, such as English and French, than Latin
+study|v./n.|学习；研究|This reference book is very useful to study from
+acquire|v.|获得；购得|We hope to acquire the knowledge within happiness
+knowledge|n.|知识|To the young boy, his big brother was the fountain of all knowledge
 ---
-expertise|n.|专门技能
+expertise|n.|专门技能|We were amazed at his expertise on herbs
 novice|n.|新手|I'm a complete novice at yoga
 recruit|v.|吸收（新成员）|The country's first act would be to recruit for the navy
 ---
 literate|adj.|有读写能力的|Over one-quarter of the adult population are not fully literate|literacy n. 读写能力
-illiteracy|n.|文盲
-numerate|adj.|识数的；有计算能力的
+illiteracy|n.|文盲|We must do our best to eliminate illiteracy
+numerate|adj.|识数的；有计算能力的|All students should be numerate and literate when they leave school
 ---
-problem|n.|问题；习题
-issue|n./v.|重要问题；发行。公布；发出
-affair|n.|事件；公共事件
+problem|n.|问题；习题|Heavy traffic poses a big problem in many big cities
+issue|n./v.|重要问题；发行。公布；发出|On this issue, they thought as one
+affair|n.|事件；公共事件|The minister is busy with important state affairs
 controversial|adj.|有争议的|They tried to stay away from controversial topics at the dinner party
 ---
-puzzle|n./v.|难题；谜。使迷惑
-riddle|n.|谜；谜语
+puzzle|n./v.|难题；谜。使迷惑|He is puzzled about the matter
+riddle|n.|谜；谜语|He figured out the riddel at last
 obscure|adj.|难以理解的|Rules for the game are somewhat obscure
 ---
 instil/instill|v.| 逐渐灌输|A sense of duty must be instilled in our children
-cram|v.|把...塞进；（为应考）临时死记硬背
-emphasise/emphasize|v.|强调；着重
-enhance|v.|提高；增强|A good score of IELTS enhance my change of getting the offer
+cram|v.|把...塞进；（为应考）临时死记硬背|Lectures were all called off, so students can cram for the semester finals
+emphasise/emphasize|v.|强调；着重|I try to emphasize my strengths without sounding boastful|boastful adj. 自夸的
+enhance|v.|提高；增强|A good score of IELTS will enhance my change of getting the offer
 ---
-enable|v.|使能够
-inspire|v.|鼓舞；给...灵感
-motive|n.|动机；缘由
-motivate|v.|激发；驱使
+enable|v.|使能够|This dictionary will enable you to understand English words
+inspire|v.|鼓舞；给...灵感|Our task is to motivate the voters and inspire them to join our cause|join one's cause 参加某人的事业
+motive|n.|动机；缘由|His motive for working so hard is that he needs money
+motivate|v.|激发；驱使|Good teachers are those who can motivate their students
 ---
-stimulate|v.|刺激；激励
-spur|v./n.|鞭策；激发。马刺；刺激
+stimulate|v.|刺激；激励|I'm trying to stimulate him to study harder
+spur|v./n.|鞭策；激发。马刺；刺激|Pride spur the man to fight
 impetus|n.|推动；促进；动量；惯性|The car ran down the bridge under it's own impetus
 ---
 indulge|v.|迁就；放任；沉湎；让...享受一下|You can indulge yourself without spending a fortune
-spoil|v.|宠坏；溺爱；破坏；糟蹋
+spoil|v.|宠坏；溺爱；破坏；糟蹋|You should be careful because you make a mistake which will spoil your life
 abuse|v.|滥用；虐待|It's easy to abuse one's power|alcohol abuse 酗酒
 ---
-intelligent|adj.|聪明的
-clever|adj.|聪明的；精明的
-smart|adj.|聪明的；智能的
+intelligent|adj.|聪明的|Clara is a highly intelligent girl
+clever|adj.|聪明的；精明的|Even clever people may do something stupid when put on the spot|put sb. on the spot 使某人处于尴尬境地
+smart|adj.|聪明的；智能的|This boy is very smart. He may become another Stephen Hawking
 all-round/all-around|adj.|有多方面才能的；全面的|She is an all-round artist
 ---
-genius|n.|天才人物；天赋
-elite|n.|精英
-idiot|n.|白痴；傻瓜
+genius|n.|天才人物；天赋|His genius is not confined to maths and physics
+elite|n.|精英|The army was controlled by a small ruling elite
+idiot|n.|白痴；傻瓜|He is behaving like an perfect idiot
 ---
-wisdom|n.|智慧；学问
-wit|n.|风趣的人；机智；风趣；智慧|Holmes was a gregarious, a great wit, a man of wide interests
+wisdom|n.|智慧；学问|Confucius's words hold a great deal of wisdom
+wit|n.|风趣的人；机智；风趣；智慧|Holmes was a gregarious, a great wit, a man of wide interests|gregarious adj. 爱交际的；合群的
 aptitude|n.|天生的才能；资质|That student has an aptitude for music|apt adj. 恰当的；聪明的
 capable|adj.|有能力的；有才能的|Not everyone is capable of judging fine arts|capability n. 能力。capacity n. 容量。be capable of 能够
 ---
 excellent|adj.|杰出的；优秀的|She had a high reputation for her excellent detective novels|excel v. 擅长；突出
-outstanding|adj.|突出的；杰出的
-brilliant|adj.|光辉的；聪明的；（光线等）明亮的
+outstanding|adj.|突出的；杰出的|He is an outstanding athelete and deserved to win
+brilliant|adj.|光辉的；聪明的；（光线等）明亮的|He drew the curtains and brilliant sunlight flooded into the room
 ---
 prestige|n.|威望；声望|These new policies will affect the president's national and international prestige|prestigious adj. 有名望的；享有声望的
-reputation|n.|名誉；声誉
+reputation|n.|名誉；声誉|If a company has a good reputation, investors will natually back it
 eminent|adj.|著名的；杰出的|The students are expecting the arrival of an eminent scientist
 notorious|adj.|名声狼藉的|The notorious thief was finally caught and put to prison|notoriety n. 坏名声
 ---
-esteem|v.|尊重；尊敬
-respect|n./v.|尊敬；敬重
-diligent|adj.|勤勉的；勤奋的
+esteem|v.|尊重；尊敬|I esteem it as a privilege to attend this conference and give a report here|hold sb. in high esteem 高度尊重某人
+respect|n./v.|尊敬；敬重|You should know how to respect to yourself before you can get respect from others
+diligent|adj.|勤勉的；勤奋的|She is diligent and busy with all kinds of experiments all the time
 painstaking|adj.|极其仔细的；辛苦的|The mastery of a language requires painstaking effort
 ---
-skill|n.|技巧
-approach|n./v.|方法。接近
-scheme|n./v.|计划；方案；阴谋。谋划|All the scheme an intrigues are doomed to failure
+skill|n.|技巧|It requires an athlete to have great skill, cool nerves and quick reflexes|cool nerves 冷静的头脑
+approach|n./v.|方法。接近|I like his approach to the problem
+scheme|n./v.|计划；方案；阴谋。谋划|All the schemes and intrigues are doomed to failure
 ---
-headmaster|n.|[英]男校长
+headmaster|n.|[英]男校长|His track record as a headmaster was excellent|track record 履历记录，过去的成绩
 principal|n./adj.|[美]（中小学）校长；[英]大学校长；学院院长。首要的|He is going to resign from the position of principal
-dean|n.|（大学的）学院院长；系主任
-faculty|n.|（大学的）系、院；全体教员
+dean|n.|（大学的）学院院长；系主任|She is the dean of the Faculty of Social Sciences
+faculty|n.|（大学的）系、院；全体教员|Faculty members devote most of their time to scholarly research
 ---
-professor|n.|教授
-scholar|n.|学者
-scientist|n.|科学家
-mentor|n.|导师；顾问
-tutor|n.|家庭教师；（英国大学或者学院的）导师
+professor|n.|教授|Our professor is learned man with great insight
+scholar|n.|学者|He is a serious scholar who is highly respected by his students
+scientist|n.|科学家|I admired him as a true scientist and a very moral man
+mentor|n.|导师；顾问|He fed on the great ideas of his mentor
+tutor|n.|家庭教师；（英国大学或者学院的）导师|She was my personal tutor at university
 ---
-lecturer|n.|讲师
-assistant|n.|助理；助手
-candidate|n.|候选人；求职者；考生
+lecturer|n.|讲师|I have to submit this report to my lecturer
+assistant|n.|助理；助手|Her assistant was accused of theft and fraud by the police|theft and fraud 盗窃和诈骗
+candidate|n.|候选人；求职者；考生|They are interviewing candidates for the positions of sales manager
 ---
 degree|n.|学位；程度|He left without completing his degree|to a certain degree 在某种程度上
-qualify|v.|（使）有资格、有权
-certify|v.|证明；颁发专业合格证书
-license/licence|n.|执照；许可证
-permit|n.|许可证
+qualify|v.|（使）有资格、有权|His knowledge and skill qualify him for the job
+certify|v.|证明；颁发专业合格证书|I certify on my honor that she is innocent
+license/licence|n.|执照；许可证|His driving license was suspended for three months
+permit|n.|许可证|You can't work here without a work permit
 ---
-diploma|n.|毕业文凭
-diplomat|n.|外交官；善于交际的人
+diploma|n.|毕业文凭|My cousin won her diploma in only three years
+diplomat|n.|外交官；善于交际的人|As a natural diplomat, he found it easy to get the two sides to reach an consensus
 ambassador|n.|大使|He was appointed ambassador to France|embassy n. 大使馆
 ---
-pupil|n.|小学生；瞳孔|As a girl, she had been a model pupil
-graduate|n./v.|毕业生；毕业
-ceremony|n.|典礼；礼节
+pupil|n.|小学生；瞳孔|As a girl, she had been a model pupil|a model pupil 模范学生
+graduate|n./v.|毕业生；毕业|Preference will be given to graduates in journalism
+ceremony|n.|典礼；礼节|What the old headmaster said at the graduation ceremony dwells in my mind
 ---
-bachelor|n.|学士；单身汉
-master|n./v.|硕士；大师。精通；控制
-doctor|n.|博士；医生
+bachelor|n.|学士；单身汉|To do the job you must have at least a bachelor's degree in engineering
+master|n./v.|硕士；大师。精通；控制|They are able to master the situation
+doctor|n.|博士；医生|He is a doctor of philosophy
 ---
-fresher|n.|[英]（大学）一年级新生
-sophomore|n.|[美]（大学或高中）二年级学士
-junior|n./adj.|[美]（大学或高中）三年级学生；较年幼者。青少年的；级别（或地位）较低的
-senior|n./adj.|[美]（大学或高中）毕业班学士；较年长者。成人的；资深的
+fresher|n.|[英]（大学）一年级新生|Only a few months ago, the freshers started their exciting life at university
+sophomore|n.|[美]（大学或高中）二年级学士|My sophomore year at college was perhaps the most remarkable year of my life
+junior|n./adj.|[美]（大学或高中）三年级学生；较年幼者。青少年的；级别（或地位）较低的|At that time, I was a sophomore and Miss Yang was a junior
+senior|n./adj.|[美]（大学或高中）毕业班学士；较年长者。成人的；资深的|The seniors defeated the juniors by 4-2
 alumni|n.|[alumnus 的复数形式]毕业生；校友|My alumni and alumna are present at my birthday party
 ---
-campus|n.|（大专院校的）校园
-orientation|n.|迎新会；方向
-platform|n.|平台；讲台
+campus|n.|（大专院校的）校园|The campus covers an area of about 1.37 square kilometers
+orientation|n.|迎新会；方向|The university will hold a one day orientation session for freshmen
+platform|n.|平台；讲台|He spoke to us from a platform in the lecture hall
 coed/co-educational|adj./n.|男女同校的。（男女同校的大学生中的）女生|A nationwide research is under way for typical coeds
 ---
-register|v./n.|登记；注册。登记表；注册簿
+register|v./n.|登记；注册。登记表；注册簿|You must register for the tax
 roster|n.|花名册；登记表；执勤表|I am on the roster for tomorrow night
-enrol/enroll|v.|登记；注册；加入
-matriculation|n.|注册入大学
+enrol/enroll|v.|登记；注册；加入|They enrolled that freshman as a member of the club
+matriculation|n.|注册入大学|Matriculation was increasing in many universities in the 1990s
 ---
-accommodation|n.|住处；食宿招待
-dorm|n.|宿舍
-dining hall|n.|食堂
-canteen|n.|水壶；[英]食堂
+accommodation|n.|住处；食宿招待|The authorities must provide suitble accommodation for the family
+dorm|n.|宿舍|Are you going to live in the student dorm or at home?
+dining hall|n.|食堂|This is my first time to eat in your dining hall
+canteen|n.|水壶；[英]食堂|This canteen is much frequented by students
 ---
-laboratory/lab|n.|实验室；研究室
-experiment|n.|实验；试验
-data|n.|[datum 的复数形式]数据
-quantity|n.|数量
-quality|n.|质量
+laboratory/lab|n.|实验室；研究室|It is important to check when the laboratory can do the tests
+experiment|n.|实验；试验|We will have an experiment in the laboratory this afternoon
+data|n.|[datum 的复数形式]数据|The data should updated once a week
+quantity|n.|数量|Our company is more concerned with quality than with quantity
+quality|n.|质量|It is a bad year for films in terms of quality rather than quantity
 ---
-library|n.|图书馆；个人收藏
-literature|n.|文学；文学作品；文献
-article|n.|文章
-author|n.|作者；作家
+library|n.|图书馆；个人收藏|I went to the library and return your books for you
+literature|n.|文学；文学作品；文献|Literature stands related to men as science stands to nature
+article|n.|文章|The editor asked him to contribute a weekly article on european affairs
+author|n.|作者；作家|The author's style is subtle and elegant
 ---
-tale|n.|故事；传说
-fiction|n.|小说；虚构；杜撰
-story|n.|故事；小说；（尤指口头的）叙述
-diary|n.|日记；日记簿
+tale|n.|故事；传说|She looks like a princess in a fairy tale
+fiction|n.|小说；虚构；杜撰|The writer poignantly described her own mothering experiences in her fiction
+story|n.|故事；小说；（尤指口头的）叙述|Her little sister often asks her to retell the story
+diary|n.|日记；日记簿|Her diary is full of entries about him
 ---
-poetry|n.|诗
-magazine|n.|杂志；期刊；弹夹
-journal|n.|日报；周报；（尤指专门科学的）杂志；日志
-coverage|n.|新闻报道；覆盖范围
+poetry|n.|诗|I myself enjoy cinema, drama, poetry and travelling
+magazine|n.|杂志；期刊；弹夹|This magazine has a large circulation
+journal|n.|日报；周报；（尤指专门科学的）杂志；日志|This study was published by two journals of repute
+coverage|n.|新闻报道；覆盖范围|The wedding of the two movie stars got massive media coverage
 ---
-bibliography|n.|参考书目
-encyclopedia/encyclopaedia|n.|百科全书
-biography|n.|传记
-documentary|n./adj.|纪录片；记录的
-series|n.|连续的；一系列；系列节目
+bibliography|n.|参考书目|The bibliography is a very important part of a paper
+encyclopedia/encyclopaedia|n.|百科全书|I know someone who is a walking encyclopedia. She knows about everything
+biography|n.|传记|One of my friends likes to read biographies of great men to enhance himself
+documentary|n./adj.|纪录片；记录的|The documentary left me in a state of shock
+series|n.|连续的；一系列；系列节目|She published a new book series for English learners
 ---
-record|n.|记录；履历
-file|n./v.|档案；把...归档
-profile|n.|概述；人物简介；侧面轮廓
+record|n.|记录；履历|The subjects in the research were asked to keep a record of everything they ate for a week
+file|n./v.|档案；把...归档|The police have a file on him
+profile|n.|概述；人物简介；侧面轮廓|Her beautiful profile impressed the judgers very much
 ---
-draft|n.|草稿；汇票；起草
-sketch|n./v.|概略；概述
-brochure|n.|小册子
-manual|n.|使用手册；指南；手工的
+draft|n.|草稿；汇票；起草|When the first draft was completed, she took a break
+sketch|n./v.|概略；概述|I have figured out a basic sketch of a plan
+brochure|n.|小册子|I'll send the company brochure right away
+manual|n.|使用手册；指南；手工的|The maintenance manual gives diagrams and instructions for repairing your car
 ---
-frame|n.|框架；眼镜框；构架
-index|n./v.|指数；索引；为...编索引
-catalogue/catalog|n.|目录
-category|n.|种类；类别；范畴
+frame|n.|框架；眼镜框；构架|The house has a wooden frame which is braced with bricks
+index|n./v.|指数；索引；为...编索引|The index is arranged in alphabetical order
+catalogue/catalog|n.|目录|You can look for the book in the library catalogue
+category|n.|种类；类别；范畴|There are different categories of books in the library
 ---
-inventory|n.|库存；详细目录
-content|n./adj.|内容；目录；含量。满足的
-context|n.|上下文；语境；背景
-list|n./v.|一览表；目录。列举；把...列表
+inventory|n.|库存；详细目录|We made an inventory of everything in the old museum
+content|n./adj.|内容；目录；含量。满足的|The calorie content in a regular coke is very high
+context|n.|上下文；语境；背景|We should judge the past in its historic context
+list|n./v.|一览表；目录。列举；把...列表|The results are listed in numerical order
 ---
-chapter|n.|（书的）章；（人生或历史的）重要时刻
-volume|n.|卷；体积；容积；音量
-reel|n.|卷轴；卷筒；一卷胶卷
+chapter|n.|（书的）章；（人生或历史的）重要时刻|Steamboat travel opened a new chapter in America's exploration of the west
+volume|n.|卷；体积；容积；音量|The volume of this container is one cubic meter
+reel|n.|卷轴；卷筒；一卷胶卷|I put a new reel of film in my camera
 ---
-subject|n.|科目；主题；实验对象
-object|n./v.|物体；目标。反对
-major|n./v./adj.|[美]主修科目；专业。主修。主要的
+subject|n.|科目；主题；实验对象|In the car, she reverted to the subject which is uppermost in her mind
+object|n./v.|物体；目标。反对|He strongly objects to getting up early
+major|n./v./adj.|[美]主修科目；专业。主修。主要的|She majored in international economy at university
 minor|n./adj.|[美]辅修科目。不严重的|My major is English, but I also have a minor in history.
 ---
 sociology|n.|社会学|A few years ago, sociology was the most popular subject for undergraduates
-politics|n.|政治学；政治；政治事务
-economics|n.|经济学
+politics|n.|政治学；政治；政治事务|He closed down the business and went into politics
+economics|n.|经济学|Whenever they start talking about economics, I feel totally out of my depth|out of my depth 一窍不通，力所不及
 ---
-marketing|n.|市场营销
-accounting|n.|会计
-audit|n./v.|审计。旁听；审计
-statistics|n.|统计学
+marketing|n.|市场营销|This company puts a high value on marketing
+accounting|n.|会计|A company's accounting records must be open for inspection at all times
+audit|n./v.|审计。旁听；审计|They worked all day without a break and finished the audit on time
+statistics|n.|统计学|There's a compulsory course in statistics
 ---
-psychology|n.|心理学；心理特征
-philosophy|n.|哲学
-logic|n.|逻辑学；逻辑
+psychology|n.|心理学；心理特征|The professor has considerable expertise in studying a criminal's psychology
+philosophy|n.|哲学|He has a master degree in philosophy
+logic|n.|逻辑学；逻辑|Socrates laied the foundations of logic
 ---
-biology|n.|生物学；生命机理
-physics|n.|物理学
-chemistry|n.|化学
+biology|n.|生物学；生命机理|Biology is the study of living things
+physics|n.|物理学|He is one of top students in physics
+chemistry|n.|化学|I am not good at organic chemistry
 ---
-agriculture|n.|农业；农学
-logistics|n.|物流；后勤
-geography|n.|地理学；地形；地势
-history|n.|历史；历史学
+agriculture|n.|农业；农学|In the past, agriculture located a family to a place
+logistics|n.|物流；后勤|I have a good command in the procedures of logistics
+geography|n.|地理学；地形；地势|I'd like to introduce you to my geography professor
+history|n.|历史；历史学|China is a oriental country with a long history
 ---
-engineering|n.|工程；工程学
-mechanics|n.|力学；机械学
+engineering|n.|工程；工程学|The percentage of girls in engineering has increased in recent years
+mechanics|n.|力学；机械学|He is studying the mechanics and now is learning all the parts of an engine
 electronics|n.|电子学；电子器件|That country wants to increase tariffs on items such as electronics|electron n. 电子。electronic adj. 电子的；电子学的。electrical adj. 电的；电气科学的。electricity n. 电；电流；电学
 ---
-maths/mathematics|n.|数学
-arithmetic|n.|算数
-geometry|n.|几何学
-algebra|n.|代数
-calculus|n.|微积分；结实
+maths/mathematics|n.|数学|The teacher will test us in maths
+arithmetic|n.|算数|Arab brought arithmetic and algebra to the fore once again and placed it almost on a par with geometry|on a par with 与...同等，和...一样
+geometry|n.|几何学|Geometry is a piece of cake for me, but a big headache for my friend Clare
+algebra|n.|代数|The young boy is good at algebra
+calculus|n.|微积分；结实|Calculus is a difficult course for most students
 ---
-plus|prep./adj.|加上。正数的；在零以上的
-sum|n.|总和；总数；金额
-total|adj./n.|总的；全部的。总数
+plus|prep./adj.|加上。正数的；在零以上的|Intelligence plus wit makes for an interesting person
+sum|n.|总和；总数；金额|The man has decided to give his son a huge sum of money for his independence from the family
+total|adj./n.|总的；全部的。总数|In total, over 100, 000 people were killed in the tsunami and a great many of people were homeless
 ---
-merger|n.|合并；并归
-equation|n.|相等；平衡；综合体；方程式；等式
+merger|n.|合并；并归|The proposed merger between two of the largest software companies has been passed
+equation|n.|相等；平衡；综合体；方程式；等式|If you're trying to lose weight in a healthy way, exercise should be part of the equation
 identical|adj.|同一的|This is the identical hotel we stayed at last year
 ---
-minus|adj./prep.|负的；零以下的；减去
-subtract|v.|减去；减
-multiply|v.|乘；使相乘；使成倍增加；繁殖
+minus|adj./prep.|负的；零以下的；减去|The temperature is minus ten degrees now
+subtract|v.|减去；减|The littel girl has begun to learn to add and subtract
+multiply|v.|乘；使相乘；使成倍增加；繁殖|Friendships multiply joy and divide grievance
 ---
-divide|v.|除以；除
-dividend|n.|被除数
-remainder|n.|余数；剩余部分
-rational|n./adj.|有理数；（数、式等）有理的
+divide|v.|除以；除|Twelve divided by three is four
+dividend|n.|被除数|In twelve divided by two, twelve is the dividend
+remainder|n.|余数；剩余部分|Divide four into thirteen and the remainder is one
+rational|n./adj.|有理数；（数、式等）有理的|A rational number can be expressed as a ratio of two integers
 ---
-parameter|n.|参数；起限定作用的因素
-variable|n./adj.|变量；可变因素。易变的
-even|adj./adv.|均匀的；偶数的；相等的。甚至
-odd|adj.|奇数的；古怪的
+parameter|n.|参数；起限定作用的因素|Political descent is a parameter of modern life
+variable|n./adj.|变量；可变因素。易变的|There are some variables that can change our plan
+even|adj./adv.|均匀的；偶数的；相等的。甚至|He won the first round and I won the second, so our scores are even now
+odd|adj.|奇数的；古怪的|One, three, five, and seven are odd numbers
 mean|n./adj.|平均数；平均值。平均的|The professor asked the students to take 200 values and calculate the mean|mean distance 平均距离
 ---
-double|adj./n./v.|两倍的。两倍数；两倍量。使加倍
-triple|adj./n./v|三倍的；三重的。三倍数；三包两。使增至三倍
-quadruple|adj./n./v.|四倍的。四倍
-multiple|n./adj.|倍数。多样的，数量多的
+double|adj./n./v.|两倍的。两倍数；两倍量。使加倍|Many things now cost double what they did a couple of years ago
+triple|adj./n./v|三倍的；三重的。三倍数；三包两。使增至三倍|His income triped
+quadruple|adj./n./v.|四倍的。四倍|Our profits have quadrupled in the last decade
+multiple|n./adj.|倍数。多样的，数量多的|Eighteen is a multiple of six
 ---
-maximum|n.|最大值；最大限度
-minimum|n.|最小值；最小限度
-approximately|adv.|大约
+maximum|n.|最大值；最大限度|The maximum load for this truck is ten tons
+minimum|n.|最小值；最小限度|You must get a minimum of 60 questions right to pass the test
+approximately|adv.|大约|The yelk contains all the fat and approximately half the protein of the egg
 ---
-chart|n.|图；图表；海图
-graph|n.|图表；图
-diagram|n.|图表；示意图；图解
-table|n.|表格；桌子
-matrix|n.|矩阵；铸模
+chart|n.|图；图表；海图|This chart displays the links connecting these groups
+graph|n.|图表；图|They made a graph of how cold the weather was everyday for a month
+diagram|n.|图表；示意图；图解|The teacher draws a diagram showing how the plant seedling bends towards the sunlight
+table|n.|表格；桌子|We should create a table for the sales data
+matrix|n.|矩阵；铸模|She can not find the matrix for the competition
 ---
-rectangle|n.|长方形；矩形
-cube|n.|立方体；立方；三次幂；立方的东西
-angle|n.|角度；脚
-triangle|n.|三角形；三角关系
-diagonal|adj./n.|斜纹的；对角线的。对角线；斜纹织物
-straight|adj./adv.|直的；笔直地；直接
+rectangle|n.|长方形；矩形|the plate itself is a small rectangle made of gold
+cube|n.|立方体；立方；三次幂；立方的东西|She dropped a cube of sugar into her coffee and stirred it with a spoon
+angle|n.|角度；脚|The temple is especially beautiful to look at from this angle
+triangle|n.|三角形；三角关系|The three places form a triangle
+diagonal|adj./n.|斜纹的；对角线的。对角线；斜纹织物|The two diagonals of a square cross in the center
+straight|adj./adv.|直的；笔直地；直接|The old lady closed her book and looked straight at me
 ---
-circle|n.|圆
-round|adj./n./adv.|圆的。绕圈；一轮。环绕
-dot|n./v.|点。在...打点
+circle|n.|圆|The circle is ten centimeters in diameter
+round|adj./n./adv.|圆的。绕圈；一轮。环绕|He went round and round but could find no way to get out of the room
+dot|n./v.|点。在...打点|On the map, convenience stores are marked by a red dot
 sphere|n.|球体；球状物；范围；领域|We move in different social sphere
-cone|n.|圆锥体；锥形物|The police have sectioned off the road with traffic cones
+cone|n.|圆锥体；锥形物|The police have sectioned off the road with traffic cones|section off 划分，隔开
 ---
 extent|n.|广度；范围；程度|No one cares about the extent of his debts|to some extent 在某种程度上
-width|n.|宽度
-length|n.|长度
+width|n.|宽度|In front of the mountain is a river of great width
+length|n.|长度|The room is 7 meters in length and 5 meters in breadth
 ---
-decimal|adj./n.|小数的；十进制的。小数
-percent/per cent|n.|百分之...
-proportion|n.|比例
+decimal|adj./n.|小数的；十进制的。小数|The decimal system is widely used
+percent/per cent|n.|百分之...|I am 100 percent in agreement
+proportion|n.|比例|This door is very narrow in proportion to its height
 ---
-rate|n.|比率；率；速度
-ratio|n.|比|The ratio of 3 to 9 is the same as that 9 to 27|in direct ratio 按正比例。in inverse ratio 按反比例
+rate|n.|比率；率；速度|The rate of inflation decreased to 5 percent last year
+ratio|n.|比|The ratio of 3 to 9 is the same as that of 9 to 27|in direct ratio 按正比例。in inverse ratio 按反比例
 fraction|n.|分数；小部分；片段|She spends only a fraction of her earnings on clothes
 ---
-scale|n./v.|刻度；规模。攀登 scales 天平；鳞
-ounce|n.|盎司；少量
-density|n.|密度；浓度
+scale|n./v.|刻度；规模。攀登 scales 天平；鳞|A machine for weighing people has a scale from one pound to 300 pounds on it
+ounce|n.|盎司；少量|An ounce of prevention is worth of a pound of cure 预防胜于治疗
+density|n.|密度；浓度|The population density of big cities is incresing year by year
 ---
-Fahrenheit|adj.|华氏温标的
-mercury|n.|水银；水星
-battery|n.|电池；（物品的）一组
-volt|n.|伏特
+Fahrenheit|adj.|华氏温标的|Water freezes at 32 degrees Fahrenheit
+mercury|n.|水银；水星|The mercury stood at nearly 40 degrees C
+battery|n.|电池；（物品的）一组|You can charge your car battery at this car park
+volt|n.|伏特|A child miraculously survived a 25, 000 volt electric shock
 ---
-radiate|v.|辐射；发散；从中心向四周散开
+radiate|v.|辐射；发散；从中心向四周散开|Four avenues radiate from the square
 emit|v.|散发 (光、热、气等)；发出（声音）|The tail exhaust pipe of the car emitted poisonous smoke
-transparent|adj.|透明的；易看穿的
-hollow|adj.|中空的；空心的
+transparent|adj.|透明的；易看穿的|Not all glass is transparent
+hollow|adj.|中空的；空心的|The trunk of this tree looks solid, but in fact, it is hollow
 ---
-ozone|n.|臭氧
-gravity|n.|地球引力；重力
-friction|n.|摩擦力；摩擦；不和；矛盾
+ozone|n.|臭氧|The ozone layer protects the earth from most of the sun's ultraviolet radiation
+gravity|n.|地球引力；重力|Enormous energy is needed to launch a spacecraft against gravity
+friction|n.|摩擦力；摩擦；不和；矛盾|In designing this device, it is necessary to reduce friction as much as possible
 eccentric|adj.|不同心圆的；古怪的|The old lady has some eccentric habits
 displace|v.|移动...的位置；取代；代替|A bone in his knee was displaced when he crashed against another player
 ---
 boil|v./n.|煮沸。沸点|The watched pot never boils 性急烧水不沸|boil down to 归结为。on the boil 在沸腾
-melt|v.|（使）融/熔化
-dissolve|v.|（使）溶解；解散
+melt|v.|（使）融/熔化|Iron melts at a great heat
+dissolve|v.|（使）溶解；解散|Sugar dissolves in water
 ---
 rust|v./n.|（使）生锈。锈；铁锈|If you leave your metal tools outside in the rain, they will rust|rusty adj. 生锈的
 ferment|v./n.|（使）发酵；骚动。酶；发酵；动乱|The whole country was in a state of ferment|yeast n. 酵母；酵母菌
 dilute|v./adj.|冲淡；稀释。稀释了的；减弱了的|The nurse diluted the drug with saline water
-acid|n./adj.|酸。酸的；讽刺的；尖刻的
-noxious|adj.|有害的|Increasing tax on petrol would encourage people to drive cars with fewer emissions
+acid|n./adj.|酸。酸的；讽刺的；尖刻的|When she spoke, her tone was like acid
+noxious|adj.|有害的|Increasing tax on petrol would encourage people to drive cars with fewer noxious emissions
 ---
-static|adj.|静态的
-inert|adj.|无生气的；惰性的；不活泼
+static|adj.|静态的|This cloth material has static electricity
+inert|adj.|无生气的；惰性的；不活泼|Helium and neon are inert gases
 inherent|adj.|内在的；固有的|Polarity is inherent in a magent|be inherent in 为...所固有
 ---
-formula|n.|公式；方程式；原则；配方；分子式
-component|n.|成分；组成
+formula|n.|公式；方程式；原则；配方；分子式|The formula for water is H2O
+component|n.|成分；组成|Regular exercise is one of the key components of a healthy lifestyle
 compose|v.|组成；构成；创作；写|Water is composed of hydrogen and oxygen|composer n. 作曲家。be composed of 由...组成
-mixture|n.|混合物
-blend|n./v.|混合；（使）交融。混合物
+mixture|n.|混合物|her new play is mixture of sadness and humour
+blend|n./v.|混合；（使）交融。混合物|His manner was a blend of friendliness and respect
 ---
-theory|n.|理论；学说
+theory|n.|理论；学说|There are many theories about the origin of the universe
 empirical|adj.|经验主义的；以实验为依据的|His thesis is not very convincing for lack of empirical evidence
-practical|adj.|实际的；有用的；务实的；心灵手巧的
+practical|adj.|实际的；有用的；务实的；心灵手巧的|He is very practical. He can make or mend almost anything
 ---
-doctrine|n.|学说；教义；信条
-principle|n.|原则；（科学）原理
-discipline|n.|纪律；训练
+doctrine|n.|学说；教义；信条|The doctrine is unchangable
+principle|n.|原则；（科学）原理|A bicycle and a motorcycle are built on the same principle
+discipline|n.|纪律；训练|It takes years of discipline to become a ballerina
 ---
-term|n.|期限；术语；[英]学期
-semester|n.|学期
-timetable|n.|时间表；课程表
-schedule|n.|日程安排；[美]时刻表
-deadline|n.|截止日期
+term|n.|期限；术语；[英]学期|The protocol would have many positive results in the long term
+semester|n.|学期|There are two semesters in a year
+timetable|n.|时间表；课程表|There are eight English classes listed on this term's timetable 
+schedule|n.|日程安排；[美]时刻表|The next thing on my schedule is to buy some milk in the supermarket
+deadline|n.|截止日期|I hope we can finish this before the deadline
 ---
-course|n.|课程
-lesson|n.|一堂课；课程；教训
+course|n.|课程|She is currently doing a business studies course at Leeds
+lesson|n.|一堂课；课程；教训|The lesson from your failure is perhaps a broader one
 curriculum|n.|课程；全部课程|The staff should work together to revise the school curriculum|extra-curriculum 课外的。curriculum vitae 履历 CV
-seminar|n.|研讨会；讨论课
-forum|n.|论坛；讨论会；公开讨论广场
-syllabus|n.|教学大纲
-system|n.|系统；体系；制度
+seminar|n.|研讨会；讨论课|Why didn't you come to yesterday's seminar?
+forum|n.|论坛；讨论会；公开讨论广场|The forum is now open to all small and medium-sized enterprises
+syllabus|n.|教学大纲|The syllabus changes every year
+system|n.|系统；体系；制度|The new system is still in the planning stage
 ---
-rudimentary|adj.|基本的；粗浅的
-basic|adj.|基本的；基础的
-fundamental|adj.|基础的；基本的；根本的
+rudimentary|adj.|基本的；粗浅的|He only has a rudimentary knowledge of the dinosaurs
+basic|adj.|基本的；基础的|The government increased prices on some basic commodities like meat and dairy products
+fundamental|adj.|基础的；基本的；根本的|Another fundamental consideration in the conception of a design is function
 ---
-elementary|adj.|基本的；初级的
+elementary|adj.|基本的；初级的|Their course of study includes elementary hygiene and medical theories
 profound|adj.|（影响）深刻的，深远的；见解深刻的|His brother's words have had a profound effect on him
-superficial|adj.|表面的；外表的；肤浅的
-surface|n.|表面；地面；水面
+superficial|adj.|表面的；外表的；肤浅的|He is too superficial to appreciate great literature like this
+surface|n.|表面；地面；水面|The surface of the bamboo feels so smooth
 ---
-compulsory|adj.|强制的
-prerequisite|n./adj.|必备条件。必备的
-selective|adj.|选择性的
-elective|adj.|选择性的
+compulsory|adj.|强制的|Britain did not introduce compulsory primary education until 1880
+prerequisite|n./adj.|必备条件。必备的|Training is a prerequisite for competence
+selective|adj.|选择性的|The man seem to have a very selective recall of past events
+elective|adj.|选择性的|Besides the required courses, I'm taking an elective in computer science
 ---
-assignment|n.|作业；任务
-submit|v.|提交；服从||submit to 服从于；屈从于。submit sth. to 把某物提交给
-preview|n./v.|预习
-review|n./v.|回顾；复习
+assignment|n.|作业；任务|A brave fighter never shrinks from danger when executing an assignment
+submit|v.|提交；服从|I hope you can submit your term papers before the deadline|submit to 服从于；屈从于。submit sth. to 把某物提交给
+preview|n./v.|预习|Please do the preview and review work
+review|n./v.|回顾；复习|We must hold a careful review of historical events
 ---
-revise|v.|修订；修改
-inspect|v.|检查；检阅；视察
-consult|v.|请教；查阅
+revise|v.|修订；修改|The writer was revising what he had written
+inspect|v.|检查；检阅；视察|The mayor will inspect our school tomorrow
+consult|v.|请教；查阅|In this case, I recommended that you consult your doctor
 ---
-skim|v.|掠过；擦过；略读
-scan|v./n.|细看；浏览；扫描
-scrutinise/scrutinize|v.|仔细检查|scrutiny n. 详细审查
-recite|v.|背诵；朗诵
+skim|v.|掠过；擦过；略读|It's important for you to skim through this article
+scan|v./n.|细看；浏览；扫描|I just had a quick scan through your book again
+scrutinise/scrutinize|v.|仔细检查|The jeweler scrutinized the ruby for flaws|scrutiny n. 详细审查
+recite|v.|背诵；朗诵|Each child had to recite a poem in class
 dictate|v.|让（某人）听写；命令；强行规定|The English teacher dictates to the class every other week|dictaion n. 听写；口述
 ---
-examination/exam|n.|考试；抽查
-test|v./n.|测试；检验
-quiz|n.|小测验
-presentation|n.|陈述；表演；演出
+examination/exam|n.|考试；抽查|Did you have to get through an entrance examination
+test|v./n.|测试；检验|The scientist have already experimented at test sites
+quiz|n.|小测验|The quiz was a good opportunity for him to exhibit his knowledge
+presentation|n.|陈述；表演；演出|There is a presentation of our new play tonight
 ---
-plagiarise/plagiarize|v.|抄袭
-copy|n./v.|复制品。抄写；复制
-print|v./n.|打印。印刷品；照片
+plagiarise/plagiarize|v.|抄袭|It is not a viable option to plagiarize someone's work
+copy|n./v.|复制品。抄写；复制|This painting is a copy of the one in the museum
+print|v./n.|打印。印刷品；照片|Print these words in Italics across the top of the page
 ---
-thesis|n.|论文
-essay|n.|短文；小品文
-paper|n.|论文；纸
-dissertation|n.|专题论文；（尤指）学位论文
-project|n.|（大中学生的）专题研究；项目；方案
+thesis|n.|论文|To be specific, the argument in your graduation thesis is logical
+essay|n.|短文；小品文|This essay represents a considerable improvement on your recent work
+paper|n.|论文；纸|She is working hard at her term paper in the library
+dissertation|n.|专题论文；（尤指）学位论文|Each student will have a supervisor to advise on the writing of a dissertation
+project|n.|（大中学生的）专题研究；项目；方案|It is an elaborate project that applies to many purposes
 ---
-heading|n.|标题；主题
-outset|n.|开端；开始
-outline|n.|概要；轮廓
+heading|n.|标题；主题|The heading was in large print
+outset|n.|开端；开始|The science fiction fascinates the readers from the outset
+outline|n.|概要；轮廓|This document provided a broad outline of the country's development after the World War II
 ---
-point|n.|点；要点
+point|n.|点；要点|That is not the point in question
 gist|n.|主旨；要点|He cannot understand the gist of their argument
-opinion|n.|看法；评价
-introduce|v.|介绍；引进
+opinion|n.|看法；评价|She asked her friends' opinions about her plans
+introduce|v.|介绍；引进|Britain did not introduce complusory primary education until 1880
 ---
-reference|n.|参考；推荐函；提及；涉及
-cite|v.|引用
-elicit|v.|引出；探出；套出
-quote|v.|引用；引述；报（价）
+reference|n.|参考；推荐函；提及；涉及|This book is for reference only
+cite|v.|引用|I'll just cite some figures for comparison
+elicit|v.|引出；探出；套出|At last, we elicited some important information from him
+quote|v.|引用；引述；报（价）|The author frequently quoted Shakespeare
 ---
-extract|n.|摘录
-abstract|n./adj./v.|摘要。抽象的。提取；把...抽象出
-summary|n.|摘要；概要
+extract|n.|摘录|The following extract is taken from his commentary on the movie
+abstract|n./adj./v.|摘要。抽象的。提取；把...抽象出|Iron is abstracted from ore
+summary|n.|摘要；概要|The professor asked the students to make a summary of the reading material
 ---
-assume|v.|假定；设想；承担（责任）；取得（权力）||assumption n. 假设；假想
-presume|v.|假定；假设；料想
+assume|v.|假定；设想；承担（责任）；取得（权力）||assumption n. 假设；假想|We assume his innocence before hearing the evidence against it
+presume|v.|假定；假设；料想|From his words, I presumed that he had been in France for several years
 suppose|v.|假定；认为|Let us suppose another planet with conditions similar to those on the earth|be suppose to do sth. 应该做某事
 ---
-hypothesis|n.|假说；假设
-postulate|v./n.|假定；假设
-speculate|v.|推测
-predict|v.|预测
+hypothesis|n.|假说；假设|This is only a scientific hypothesis that has not been proved by experiments
+postulate|v./n.|假定；假设|The experts had postulated that this disease can be cured in a couple of decades
+speculate|v.|推测|The doctors could only speculate that he died of cancer
+predict|v.|预测|It is virtually impossible to predict the future accurately
 ---
 perceive|v.|感知；察觉；意识到|I perceived that it was not possible to make her change her mind
-detect|v.|察觉；发觉；侦查出
-discern|v.|察觉出；分辨出
-recognise/recognize|v.|认识；辨认出
-conscious|adj.|意识到的；有知觉的
+detect|v.|察觉；发觉；侦查出|The man is responsible for detecting some kind of weak signals
+discern|v.|察觉出；分辨出|The child find it hard to discern between red and green
+recognise/recognize|v.|认识；辨认出|I recoginized Peter at once, although I hadn't seen him for many years
+conscious|adj.|意识到的；有知觉的|He was conscious of his guilt
 ---
-reckon|v.|估计；期望；认为
-deem|v.|认为；相信
-imply|v.|暗指；意味着
-deliberate|v./adj.|深思熟虑；仔细考虑。审慎的
+reckon|v.|估计；期望；认为|We had reckoned on your support|reckon on sth. 指望，依赖
+deem|v.|认为；相信|The board deemed it urgent that these files be printed right away
+imply|v.|暗指；意味着|The way he talked implied that he was not willing to accept the agreement
+deliberate|v./adj.|深思熟虑；仔细考虑。审慎的|She deliberated the question before she made an answer
 ---
-represent|v.|代表；象征
-insist|v.|坚持；坚决认为（主张或要求）
-persist|v.|坚持不懈；持续存在
+represent|v.|代表；象征|A committee has been elected to represent us
+insist|v.|坚持；坚决认为（主张或要求）|We insist on self-reliance
+persist|v.|坚持不懈；持续存在|On the top the massive mountains, snow persists throughout the year
 ---
-understand|v.|懂得；理解
-comprehend|v.|理解；领悟
-analyse/analyze|v.|分析
+understand|v.|懂得；理解|What human beings have understood is just the tip of the iceberg
+comprehend|v.|理解；领悟|You can say you have comprehended a word if you can use it correctly and effectively
+analyse/analyze|v.|分析|We should analyze the cause and the effect of this event
 ---
-diagnose|v.|判断；诊断
-infer|v.|推断；推理
-deduce|v.|演绎；推论
-conclude|v.|推断出；得出结论；（使）结束
+diagnose|v.|判断；诊断|We can use a test to diagnose a variety of diseases
+infer|v.|推断；推理|From your smile, I infer that you like this drink
+deduce|v.|演绎；推论|We can deduce a conclusion from this premise|premise n. 前提
+conclude|v.|推断出；得出结论；（使）结束|What do you conclude from his explanation?
 ---
-analogy|n.|类比；类推||analogous adj. 类似的。by analogy 通过类推法
-compare|v.|比较；把...比作；比得上
-contrast|n.|对比；明显的差异||by contrast/in contrast 与之相比，相比之下。in contrast to 与...截然不同
+analogy|n.|类比；类推|The man drew an analogy between the human skin and a brick wall|analogous adj. 类似的。by analogy 通过类推法
+compare|v.|比较；把...比作；比得上|Your knowledge cannot yet compare with his
+contrast|n.|对比；明显的差异|There is a great contrast between good and evil|by contrast/in contrast 与之相比，相比之下。in contrast to 与...截然不同
 ---
-overlap|v.|与...复叠；（与...）部分相同
-contradiction|n.|矛盾；不一致；反驳
-disagree|v.|有分歧；不同意
-differ|v.|不同、相异||differ from 与...不同
+overlap|v.|与...复叠；（与...）部分相同|The plots and descriptions in these two novels largely overlap
+contradiction|n.|矛盾；不一致；反驳|Your attitude is in contradiction to your character
+disagree|v.|有分歧；不同意|I strongly disagree with this immoral approach to science
+differ|v.|不同、相异|The two theories differ from each other in many ways|differ from 与...不同
 ---
-diverse|adj.|不一样的；多种多样的
-nuance|n.|细微差别
-inductive|adj.|归纳的；诱导的
+diverse|adj.|不一样的；多种多样的|The original meaning of this word has become more diverse over time
+nuance|n.|细微差别|The investigator watched the suspect's face intently to catch every nuance of expression
+inductive|adj.|归纳的；诱导的|You need to infer by inductive reasoning
 ---
-detail|n.|细节；（画等的）细节||detailed adj. 详细的。in detail 详细地
-thorough|adj.|彻底的；详尽的
-example|n.|例子；榜样
-instance|n.|实例；情况；场合||for instance 例如
+detail|n.|细节；（画等的）细节|No detail was too small to escape the detective's attention|detailed adj. 详细的。in detail 详细地
+thorough|adj.|彻底的；详尽的|A thorough brushing helps to protect your teeth and gums
+example|n.|例子；榜样|Her diligence has set an example to the others
+instance|n.|实例；情况；场合|Nowadays we can read many instances of good people and good deeds in the press|for instance 例如
 ---
-confirm|v.|证实；确保；巩固
-demonstrate|v.|示范；演示；证明||demonstration n. 示范；游行示威。demonstrative adj. 情感外露的；喜怒形于色的。demonstrator n. 示范者；游行示威者
-illustrate|v.|（用图等）说明；给（书）加插图（或图表）
-manifest|v.|显示；表明
-prove|v.|证明；结果是
+confirm|v.|证实；确保；巩固|Her new film confirmed her as one of our leading directors
+demonstrate|v.|示范；演示；证明|He demonstrated how to use the new machine|demonstration n. 示范；游行示威。demonstrative adj. 情感外露的；喜怒形于色的。demonstrator n. 示范者；游行示威者
+illustrate|v.|（用图等）说明；给（书）加插图（或图表）|The book was illustrated with color photographs
+manifest|v.|显示；表明|Her bravery manifests itself in times of difficulty
+prove|v.|证明；结果是|He has proved his loyalty in the battle
 ---
-determine|v.|决定；下定决心；查明||determinant n. 决定因素。 determined adj. 下定决心的。determine to do sth. 决心做某事。determine beforehand 事先决定
-decide|v.|决定||decision n. 决定；抉择
-resolve|v.|决心；决定；（使）分解为；解决||resolution n. 决心；分辨率。solution n. 解决方案；溶液
+determine|v.|决定；下定决心；查明|He determined to move to another city and start a new life|determinant n. 决定因素。 determined adj. 下定决心的。determine to do sth. 决心做某事。determine beforehand 事先决定
+decide|v.|决定|Don't decide on important matters too quickly|decision n. 决定；抉择
+resolve|v.|决心；决定；（使）分解为；解决|She resolves that she will never eat junk food|resolution n. 决心；分辨率。solution n. 解决方案；溶液
 ---
-survey|n./v.|民意调查；对...进行民意调查||动词的时候重音在中间
-research|n.|调查；探索
-observe|v.|观察；观测；注意到
+survey|n./v.|民意调查；对...进行民意调查|A recent survey of public opinions shows that many people are worried about the rising house prices|动词的时候重音在中间
+research|n.|调查；探索|It is a good idea to do some research before you buy a house
+observe|v.|观察；观测；注意到|I observed a stranger enter my neighbor's home
 ---
-inquire/enquire|v.|询问；调查||inquiry n. 询问；调查。 inquire into 调查
-query|n./v.|疑问；询问；怀疑；询问
-questionnaire|n.|调查表；调查问卷
+inquire/enquire|v.|询问；调查|We must inquire into the matter|inquiry n. 询问；调查。 inquire into 调查
+query|n./v.|疑问；询问；怀疑；询问|I have serveral queries about the work you give me
+questionnaire|n.|调查表；调查问卷|We have sent out nealy 3000 questionnaires, but only a third of them were returned
 ---
-achieve|v.|实现；到达||achievement n. 成就；完成；达到。achieve success 取得成功
-accomplish|v.|达到（目的）；完成
-attain|v.|获得；达到||attainment n. 达到；成就。attain one's goal 达到某人目标
+achieve|v.|实现；到达|In many fields, women have yet to achieve the equal participation in policy making processes|achievement n. 成就；完成；达到。achieve success 取得成功
+accomplish|v.|达到（目的）；完成|Though the task was challenging, we managed to accomplish it on time
+attain|v.|获得；达到|Great efforts are needed before we can attain our goal|attainment n. 达到；成就。attain one's goal 达到某人目标
 ---
-credit|n.|赊购；学分；信任
-score|n.|得分、成绩
-mark|n./v.|分数；标记；标志着；给...打分；在...上做记号
-grade|v./n.|给...分等级：等级；成绩等级
+credit|n.|赊购；学分；信任|I need three more credits to graduate
+score|n.|得分、成绩|Now the score in the football game is one one
+mark|n./v.|分数；标记；标志着；给...打分；在...上做记号|It is dangerous to swim beyond this mark
+grade|v./n.|给...分等级：等级；成绩等级|This grade of jade can be bought at a fairly low price
 ---
-rank|n./v.|等级；排；列；给...评级；位列||ranking n. 排名（表）；等级
-row|n.|一排；一行
-queue|n./v.|行列；队列；排队等候
+rank|n./v.|等级；排；列；给...评级；位列|There are people of all ranks and classes|ranking n. 排名（表）；等级
+row|n.|一排；一行|A row of children are standing in front of a row of chairs1
+queue|n./v.|行列；队列；排队等候|We should join the queue inside the bank
 ---
-grant|v.|授予；准予；承认||take sth. for granted 认为某事是理所应当的
-praise|n./v.|赞美；赞扬||full of praise 赞不绝口 praise sb. for sth. 为某事赞扬某人
-appreciate|v.|赏识；感激；意识到
+grant|v.|授予；准予；承认|I grant that book gives us something insights into human nature, but generally speaking, it is boring|take sth. for granted 认为某事是理所应当的
+praise|n./v.|赞美；赞扬|American reviewers are lavish in their praise of this movie|full of praise 赞不绝口 praise sb. for sth. 为某事赞扬某人
+appreciate|v.|赏识；感激；意识到|We appreciate your efforts for the development of the company
 ---
-feedback|n.|反馈；反应
-underestimate|v.|低估||estimate v. 估算；n. 估算；评价
-overestimate|v.|高估
+feedback|n.|反馈；反应|We'd appreciate it if you gave us some feedback on our new product
+underestimate|v.|低估|Don't underestimate the difficulty of this job|estimate v. 估算；n. 估算；评价
+overestimate|v.|高估|Most customers overestimated the price of the overcoat
 ---
-apply|v.|申请
-fellowship|n.|研究生奖学金
-scholarship|n.|奖学金；学问；学识
-reward|n./v.|报答；赏金；报答||reward sb. for sth. 为某事报答某人。 as a reward for 作为对（某事）的报酬
+apply|v.|申请|My cousin applied to four universities and was accepted by all of them
+fellowship|n.|研究生奖学金|As a student, he was awarded the fellowship at Harvard
+scholarship|n.|奖学金；学问；学识|For a few, scholarships were their main source of support
+reward|n./v.|报答；赏金；报答|Virture is its own reward|reward sb. for sth. 为某事报答某人。 as a reward for 作为对（某事）的报酬
 ---
-award|n.|奖；奖品
-prize|n./v.|奖赏；珍视
-fee|n.|酬金；费用
+award|n.|奖；奖品|The novice writer is especially thrilled with this award
+prize|n./v.|奖赏；珍视|We prize honor above money
+fee|n.|酬金；费用|A higher fee doesn't necessarily mean a better course
 ===
 科技发明
 +++
-technology|n.|技术||technological adj. 技术上的；advanced technology 先进的技术
-technique|n.|技巧；技术||technical adj. 技术的；技能的；工艺的。technician n. 技术员；技师
-polytechnic|adj./n.|有关多种工艺的；理工学院
-engineer|n.|工程师；技师
-mechanic|n.|技工；机械师；机修工
+technology|n.|技术|Life is made so much easier with modern science and technology|technological adj. 技术上的；advanced technology 先进的技术
+technique|n.|技巧；技术|I want to learn the latest technique in toy making|technical adj. 技术的；技能的；工艺的。technician n. 技术员；技师
+polytechnic|adj./n.|有关多种工艺的；理工学院|You trainees will acquire polytechnic training
+engineer|n.|工程师；技师|Each engineer needs to be in touch with the entire engineering department
+mechanic|n.|技工；机械师；机修工|This car has broken down again. I have to ring the mechanic
 ---
-advance|n./v.|发展；前进
-innovate|v.|创新；改革
-breakthrough|n.|突破
+advance|n./v.|发展；前进|We have advanced greatly in our knowledge of the universe
+innovate|v.|创新；改革|We must innovate in order to make progress
+breakthrough|n.|突破|Surgeons have made a great breakthrough in kidney transplantation
 ---
-gizmo|n.|小装置
-patent|n./v.|专利；专利权；得到...的专利权；给...专利证
-devise|v.|设计；发明||device n. 装置；设备
+gizmo|n.|小装置|The modern world is increasingly populated by intelligent gizmos, whose universal existence has removed much human labor
+patent|n./v.|专利；专利权；得到...的专利权；给...专利证|The government patented this device to its inventor
+devise|v.|设计；发明|The team is trying to devise a new system for handling mail order|device n. 装置；设备
 invent|v.|发明，创造|Do you who invented the magnetic needle?|invention n. 发明，创造。inventor n. 发明者，创造者
-discover|v.|发现
+discover|v.|发现|He discovered his talent for fashion design when he was very young
 ---
-disclose|v.|揭露；透露
-reveal|v.|展现；显示；透露
-uncover|v.|揭露；发现
-expose|v.|使暴露；揭发；使曝光
+disclose|v.|揭露；透露|The authority finally disclosed the truth to the press
+reveal|v.|展现；显示；透露|His deed revealed him to be a kind man
+uncover|v.|揭露；发现|The detective must uncover the murder by deduction of facts
+expose|v.|使暴露；揭发；使曝光|The crime of the corrupt officials must be exposed without any reserve
 ---
-domain|n.|（活动、学问等的）领域；领土；领地
-field|n.|领域
-realm|n.|领域
-foundation|n.|基础；地基；基金会
+domain|n.|（活动、学问等的）领域；领土；领地|This is out of my domain
+field|n.|领域|He has become famous in his own field
+realm|n.|领域|Such an idea only belongs in the realm of science fiction
+foundation|n.|基础；地基；基金会|He laid the foundations his success by hard work
 ---
-specialise/specialize|v.|专攻||specialize in 专攻；专门研究；专门经营
-absorb|v.|理解；掌握
-concentrate|v.|（集中）心思；（使）浓缩||concentration n. 专心；浓度。concentrate on 专心于
-focus|v./n.|集中于；焦点
-utilise/utilize|v.|利用||utility n. 效用；有用。utilities n. （水、电、煤气等）公用事业。utilizbation=utilization n. 利用；使用
-usage|n.|使用；用法
-tester|n.|测试员；测试仪
-apply|v.|应用；适用||apply to 适用于。apply A to B 把 A 应用于 B
+specialise/specialize|v.|专攻|Many students specialize in engineering|specialize in 专攻；专门研究；专门经营
+absorb|v.|吸收；理解；掌握|His ability to absorb bits of disconnected information was astonishing
+concentrate|v.|（集中）心思；（使）浓缩|They will concentrate on teaching the basics of reading, writing, and arithmetic|concentration n. 专心；浓度。concentrate on 专心于
+focus|v./n.|集中于；焦点|Today he was able to focus his message exclusively on the economy
+utilise/utilize|v.|利用|In order to utilize land more fully, they adopted close planting|utility n. 效用；有用。utilities n. （水、电、煤气等）公用事业。utilizbation=utilization n. 利用；使用
+usage|n.|使用；用法|The college board said what's on the new test will relate to usage
+tester|n.|测试员；测试仪|The battery tester is in my garage
+apply|v.|应用；适用|We should not only know the theory, but also how to apply it to practice|apply to 适用于。apply A to B 把 A 应用于 B
 ---
-device|n.|装置；设备；手段；策略
-appliance|n.|应用；（家用）器具
-facility|n.|设备；便利
-equipment|n.|设备
+device|n.|装置；设备；手段；策略|These newly designed devices will appear in the exhibition next month
+appliance|n.|应用；（家用）器具|The household appliances were just bought by him for his family
+facility|n.|设备；便利|This facility is open to both new and existing borrowers
+equipment|n.|设备|We should make better use of the existing equipment
 ---
-instrument|n.|仪器；工具；乐器
-tool|n.|工具
-gauge|n./v.|测量仪器；测量；判断
-measure|v./n.|测量；衡量；措施||measurable adj. 可测量的。measurement n. 测量；衡量；尺寸。take measures 采取措施
-calculate|v.|计算；考虑；打算||calculation n. 计算。calculator n. 计算器
-compute|n.|计算；估计
-count|v.|计算||counter n. 柜台；计数器
-estimate|n./v.|估计；估价；评价
-assess|v.|评估；估算
-evaluate|v.|评价；评估
+instrument|n.|仪器；工具；乐器|A plow is an instrument used for farming
+tool|n.|工具|Advertising is a tool that nearly every company is utilizing
+gauge|n./v.|测量仪器；测量；判断|It was difficult to gauge how people would respond
+measure|v./n.|测量；衡量；措施|Measure this impedance, and you can measure how much it has rained|measurable adj. 可测量的。measurement n. 测量；衡量；尺寸。take measures 采取措施
+calculate|v.|计算；考虑；打算|Our price has already been closely calculated. There is no room for reduction|calculation n. 计算。calculator n. 计算器
+compute|n.|计算；估计|I compute my loss at 500 dollars
+count|v.|计算|It is impossible to count the stars in the sky|counter n. 柜台；计数器
+estimate|n./v.|估计；估价；评价|Now I've realized that my estimate of her character was one-sided
+assess|v.|评估；估算|We will assess the damage caused by the flood
+evaluate|v.|评价；评估|The research project has only been underway for three months, so it is too early to evaluate its success
 ---
-accessory|n.|附件；配件
-byproduct|n.|副产品||bypass n. 旁路。bypath n. 旁道；小路。bywork n. 业余活计。byname n. 绰号
-auxiliary|adj.|辅助的；协助的；备用的
-versatile|adj.|多功能的；多用途的
+accessory|n.|附件；配件|Car accessories include the roof rack and radio
+byproduct|n.|副产品|Happiness is not a goal. It is a byproduct|bypass n. 旁路。bypath n. 旁道；小路。bywork n. 业余活计。byname n. 绰号
+auxiliary|adj.|辅助的；协助的；备用的|When there is a power shortage, they count on the auxiliary power supply
+versatile|adj.|多功能的；多用途的|Plastic is a versatile material in industry
 ---
-add|v.|添加；附加
-accumulate|v.|累积；（数额）不断增加
-assemble|v.|集合；聚集
+add|v.|添加；附加|He didn't add milk nor sugar to his coffee
+accumulate|v.|累积；（数额）不断增加|Dust and dirt soon accumulate if you don't clean your house regularly
+assemble|v.|集合；聚集|A large crowd had assembled outside the American Embassy
 ---
-gather|v.|收集；采集
-attach|v.|使依附；附加；缚；系；贴||attachment n. 附件；附属物。attach importance to 重视
-belong|v.|应在（某处）；适合（某种情形）||belong to 属于
+gather|v.|收集；采集|He took the trouble to gather the materials for me
+attach|v.|使依附；附加；缚；系；贴|China will not attach itself to any big power|attachment n. 附件；附属物。attach importance to 重视
+belong|v.|应在（某处）；适合（某种情形）|Russia a major oil exportor, but does not belong to OPEC|belong to 属于
 ---
-optics|n.|光学
-microscope|n.|显微镜||microphone n. 麦克风。microwave n. 微波；微波炉。microbe n. 微生物
-lens|n.|镜头；透镜
+optics|n.|光学|Newton published his first work on optics
+microscope|n.|显微镜|The optical microscope magnifies the object a thousand times|microphone n. 麦克风。microwave n. 微波；微波炉。microbe n. 微生物
+lens|n.|镜头；透镜|When viewing through a lens, we can see the thing clearer, larger or smaller
 ---
-radar|n.|雷达
-echo|n./v.|回声；发回声；模仿；重复
-sensor|n.|传感器
+radar|n.|雷达|Officials want to scan the tomb with radar in the hope of unlocking the mystery 
+echo|n./v.|回声；发回声；模仿；重复|The cathedral is echoing with joynous hymns|hyms n. 赞美诗
+sensor|n.|传感器|Place the sensor on a flat surface and rotate it slowly through 360 degress
 ---
-multimedia|n.|多媒体
-network|n.|网络
-browser|n.|浏览器
-dial|v.|拨（电话号码）
+multimedia|n.|多媒体|As part of the celebrations, they staged a big open-air multimedia event
+network|n.|网络|President Bush's speech was broadcast on national television network
+browser|n.|浏览器|In your web browser's cache are the most recent web files that you have downloaded
+dial|v.|拨（电话号码）|She picked up the phone and began to dial his number
 ---
-microcomputer|n.|微型计算机
-laptop|n.|笔记本电脑
-software|n.|软件
+microcomputer|n.|微型计算机|A newly devised microcomputer can act as a guide for a blind person
+laptop|n.|笔记本电脑|A laptop would be really useful when I'm working on the train
+software|n.|软件|This is a computer software shop
 ---
-keyboard|n.|键盘
-screen|n.|屏幕
-loudspeaker|n.|扬声器；喇叭
+keyboard|n.|键盘|The machine is operated through the keyboard
+screen|n.|屏幕|A list of items is repeatedly flashed on the screen
+loudspeaker|n.|扬声器；喇叭|The loudspeaker announced each airplane as it landed at the airport
 ---
-microphone|n.|麦克风；话筒
-cassette|n.|盒式磁带；底片盒
-tape|n.|磁带；录音带；胶带
+microphone|n.|麦克风；话筒|Unfortunately, I didn't have a microphone at the time to record us.
+cassette|n.|盒式磁带；底片盒|He inserted a cassette into the machine
+tape|n.|磁带；录音带；胶带|A technician loads a video tape into one of the machines
 ---
-binary|adj.|二进制的；二元的
-digital|adj.|数字的
-wireless|adj.|无线的
-high-definition|adj.|高分辨率的
+binary|adj.|二进制的；二元的|The machine does binary calculations
+digital|adj.|数字的|The BCC has just successfully demonstrated a new digital radio transmission system
+wireless|adj.|无线的|We still don't have the wireless network
+high-definition|adj.|高分辨率的|High-definition pictures can show details very clearly
 ---
-audio|adj.|声音的
-vision|n.|视觉；视力
+audio|adj.|声音的|The reproductive quality of audio tapes has improved enormously
+vision|n.|视觉；视力|I've had my eyes tested and the report says my vision is perfect
 fantasy|n.|幻想|He is unable to divorce fantasy from reality|fantastic adj. 奇异的；奇妙的
-science fiction/sci-fi|n.|科幻作品
+science fiction/sci-fi|n.|科幻作品|Science fiction films are very popular with youngsters
 ---
-pump|n./v.|泵；（用泵）抽
-generator|n.|发电机
+pump|n./v.|泵；（用泵）抽|At the farm, there was a old-fashioned pump for drawing water from a well
+generator|n.|发电机|A new type of wind generator may offer an answer to that problem
 gear|n./v.|齿轮；传动装置；使适合|Education should be geared to children's needs|in high gear 以高速档；高速地。gear up 换高速档；促进
 pivot|n.|枢轴；支点；中心；重点|The mother is often the pivot of family life
 ---
-hydraulic|adj.|水力的；液压的
-drainage|n.|排水系统；排水
-sewage|n.|（下水道的）污水
-ventilation|n.|通风设备；通风
+hydraulic|adj.|水力的；液压的|The boat has no fewer than five hydraulic pumps
+drainage|n.|排水系统；排水|The drainage of the city is poor. Some of the pipes are broken
+sewage|n.|（下水道的）污水|Discharge of raw sewage into the sea is unsanitary and unsafe
+ventilation|n.|通风设备；通风|Some people think that ventilation is the same thing as air conditioning
 ---
-compress|v.|压缩；压紧
+compress|v.|压缩；压紧|Reining in inflation can increase income inequality by compressing wages while allowing asset prices to soar
 condense|v.|减缩；精简；（使气体）凝结|A long story may be condensed into a few sentences
-refine|v.|精炼；提纯
-simplify|v.|简化；精简||simplicity n. 简单；质朴。simple adj. 简单的。simply adv. 简单地；仅仅
+refine|v.|精炼；提纯|The purpose of oil refinery is to refine crude petroleum
+simplify|v.|简化；精简|Try to simplify your explanation for the children|simplicity n. 简单；质朴。simple adj. 简单的。simply adv. 简单地；仅仅
 ---
-purify|v.|净化；使纯净
-filter|v./n.|过滤；（光或声音）透过；过滤器||filter through （消息等）慢慢传开；走漏
-distil/distill|v.|蒸馏；提取...的精华
-mode|n.|模式；方式
-mould/mold|v./n.|浇铸；塑造/模子||和霉菌是一个词
-prototype|n.|原型；雏形
+purify|v.|净化；使纯净|They opened the windows to purify the air of the room
+filter|v./n.|过滤；（光或声音）透过；过滤器|Sunlight filtered through the chinks of the shutters|filter through （消息等）慢慢传开；走漏
+distil/distill|v.|蒸馏；提取...的精华|You can distill the water from the lake and make it drinkable
+mode|n.|模式；方式|This fever will return from time to time if it follows its usual mode
+mould/mold|v./n.|浇铸；塑造/模子|It can be molded and shaped at will|和霉菌是一个词 at will 随意，任意
+prototype|n.|原型；雏形|The prototype for future school building was showed in the library
 ---
-framework|n.|框架；体系；结构
-aspect|n.|（问题、事务的）方面
+framework|n.|框架；体系；结构|This bridge over the river has a steel framework
+aspect|n.|（问题、事务的）方面|We must consider a problem in its all aspects
 phase|n.|阶段；时期|The first phase of the project has been completed
 ---
-operate|v.|操作；运营；做手术||operation n. 操作；企业；手术
+operate|v.|操作；运营；做手术|It's too difficult for him to operate this new sophisticated machine|operation n. 操作；企业；手术
 facilitate|v.|使便利；促进|Many modern inventions facilitate housework
-transform|v.|使改变形态；使改观||transformation n. 变化；转变
-convert|v./n.|（使）转变、改变（信仰、观点等）/皈依者||conversion n. 转变；换算。convert defeat into victory 转败为胜
-alter|v.|变更；改变||alternative adj. 可供选择的。an alter ego 知己；个性的另一面
+transform|v.|使改变形态；使改观|She transformed the room by painting it|transformation n. 变化；转变
+convert|v./n.|（使）转变、改变（信仰、观点等）/皈依者|The solar cell can convert the energy of sunlight into electric energy|conversion n. 转变；换算。convert defeat into victory 转败为胜
+alter|v.|变更；改变|If it is not a convenient time, we can alter the date|alternative adj. 可供选择的。an alter ego 知己；个性的另一面
 shift|v./n.|转移；变换/轮班|The wind shifted to the north|the day shift 白班。the night shift 晚班
 ---
-turn|v./n.|转移；转变/（一次轮到的）机会||turning n. 旋转；转弯处
-adapt|v.|适应；改编||adaptation n. 适应。adapt to sth. 适应某事
-adjust|v.|调节；改变（行为或观点）以适应||adjustment n. 调整；适应。 adjust to 适应
+turn|v./n.|转移；转变/（一次轮到的）机会|It was your turn last time. It's always your turn to be the boss|turning n. 旋转；转弯处
+adapt|v.|适应；改编|There will be more than one person who can adapt to your personality|adaptation n. 适应。adapt to sth. 适应某事
+adjust|v.|调节；改变（行为或观点）以适应|He soon adjusted to army life|adjustment n. 调整；适应。 adjust to 适应
 ---
-pinpoint|v./n.|精确指明...位置/针尖；极小的事物
-accurate|adj.|准确的；正确无误的
-precise|adj.|精确的；准确的；一丝不苟的|precisely adv. 正是；恰好地。at that precise moment 恰好在那个时刻
-correct|adj.|正确的||correction n. 改正。incorrect adj. 不正确的；错误的
+pinpoint|v./n.|精确指明...位置/针尖；极小的事物|With this device, we can pinpoint your exact location
+accurate|adj.|准确的；正确无误的|Hearsay definitely can't be regarded as accurate information
+precise|adj.|精确的；准确的；一丝不苟的|A lawyer needs a precise mind|precisely adv. 正是；恰好地。at that precise moment 恰好在那个时刻
+correct|adj.|正确的|The correct answers can be found at the bottom of page eight|correction n. 改正。incorrect adj. 不正确的；错误的
 ---
-error|n.|错误；过失
-mistake|n./v.|错误/误解
-flaw|n.|缺陷；错误
-wrong|adj./adv.|错误的；错误地||go wrong 出现问题；出差错
-fault|n./v.|缺点；故障/找出缺点||faulty adj. 有错误的；有缺陷的。false adj. 不正确的。find fault with 挑错；挑剔；抱怨
+error|n.|错误；过失|The accident was caused by human error
+mistake|n./v.|错误/误解|I may have made a mistake in that regard
+flaw|n.|缺陷；错误|This flaw makes the vase less valuable
+wrong|adj./adv.|错误的；错误地|Instead of complaining about what's wrong, be grateful for what's right|go wrong 出现问题；出差错
+fault|n./v.|缺点；故障/找出缺点|It is hard to fault the way he runs his own operation|faulty adj. 有错误的；有缺陷的。false adj. 不正确的。find fault with 挑错；挑剔；抱怨
 ---
-stumble|v.|犯错误；绊脚；跌跌撞撞的走
-contingency|n.|意外事件；可能发生的事
-circumstance|n.|情况；条件；环境；境遇
+stumble|v.|犯错误；绊脚；跌跌撞撞的走|The sudden weakness in her legs made her stumble
+contingency|n.|意外事件；可能发生的事|We must always be prepared for every contingency
+circumstance|n.|情况；条件；环境；境遇|Circumtances are the ruler of the weak, the instrument of the wise
+
 ===
 文化历史
 +++
@@ -1454,95 +1455,95 @@ renaissance|n.|the Renaissance 文艺复兴时期|The Renaissance was an epoch o
 epic|n./adj.|史诗；宏大的|Their epic fight is the subject of a new film|他们的伟大战斗是一部新电影的主题
 ideology|n.|意识形态；思想体系|An obsolete ideology can hamper an economy|obsolete adj. 废弃的，过时的，老化的，淘汰的。hamper v./n. 阻碍，妨碍/带盖的方形大容器，食品盒，洗衣篮
 ---
-tradition|n.|传统||traditional adj. 传统的；惯例的。by tradition 根据传说；依照传说
-convention|n.|惯例；大型会议||conventional adj. 传统的；惯例的
+tradition|n.|传统|Asia has a long tradition of tea drinking. China is of no exception|traditional adj. 传统的；惯例的。by tradition 根据传说；依照传说
+convention|n.|惯例；大型会议|The handshake is a social convention|conventional adj. 传统的；惯例的
 custom|n.|习俗；（个人的）习惯|The custom prevails over the whole area 该风俗盛行于这整个地区|prevail v. 占优势，占上风；流行，盛行（V for Vendetta 里元首的口头语 England Prevails-英格兰必胜）。 customs n. 海关；关税
 ---
 feudalism|n.|封建主义；封建制度|Feudalism was not abolished in England util 1660|feudal adj. 封建的
-slavery|n.|奴隶制||slave n. 奴隶
-ethical|adj.|伦理的；道德的
-moral|adj./n.|道德上的；有道德的；morals 道德||immoral adj. 不道德的。moral principles 道德准则。moral standards 道德水准
+slavery|n.|奴隶制|They thought slavery was morally wrong|slave n. 奴隶
+ethical|adj.|伦理的；道德的|You can't divorce science from ethical questions
+moral|adj./n.|道德上的；有道德的；morals 道德|The old gentleman claimed himself to be a moral man, who had never told a lie in his life|immoral adj. 不道德的。moral principles 道德准则。moral standards 道德水准
 ---
 tribe|n.|部落|The tribe's development was more primitive than that of their neighbours/neighbors|primitive adj. 早期的，原始的，远古的；简陋的
 aboriginal|n./adj.|Aboriginal 澳大利亚土人/本土原有的；土著的|Many Aboriginals do not like the idea of a day to celebrate the British landing. 许多澳大利亚土著并不喜欢庆祝英国人登陆的日子|original adj. 原本的；最初的。origin n. 起源
-inhabitant|n.|居民||inhabit v. 居住于；栖息于
-native|adj./n.|本土的；本地人
+inhabitant|n.|居民|The local inhabitants do not like the noisy tourists in summer|inhabit v. 居住于；栖息于
+native|adj./n.|本土的；本地人|He is a native of Beijing
 local|adj./n.|当地的；本地人|He provided local delicacies for his guests.他用当地的美味佳肴来招待客人|delicacy n. 美食，佳肴；慎重，周到；易碎，易损；精妙，精细
 ---
-exotic|adj.|外来的；异国情调的
+exotic|adj.|外来的；异国情调的|The exotic atmosphere will fascinate you
 foreigner|n.|外国人|Some foreigners assimilate easily into our way of life|assimilate v. 加入，融入，同化；学习；吸收
 alien|n./adj.|外侨；外星人；外国的；陌生的|I ran into an old friend in the alien land. 他乡遇故知|run into sb./sth. 偶然遇到、无意碰见（某人）/遇到、陷入（困境）；共计，合计。  alienate v. 使疏远；使不友好；离间。an alien culture 异域文化
-anthropologist|n.|人类学家|The anthropologist contrasted two culture in his lecture. 这位人类学家在讲座中将两种文化进行对比|contrast v./n. 对比，对照/差异，对照物，（屏幕、显示器）对比度。anthropology n. 人类学
-humanitarian|n./adj.|人道主义者；人道主义的；博爱的
+anthropologist|n.|人类学家|The anthropologist contrasted two cultures in his lecture. 这位人类学家在讲座中将两种文化进行对比|contrast v./n. 对比，对照/差异，对照物，（屏幕、显示器）对比度。anthropology n. 人类学
+humanitarian|n./adj.|人道主义者；人道主义的；博爱的|Hepburn is known as a great humanitarian
 ---
-heritage|n.|（国家的）遗产
-inherit|v.|继承（财产等）；经遗传获得||inheritance n. 继承；遗产
-antique|n./adj.|古董；古董的
+heritage|n.|（国家的）遗产|They take great pride in their cultural heritage
+inherit|v.|继承（财产等）；经遗传获得|He inherited a house from his father|inheritance n. 继承；遗产
+antique|n./adj.|古董；古董的|He wears designer clothes and drives an antique car|designer clothes 名牌服装
 ---
-archaeology|n.|考古学||archaeological adj. 考古学的；archaeologist n. 考古学家
-excavate|v.|发掘；挖掘||excavation n. 挖掘；发掘
-museum|n.|博物馆
+archaeology|n.|考古学|Archaeology is the study of ancient civilizations|archaeological adj. 考古学的；archaeologist n. 考古学家
+excavate|v.|发掘；挖掘|It took a long time to excavate the ancient city of Troy|excavation n. 挖掘；发掘
+museum|n.|博物馆|A visit to the museum is an unforgetable experience
 ---
 pottery|n.|陶瓷|Modern pottery is usually ornamental|ornamental /ˌɔː.nəˈmen.təl/ adj. 装饰性的，装饰用的。pot n. 壶，罐子
-engrave|v.|在...上雕刻
+engrave|v.|在...上雕刻|The jeweler will engrave the inside of the ring with her name
 decorate|v.|装饰|Using extremely different decorating schemes in adjoining rooms may result in lack of unity in style. 相邻的房间用悬殊太大的装修方案会导致风格不统一|adjoining adj. 相邻的。decoration n. 装饰，装饰品。decorative adj. 装饰性的。decorate A with B 用 B 装饰 A。
 ---
-religion|n.|宗教；宗教信仰||religious adj. 宗教的
-ritual|n.|仪式
+religion|n.|宗教；宗教信仰|There are many religions in the world|religious adj. 宗教的
+ritual|n.|仪式|The scientists found that personal involvement in a ritual is necessary
 etiquette|n.|礼仪；礼节|He felt very sorry for his breach of etiquette. 他为他的失礼行为深感抱歉|breach n./v. 破坏，违反，不履行；（防御工事的）缺口/破坏，违反，不履行；（尤指从背后突袭）在...上打开缺口
 ---
-belief|n.|信念；信仰
+belief|n.|信念；信仰|His firmness in his belief supported him through difficulties
 soul|n.|灵魂；心灵；精神|No words can express the secret agony of my soul. 没有语言能够表达我心灵的隐痛|agony n. （肉体或精神的）极度痛苦
 spirit|n.|精神；心灵|We need a spirit of enterprise if we are to overcome our difficulties. 如果要克服困难，我们就要有进取心|enterprise n. 公司，组织，企业，计划，事业；事业心，进取心，创业精神，冒险精神。spiritual adj. 精神上的
 ---
-sacred|adj.|神圣的；宗教的
-hallowed|adj.|神圣的；收尊崇的
-holy|adj.|神圣的；圣洁的；虔诚的
+sacred|adj.|神圣的；宗教的|This area was hollowed by sacred memories
+hallowed|adj.|神圣的；收尊崇的|The Ganges is hallowed as a sacred cleansing river
+holy|adj.|神圣的；圣洁的；虔诚的|A holy person is spiritually pure
 ---
-Pope|n.|教皇
-bishop|n.|主教|I've heard a whisper that the Bishop intends to leave. 我听到谣传说主教打算离开
-missionary|n.|传教士
-priest|n.|牧师；神父；教士
+Pope|n.|教皇|The election of a new pope is coming
+bishop|n.|主教|I've heard a whisper that the bishop intends to leave. 我听到谣传说主教打算离开
+missionary|n.|传教士|The missionary was sent to India last year
+priest|n.|牧师；神父；教士|The priest persuaded him to give up his bad habit
 ---
 Bible|n.|（基督教）圣经|The Bible begins with the Genesis. 圣经的开篇是创世记
-church|n.|教堂
-cathedral|n.|大教堂
-choir|n.|唱诗班|The choir sang the Amens beautifully. 唱诗班吟唱的“阿门”非常优美
+church|n.|教堂|I'm just going to the church to see the priest
+cathedral|n.|大教堂|This cathedral was regarded as a miracle in architectual history
+choir|n.|唱诗班|The choir sang the Amens beautifully. 唱诗班吟唱的“阿门”非常优美|choir 发音类似quiet去掉t的音
 ---
-monk|n.|僧侣
-temple|n.|师院；庙宇
+monk|n.|僧侣|The man was a monk from Mount. MI
+temple|n.|师院；庙宇|The temple has been considered an example of classic design
 pagoda|n.|佛塔|The pagoda perches on the top of the hill. 佛塔立在山顶上|perch v./n. 坐在...（的边缘）上，栖息于，停留于；使位于高处（或...的边缘）/河鲈；（鸟的）栖息处（尤指鸟笼里的细杆）；（常指能很好地俯视低处的）高座，高处
 ---
-empire|n.|帝国
-imperial|adj.|帝国的|They make an objection to the imperial system with resolution. 他们坚决反对这种帝国制度|resolution n. 决议，正式决定；决心，决定；坚决；解决，消除；分辨率；分解
-royal|adj.|皇家的；高贵的
-dynasty|n.|朝代
-chronology|n.|年代学；年表；事件发生的顺序表
+empire|n.|帝国|The empire had for years been falling into decadence
+imperial|adj.|帝国的|They made an objection to the imperial system with resolution. 他们坚决反对这种帝国制度|resolution n. 决议，正式决定；决心，决定；坚决；解决，消除；分辨率；分解
+royal|adj.|皇家的；高贵的|Britain has always had a large navy, called the Royal Navy
+dynasty|n.|朝代|The Tang Dynasty is a period remarkable for its liberality
+chronology|n.|年代学；年表；事件发生的顺序表|It seems that the paper has confused the chronology of these events
 ---
-emperor|n.|皇帝
-king|n.|国王
-queen|n.|王后；女王|They were bowing as the king and queen walked in. 当国王和王后进来时，他们屈膝致敬|bow v./n. （使）鞠躬；（使）欠身；点头致意/弓
+emperor|n.|皇帝|The emperor unified the country by the sword
+king|n.|国王|The king is the most important person in a kingdom
+queen|n.|王后；女王|They were bowing as the king and the queen walked in. 当国王和王后进来时，他们屈膝致敬|bow v./n. （使）鞠躬；（使）欠身；点头致意/弓
 ---
-prince|n.|王子；亲王
+prince|n.|王子；亲王|The prince fell in love with a fair young maiden|maiden 处女
 princess|n.|公主；王妃|The princess was ostracised for marrying a rich bourgeois man. 公主因与一位富有的资本家结婚而遭到排挤|ostracize=ostracise v. 故意避开；排挤，排斥。bourgeois  /ˈbɔːʒ.wɑː/ adj. 中产阶级的；追求物质享受的；平庸粗俗的
-majesty|n.|威严；壮观；陛下||majestic adj. 宏伟的；庄严的
+majesty|n.|威严；壮观；陛下|I enjoyed all the majesty of royal ceremonies|majestic adj. 宏伟的；庄严的
 ---
 nobility|n.|高尚的品质；贵族|Virtue is the only true nobility. 万事不如美德高|virtue n. 美德，高山品德；优点，好处
-lord|n.|（英国）贵族；Lord 阁下；大人；the Lord 上帝
-knight|n./v.|骑士；封（某人）为爵士
-guardian|n./adj.|保卫者；监护人；守护的||guard n. 守卫 v. 保护
+lord|n.|（英国）贵族；Lord 阁下；大人；the Lord 上帝|The yound lord with the red gold hair bowed, "As you command, Lord Edword."
+knight|n./v.|骑士；封（某人）为爵士|He was knighted for his war services
+guardian|n./adj.|保卫者；监护人；守护的|He became the legal guardian of his brother's daughter|guard n. 守卫 v. 保护
 ---
-nostalgia|n.|思乡之情；怀旧之情
-homesick|adj.|思乡的||homesickness n. 思乡之情
+nostalgia|n.|思乡之情；怀旧之情|The soldiers were filled with nostalgia
+homesick|adj.|思乡的|My American friend tells me she is never as homesick as during this time of year around Thanksgiving|homesickness n. 思乡之情
 ---
 celebrity|n.|名人；名誉|Celebrity, money and possessions are too often the touchstones for teenagers. 名誉、金钱和财产常常成为青少年们衡量事物的标准|touchstone n. 试金石，检验标准
-status|n.|地位；身份；尊重程度；仰慕程度；重视程度；（社交媒体上的）状态，近况||social status 社会地位
-background|n.|背景；（个人出身、受教育）经历
-experience|n.|经验；（一次）经历、体验||experienced adj. 经验丰富的
+status|n.|地位；身份；尊重程度；仰慕程度；重视程度；（社交媒体上的）状态，近况|Being an engineer gives him a high status|social status 社会地位
+background|n.|背景；（个人出身、受教育）经历|He is a man with a special cultural background
+experience|n.|经验；（一次）经历、体验|It was a truly memorible experience|experienced adj. 经验丰富的
 ---
 anecdote|n.|轶事；奇闻|He preceded his lecture with a humorous anecdote.|precede v. （指时间或空间上）处在…之前，先于
-accident|n.|事故；意外；偶然事件||accidental adj. 意外的；偶然的；附属的。by accident 偶然。 an aviation accident 空难
-incident|n.|（尤指不寻常的、重要的或暴力的）事件；（两国之间的）冲突
+accident|n.|事故；意外；偶然事件|His left knee was hurt in a traffic accident|accidental adj. 意外的；偶然的；附属的。by accident 偶然。 an aviation accident 空难
+incident|n.|（尤指不寻常的、重要的或暴力的）事件；（两国之间的）冲突|A serious incident along the border increased our fears of war
 ---
 thrive|v.|繁荣；兴旺发达；茁壮成长|First thrive and then wive. 先立业，后成家|wive v. 娶妻
 prosperity|n.|繁荣；兴旺|The empire was on the wane after its period of prosperity. 帝国在经历繁盛之后逐渐衰落|wane v. 衰减，减弱 on the ~ （权力、人气等）衰落，减弱。 prosper v. 成功；繁荣。prosperous adj. 繁荣的
@@ -1551,28 +1552,28 @@ adversity|n.|逆境|Hardship disposes man to meet adversity. 困苦使人们愿�
 ===
 语言演化
 +++
-language|n.|语言
-symbol|n.|象征；符号；记号||symbolise=symbolize v. 象征
-sign|n./v.|符号；征兆；迹象；手势；签（名）
-gesture|n.|手势；姿势
-handwriting|n.|笔记；书写
+language|n.|语言|His misunderstanding of language was the primary cause of his other problems
+symbol|n.|象征；符号；记号|To them the monarchy is the special symbol of nationhood|symbolise=symbolize v. 象征
+sign|n./v.|符号；征兆；迹象；手势；签（名）|He made a sign for me to follow him
+gesture|n.|手势；姿势|He put his arm around her in a protective gesture
+handwriting|n.|笔记；书写|The address was in Anna's handwriting
 ---
-pictograph|n.|象形文字
-wedge|n.|楔子；楔形物；楔形文字
-knot|n.|（绳、线的）结；（树枝上的）节子
+pictograph|n.|象形文字|Generally speaking, the pictograph is the first text
+wedge|n.|楔子；楔形物；楔形文字|Put a wedge under the door so that it will stay open
+knot|n.|（绳、线的）结；（树枝上的）节子|He made a knot in the rope
 ---
-linguistics|n.|语言学
+linguistics|n.|语言学|He is engaged in the studies of linguistics
 semantic|adj.|语义的|There are two kinds of puns, phonetic pun and semantic pun. 双关语分为谐音双关语和语义双关语
-syntax|n.|句法
-grammar|n.|语法；语法书
+syntax|n.|句法|Let's investigate the syntax of Chinese
+grammar|n.|语法；语法书|He was known for his poor grammar and punctuation
 ---
-phonetics|n.|语音学||phonetic adj. 语音的
-pronounce|v.|发...的音；宣布||pronunciation n. 发音 pronounced adj. 显著的；表达明确的
+phonetics|n.|语音学|Daniel Jones is generally referred to be the foremost authority on phonetics|phonetic adj. 语音的
+pronounce|v.|发...的音；宣布|Did I pronounce your name correctly?|pronunciation n. 发音 pronounced adj. 显著的；表达明确的
 intonation|n.|语调|Some question are spoken with a rising intonation
-inflection|n.|语调的抑扬变化|She spoken in a low voice, always without inflection
+inflection|n.|语调的抑扬变化|She spoken in a low voice, always without inflection|inflection point 转折点
 ---
-dialect|n.|方言；地方话
-accent|n.|重音；口音；读音符号
+dialect|n.|方言；地方话|The dialect is spoken principally in the southern areas
+accent|n.|重音；口音；读音符号|He speaks with a strong southern accent
 utterance|n.|说话；言论|His every utterance will be scrutinized 他说的每句话都会被仔细审查|scrutinize=scrutinise v. 仔细查看、审查。scrutiny n. 仔细观察、审查
 oral|adj.|口头的|Students of English should have a lot of oral drills|drill n. 钻头，（尤指军事）练习 a spelling/pronunciation drill 拼写／发音练习
 verbal|adj.|口头的；言语的|Don't be afraid of verbal abuse or criticism.|nonverbal adj. 不用语言的
@@ -1580,61 +1581,61 @@ verbal|adj.|口头的；言语的|Don't be afraid of verbal abuse or criticism.|
 syllable|n.|音节|The stress is on the last syllable.
 phoneme|n.|音位|In actual speech, a phoneme is realized phonetically as a certain phone
 vowel|n.|元音|Each language has a different vowel system
-consonant|n.|辅音|These are common consonant clusters at the beginning of words
+consonant|n.|辅音|These are common consonant clusters at the beginning of words/像crack中的cr就是consonant cluster
 ---
-alphabet|n.|字母表；（一种语言的）全部字母
+alphabet|n.|字母表；（一种语言的）全部字母|Q comes between P and R in the English alphabet
 logogram|n.|语标，缩记符（如& 、@等） ;非字母语言的字符|ACP is the logogram of English of the African, Caribbean and Pacific states
-vocabulary|n.|词汇
-dictionary|n.|词典；字典
+vocabulary|n.|词汇|His vocabulary was sound and his grammer was excellent
+dictionary|n.|词典；字典|The dictionary is a vast treasure trove of information|treasure trove 宝库
 ---
-idiom|n.|习语
-phrase|n.|短语；习语
-clause|n.|从句；分句；条款
-expression|n.|词语；表达；表情
-tense|n./adj.|时态；紧张的
+idiom|n.|习语|Never too old to learn is an idiom
+phrase|n.|短语；习语|The phrase was not meant to be taken seriously
+clause|n.|从句；分句；条款|A confidentiality clause was added to the contract
+expression|n.|词语；表达；表情|Her expression of gratitude was simple and touching
+tense|n./adj.|时态；紧张的|Dut, who had at first been very tense, at last relaxed
 ---
-root|n.|根；词根
-prefix|n.|前置代号；词首；前缀
-suffix|n.|后缀
+root|n.|根；词根|The word "intoxicated" comes from the same root as the word "detoxify"
+prefix|n.|前置代号；词首；前缀|To make calls from Canada, use the prefix 01133 before the numbers given here
+suffix|n.|后缀|These ships were all numbered with the same suffix
 ---
-abbreviation|n.|缩写形式
-synonym|n.|同义词
-antonym|n.|反义词
+abbreviation|n.|缩写形式|BBC is an abbreviation for British Broadcasting Corporation
+synonym|n.|同义词|Don't mix up this pair of synonyms
+antonym|n.|反义词|Happy is an antonym of sad
 ---
-noun|n.|名词
-singular|n./adj.|单数；非凡的；单数的
-plural|n./adj.|复数；复数的；多元的
+noun|n.|名词|The word "person" is a countable noun
+singular|n./adj.|单数；非凡的；单数的|The young man has a singular ear for music
+plural|n./adj.|复数；复数的；多元的|A plural marriage is forbidden by many countries
 ---
-pronoun|n.|代词
-verb|n.|动词
-adjective|n.|形容词
+pronoun|n.|代词|He always put stress on the pronoun
+verb|n.|动词|A sentence usually contains a subject and a verb
+adjective|n.|形容词|The function of an adjective is to describe or add to the meaning of a noun
 ---
-adverb|n.|副词
-preposition|n.|介词
-conjunction|n.|连词
+adverb|n.|副词|Adverb is to describe a verb or an action
+preposition|n.|介词|You should cross out this preposition in the sentence
+conjunction|n.|连词|The word is a temporal conjunction
 ---
-consistent|adj.|一致的；（观点或看法）连贯的||inconsistent adj. 不一致的。consist v. 由...组成。be consistent with 与...一致
-complicated|adj.|复杂的||complicate v. 使复杂化
-complex|adj.|复杂的
+consistent|adj.|一致的；（观点或看法）连贯的|The policies, which will be put into place, are clear and consistent|inconsistent adj. 不一致的。consist v. 由...组成。be consistent with 与...一致
+complicated|adj.|复杂的|The business is a large, complicated organism|complicate v. 使复杂化
+complex|adj.|复杂的|As tools have become more and more complex, we need more complex controls to control them
 ---
-compile|v.|编撰
-version|n.|版本
-translate|v.|翻译；（使）转变
-paraphrase|v./n.|意译；改述
+compile|v.|编撰|It takes years of hard work to compile a good dictionary
+version|n.|版本|These books are Chinese versions of Shakespeare
+translate|v.|翻译；（使）转变|No matter how well a poem is translated, something of the spirit of the original work is lost
+paraphrase|v./n.|意译；改述|The teacher asked his students to paraphrase the long sentence
 ---
-interpret|v.|口译；解释；说明；领会；理解||interpretation n. 口译；解释。interpreter n. 口译员
-narrate|v.|讲（故事）；叙述
+interpret|v.|口译；解释；说明；领会；理解|He interpreted the silence as contempt|interpretation n. 口译；解释。interpreter n. 口译员
+narrate|v.|讲（故事）；叙述|The sailer narrated his life story to me in the tavern|tavern n. 酒馆
 ---
-illuminate|v.|阐释；说明；照亮
-decipher|v.|译解；辨认
+illuminate|v.|阐释；说明；照亮|We use pictures and drawings to illuminate our subject
+decipher|v.|译解；辨认|We can decipher the code intercepted by the broadcasting station
 eloquence|n.|雄辩；流利的口才|The audience are struck by her simple, spellbinding eloquence|be struck by 被...所触动、打动。spellbinding adj. 引人入胜的。eloquent adj. 雄辩的；有口才的
 ---
-communicate|v.|沟通；交流；传达
-discussion|n.|讨论；谈论
-brainstorm|n./v.|集体自由讨论；头脑风暴；集思广益；进行头脑风暴
+communicate|v.|沟通；交流；传达|We communicate mostly by e-mail
+discussion|n.|讨论；谈论|After a lot of discussion among the directors, the matter was settled in the end
+brainstorm|n./v.|集体自由讨论；头脑风暴；集思广益；进行头脑风暴|Managers get together and brainstorm a more permanent solution to the problem
 ---
-debate|v./n.|辩论；争论；讨论||debatable adj. 有争议的。debate about/on/upon sth. 就某事进行讨论。have a debate with sb. 与某人进行辩论
-commentary|n.|评论；批评；实况报道
+debate|v./n.|辩论；争论；讨论|The government is debating about the education laws|debatable adj. 有争议的。debate about/on/upon sth. 就某事进行讨论。have a debate with sb. 与某人进行辩论
+commentary|n.|评论；批评；实况报道|The conclusion of the commentary really hit the bull's eye|hit the bull's eye 一语中的；击中要害
 negotiate|v.|协商；谈判|We are not about to negotiate with terrorists.|negotiation n. 协商；谈判。negotiate about 就...进行协商
 contention|n.|争论；争辩；观点|My contention is that the scheme will never work|content n. 内容
 ===
