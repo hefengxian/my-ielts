@@ -1741,128 +1741,128 @@ hip-hop|n.|嘻哈文化|Hip-hop singers like to wear bling bling in their music 
 pop|n.|流行音乐；流行乐曲|The radio has fed him a stream of pop songs
 lyric|n./adj.|抒情诗；抒情的|I don't understand the lyrics, which are in French, but the song sounds peaceful
 ---
-band|n.|乐队；带；波段
-solo|n./adj.|独奏；独唱；独奏的；独唱的
-melody|n.|乐曲；旋律
-rhythm|n.|节奏；韵律|I can't dance to music without good rhythm
+band|n.|乐队；带；波段|The band will play on request
+solo|n./adj.|独奏；独唱；独奏的；独唱的|She has acquired a reputation as this country's premier solo voilinist
+melody|n.|乐曲；旋律|I like that song, because its melody is really pleasant
+rhythm|n.|节奏；韵律|I can't dance to music without a good rhythm
 ---
-tone|n.|音色；声调；腔调
-tune|n./v.|曲调；短乐曲；调试
-disc/disk|n.|光碟；唱片；磁盘
+tone|n.|音色；声调；腔调|This violin has a very good tone
+tune|n./v.|曲调；短乐曲；调试|The violin seems to be out of tune
+disc/disk|n.|光碟；唱片；磁盘|There is no disc that interests me
 ---
-piano|n.|钢琴
-violin|n.|小提琴
-cello|n.|大提琴
-guitar|n.|吉他
+piano|n.|钢琴|He started to learn the piano when he was very young
+violin|n.|小提琴|The violin is not quite in tune with the piano| in tune with 与...调子一致
+cello|n.|大提琴|She plays the cello in an orchestra
+guitar|n.|吉他|She strummed her guitar, singing her own song
 ---
-harmonica|n.|口琴
-trumpet|n.|喇叭；小号
-drum|n.|鼓；鼓状物；大桶
-flute|n.|长笛
+harmonica|n.|口琴|He played a tune on his harmonica
+trumpet|n.|喇叭；小号|His performance as a trumpet player was quite revolutionary
+drum|n.|鼓；鼓状物；大桶|The drum beats were steady and slow
+flute|n.|长笛|The long drawn out sound of a flute is coming from far to near
 ---
-competition|n.|竞争；比赛||compete v. 竞争。competitor n. 竞争者
-tournament|n.|锦标赛；联赛
-Olympic|adj./n.|奥林匹克运动会
-sponsor|n./v.|发起人；主办人；赞助人。发起；主办；赞助
-patron|n.|赞助人；顾客；老主顾
+competition|n.|竞争；比赛|There is a rise in unemployment, so the competition for jobs is very fierce|compete v. 竞争。competitor n. 竞争者
+tournament|n.|锦标赛；联赛|He has 65 tournament wins to his name
+Olympic|adj./n.|奥林匹克运动会|The most important part of the Olympics is to participate, rather than to win
+sponsor|n./v.|发起人；主办人；赞助人。发起；主办；赞助|The company has sponsored the football match
+patron|n.|赞助人；顾客；老主顾|A wealthy patron has promised to send him to study overseas
 ---
-athlete|n.|运动员
-champion|n./v.|冠军；第一名；拥护；支持
-spectator|n.|观众
-volunteer|n./v.|志愿者；自愿做
+athlete|n.|运动员|The boy first showed promise as an athlete in primary school|show promise 有前途
+champion|n./v.|冠军；第一名；拥护；支持|As the defending champion, she is expected to reach the final|defending champion 卫冕冠军
+spectator|n.|观众|The match attracted over 40, 000 spectators
+volunteer|n./v.|志愿者；自愿做|Many people volunteer to work on the farms
 ---
-famous|adj.|著名的；出名的||fame n. 名声。be famous for 以...闻名
-well-known|adj.|众所周知的；出名的
-energetic|adj.|充满活力的；精力充沛的
-vigorous|adj.|充满活力的；活跃的；积极的
+famous|adj.|著名的；出名的|Weathering Heights in one of the most famous novels in the world|fame n. 名声。be famous for 以...闻名
+well-known|adj.|众所周知的；出名的|The writer is well-known for his prolific works
+energetic|adj.|充满活力的；精力充沛的|He is an energetic basketball player
+vigorous|adj.|充满活力的；活跃的；积极的|Our attack was very vigorous and the enemy retreated back to the riverbank
 ---
-stadium|n.|体育场；运动场
-gym|n.|体育馆；运动场
-training|n.|训练；锻炼；培训
+stadium|n.|体育场；运动场|The stadium has been fitted with seating for 100, 000 spectators|be fitted with 装有；配备有
+gym|n.|体育馆；运动场|Both able-bodied and disabled people can use this gym
+training|n.|训练；锻炼；培训|Training a prerequisite for competence
 ---
-exercise|n./v.|锻炼；运动；习题；练习。锻炼
-indoor|adj.|室内的||indoors adv. 在室内
-outdoor|adj.|户外的；室外的
+exercise|n./v.|锻炼；运动；习题；练习。锻炼|Swimming is probably the best form of exercise you can get
+indoor|adj.|室内的|Billiards is a good indoor game|indoors adv. 在室内
+outdoor|adj.|户外的；室外的|If you enjoy outdoor activities, this is the trip for you
 ---
-motion|v.|做动作；示意
-mobile|adj.|可移动的；流动的
-movement|n.|活动；运动；移动
+motion|v.|做动作；示意|She motioned for us to hide ourselves
+mobile|adj.|可移动的；流动的|The mobile phone business actually was the company's bread and butter
+movement|n.|活动；运动；移动|Her every movement is very graceful
 ---
-yoga|n.|瑜伽
-sprawl|n./v.|延伸；蔓延。（城市）杂乱无序扩张的地区
-stretch|v.|延伸；伸长
-strain|v./n.|拉紧；拉伤；扭伤。张力；拉力；（精神上）紧张
+yoga|n.|瑜伽|Some people practice yoga to aid relaxation
+sprawl|n./v.|延伸；蔓延。（城市）杂乱无序扩张的地区|He sprawled on the sofa
+stretch|v.|延伸；伸长|He stretched out his hand, reaching for a book
+strain|v./n.|拉紧；拉伤；扭伤。张力；拉力；（精神上）紧张|I strained my back when I lifted the box
 ---
-chess|n.|国际象棋
-badminton|n.|羽毛球
-golf|n.|高尔夫球
+chess|n.|国际象棋|Games like chess are intellectual pursuits
+badminton|n.|羽毛球|Badminton can be played by two or four people
+golf|n.|高尔夫球|Hundreds of private golf clubs took part in a recent study
 ---
-billiards|n.|台球
-soccer|n.|（英式）足球
-tennis|n.|网球
-volleyball|n.|排球
-hockey|n.|曲棍球；冰球
-cricket|n.|板球
+billiards|n.|台球|He spent a whole afternoon playing billiards
+soccer|n.|（英式）足球|In soccer, only the goalkeeper can play the ball with his hands
+tennis|n.|网球|He is a professional tennis player
+volleyball|n.|排球|They are watching a live TV broadcast of the volleyball match
+hockey|n.|曲棍球；冰球|She played hockey for the national team
+cricket|n.|板球|The cricket match was washed out my rain
 ---
-goal|n.|球门；进球得分；目的
-bat|n.|球拍；球棒；球板
-racket|n.|（网球、羽毛球）球拍
+goal|n.|球门；进球得分；目的|The home side rubbed in their superiority with a further goal
+bat|n.|球拍；球棒；球板|I want to buy a new cricket bat
+racket|n.|（网球、羽毛球）球拍|Can I borrow your tennis racket?
 ---
-kick|n./v.|踢
-knock|v.|敲；击；撞
-flip|v./n.|掷；快速翻转。随便的；宽泛的
+kick|n./v.|踢|Don't kick the ball into the road
+knock|v.|敲；击；撞|I was so hurried that I knocked into my teacher
+flip|v./n.|掷；快速翻转。随便的；宽泛的|Let's flip a coin to see who goes first
 ---
 pitch|v./n.|投；掷；球场；（棒球中的）投球|She pitched the ball as far as she could|invade the pitch 涌进球场。throw a pitch 投球
-throw|v.|投；掷；抛；扔
-toss|v.|扔；抛；掷；（使）颠簸
+throw|v.|投；掷；抛；扔|Throw the stone in the air
+toss|v.|扔；抛；掷；（使）颠簸|The canoe was tossed about among the eddies
 ---
-slide|v./n.|滑动；逐渐降低；滑行；下跌
+slide|v./n.|滑动；逐渐降低；滑行；下跌|House values may begin to slide
 slip|v./n.|滑跤；滑落；溜；滑到|She slipped and fell down the stairs|a slip of the tongue 口误；失言
-glide|v./n.|滑动；掠过；滑行
-tumble|v.|摔倒；滚下
+glide|v./n.|滑动；掠过；滑行|The beautiful swan glides gracefully on the pond
+tumble|v.|摔倒；滚下|She tumbled on the slick, damp ground
 ---
-ski|v./n.|滑雪；滑雪板
-skate|v.|滑冰
-cycling|n.|骑自行车运动
+ski|v./n.|滑雪；滑雪板|The students often go skiing during winter vacations
+skate|v.|滑冰|What fun it is to throw snowballs and to skate on the ice
+cycling|n.|骑自行车运动|He likes cycling very much and wants to a bicycle
 ---
-dive|v.|跳水；潜水；俯冲
-drift|v.|飘逸；漂流；流浪；漂泊||drift from one country to another 从一国流浪到另一国
-jump|v.|跳；暴涨；跳过||from the jump 从一开始
+dive|v.|跳水；潜水；俯冲|Diving is a part of this expedition
+drift|v.|飘逸；漂流；流浪；漂泊|The dead body drifted ashore on the beach|drift from one country to another 从一国流浪到另一国
+jump|v.|跳；暴涨；跳过|He jumped when he heard the news|from the jump 从一开始
 ---
-leap|v./n.|跳；跃；跳跃
-plunge|v./n.|纵身投入；猛跌；（使）投身。跳水；猛跌||plunge whole-heartedly 全心全意的投入
-spring|v./n.|跳；跃
-hop|v.|跳上/下；单脚跳行；齐足跳行
-bounce|v.|（使）反弹/弹起/跳动
+leap|v./n.|跳；跃；跳跃|The thief leaped over the wall and ran away
+plunge|v./n.|纵身投入；猛跌；（使）投身。跳水；猛跌|He plunged into the water to save the child|plunge whole-heartedly 全心全意的投入
+spring|v./n.|跳；跃|The cat crouched, ready to spring
+hop|v.|跳上/下；单脚跳行；齐足跳行|The robber hopped into his car and rushed off
+bounce|v.|（使）反弹/弹起/跳动|The ball hit the wall and bounced off it
 ---
-tent|n.|帐篷
-camp|n.|营地；阵营
-picnic|n./v.|野餐；野餐食物||go for a picnic
-hunt|v./n.|打猎；搜寻；猎取||hunter n. 猎人。hunt for 寻找
+tent|n.|帐篷|He drew back the tent flap and strode out into the blizzard 他拉开帐篷门帘，大步走进暴风雪中
+camp|n.|营地；阵营|At dusk, we pitched camp in the middle of nowhere
+picnic|n./v.|野餐；野餐食物|Let's eat our picnic by the waterfall|go for a picnic
+hunt|v./n.|打猎；搜寻；猎取|Parent birds begin to hunt for food for their young|hunter n. 猎人。hunt for 寻找
 ---
-race|n.|赛跑；速度竞赛；人种；种族
-marathon|n.|马拉松
+race|n.|赛跑；速度竞赛；人种；种族|The horse is racing against five others
+marathon|n.|马拉松|Gallard completed the marathon in less than 3 hours
 pedestrian|n.|步行者；行人|In the accident a pedestrian and a cyclist were injured|a pedestrian crossing 人形横道
-pace|n./v.|步速；速度；步调；节奏；来回踱步
-step|n.|步伐；步骤||footstep n. 脚步声；足迹。step by step 一步一步；逐步
+pace|n./v.|步速；速度；步调；节奏；来回踱步|Our wage's keeping pace with inflation
+step|n.|步伐；步骤|One thing you can do is trying to solve it step by step|footstep n. 脚步声；足迹。step by step 一步一步；逐步
 ---
-excursion|n.|远足；短程旅行
-cruise|v.|乘船游览；以平稳的速度行驶||cruiser n. 巡洋舰；舱式游艇；巡逻警车
-trip|v./n.|绊倒；旅行
-vacation|v./n.|休假；假期
-hike|n./v.|徒步旅行；远足
+excursion|n.|远足；短程旅行|We went on an excursion to that town
+cruise|v.|乘船游览；以平稳的速度行驶|The car was cruising along at 60 kilometers an hour|cruiser n. 巡洋舰；舱式游艇；巡逻警车
+trip|v./n.|绊倒；旅行|The trip was expensive and uncomfortable
+vacation|v./n.|休假；假期|I was too busy to spare time for a vacation
+hike|n./v.|徒步旅行；远足|It may rain, in which case the hike will be cancelled
 ---
-jog|v.|慢跑||jogger n. 慢跑锻炼的人。jogging n. 慢跑
+jog|v.|慢跑|The old bus jogs steadily down the road|jogger n. 慢跑锻炼的人。jogging n. 慢跑
 stride|v.|大步走；阔步行走|They are strading forward both in English and in Mathematics
-wander|v.|闲逛；漫步；走神；开小差
-linger|v.|逗留；流连；继续存留|We linger at the beach whole summer
-lag|v./n.|落后；间隔；时间差||lag behind sb./sth. 落后于某人/某物
+wander|v.|闲逛；漫步；走神；开小差|It is fun to wander the world
+linger|v.|逗留；流连；继续存留|We linger at the beach the whole summer
+lag|v./n.|落后；间隔；时间差|Let not a single classmate lag behind|lag behind sb./sth. 落后于某人/某物
 ---
-climb|v.|攀登；爬
-pull|v.|拉；拖；扯；划（小船）
-drag|v.|拖；拉；拽
-bend|v.|俯身；弯腰；使弯曲
-bow|v./n.|鞠躬||take a bow
+climb|v.|攀登；爬|It is not easy to climb a steep mountain
+pull|v.|拉；拖；扯；划（小船）|They pulled the boat towards the light house
+drag|v.|拖；拉；拽|Use your mouse to drag the pictures into that folder
+bend|v.|俯身；弯腰；使弯曲|He bent his walking direction toward me
+bow|v./n.|鞠躬|He can't agree with her, but bowed to her greater experience and knowledge|take a bow
 ===
 物品材料
 +++
