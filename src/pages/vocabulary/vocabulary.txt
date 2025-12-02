@@ -14,7 +14,7 @@ crust|n.|地壳；外壳|The crust on the snow was thick enough for us to walk o
 mantle|n./v.|地幔；斗篷；披风；覆盖|Parents often use mantles for their babies to keep warm
 ---
 longitude|n.|经度|The captain determine the latitude and longitude of his ship
-latitude|n.|维度|Our position is 40 degrees north latitude
+latitude|n.|纬度|Our position is 40 degrees north latitude
 horizon|n.|地平线；[~s]眼界；见识|I could see a ship on the horizon|horizontal adj. 水平的。broaden sb.'s horizons 开阔眼界
 altitude|n.|海拔；高度|We're currently flying at an altitude of 8,000 meters
 ---
@@ -514,7 +514,7 @@ descendant|n./adj.|后裔；后代/下降的|He is a descendant of Queen Victori
 offspring|n.|后代；子孙；产物|They have two offspring
 subgroup|n.|子群|According to a subgroup analysis, violence produce more violence
 ---
-feed|v.|供养；喂养；进食|He has to work hard to feed and clothe his family 
+feed|v.|供养；喂养；进食|He has to work hard to feed and clothe his family
 breed|v./n.|饲养；繁殖/品种|She breeds orchids in her greenhouse
 interbreed|v.|（使）品种杂交|Fish of different shapes are difficult to interbreed
 ---
@@ -522,7 +522,7 @@ hybridize/hybridise|v.|（使）杂交|Immediately rose breeders began to hybrid
 proliferate|v.|迅速增殖；剧增|Microbes proliferate rapidly
 sterility|n.|不生育|This disease causes sterility in both males and females
 ---
-mate|v./n.|交配/配偶|Many animals mate in the spring 
+mate|v./n.|交配/配偶|Many animals mate in the spring
 courtship|n.|求偶|They attract females with elaborate courtship rituals
 lay|v.|产；放置；铺设|They lay eggs from the beginning of July to the middle of August
 ---
@@ -613,7 +613,7 @@ frog|n.|青蛙|A frog can live both on land and in water
 behaviour/behavior|n.| 行为；活动方式|They observed the behavior of their new pet
 bite|v./n.|咬；（昆虫）叮；吞饵|The mosquitoes are biting me
 sting|v./n.|刺；叮；（使）感觉刺痛；鳌针；蜇痛|It is the nature of the scorpion to sting|sting sb. into doing sth. 刺激某人做某事 scorpion 蝎子
-bark|v./n.|吠；大声嚷；树皮|Barking dogs seldom bite 
+bark|v./n.|吠；大声嚷；树皮|Barking dogs seldom bite
 roar|n./v.|吼叫；咆哮|The whole room rang with a roar
 ---
 rub|v./n.|擦；摩擦/困难；障碍|It is an Eskimo custom to cub noses as a greeting|the ~ 问题，困难，障碍
@@ -723,7 +723,7 @@ tail|n.|尾部|He drove into the back of my truck and smashed the tail light
 curve|n.|曲线；弧线|The stairs ascended in a graceful curve
 ---
 exploration|n.|探索|The Elizabethan age was an time of exploration and discovery
-expedition|n.|远征；探险|This is an expedition to find the beginning of the Yangtze River 
+expedition|n.|远征；探险|This is an expedition to find the beginning of the Yangtze River
 flyby|n.|（航天器对行星或卫星的）飞掠|Because of the flyby height, the plane resembles an increasingly big bird
 ---
 observatory|n.|天文台|According to the observatory, there will be a total solar eclipse tomorrow
@@ -1120,7 +1120,7 @@ discipline|n.|纪律；训练|It takes years of discipline to become a ballerina
 ---
 term|n.|期限；术语；[英]学期|The protocol would have many positive results in the long term
 semester|n.|学期|There are two semesters in a year
-timetable|n.|时间表；课程表|There are eight English classes listed on this term's timetable 
+timetable|n.|时间表；课程表|There are eight English classes listed on this term's timetable
 schedule|n.|日程安排；[美]时刻表|The next thing on my schedule is to buy some milk in the supermarket
 deadline|n.|截止日期|I hope we can finish this before the deadline
 ---
@@ -1363,7 +1363,7 @@ optics|n.|光学|Newton published his first work on optics
 microscope|n.|显微镜|The optical microscope magnifies the object a thousand times|microphone n. 麦克风。microwave n. 微波；微波炉。microbe n. 微生物
 lens|n.|镜头；透镜|When viewing through a lens, we can see the thing clearer, larger or smaller
 ---
-radar|n.|雷达|Officials want to scan the tomb with radar in the hope of unlocking the mystery 
+radar|n.|雷达|Officials want to scan the tomb with radar in the hope of unlocking the mystery
 echo|n./v.|回声；发回声；模仿；重复|The cathedral is echoing with joynous hymns|hyms n. 赞美诗
 sensor|n.|传感器|Place the sensor on a flat surface and rotate it slowly through 360 degress
 ---
