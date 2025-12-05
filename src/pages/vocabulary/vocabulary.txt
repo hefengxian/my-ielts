@@ -1650,7 +1650,7 @@ commentator|n.|评论员；实况解说员|I enjoy the sport's commentator's com
 exponent|n.|阐述者；倡导者；拥护者|He is an exponent of the opinions of Einstein
 ---
 announcer|n.|广播员；播音员|The announcer started with the day's top stories
-correspondent|n.|通信者；通讯员；记者|That war correspondent proudly outgunned the army sharp shooters
+correspondent|n.|通信者；通讯员；记者|That war correspondent proudly outgunned the army sharp shooters|war correspondent 战地记者
 messenger|n.|邮递员；信使|The messenger brought you a note today
 editor|n.|编辑；校订者|She gave the editor a dishonest account of this event
 typist|n.|打字员|The two typists have already worked all day
@@ -1866,99 +1866,99 @@ bow|v./n.|鞠躬|He can't agree with her, but bowed to her greater experience an
 ===
 物品材料
 +++
-stuff|n.|东西；原料
-item|n.|一件物品；一件商品
-merchandise|n.|商品
-souvenir|n.|纪念品
-artifact/artefact|n.|人造物品；手工艺品
+stuff|n.|东西；原料|I've got quite a lot of stuff to read
+item|n.|一件物品；一件商品|She couldn't wedge another item into the suitcase
+merchandise|n.|商品|We often call these goods merchandise
+souvenir|n.|纪念品|These souvenirs were gathered from all parts of the world
+artifact/artefact|n.|人造物品；手工艺品|Software is a cultural artifact of the modern world
 ---
-material|n./adj.|材料；原料；人才；物质的
-raw|adj.|天然的；未经加工的；（感情）原始的
-crude|adj.|天然的；未经加工的；粗超的
+material|n./adj.|材料；原料；人才；物质的|There is singer material among these young girls
+raw|adj.|天然的；未经加工的；（感情）原始的|Today the main resources of raw cotton are China and India
+crude|adj.|天然的；未经加工的；粗超的|The price of crude oil has come down recently
 ---
-necessity|n.|必需品；必要||necessary adj. 必须的；必要的
-outfit|adj./n.|全套服装；全套装备；配备；装备
-kit|n.|成套工具
-utensil|n.|（家庭）用具；器皿
+necessity|n.|必需品；必要|Water is a necessity of life|necessary adj. 必须的；必要的
+outfit|adj./n.|全套服装；全套装备；配备；装备|The football team were wearing orange outfits
+kit|n.|成套工具|There is repair kit provided in the boot of each car|boot n. （英）汽车后备箱
+utensil|n.|（家庭）用具；器皿|He took a camping utensil that can serve as a knife, fork, and spoon to school
 ---
-garbage|n.|（尤美）垃圾；废物
-rubbish|n.|（尤英）垃圾；废弃物；废话||clear away the rubbish 清除垃圾
-trash|n.|（美）垃圾
-recycle|v.|使再循环；回收利用
-reuse|v.|再次使用
+garbage|n.|（尤美）垃圾；废物|They fouled the water by throwing in garbage|foul v. 弄脏；污染
+rubbish|n.|（尤英）垃圾；废弃物；废话|The dustman comes once a week to collect the rubbish|clear away the rubbish 清除垃圾
+trash|n.|（美）垃圾|Trash can do a great demage to the environment
+recycle|v.|使再循环；回收利用|I plan on recycling old warehouses as condominiums
+reuse|v.|再次使用|These bottles are designed to be reused up to twenty times
 ---
-litter|n./v.|垃圾；废弃物；乱丢东西
-waste|n./v.|废物；浪费
-junk|n.|无用的东西；废物
-landfill|n.|垃圾填埋地；垃圾填埋
-sewerage|n.|排水系统；污水处理系统；（=sewage）污水
+litter|n./v.|垃圾；废弃物；乱丢东西|Litter covered the cinema floor after the film
+waste|n./v.|废物；浪费|It's a waste of time to speak to her
+junk|n.|无用的东西；废物|What about junk food?
+landfill|n.|垃圾填埋地；垃圾填埋|Americans send more than 30 million tons of food to the landfill every year
+sewerage|n.|排水系统；污水处理系统；（=sewage）污水|Our town has a modern sewerage system
 ---
-detergent|n.|洗涤剂
-lotion|n.|洁肤乳；润肤乳
-shampoo|v./n.|用洗发剂（头发）；洗发剂
-soap|n./v.|肥皂；用肥皂擦洗
+detergent|n.|洗涤剂|He recommended a new detergent to me
+lotion|n.|洁肤乳；润肤乳|This lotion helps brighten and smooth your skin
+shampoo|v./n.|用洗发剂（头发）；洗发剂|She weted her hair and then put shampoo on it
+soap|n./v.|肥皂；用肥皂擦洗|Don't touch anything before you soap your hands
 ---
-tub|n.|桶；盆；（美）鱼缸；浴盆
-plug|n./v.|塞子；插头；把...塞住
+tub|n.|桶；盆；（美）鱼缸；浴盆|He comforted her husband by putting his feet in a tub of hot water
+plug|n./v.|塞子；插头；把...塞住|You don't need to plug your ears since the music is not so loud
 tap|n.|旋塞；龙头|He rigged a rubber hose to tap in kitchen|和轻拍是一个单词。 rig v. 安装；装配
-pipe|n.|管子；管道；烟斗
-tube|n.|管；显像管；（英国/伦敦）地铁
+pipe|n.|管子；管道；烟斗|All through the afternoon and the evening, he went on thinking silently and smoking pipe after pipe
+tube|n.|管；显像管；（英国/伦敦）地铁|She passed me a tube of toothpaste
 ---
-mop|n./v.|拖把；用拖把擦
+mop|n./v.|拖把；用拖把擦|She mopped up the water
 broom|n./v.|扫帚；用扫帚扫|She used a broom to sweep up the scraps of paper|scrap n. 碎片，碎屑 ~ paper 废纸
-sweep|v.|打扫；（迅猛的）吹走；掠过||sweep the board 囊括所有奖项
+sweep|v.|打扫；（迅猛的）吹走；掠过|I saw the tops of trees moving in circles and pieces of wood were swept up into the air|sweep the board 囊括所有奖项
 ---
-mattress|n.|床垫
-carpet|n.|地毯||red carpet （迎接贵宾用的）红毯
-rug|n.|小地毯；（盖肩或腿的）小毛毯
-mat|n.|地垫
+mattress|n.|床垫|A mattress is filled with featherss, cotton, or straw
+carpet|n.|地毯|The armchair blends well with the color of the carpet|red carpet （迎接贵宾用的）红毯
+rug|n.|小地毯；（盖肩或腿的）小毛毯|He bargained with the merchant for an hour before he bought the rug
+mat|n.|地垫|I wiped my shoes on the mat before I came in
 cushion|n.|软垫|She plumps up the sofa cushion 她把沙发垫拍得鼓鼓的|plump adj./v. 丰满的；饱满的；发福的/使丰满；使鼓起。 ~ sth. up 鼓起，变丰满。 a back cushion 靠背垫。a sofa cushion 沙发垫
-pad|n./v.|衬垫；便签本；（用软材料）填塞
+pad|n./v.|衬垫；便签本；（用软材料）填塞|She always kept a pad and a pencil by the phone
 ---
 blanket|n.|毛毯；毯子|She huddled herself in the blanket|huddle v. 蜷缩；缩成一团
 quilt|n.|被子|If you air your quilt on such a wet day, it'll soak up the moisture|晾，这里用的 air。soak sth. up 吸收，吸掉（液体）
-sheet|n.|被单；床单；一张（纸）；薄板
-pillow|n.|枕头
-sponge|n.|海绵
-towel|n.|毛巾
+sheet|n.|被单；床单；一张（纸）；薄板|We changed the sheet every week
+pillow|n.|枕头|My daughter asked me to buy her a pillow stuffed with feathers
+sponge|n.|海绵|That child soaks up new facts like a sponge
+towel|n.|毛巾|I dry my hands and face with the towel
 ---
-staple|n.|订书钉；主要部分
-nail|n./v.|指甲；钉子；（用钉子）钉住
-razor|n.|剃刀；（用剃刀）剃||an electric razor 电动剃须刀
+staple|n.|订书钉；主要部分|He used a pair of scissors to take the staple out of the document
+nail|n./v.|指甲；钉子；（用钉子）钉住|Please hammer a nail into the wall
+razor|n.|剃刀；（用剃刀）剃|He razored his face, clean off the beard|an electric razor 电动剃须刀
 shave|v.|剃须；刮脸|I lathered my face and started to shave|lather n./v. 肥皂泡/形成泡沫；在...涂皂泡
 ---
-fuse|n./v.|保险丝；导火线；（使）融化、融合
-cable|n.|电缆；缆绳；电报；有线电视|a cable car 缆车
-cord|n.|细绳；粗线；（体内的）线、索、带||vocal cords 声带
-strand|n.|缕，股；滨，岸|One strand of silk doesn't make a thread 单丝不成线
+fuse|n./v.|保险丝；导火线；（使）融化、融合|We fuse copper and tin to make bronze
+cable|n.|电缆；缆绳；电报；有线电视|This country has almost 15 milliion subscribers to satellite and cable television|a cable car 缆车
+cord|n.|细绳；粗线；（体内的）线、索、带|Our voices depend on our vocal cords|vocal cords 声带
+strand|n.|缕，股；滨，岸|One strand of silk doesn't make a thread; One tree doesn't make a forest 单丝不成线，独木不成林
 ---
-match|n./v.|火柴；比赛；匹配的人或物；与...匹配
-candle|n.|蜡烛
-wax|n.|蜡；蜂蜡
+match|n./v.|火柴；比赛；匹配的人或物；与...匹配|A high standard of play marked the match between the two teams
+candle|n.|蜡烛|The candle was blown out by the wind
+wax|n.|蜡；蜂蜡|The candle gutters when the melted wax runs down its sides
 ---
-portfolio|n.|文件夹；公事包||briefcase n. 公事包
-paperback|n.|简装书；平装书
-pamphlet|n.|小册子
-tissue|n.|面巾纸；（器官）组织
-cover|n.|封面；盖子；套子
+portfolio|n.|文件夹；公事包|She has left her portfolio in a chair|briefcase n. 公事包
+paperback|n.|简装书；平装书|This bookshop only sells paperbacks
+pamphlet|n.|小册子|I took a few pamphlets from the travel agency
+tissue|n.|面巾纸；（器官）组织|She wipes off the sweat from her face with a tissue
+cover|n.|封面；盖子；套子|The front cover of the novel has been torn off| tear off 撕破，撕下
 ---
-Xerox|n.|施乐复印机
-duplicate|v./n.|重复；副本；复制品
-memorandum|n.|备忘录；建议书；=memo
-stationery|n.|文具；信纸
+Xerox|n.|施乐复印机|He kept the original copy and gave her only a Xerox
+duplicate|v./n.|重复；副本；复制品|Don't duplicate what you have already done
+memorandum|n.|备忘录；建议书；=memo|They agreed on the memorandum
+stationery|n.|文具；信纸|Stationery can be imprinted with your message or logo
 ---
-glue|n.|胶水
-ink|n.|墨水
-rubber|n.|（英）橡皮擦；橡胶
-scissors|n.|剪刀
+glue|n.|胶水|Stick them on the card using a small amount of glue
+ink|n.|墨水|If the ink sinks in, it would be hard to remove it
+rubber|n.|（英）橡皮擦；橡胶|Rubber is the country's principal export
+scissors|n.|剪刀|It is rumored that Leonardo da Vinci invented the scissors
 ---
-shear|n./v.|shears（尤指修篱笆用的）大剪刀；剪
-edge|n.|边；边缘；刀口
-rim|n.|（圆形物品的）外缘、边缘
+shear|n./v.|shears（尤指修篱笆用的）大剪刀；剪|With a few quick snips of the shears, he pruned the bush
+edge|n.|边；边缘；刀口|Look out! You could fall off the edge here
+rim|n.|（圆形物品的）外缘、边缘|Mike liked very much the golden rims of his glasses
 ---
-element|n.|元素；组成部分；基本部分
-factor|n.|因素；要素
-section|n.|部分；章；节
+element|n.|元素；组成部分；基本部分|Both hydrogen and oxygen are elements
+factor|n.|因素；要素|Her friendly manner is an important factor in her rapid success
+section|n.|部分；章；节|One section of the class is reading and the other is writing
 ---
 tag|n.|标签；称号
 label|n.|标签；标贴
