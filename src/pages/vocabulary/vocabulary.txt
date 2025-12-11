@@ -1874,11 +1874,11 @@ artifact/artefact|n.|人造物品；手工艺品|Software is a cultural artifact
 ---
 material|n./adj.|材料；原料；人才；物质的|There is singer material among these young girls
 raw|adj.|天然的；未经加工的；（感情）原始的|Today the main resources of raw cotton are China and India
-crude|adj.|天然的；未经加工的；粗超的|The price of crude oil has come down recently
+crude|adj.|天然的；未经加工的；粗糙的|The price of crude oil has come down recently
 ---
 necessity|n.|必需品；必要|Water is a necessity of life|necessary adj. 必须的；必要的
 outfit|adj./n.|全套服装；全套装备；配备；装备|The football team were wearing orange outfits
-kit|n.|成套工具|There is repair kit provided in the boot of each car|boot n. （英）汽车后备箱
+kit|n.|成套工具|There is a repair kit provided in the boot of each car|boot n. （英）汽车后备箱
 utensil|n.|（家庭）用具；器皿|He took a camping utensil that can serve as a knife, fork, and spoon to school
 ---
 garbage|n.|（尤美）垃圾；废物|They fouled the water by throwing in garbage|foul v. 弄脏；污染
@@ -1898,7 +1898,7 @@ lotion|n.|洁肤乳；润肤乳|This lotion helps brighten and smooth your skin
 shampoo|v./n.|用洗发剂（头发）；洗发剂|She weted her hair and then put shampoo on it
 soap|n./v.|肥皂；用肥皂擦洗|Don't touch anything before you soap your hands
 ---
-tub|n.|桶；盆；（美）鱼缸；浴盆|He comforted her husband by putting his feet in a tub of hot water
+tub|n.|桶；盆；（美）鱼缸；浴盆|She comforted her husband by putting his feet in a tub of hot water
 plug|n./v.|塞子；插头；把...塞住|You don't need to plug your ears since the music is not so loud
 tap|n.|旋塞；龙头|He rigged a rubber hose to tap in kitchen|和轻拍是一个单词。 rig v. 安装；装配
 pipe|n.|管子；管道；烟斗|All through the afternoon and the evening, he went on thinking silently and smoking pipe after pipe
@@ -1908,7 +1908,7 @@ mop|n./v.|拖把；用拖把擦|She mopped up the water
 broom|n./v.|扫帚；用扫帚扫|She used a broom to sweep up the scraps of paper|scrap n. 碎片，碎屑 ~ paper 废纸
 sweep|v.|打扫；（迅猛的）吹走；掠过|I saw the tops of trees moving in circles and pieces of wood were swept up into the air|sweep the board 囊括所有奖项
 ---
-mattress|n.|床垫|A mattress is filled with featherss, cotton, or straw
+mattress|n.|床垫|A mattress is filled with feathers, cotton, or straw
 carpet|n.|地毯|The armchair blends well with the color of the carpet|red carpet （迎接贵宾用的）红毯
 rug|n.|小地毯；（盖肩或腿的）小毛毯|He bargained with the merchant for an hour before he bought the rug
 mat|n.|地垫|I wiped my shoes on the mat before I came in
@@ -2060,80 +2060,80 @@ durable|adj.|耐用的；持久的|Some parts of the machine have to be made fro
 ===
 时尚潮流
 +++
-fashion|n./v.|时尚；制作；制成||fashionable adj. 流行的。come into fashion 流行起来；开始流行。out of fashion 过时的
-style|n.|风格；样式；时尚||stylish adj. 时髦的；有格调的
-trend|n.|趋势；倾向
-tendency|n.|趋势；倾向；偏好
-current|n./adj.|潮流；趋势；当前的
+fashion|n./v.|时尚；制作；制成|Loose trousers are the latest fashion|fashionable adj. 流行的。come into fashion 流行起来；开始流行。out of fashion 过时的
+style|n.|风格；样式；时尚|The style of this skirt is just in season|stylish adj. 时髦的；有格调的
+trend|n.|趋势；倾向|The youth like to follow the latest trend in fashion
+tendency|n.|趋势；倾向；偏好|There is a growing tendency for people to work at home instead of in offices
+current|n./adj.|潮流；趋势；当前的|Newspapers influenced the current of thought|current of thought 思潮
 ---
 popularity|n.|流行|That record made the singer's popularity boom 那张唱片捧红了这位歌手
-vogue|n.|流行||in vogue 流行的
-prevail|v.|盛行；获胜||prevalence n. 流行；普遍存在。prevailing adj. 盛行的。prevail over/against 压倒；战胜
+vogue|n.|流行|Long hair for men and high boots for ladies are no longer in vogue|in vogue 流行的
+prevail|v.|盛行；获胜|Truth will ultimately prevail|prevalence n. 流行；普遍存在。prevailing adj. 盛行的。prevail over/against 压倒；战胜
 ---
 model|n./v.|模型；模特/使模仿|After a brief spell as a model, she got into singing|spell n. 作名词有“（持续的）一段时间”的意思
-icon|n.|偶像；图标
-idol|n.|偶像；受到崇拜的人或物；神像
+icon|n.|偶像；图标|That singer is one of the pop culture icons of 1980s
+idol|n.|偶像；受到崇拜的人或物；神像|That football player is the idol of many young people
 ---
-luxury|n.|奢侈；奢侈品||luxurious adj. 奢侈的；豪华的
-extravagant|adj.|奢侈的；过分的
-jewelry/jewellery|n.|珠宝；手势
+luxury|n.|奢侈；奢侈品|The increasing sales of luxuries are an indication of the country's prosperity|luxurious adj. 奢侈的；豪华的
+extravagant|adj.|奢侈的；过分的|She's very extravagant. She spends all her money on clothes
+jewelry/jewellery|n.|珠宝；手势|The piece of jewelry is priceless
 ---
-jewel|n.|宝石
-gem|n.|宝石；珍品
-jade|n.|玉石；翡翠
+jewel|n.|宝石|That jewel has a beautiful shimmer|shimmer n./v.|微光；闪烁/发微光；闪烁
+gem|n.|宝石；珍品|This picture is the gem of the collection
+jade|n.|玉石；翡翠|I have a pair of jade bracelets|bracelet n. 手镯；手链
 ---
-adorn|v.|装饰；装扮
+adorn|v.|装饰；装扮|She likes to adorn herself with jewels
 ornament|n./v.|装饰品；装饰|Clearness ornaments profound thought 清晰性能为深刻的思想增辉|
 embellish|v.|修饰|The door of the old church was embellished with intricate carvings|intricate adj. 错综复杂的；复杂精细的；难理解的；难解决的。carving n. 雕刻品；雕刻图案；雕刻技艺
-embroider|v.|对（故事等）加以渲染；在...上刺绣
+embroider|v.|对（故事等）加以渲染；在...上刺绣|Her shirt is embroidered with roses
 ---
-hairdressing|n.|美发；理发
-pigment|n.|色素；颜料
-dye|n.|染料；（染上的）颜色；染
+hairdressing|n.|美发；理发|She has spent much money and time on hairdressing
+pigment|n.|色素；颜料|This pigment is a good and common food additive|additive n. 添加剂
+dye|n.|染料；（染上的）颜色；染|My roommate has dyed her hair red. It looks so unnatural
 ---
-masquerade|n./v.|化装舞会；化妆；假扮
-veil|n.|面纱；遮蔽物
-costume|n.|戏服；（某历史时期或某地的）服装||academic costume 学位服；a costume ball 化装舞会
+masquerade|n./v.|化装舞会；化妆；假扮|She masqueraded as a shepherdess
+veil|n.|面纱；遮蔽物|The bride's face was covered with a white veil
+costume|n.|戏服；（某历史时期或某地的）服装|Her national costume showed which country she came from|academic costume 学位服；a costume ball 化装舞会
 ---
-fascinate|v.|迷住||fascinating adj. 迷人的。be fascinated with 迷上
+fascinate|v.|迷住|This city fascinates him|fascinating adj. 迷人的。be fascinated with 迷上
 decent|adj.|得体的；尚好的|He made a decent record 他成绩善佳|indecent adj. 下流的
-exquisite|adj.|精致的；雅致的
+exquisite|adj.|精致的；雅致的|He has a exquisite taste and decent manners
 ---
 grace|n.|优美；优雅|She was a beautiful girl with the grace and poise of a natural model 她是一个美丽的女孩，天生有着模特的那种优雅仪态|poise n. 沉着，泰然自若；平衡
-elegance|n.|文雅；典雅||elegant adj. 优雅的
-perfect|adj.|完美的
+elegance|n.|文雅；典雅|He is admired for the elegance of this writing|elegant adj. 优雅的
+perfect|adj.|完美的|No one expect you to be perfect, but we do expect you to do your best always
 ---
-appearance|n.|外貌；出现||appear v. 出现
-cosmetics|n.|化妆品
-make-up|n.|化妆品；组成成分；性格||make up 化妆
+appearance|n.|外貌；出现|Don't judge by appearances|appear v. 出现
+cosmetics|n.|化妆品|We have many types of cosmetics for sale
+make-up|n.|化妆品；组成成分；性格|I cannot tell who's who when the women take off their their make-up|make up 化妆
 ---
-handsome|adj.|数量大的；英俊的
-charming|adj.|迷人的||Prince Charming白马王子
-pretty|adj./adv.|漂亮的；相当地
-beautiful|adj.|美丽的
-ugly|adj.|丑陋的
+handsome|adj.|数量大的；英俊的|The waitress received a handsome tip
+charming|adj.|迷人的|Her colorful character makes her very charming|Prince Charming白马王子
+pretty|adj./adv.|漂亮的；相当地|All the pretty mowen wore their smartest dresses
+beautiful|adj.|美丽的|Looking at a beautiful painting always gives one satisfaction
+ugly|adj.|丑陋的|You can't persuade me to buy this ugly vase
 ---
-dress|n.|衣服；连衣裙
-clothe|v.|给...穿衣；为...提供衣服||clothes n. 衣服。clothing n. 衣服
-uniform|n./adj.|制服；一致的
+dress|n.|衣服；连衣裙|She wears a beautiful evening dress
+clothe|v.|给...穿衣；为...提供衣服|He had to work hard to feed and clothe the large family|clothes n. 衣服。clothing n. 衣服
+uniform|n./adj.|制服；一致的|Do you have to wear uniform if you work at McDonald's?
 ---
-garment|n.|（一件）衣服
-laundry|n.|洗衣店；要（或正在）洗的衣服；刚洗好的衣服||do/hang/iron the laundry 洗/晾/熨衣服
-wardrobe|n.|衣柜；（某人的）全部服装
+garment|n.|（一件）衣服|This garment should be washed carefully
+laundry|n.|洗衣店；要（或正在）洗的衣服；刚洗好的衣服|There's a lot of laundry in the basket|do/hang/iron the laundry 洗/晾/熨衣服
+wardrobe|n.|衣柜；（某人的）全部服装|Can you hand this in the wardrobe please?
 ---
-overall|n./adj.|（英）（工作时穿的）罩衣；全面的
-overcoat|n.|大衣
-robe|n.|长袍；浴袍
+overall|n./adj.|（英）（工作时穿的）罩衣；全面的|The shop assistant was wearing a white overall
+overcoat|n.|大衣|He turned his overcoat collar up
+robe|n.|长袍；浴袍|She was simply dressed in a plain white robe
 gown|n.|长外衣；女礼服|She put on her silk gown and went to the ball|ball n. 除了球还有舞会的意思
 ---
-sweater|n.|毛衣；线衣
-jacket|n.|夹克衫
-skirt|n.|裙子
+sweater|n.|毛衣；线衣|This woolen sweater may keep you warm in winter
+jacket|n.|夹克衫|He wore a pair of dark glasses and a jacket all day long
+skirt|n.|裙子|How many skirts do you have?
 ---
-jeans|n.|牛仔裤
-trousers|n.|（尤英）裤子
-clasp|n./v.|搭扣；扣住
-button|n./v.|纽扣；按钮；扣上...的纽扣||unbutton v. 解开...的纽扣；如解开纽扣一样解开
+jeans|n.|牛仔裤|Jeans are made of jean, dynim or other durable fabrics
+trousers|n.|（尤英）裤子|This pair of trousers is too tight for me
+clasp|n./v.|搭扣；扣住|The button won't clasp 纽扣扣不上
+button|n./v.|纽扣；按钮；扣上...的纽扣|One of the buttons has come off my coat|unbutton v. 解开...的纽扣；如解开纽扣一样解开
 ---
 glove|n.|手套
 hat|n.|（常指带帽檐的）帽子
