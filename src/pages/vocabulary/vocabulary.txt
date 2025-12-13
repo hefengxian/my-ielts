@@ -2135,73 +2135,73 @@ trousers|n.|（尤英）裤子|This pair of trousers is too tight for me
 clasp|n./v.|搭扣；扣住|The button won't clasp 纽扣扣不上
 button|n./v.|纽扣；按钮；扣上...的纽扣|One of the buttons has come off my coat|unbutton v. 解开...的纽扣；如解开纽扣一样解开
 ---
-glove|n.|手套
-hat|n.|（常指带帽檐的）帽子
-cap|n.|（有帽舌的）帽子；（经费等的）最高限额
+glove|n.|手套|It's getting cold and I have to take out my woolen gloves
+hat|n.|（常指带帽檐的）帽子|She bought a hat yesterday
+cap|n.|（有帽舌的）帽子；（经费等的）最高限额|The cap goes well with your suit|go well with 与...相配；与...协调
 brim|n.|边缘；帽檐|He drank at the fountain's brim|drink 现在分词 drinking，过去式 drank 过去分词 drunk 或 drank。fountain n. 泉水;（尤指具有装饰效果的）喷泉
-scarf|n.|围巾；头巾
+scarf|n.|围巾；头巾|The price of this scarf is below ten dollars
 ---
-handkerchief|n.|手帕
-purse|n.|（英）钱包；（美）小手提包
-wallet|n.|钱包；皮夹子
+handkerchief|n.|手帕|He was playing with his handkerchief all the while during his speech|all the while 一直；始终
+purse|n.|（英）钱包；（美）小手提包|The lost of her purse caused her much inconvenience
+wallet|n.|钱包；皮夹子|She placed the receipt in her wallet
 ---
-vest|n.|英-汗衫；美-西装背心
+vest|n.|英-汗衫；美-西装背心|One button on the vest is loose
 wrap|n.|披肩|Over her shoulders was a much-mended wrap 她的肩上搭着一条被多次缝补的披肩|mend v./n. 修理；修补；缝补/修补过的地方
-cloak|n.|斗篷；覆盖物
-collar|n.|衣领；项圈
-sleeve|n.|袖子
+cloak|n.|斗篷；覆盖物|She picked up the old brown cloak and handed it to him
+collar|n.|衣领；项圈|She turned up his coat collar against the chilly wind
+sleeve|n.|袖子|A stranger pulled at my sleeve as I was leaving
 ---
-sock|n.|短袜
-stocking|n.|（女式）长筒袜
+sock|n.|短袜|There is a hole in my sock
+stocking|n.|（女式）长筒袜|The thief musked his face with a stocking
 slipper|n.|拖鞋|No slipper is allowed in the laboratory|laboratory n. UK  /ləˈbɒr.ə.tər.i/ US  /ˈlæb.rə.tɔːr.i/ 实验室，实验大楼
-boot|n.|靴子
+boot|n.|靴子|My foot won't go into this boot
 lace|n.|鞋带|He stopped to tie the laces of his sneakers|sneakers(UK trainer) n. 运动鞋 UK trainer
 ---
-tailor|n./v.|裁缝；专门制作
-sew|v.|缝补；缝制
-spin|v./n.|纺；（使）旋转；高速旋转；（乘车）兜风
+tailor|n./v.|裁缝；专门制作|The tailor can alter your new coat to fit you
+sew|v.|缝补；缝制|The skirt is finished and I'm going to sew a pocket.
+spin|v./n.|纺；（使）旋转；高速旋转；（乘车）兜风|We took a spin around the town
 ---
-stitch|n./v.|针脚；缝
-needle|n.|针
-pin|n./v.|别针；大头针；别住，钉住
-string|n.|线；一串
-thread|n.|线；螺纹
+stitch|n./v.|针脚；缝|My mother is stitching a new dress
+needle|n.|针|The needle pierced her finger
+pin|n./v.|别针；大头针；别住，钉住|Pin the bills together so you won't lose them
+string|n.|线；一串|We have had a string of complaints about the program
+thread|n.|线；螺纹|She is looking for threads which match the cloth
 ---
-strap|n./v.|带子；用带子系
-stripe|n.|条纹
-ribbon|n.|缎带；丝带
+strap|n./v.|带子；用带子系|A safety strap is used to prevent falling
+stripe|n.|条纹|The body of a zebra is marked by black and white stripes
+ribbon|n.|缎带；丝带|Her hair was tied up with a ribbon
 ---
-belt|n.|腰带，皮带；地带，地区
-chain|n.|链子；链条
-bracelet|n.|手镯
-necklace|n.|项链
-bead|n./v.|珠子，（液体的）小滴；形成珠状
+belt|n.|腰带，皮带；地带，地区|A belt of trees grew between the two fields
+chain|n.|链子；链条|She wore a silver chain around her neck
+bracelet|n.|手镯|I'd like you to take this bracelet as a gift
+necklace|n.|项链|I valued this necklace at five thousand dollars
+bead|n./v.|珠子，（液体的）小滴；形成珠状|She wore a string of beads around her neck
 ---
-textile|n./adj.|纺织品；纺织的
-velvet|n.|丝绒；天鹅绒
+textile|n./adj.|纺织品；纺织的|He intends to retail textile goods
+velvet|n.|丝绒；天鹅绒|The lawn looks like green velvet
 wool|n.|（羊等的）毛；毛线|He found a job of shearing wool from sheep|woollen=woolen adj. 羊毛的
 ---
 patch|n./v.|补丁，（与周围不同的）小片；补缀|She sewed a patch onto the knee of the trousers 她在裤子的膝部缝了个补丁|patchwork n. 拼布工艺；混杂物
 rag|n.|破布|She wrapped the box with an old rag|ragged adj. 破旧的
-shabby|adj.|破旧的；衣衫褴褛的
-tight|adj.|紧的
+shabby|adj.|破旧的；衣衫褴褛的|His shabby appearance creates a bad impression
+tight|adj.|紧的|This drawer is too tight for me to open it
 ---
 colour/color|n.|颜色；颜料|Due to the use of nature pigments, these folk paintings retain their color well. 因为使用了天然颜料，这些民俗画的颜色很好地保留了下来|retain [formal]v. 保持；保留；保有；留住；容纳。colorful=colourful adj. 富于色彩的
 white|adj./n.|白的；白色|He was white with fury 他气的脸色发白|whitewash v. 粉刷，刷石灰水
-yellow|adj./n.|黄的；黄色
-brown|adj./n.|褐色的；褐色
+yellow|adj./n.|黄的；黄色|The leaves turn yellow in autumn
+brown|adj./n.|褐色的；褐色|He had brown skin
 ---
-grey/gray|adj./n.|灰色的；灰色
-pink|adj./n.|粉色的；粉色
-purple|adj./n.|紫色的；紫色
-tan|adj./n.|棕黄色的；棕黄色；晒成的棕褐色
+grey/gray|adj./n.|灰色的；灰色|She dressed in grey
+pink|adj./n.|粉色的；粉色|She carried a spray of pink roses
+purple|adj./n.|紫色的；紫色|That girl liked to wear purple dresses
+tan|adj./n.|棕黄色的；棕黄色；晒成的棕褐色|It took me all summer to get this tan
 ---
-fade|v.|逐渐消失；（使）褪色
-stain|v./n.|污染；污渍||stainless adj. 无瑕疵的；不锈钢的
-blot|n.|污点
+fade|v.|逐渐消失；（使）褪色|Beauty fades like a flower
+stain|v./n.|污染；污渍|The coffe stained her shirt brown|stainless adj. 无瑕疵的；不锈钢的
+blot|n.|污点|The new power station is a blot on the landscape
 ---
-figure|n./v.|身材；身影；重要人物；数字；认为||figure out 理解；弄明白。a slender/slim figure 苗条的身材；a hourglass figure 沙漏身材
-slender|adj.|苗条的；微弱的
+figure|n./v.|身材；身影；重要人物；数字；认为|I could see a tall figure near the door|figure out 理解；弄明白。a slender/slim figure 苗条的身材；a hourglass figure 沙漏身材
+slender|adj.|苗条的；微弱的|All of us admired her slender figure
 slight|adj.|纤细的；轻微的|Our army suffered a slight reverse|reverse 作名词有失败、挫折的意思。slightly adv. 稍微
 ===
 饮食健康
