@@ -2097,7 +2097,7 @@ costume|n.|戏服；（某历史时期或某地的）服装|Her national costume
 ---
 fascinate|v.|迷住|This city fascinates him|fascinating adj. 迷人的。be fascinated with 迷上
 decent|adj.|得体的；尚好的|He made a decent record 他成绩善佳|indecent adj. 下流的
-exquisite|adj.|精致的；雅致的|He has a exquisite taste and decent manners
+exquisite|adj.|精致的；雅致的|He has exquisite taste and decent manners
 ---
 grace|n.|优美；优雅|She was a beautiful girl with the grace and poise of a natural model 她是一个美丽的女孩，天生有着模特的那种优雅仪态|poise n. 沉着，泰然自若；平衡
 elegance|n.|文雅；典雅|He is admired for the elegance of this writing|elegant adj. 优雅的
@@ -2119,7 +2119,7 @@ uniform|n./adj.|制服；一致的|Do you have to wear uniform if you work at Mc
 ---
 garment|n.|（一件）衣服|This garment should be washed carefully
 laundry|n.|洗衣店；要（或正在）洗的衣服；刚洗好的衣服|There's a lot of laundry in the basket|do/hang/iron the laundry 洗/晾/熨衣服
-wardrobe|n.|衣柜；（某人的）全部服装|Can you hand this in the wardrobe please?
+wardrobe|n.|衣柜；（某人的）全部服装|Can you hang this in the wardrobe please?
 ---
 overall|n./adj.|（英）（工作时穿的）罩衣；全面的|The shop assistant was wearing a white overall
 overcoat|n.|大衣|He turned his overcoat collar up
@@ -2186,7 +2186,7 @@ rag|n.|破布|She wrapped the box with an old rag|ragged adj. 破旧的
 shabby|adj.|破旧的；衣衫褴褛的|His shabby appearance creates a bad impression
 tight|adj.|紧的|This drawer is too tight for me to open it
 ---
-colour/color|n.|颜色；颜料|Due to the use of nature pigments, these folk paintings retain their color well. 因为使用了天然颜料，这些民俗画的颜色很好地保留了下来|retain [formal]v. 保持；保留；保有；留住；容纳。colorful=colourful adj. 富于色彩的
+colour/color|n.|颜色；颜料|Due to the use of natural pigments, these folk paintings retain their color well. 因为使用了天然颜料，这些民俗画的颜色很好地保留了下来|retain [formal]v. 保持；保留；保有；留住；容纳。colorful=colourful adj. 富于色彩的
 white|adj./n.|白的；白色|He was white with fury 他气的脸色发白|whitewash v. 粉刷，刷石灰水
 yellow|adj./n.|黄的；黄色|The leaves turn yellow in autumn
 brown|adj./n.|褐色的；褐色|He had brown skin
@@ -2207,73 +2207,73 @@ slight|adj.|纤细的；轻微的|Our army suffered a slight reverse|reverse 作
 饮食健康
 +++
 food|n.|食物|I prefer vegetarian food|foodie n. 美食家；吃货
-diet|n.|日常饮食；（医生指定的）特别饮食；节食|A sugar-free diet is recommended for diabetics|dietary adj. 饮食的。on a diet 进行节食
-appetite|n.|食欲；强烈欲望
+diet|n.|日常饮食；（医生指定的）特别饮食；节食|A sugar-free diet is recommended for diabetics|dietary adj. 饮食的。on a diet 进行节食 diabetic adj. 糖尿病的
+appetite|n.|食欲；强烈欲望|I lost my appetite
 ---
-treat|v./n.|请客；对待；治疗/款待||treatment n. 对待；处理；治疗
-cater|v.|为...提供饮食；满足...的需要
-provision|n.|供应、预备||provisions 食品供应
-edible|adj.|可以吃的
-recipe|n.|食谱；秘诀
+treat|v./n.|请客；对待；治疗/款待|It is my turn to treat us today|treatment n. 对待；处理；治疗
+cater|v.|为...提供饮食；满足...的需要|Our hotel also caters for weddings and parties
+provision|n.|供应、预备|Provision of shelter was the Red Cross's main concern for the disater victims|provisions 食品供应
+edible|adj.|可以吃的|Take something edible with you when you go there
+recipe|n.|食谱；秘诀|In the recipe, it says that I must use two eggs
 ---
-restaurant|n.|餐馆
-refectory|n.|（学校或其他机构）食堂、餐厅
-bar|n.|酒吧、吧台
-cafeteria|n.|自助餐厅
+restaurant|n.|餐馆|I had my breakfast in a small restaurant
+refectory|n.|（学校或其他机构）食堂、餐厅|The meal of the school refectory is healthy and delicious
+bar|n.|酒吧、吧台|There weren't any free tables, so I sat on a stool at the bar
+cafeteria|n.|自助餐厅|In the cafeteria, we serve ourselves
 ---
-buffet|n.|自助餐
-barbecue|n./v.|烧烤野餐、烤架/烧烤
-supper|n.|晚餐
-banquet|n.|宴会
+buffet|n.|自助餐|We serve buffet during lunch time only
+barbecue|n./v.|烧烤野餐、烤架/烧烤|I you're not busy Sunday, we'd love to have you both over for a barbecue|have sb. over 邀请某人到家里做客
+supper|n.|晚餐|His wife made some pumpkin pie for supper
+banquet|n.|宴会|We met his foreign friends and gave a banquet in their honor
 ---
-refreshment|n.|茶点、点心
-snack|n.|快餐、小吃、零食
-appetiser/appetizer|n.|开胃饮料、开胃小菜
-cuisine|n.|菜肴、烹饪
-menu|n.|菜单
-order|n./v.|订单、点的餐/点（酒菜等）
-takeaway|n.|[英]外卖餐馆、外卖食物
+refreshment|n.|茶点、点心|We only serve drinks and light refreshments on this short flight
+snack|n.|快餐、小吃、零食|Apples are a more nutritional snack than popcorn
+appetiser/appetizer|n.|开胃饮料、开胃小菜|We served some crackers and cheese as an appetizer
+cuisine|n.|菜肴、烹饪|Chinese cuisine is the perfect fusion of color, shape, appearance and flavor
+menu|n.|菜单|He called the waiter to bring the menu
+order|n./v.|订单、点的餐/点（酒菜等）|He gave his order to the waiter
+takeaway|n.|[英]外卖餐馆、外卖食物|Eat in or takeaway?
 ---
-chief|n.|厨师
-gourmet|n./adj.|美食家/美味佳肴的
-vegetarian|n./adj.|素食者/素食的、无肉的
+chef|n.|厨师|There's only one chef in that grand hotel
+gourmet|n./adj.|美食家/美味佳肴的|The gourmet is very particular about food
+vegetarian|n./adj.|素食者/素食的、无肉的|I've become used to a vegetarian diet
 ---
-cutlery|n.|餐具、刀具
-silver|n./adj.|银、银器/银的、银色的
-ceramic|adj./n.|陶瓷的/陶瓷制品
-porcelain|n.|瓷器、瓷
+cutlery|n.|餐具、刀具|Knife and fork are the main cutlery used by the European people
+silver|n./adj.|银、银器/银的、银色的|She wore a silver chain around her neck
+ceramic|adj./n.|陶瓷的/陶瓷制品|The ceramic industry dates from ancient times
+porcelain|n.|瓷器、瓷|The museum displays specimens of ancient Chinese porcelain
 ---
 bowl|n.|碗|I have a bowl of cereal every morning|cereal n. 谷类植物，谷物；（尤指早晨加牛奶食用的）谷类食物，麦片。a fish bowl 鱼缸
-dish|n.|碟、菜肴
-saucer|n.|茶托、茶碟
-tray|n.|盘、托盘
+dish|n.|碟、菜肴|The careless waiter dropped the dish onto the ground
+saucer|n.|茶托、茶碟|He is drinking with a cup and saucer
+tray|n.|盘、托盘|He put the toast on the breakfast tray
 ---
-fork|n.|餐叉、分岔处
-knife|n.|刀
-spoon|n.|匙、调羹
-glass|n.|玻璃、玻璃杯
-mug|n.|大杯、马克杯
+fork|n.|餐叉、分岔处|They usually eat with a knife and fork
+knife|n.|刀|He halved an apple with a knife
+spoon|n.|匙、调羹|His soup spoon dropped onto the ground
+glass|n.|玻璃、玻璃杯|I cut my hand on some broken glass
+mug|n.|大杯、马克杯|He asked me to make him a mug of coffee
 ---
-kettle|n.|水壶、[美]锅
-pan|n.|平底锅、[美]烤盘
-pot|n.|锅、壶
+kettle|n.|水壶、[美]锅|The kettle is boiling
+pan|n.|平底锅、[美]烤盘|I cracked two eggs into the frying pan
+pot|n.|锅、壶|Will you help me wash up all these pots and pans?
 ---
-stove|n.|炉子
-furnace|n.|熔炉；暖气炉
-oven|n.|烤炉、烤箱
+stove|n.|炉子|Please warm up this milk over the stove
+furnace|n.|熔炉；暖气炉|Would you please fire up the furnace?
+oven|n.|烤炉、烤箱|The bread is fresh out of the oven 新鲜出炉的面包
 ---
-tin|n.|锡、罐头
+tin|n.|锡、罐头|I never eat anything out of a tin
 lid|n.|盖子；眼睑，眼皮|He slammed the lid down|slam v. （使）重重撞上，（使）砰地关上
-drink|v./n.|饮、喝；喝酒/饮料
-beverage|n.|（水以外的）饮料
+drink|v./n.|饮、喝；喝酒/饮料|It is harmful to your health to drink too much
+beverage|n.|（水以外的）饮料|He is our regular supplier of beverages
 ---
-juice|n.|果汁、菜汁
-soda|n.|无碳酸钠的；苏打水；[美]汽水
-coffee|n.|咖啡
+juice|n.|果汁、菜汁|She was drinking juice through a straw
+soda|n.|无碳酸钠的；苏打水；[美]汽水|He gave me a bottle of orange soda
+coffee|n.|咖啡|He put some sugar into his coffee
 ---
-alcohol|n.|酒精、乙醇、酒
-liquor|n.|烈性酒
-whisky/whiskey|n.|威士忌酒
+alcohol|n.|酒精、乙醇、酒|The doctor told me to keep off alcohol
+liquor|n.|烈性酒|He appears to have drunk a lot of liquor
+whisky/whiskey|n.|威士忌酒|A great deal of whisky is made in Scotland
 brandy|n.|白兰地酒
 drunk|adj.|醉的
 ---
