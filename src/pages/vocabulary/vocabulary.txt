@@ -2274,83 +2274,83 @@ coffee|n.|咖啡|He put some sugar into his coffee
 alcohol|n.|酒精、乙醇、酒|The doctor told me to keep off alcohol
 liquor|n.|烈性酒|He appears to have drunk a lot of liquor
 whisky/whiskey|n.|威士忌酒|A great deal of whisky is made in Scotland
-brandy|n.|白兰地酒
-drunk|adj.|醉的
+brandy|n.|白兰地酒|I drank a miniature bottle of brandy last night
+drunk|adj.|醉的|He was obviously drunk
 ---
-tobacco|n.|烟草
-cigarette|n.|香烟
-sober|adj./v.|清醒的/（使）醒酒||sober up （使）醒酒
+tobacco|n.|烟草|A high amount of money is spent on tobacco every year
+cigarette|n.|香烟|A cigarette set the dry grass on fire
+sober|adj./v.|清醒的/（使）醒酒|He was tipsy yesterday, but now he is sober|sober up （使）醒酒
 ---
-vegetable|n.|蔬菜
-tomato|n.|番茄
-potato|n.|土豆
+vegetable|n.|蔬菜|Is the tomato a fruit or a vegetable?
+tomato|n.|番茄|His shirt was stained with tomato juice
+potato|n.|土豆|This salad is made up of apple, pear, potato and celery
 ---
 pea|n.|豌豆|This kind of pea has a long pod（荚）
-bean|n.|豆
-cucumber|n.|黄瓜
+bean|n.|豆|A bean grows rapidly
+cucumber|n.|黄瓜|I would like a cucumber salad for an appetizer
 ---
-cabbage|n.|洋白菜、卷心菜、甘蓝
-onion|n.|洋葱
-mushroom|n./v.|蘑菇/呈蘑菇状扩散
-eggplant|n.|茄子
+cabbage|n.|洋白菜、卷心菜、甘蓝|I'd like to cook dishes with cabbage
+onion|n.|洋葱|I don't like the flavor of onion
+mushroom|n./v.|蘑菇/呈蘑菇状扩散|The smoke mushroomed into the sky
+eggplant|n.|茄子|We grow many different vegetables, including potatoes, eggplants, etc.
 ---
-carrot|n.|胡萝卜
-turnip|n.|萝卜、芜菁
-radish|n.|樱桃萝卜
+carrot|n.|胡萝卜|The dish of boiled beef and carrot tastes good
+turnip|n.|萝卜、芜菁|My nephew loves to eat raw turnip
+radish|n.|樱桃萝卜|Please help me pull up the radishes
 ---
-fruit|n.|水果
-peel|v./n.|剥（水果、蔬菜的）皮/（水果）皮
-strip|v./n.|剥去、除去/条、带
-core|n.|果核
-hull|n./v.|（果实等的）外壳；船体/剥去（果实的）外壳
+fruit|n.|水果|Several baskets of fruit were eaten at the party
+peel|v./n.|剥（水果、蔬菜的）皮/（水果）皮|She throwed the banana peel into the trash can
+strip|v./n.|剥去、除去/条、带|Elephants strip the leaves from trees
+core|n.|果核|He ate the plum and then threw the core away|plum n. 李子、梅子
+hull|n./v.|（果实等的）外壳；船体/剥去（果实的）外壳|Rice is gathered, cleaned, and hulled before being sold
 ---
-cherry|n.|樱桃；樱桃树
-berry|n.|浆果
-grape|n.|葡萄
-papaya|n.|番木瓜
+cherry|n.|樱桃；樱桃树|We have different pies, such as apple, cherry and strawberry pies
+berry|n.|浆果|The berry is nutritious and has a sweetish taste
+grape|n.|葡萄|Sour grapes can never make sweet wine
+papaya|n.|番木瓜|I would be happy to share these bananas and papayas with you
 ---
-peach|n.|桃子
-pear|n.|梨
-plum|n.|李子、梅子
+peach|n.|桃子|The peach is a sweet and juicy fruit
+pear|n.|梨|Would you like a pear
+plum|n.|李子、梅子|Could I have some more sugar for my plum juice?
 ---
-orange|n.|橙子
-melon|n.|瓜、甜瓜
-lemon|n.|柠檬
-kiwi|n.|猕猴桃、奇异果
+orange|n.|橙子|Would you peel me an orange?
+melon|n.|瓜、甜瓜|We garnished the melon with strawberries
+lemon|n.|柠檬|I like orange more than lemon
+kiwi|n.|猕猴桃、奇异果|In Asia, the hardy kiwi grows well inside the shade
 ---
-crop|n.|庄稼、收成、产量
-corn|n.|[英]谷物；[美]玉米
-grain|n.|谷物、颗粒
+crop|n.|庄稼、收成、产量|We have had the biggest wheat crop ever this year
+corn|n.|[英]谷物；[美]玉米|The corn is nearly ready for harvesting
+grain|n.|谷物、颗粒|We ship grain to Africa
 ---
-wheat|n.|小麦
-reap|v.|收割、收获
-flour|n.|面粉
-porridge|n.|麦片粥
-paste|n.|糨糊、面团
+wheat|n.|小麦|This old man is a leading authority on wheat diseases
+reap|v.|收割、收获|We reap what we sow
+flour|n.|面粉|Bread is chiefly made of flour
+porridge|n.|麦片粥|She spooned out bowls of porridge
+paste|n.|糨糊、面团|We used paste to attach our designs to the poster
 ---
-livestock|n.|家畜|He is good at breading livestock|livestock sector 畜牧业
-chicken|n.|鸡
-turkey|n.|火鸡
+livestock|n.|家畜|He is good at breeding livestock|livestock sector 畜牧业
+chicken|n.|鸡|He has a chicken farm
+turkey|n.|火鸡|People often drink white wine with turkey
 ---
-beef|n.|牛肉
-pork|n.|猪肉
-mutton|n.|羊肉
-sausage|n.|香肠
+beef|n.|牛肉|Do you like stewed beef?
+pork|n.|猪肉|The little girl only eats lean pork|lean adj. 瘦的
+mutton|n.|羊肉|People like to have mutton in the winter
+sausage|n.|香肠|She loves sausage and mash
 ---
-fish|n./v.|鱼/钓鱼
-pond|n.|池塘
-rod|n.|杆、竿||a fishing rod
+fish|n./v.|鱼/钓鱼|We caught three little fish
+pond|n.|池塘|The dear lowered its head to drink from the pond
+rod|n.|杆、竿|I bought a new fishing rod last Sunday|a fishing rod
 ---
-dairy|n./adj.|乳制品、乳品店/乳制的||diary n. 日记（注意拼写）。dairy products 乳制品
-milk|n./v.|奶/挤奶
-yogurt|n.|酸奶
-cream|n.|奶油
-cheese|n.|起司、奶酪||a big cheese 要员、大人物
+dairy|n./adj.|乳制品、乳品店/乳制的|We bought milk at the dairy|diary n. 日记（注意拼写）。dairy products 乳制品
+milk|n./v.|奶/挤奶|I am boiling the milk
+yogurt|n.|酸奶|Do you have any low-fat yogurt?
+cream|n.|奶油|He is whipping cream
+cheese|n.|起司、奶酪|Cheese often upset her stomach|a big cheese 要员、大人物
 ---
-butter|n./v.|黄油/涂黄油
-salad|n.|色拉
-sandwich|v./n.|把...夹入/三明治
-hamburger|n.|汉堡包
+butter|n./v.|黄油/涂黄油|I'll butter the bread
+salad|n.|色拉|It only takes a minute to make a salad
+sandwich|v./n.|把...夹入/三明治|She was sandwiched between two fat men
+hamburger|n.|汉堡包|I had a hamburger and a fried chicken leg
 ---
 loaf|n./v.|一条（面包）/游荡、闲逛
 pie|n.|馅饼、派
