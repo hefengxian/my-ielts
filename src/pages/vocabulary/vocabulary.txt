@@ -2352,76 +2352,76 @@ salad|n.|色拉|It only takes a minute to make a salad
 sandwich|v./n.|把...夹入/三明治|She was sandwiched between two fat men
 hamburger|n.|汉堡包|I had a hamburger and a fried chicken leg
 ---
-loaf|n./v.|一条（面包）/游荡、闲逛
-pie|n.|馅饼、派
-pizza|n.|披萨饼
+loaf|n./v.|一条（面包）/游荡、闲逛|Half a loaf is better than no bread 聊胜于无
+pie|n.|馅饼、派|Would you like another piece of apple pie?
+pizza|n.|披萨饼|I decided to go get a carryout pizza for dinner
 ---
-pasta|n.|意大利面食
-spaghetti|n.|意大利细面
-soup|n.|汤
+pasta|n.|意大利面食|Do you want chicken or pasta for dinner?
+spaghetti|n.|意大利细面|Spaghetti is one of my favorite foods
+soup|n.|汤|He had spoiled the soup by putting in too much salt
 ---
-pudding|n.|布丁
-biscuit|n.|[英]饼干，[美]烤饼、小圆面包
-jam|n.|果酱
+pudding|n.|布丁|Let the pudding chill for an hour
+biscuit|n.|[英]饼干，[美]烤饼、小圆面包|He had some biscuits before the dinner
+jam|n.|果酱|He spread some apple jam on the bread
 ---
-nut|n.|坚果、螺母
-chocolate|n.|巧克力
-ice cream|n.|冰淇淋
-vanilla|n./adj.|香草/香草味的
+nut|n.|坚果、螺母|He carefully cracked a nut and then gave it to me
+chocolate|n.|巧克力|Never eat chocolate before dinner
+ice cream|n.|冰淇淋|Mother knows how to make ice cream
+vanilla|n./adj.|香草/香草味的|Many children don't like vanilla-flavored ice cream
 ---
-mustard|n.|芥末、芥菜
-wasabi|n.|山葵、山葵根
-pepper|n.|胡椒粉、柿子树
+mustard|n.|芥末、芥菜|He put some mustard into the dish
+wasabi|n.|山葵、山葵根|sashimi is usually served with soy sauce and wasabi paste
+pepper|n.|胡椒粉、柿子树|The pepper in the food causes me to sneeze
 ---
-ginger|n.|姜
-garlic|n.|蒜
-scallion|n.|大葱|Kimchi is a well-known Korean side dish（配菜） make from fermented（发酵的） cabbage, radish, scallion or cucumber
+ginger|n.|姜|The ginger should be crushed up before it is added to the boiling jam
+garlic|n.|蒜|Your breath smells of garlic
+scallion|n.|大葱|Kimchi is a well-known Korean side dish（配菜） mdke from fermented（发酵的） cabbage, radish, scallion or cucumber
 ---
-vinegar|n.|醋
-salt|n.|盐
-sugar|n.|糖
-candy|n.|糖果
-honey|n.|蜂蜜
+vinegar|n.|醋|Vinegar has a acid taste
+salt|n.|盐|Salt lowers the freezing point of water
+sugar|n.|糖|I bought him a packet of sugar
+candy|n.|糖果|The greedy little boy ate all the candy at the party
+honey|n.|蜂蜜|We can use honey as a substitute for sugar
 ---
-flavor/flavour|n.|味道、口味、特色、风格
-sour|adj.|酸的
-sweet|adj.|甜的、愉快的
-bitter|adj.|苦的；痛苦的；严寒的
-spicy|adj.|辣的
+flavor/flavour|n.|味道、口味、特色、风格|You may choose anyone from the six popular flavors
+sour|adj.|酸的|Most green fruits are sour
+sweet|adj.|甜的、愉快的|The dish tastes a bit sweet
+bitter|adj.|苦的；痛苦的；严寒的|The medicine has a bitter taste
+spicy|adj.|辣的|Which province is famous for its hot and spicy cuisine?
 ---
-delicious|adj.|美味的
-yummy|adj.|美味的
-tasty|adj.|美味的
-hunger|n.|饥饿、渴望
-thirsty|n.|渴的、渴望的
+delicious|adj.|美味的|She can make a delicious meal from very simple ingredients
+yummy|adj.|美味的|This cake is really yummy
+tasty|adj.|美味的|I always get a double espresso, but their normal coffee is tasty too
+hunger|n.|饥饿、渴望|His hunger was soon appeased 平息、和缓
+thirsty|n.|渴的、渴望的|He was thirsty for power
 ---
-spice|n.|香料、给生活添加情趣的事
-sauce|n.|酱汁
-ketchup|n.|番茄酱
+spice|n.|香料、给生活添加情趣的事|Variety is the spice of life
+sauce|n.|酱汁|Waiter, may I have some steak sauce, please?
+ketchup|n.|番茄酱|I want to put some ketchup on the hamburger
 ---
-perfume|n.|香味、芳香；香水
-ingredient|n.|成分；（烹调的）原料、因素
-supplement|n./v.|营养补给、补贴/增补、补充
-digest|v.|消化、理解、领悟
+perfume|n.|香味、芳香；香水|The smell of her perfume lingered in the empty house
+ingredient|n.|成分；（烹调的）原料、因素|Chilli (红辣椒) is a crucial ingredient in Sichuan cuisine
+supplement|n./v.|营养补给、补贴/增补、补充|John had to get a job to supplement the family income
+digest|v.|消化、理解、领悟|Mary can't digest fat
 ---
-cook|v./n.|烹调、烧、煮/厨师
-bake|v.|烘烤、烤熟
-fry|v.|油煎
-roast|v./n.|烤/烤肉
-toast|v./n.|向...祝酒；为...干杯；烤/烤面包片
+cook|v./n.|烹调、烧、煮/厨师|Will she cook dinner this evening?
+bake|v.|烘烤、烤熟|The bread is baking in the oven
+fry|v.|油煎|The eggs are frying in the pan
+roast|v./n.|烤/烤肉|Let's have a nice roast for Sunday dinner
+toast|v./n.|向...祝酒；为...干杯；烤/烤面包片|We toasted the bride and bridegroom
 ---
-suck|v.|吮吸
-swallow|v.|咽下、吞下
-lick|v.|舔
-chew|v.|咀嚼
-gum|n.|口香糖、树胶
+suck|v.|吮吸|Don't suck your thumb. It's so dirty
+swallow|v.|咽下、吞下|A boa swollowed its prey whole|boa n. 蟒蛇 prey n. 猎物
+lick|v.|舔|He licked his fingers
+chew|v.|咀嚼|You must chew your food well before you swallow it
+gum|n.|口香糖、树胶|Would you like some sugarless gum?
 ---
-soak|v.|浸泡、使湿透
-dip|v.|蘸、浸
-squeeze|v.|挤压
+soak|v.|浸泡、使湿透|I have soaked the beans for eight hours
+dip|v.|蘸、浸|She dipped her hand in the sea to find out how cold it was
+squeeze|v.|挤压|He squeezed an orange to get the juice out
 ---
-stir|v.|搅动
-grind|v./n.|碾碎/枯燥乏味的事情
+stir|v.|搅动|The oatmeal will become lumpy if you don't stir it well|oatmeal n. 燕麦粥 lumpy adj. 多块状物的
+grind|v./n.|碾碎/枯燥乏味的事情|The mill of god grinds slowly but it grinds exceedingly well
 slice|v./n.|切成薄片、切、划/薄片|I sliced the bread
 ===
 建筑场所
