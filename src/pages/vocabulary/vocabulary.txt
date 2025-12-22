@@ -1641,787 +1641,787 @@ contention|n.|争论；争辩；观点|My contention is that the scheme will nev
 ===
 娱乐运动
 +++
-medium|n./adj.|媒介；中间的；中等的
-press|n.|新闻界；记者；报刊；出版社
-journalist|n.|记者；新闻工作者
+medium|n./adj.|媒介；中间的；中等的|The president's speech was broadcast through the medium of television
+press|n.|新闻界；记者；报刊；出版社|The power of the press is very great
+journalist|n.|记者；新闻工作者|No journalist was bold enough to challenge the prime minister
 ---
-critic|n.|批评家；挑剔的人||critical adj. 批评的；挑剔的。criticism n. 批评；职责。criticise=criticize v. 批评。a movie critic 影评人
-commentator|n.|评论员；实况解说员
-exponent|n.|阐述者；倡导者；拥护者
+critic|n.|批评家；挑剔的人|The critic said the new movie would not do well at the box office|critical adj. 批评的；挑剔的。criticism n. 批评；职责。criticise=criticize v. 批评。a movie critic 影评人 box office 票房，售票处
+commentator|n.|评论员；实况解说员|I enjoy the sport's commentator's commentaries very much
+exponent|n.|阐述者；倡导者；拥护者|He is an exponent of the opinions of Einstein
 ---
-announcer|n.|广播员；播音员
-correspondent|n.|通信者；通讯员；记者
-messenger|n.|邮递员；信使
-editor|n.|编辑；校订者
-typist|n.|打字员
+announcer|n.|广播员；播音员|The announcer started with the day's top stories
+correspondent|n.|通信者；通讯员；记者|That war correspondent proudly outgunned the army sharp shooters|war correspondent 战地记者
+messenger|n.|邮递员；信使|The messenger brought you a note today
+editor|n.|编辑；校订者|She gave the editor a dishonest account of this event
+typist|n.|打字员|The two typists have already worked all day
 ---
-handout|n.|传单；讲义
-leaflet|n./v.|传单；散发传单
-propaganda|n.|宣传；鼓吹
+handout|n.|传单；讲义|Please read the handout carefully
+leaflet|n./v.|传单；散发传单|We were paid to leaflet advertisements in the shopping mall
+propaganda|n.|宣传；鼓吹|This report clearly contains elements of propaganda
 ---
-publish|v.|公布；出版；发行
-disseminate|v.|散布；传播
-foresee|v.|预见；预知
+publish|v.|公布；出版；发行|News of the pop star's sudden death was not published for several days
+disseminate|v.|散布；传播|The agency would collect and disseminate information
+foresee|v.|预见；预知|They can not foresee how things will turn out
 ---
-anticipate|v.|预期；预料||participate v. 参与
-expect|v.|预料；期待||expectation n. 期待；期望
-await|v.|等候；期待；将降临到...身上
+anticipate|v.|预期；预料|Sales are better than they have anticipated|participate v. 参与
+expect|v.|预料；期待|The managers expect exceptional sales growth in the last quarter|expectation n. 期待；期望
+await|v.|等候；期待；将降临到...身上|If you are lucky enough to vacation in the Alps, what delights will await you!
 ---
-pastime|n.|娱乐；消遣
-entertain|v.|娱乐；招待；心存；怀有||entertainment n. 娱乐；消遣；款待
-recreation|n.|休闲；娱乐||a recreation ground 公共娱乐场
+pastime|n.|娱乐；消遣|Listening to music is the favorite pastime of many people all over the world
+entertain|v.|娱乐；招待；心存；怀有|This television program is designed to educate and to entertain as well|entertainment n. 娱乐；消遣；款待
+recreation|n.|休闲；娱乐|She is in charge of recreation|a recreation ground 公共娱乐场
 ---
-amuse|v.|逗乐；给...提供娱乐||amuse oneself 自娱自乐
-gossip|n.|闲聊；流言蜚语
-rumour/rumor|n.|谣言；传闻
-consensus|n.|共识；一致的意见
+amuse|v.|逗乐；给...提供娱乐|Harry makes up funny stories to amuse his little brother|amuse oneself 自娱自乐
+gossip|n.|闲聊；流言蜚语|I've read about it in the gossip column
+rumour/rumor|n.|谣言；传闻|The rumor soon swept the entire company
+consensus|n.|共识；一致的意见|Could we reach a consensus on this issue? Let's take a vote
 ---
-festival|n.|节日
-feast|n.|盛宴；（宗教）节日
-programme/program|n./v.|节目；方案；程序；为系统设置程序；计划||programmer n. 程序设计员
-rehearsal|n.|排练
+festival|n.|节日|This music festival will feature fireworks, live music, and barbecue
+feast|n.|盛宴；（宗教）节日|The feast was served by his mother and sisters
+programme/program|n./v.|节目；方案；程序；为系统设置程序；计划|There was an interesting program on TV yesterday|programmer n. 程序设计员
+rehearsal|n.|排练|The play is in rehearsal now
 ---
-perform|v.|表演；演出
-imitate|v.|模仿；效仿
-mimic|v.|模仿；戏仿
-simulate|v.|模拟；假装；冒充||simulative adj. 模拟的；假装的
+perform|v.|表演；演出|A jazz band will perform live at tommorrow's party
+imitate|v.|模仿；效仿|He imitates other people to perfection
+mimic|v.|模仿；戏仿|He mimicked the teacher's accent
+simulate|v.|模拟；假装；冒充|We can use computers to simulate many situations|simulative adj. 模拟的；假装的
 ---
-circus|n.|马戏团；圆形广场（常用于地名）||a circus clown 马戏团小丑
-magic|n.|魔术；魔法
-drama|n.|戏；剧；戏剧艺术
+circus|n.|马戏团；圆形广场（常用于地名）|Last Christmas, the circus owner decided to take some presents to a children's hostipal|a circus clown 马戏团小丑
+magic|n.|魔术；魔法|The magician thrilled his audience with his magic
+drama|n.|戏；剧；戏剧艺术|My brother was studying a course in drama at university
 ---
-concert|n.|音乐会||musicale n. 社交音乐会。concertmaster n. 首席小提琴手。concertgoer n. 常去听音乐会者。concerto n. 协奏曲。conductor n. （乐队、合唱团）指挥。melody n. 旋律。rhythm n. 节奏。lyrics n. 歌词。score n. 总谱。in concert with 与...合作
-symphony|n.|交响乐
-orchestra|n.|管弦乐队
-ballet|n.|芭蕾舞；芭蕾舞剧
-opera|n.|歌剧
+concert|n.|音乐会|Various performers will present a concert to raise money for AIDS charities|musicale n. 社交音乐会。concertmaster n. 首席小提琴手。concertgoer n. 常去听音乐会者。concerto n. 协奏曲。conductor n. （乐队、合唱团）指挥。melody n. 旋律。rhythm n. 节奏。lyrics n. 歌词。score n. 总谱。in concert with 与...合作
+symphony|n.|交响乐|The Royal Stockholm Philharmonic Orchestra played Beethoven's Ninth Symphony
+orchestra|n.|管弦乐队|This orchestra has been established under the patronage of the government
+ballet|n.|芭蕾舞；芭蕾舞剧|I wanted to be a ballet dancer when I was a child
+opera|n.|歌剧|She joined the Royal Opera House the following year
 ---
-comedy|n.|喜剧
-tragedy|n.|悲剧；悲惨的事
-animation|n.|动画片；动画制作
+comedy|n.|喜剧|Dwayne Johnson talked about his experiences of starring in comedies
+tragedy|n.|悲剧；悲惨的事|She was too exhausted and distressed to talk about the tragedy
+animation|n.|动画片；动画制作|It is this cartoon that brought the animation industry back from the dead
 ---
-film|n.|影片；胶卷
-movie|n.|电影
-X-rated|adj.|X级的；青少年不宜的
+film|n.|影片；胶卷|A good film will be on this weekend
+movie|n.|电影|This movie was hyped up in the media before it was screened|hype up 大肆宣传
+X-rated|adj.|X级的；青少年不宜的|When Logan was showed in cinema, it was X-rated
 ---
-artist|n.|艺术家
-craftsman|n.|工匠；工艺师
-painter|n.|画家；油漆匠
+artist|n.|艺术家|He was not the kind of artist who could work collaboratively
+craftsman|n.|工匠；工艺师|The original designes were made by highly skilled craftsmen
+painter|n.|画家；油漆匠|This painter is not first class
 ---
-role|n.|角色
-scene|n.|景色；现场；（戏剧的）场面
-stage|n.|舞台；阶段||the stage 戏剧演出
+role|n.|角色|I played the role of the mean aunt in the play
+scene|n.|景色；现场；（戏剧的）场面|The scene is perfect when you see the sun rising slowly in the east
+stage|n.|舞台；阶段|Each stage of the battle was carried off flawlessly|the stage 戏剧演出
 ---
-gallery|n.|美术馆
-exhibition|n.|展览
-aesthetic/esthetic|adj./n.|审美的；审美观
+gallery|n.|美术馆|The pictures in the gallery were well spaced out|space out 使间隔开
+exhibition|n.|展览|They are coming to the exhibition as my guests
+aesthetic/esthetic|adj./n.|审美的；审美观|His aesthetic standards are quite different from mine
 ---
-collect|v.|收集；收藏
-select|v./adj.|选择；挑选；精选的
-opt|v.|选择||option n. 选择；选择权。 opt for sth. 选择某事物
+collect|v.|收集；收藏|He used to collect stamps, but now he likes to collect coins
+select|v./adj.|选择；挑选；精选的|They were selected from many applicants
+opt|v.|选择|My aunt opted for early retirement|option n. 选择；选择权。 opt for sth. 选择某事物
 ---
-photograph|n.|照片；相片
-portrait|n.|肖像；半身画像
-painting|n.|油画；会话；画作；涂漆
-sculpture|n.|雕塑
+photograph|n.|照片；相片|His photograph showed how the plant turned out
+portrait|n.|肖像；半身画像|Her portrait hangs in the lobby of the library
+painting|n.|油画；会话；画作；涂漆|This painting is invaluable
+sculpture|n.|雕塑|The smooth contour of the sculpture is wonderful
 ---
-draw|v.|画；拉；拔出
-sketch|n./v.|素描；草图；速写；画素描；画速写
-depict|v.|描述；描写；描绘
-describe|v.|描述；形容
+draw|v.|画；拉；拔出|Draw a line with the ruler
+sketch|n./v.|素描；草图；速写；画素描；画速写|I sketched the cat sleeping in the yard
+depict|v.|描述；描写；描绘|In this new biography, she is depicted as a lonely and unhappy woman
+describe|v.|描述；形容|Words can not describe the beauty of the scene
 ---
-carve|v.|雕刻；切下
-improvise|v.|临时做；即兴创作||improvisation n. 即兴创作
-musical|adj.|音乐的；悦耳的
-classical|adj.|古典的；传统的
+carve|v.|雕刻；切下|The statue was carved out of mable
+improvise|v.|临时做；即兴创作|If an actor forgets his lines on the stage, he has to improvise|improvisation n. 即兴创作
+musical|adj.|音乐的；悦耳的|The drum is one of the oldest musical instruments
+classical|adj.|古典的；传统的|Beethoven is regarded as one of the immortals of classical music
 ---
-jazz|n.|爵士乐
-rock|n.|摇滚乐；岩石
-hip-hop|n.|嘻哈文化
-pop|n.|流行音乐；流行乐曲
-lyric|n./adj.|抒情诗；抒情的
+jazz|n.|爵士乐|He is well versed in many styles of jazz| be well versed in 精通，熟悉
+rock|n.|摇滚乐；岩石|Glam rock developed in the early 1970s and David Bowie was one of the most influential glam rock artists
+hip-hop|n.|嘻哈文化|Hip-hop singers like to wear bling bling in their music videos to look fancy
+pop|n.|流行音乐；流行乐曲|The radio has fed him a stream of pop songs
+lyric|n./adj.|抒情诗；抒情的|I don't understand the lyrics, which are in French, but the song sounds peaceful
 ---
-band|n.|乐队；带；波段
-solo|n./adj.|独奏；独唱；独奏的；独唱的
-melody|n.|乐曲；旋律
-rhythm|n.|节奏；韵律|I can't dance to music without good rhythm
+band|n.|乐队；带；波段|The band will play on request
+solo|n./adj.|独奏；独唱；独奏的；独唱的|She has acquired a reputation as this country's premier solo voilinist
+melody|n.|乐曲；旋律|I like that song, because its melody is really pleasant
+rhythm|n.|节奏；韵律|I can't dance to music without a good rhythm
 ---
-tone|n.|音色；声调；腔调
-tune|n./v.|曲调；短乐曲；调试
-disc/disk|n.|光碟；唱片；磁盘
+tone|n.|音色；声调；腔调|This violin has a very good tone
+tune|n./v.|曲调；短乐曲；调试|The violin seems to be out of tune
+disc/disk|n.|光碟；唱片；磁盘|There is no disc that interests me
 ---
-piano|n.|钢琴
-violin|n.|小提琴
-cello|n.|大提琴
-guitar|n.|吉他
+piano|n.|钢琴|He started to learn the piano when he was very young
+violin|n.|小提琴|The violin is not quite in tune with the piano| in tune with 与...调子一致
+cello|n.|大提琴|She plays the cello in an orchestra
+guitar|n.|吉他|She strummed her guitar, singing her own song
 ---
-harmonica|n.|口琴
-trumpet|n.|喇叭；小号
-drum|n.|鼓；鼓状物；大桶
-flute|n.|长笛
+harmonica|n.|口琴|He played a tune on his harmonica
+trumpet|n.|喇叭；小号|His performance as a trumpet player was quite revolutionary
+drum|n.|鼓；鼓状物；大桶|The drum beats were steady and slow
+flute|n.|长笛|The long drawn out sound of a flute is coming from far to near
 ---
-competition|n.|竞争；比赛||compete v. 竞争。competitor n. 竞争者
-tournament|n.|锦标赛；联赛
-Olympic|adj./n.|奥林匹克运动会
-sponsor|n./v.|发起人；主办人；赞助人。发起；主办；赞助
-patron|n.|赞助人；顾客；老主顾
+competition|n.|竞争；比赛|There is a rise in unemployment, so the competition for jobs is very fierce|compete v. 竞争。competitor n. 竞争者
+tournament|n.|锦标赛；联赛|He has 65 tournament wins to his name
+Olympic|adj./n.|奥林匹克运动会|The most important part of the Olympics is to participate, rather than to win
+sponsor|n./v.|发起人；主办人；赞助人。发起；主办；赞助|The company has sponsored the football match
+patron|n.|赞助人；顾客；老主顾|A wealthy patron has promised to send him to study overseas
 ---
-athlete|n.|运动员
-champion|n./v.|冠军；第一名；拥护；支持
-spectator|n.|观众
-volunteer|n./v.|志愿者；自愿做
+athlete|n.|运动员|The boy first showed promise as an athlete in primary school|show promise 有前途
+champion|n./v.|冠军；第一名；拥护；支持|As the defending champion, she is expected to reach the final|defending champion 卫冕冠军
+spectator|n.|观众|The match attracted over 40, 000 spectators
+volunteer|n./v.|志愿者；自愿做|Many people volunteer to work on the farms
 ---
-famous|adj.|著名的；出名的||fame n. 名声。be famous for 以...闻名
-well-known|adj.|众所周知的；出名的
-energetic|adj.|充满活力的；精力充沛的
-vigorous|adj.|充满活力的；活跃的；积极的
+famous|adj.|著名的；出名的|Weathering Heights in one of the most famous novels in the world|fame n. 名声。be famous for 以...闻名
+well-known|adj.|众所周知的；出名的|The writer is well-known for his prolific works
+energetic|adj.|充满活力的；精力充沛的|He is an energetic basketball player
+vigorous|adj.|充满活力的；活跃的；积极的|Our attack was very vigorous and the enemy retreated back to the riverbank
 ---
-stadium|n.|体育场；运动场
-gym|n.|体育馆；运动场
-training|n.|训练；锻炼；培训
+stadium|n.|体育场；运动场|The stadium has been fitted with seating for 100, 000 spectators|be fitted with 装有；配备有
+gym|n.|体育馆；运动场|Both able-bodied and disabled people can use this gym
+training|n.|训练；锻炼；培训|Training a prerequisite for competence
 ---
-exercise|n./v.|锻炼；运动；习题；练习。锻炼
-indoor|adj.|室内的||indoors adv. 在室内
-outdoor|adj.|户外的；室外的
+exercise|n./v.|锻炼；运动；习题；练习。锻炼|Swimming is probably the best form of exercise you can get
+indoor|adj.|室内的|Billiards is a good indoor game|indoors adv. 在室内
+outdoor|adj.|户外的；室外的|If you enjoy outdoor activities, this is the trip for you
 ---
-motion|v.|做动作；示意
-mobile|adj.|可移动的；流动的
-movement|n.|活动；运动；移动
+motion|v.|做动作；示意|She motioned for us to hide ourselves
+mobile|adj.|可移动的；流动的|The mobile phone business actually was the company's bread and butter
+movement|n.|活动；运动；移动|Her every movement is very graceful
 ---
-yoga|n.|瑜伽
-sprawl|n./v.|延伸；蔓延。（城市）杂乱无序扩张的地区
-stretch|v.|延伸；伸长
-strain|v./n.|拉紧；拉伤；扭伤。张力；拉力；（精神上）紧张
+yoga|n.|瑜伽|Some people practice yoga to aid relaxation
+sprawl|n./v.|延伸；蔓延。（城市）杂乱无序扩张的地区|He sprawled on the sofa
+stretch|v.|延伸；伸长|He stretched out his hand, reaching for a book
+strain|v./n.|拉紧；拉伤；扭伤。张力；拉力；（精神上）紧张|I strained my back when I lifted the box
 ---
-chess|n.|国际象棋
-badminton|n.|羽毛球
-golf|n.|高尔夫球
+chess|n.|国际象棋|Games like chess are intellectual pursuits
+badminton|n.|羽毛球|Badminton can be played by two or four people
+golf|n.|高尔夫球|Hundreds of private golf clubs took part in a recent study
 ---
-billiards|n.|台球
-soccer|n.|（英式）足球
-tennis|n.|网球
-volleyball|n.|排球
-hockey|n.|曲棍球；冰球
-cricket|n.|板球
+billiards|n.|台球|He spent a whole afternoon playing billiards
+soccer|n.|（英式）足球|In soccer, only the goalkeeper can play the ball with his hands
+tennis|n.|网球|He is a professional tennis player
+volleyball|n.|排球|They are watching a live TV broadcast of the volleyball match
+hockey|n.|曲棍球；冰球|She played hockey for the national team
+cricket|n.|板球|The cricket match was washed out my rain
 ---
-goal|n.|球门；进球得分；目的
-bat|n.|球拍；球棒；球板
-racket|n.|（网球、羽毛球）球拍
+goal|n.|球门；进球得分；目的|The home side rubbed in their superiority with a further goal
+bat|n.|球拍；球棒；球板|I want to buy a new cricket bat
+racket|n.|（网球、羽毛球）球拍|Can I borrow your tennis racket?
 ---
-kick|n./v.|踢
-knock|v.|敲；击；撞
-flip|v./n.|掷；快速翻转。随便的；宽泛的
+kick|n./v.|踢|Don't kick the ball into the road
+knock|v.|敲；击；撞|I was so hurried that I knocked into my teacher
+flip|v./n.|掷；快速翻转。随便的；宽泛的|Let's flip a coin to see who goes first
 ---
 pitch|v./n.|投；掷；球场；（棒球中的）投球|She pitched the ball as far as she could|invade the pitch 涌进球场。throw a pitch 投球
-throw|v.|投；掷；抛；扔
-toss|v.|扔；抛；掷；（使）颠簸
+throw|v.|投；掷；抛；扔|Throw the stone in the air
+toss|v.|扔；抛；掷；（使）颠簸|The canoe was tossed about among the eddies
 ---
-slide|v./n.|滑动；逐渐降低；滑行；下跌
+slide|v./n.|滑动；逐渐降低；滑行；下跌|House values may begin to slide
 slip|v./n.|滑跤；滑落；溜；滑到|She slipped and fell down the stairs|a slip of the tongue 口误；失言
-glide|v./n.|滑动；掠过；滑行
-tumble|v.|摔倒；滚下
+glide|v./n.|滑动；掠过；滑行|The beautiful swan glides gracefully on the pond
+tumble|v.|摔倒；滚下|She tumbled on the slick, damp ground
 ---
-ski|v./n.|滑雪；滑雪板
-skate|v.|滑冰
-cycling|n.|骑自行车运动
+ski|v./n.|滑雪；滑雪板|The students often go skiing during winter vacations
+skate|v.|滑冰|What fun it is to throw snowballs and to skate on the ice
+cycling|n.|骑自行车运动|He likes cycling very much and wants to a bicycle
 ---
-dive|v.|跳水；潜水；俯冲
-drift|v.|飘逸；漂流；流浪；漂泊||drift from one country to another 从一国流浪到另一国
-jump|v.|跳；暴涨；跳过||from the jump 从一开始
+dive|v.|跳水；潜水；俯冲|Diving is a part of this expedition
+drift|v.|飘逸；漂流；流浪；漂泊|The dead body drifted ashore on the beach|drift from one country to another 从一国流浪到另一国
+jump|v.|跳；暴涨；跳过|He jumped when he heard the news|from the jump 从一开始
 ---
-leap|v./n.|跳；跃；跳跃
-plunge|v./n.|纵身投入；猛跌；（使）投身。跳水；猛跌||plunge whole-heartedly 全心全意的投入
-spring|v./n.|跳；跃
-hop|v.|跳上/下；单脚跳行；齐足跳行
-bounce|v.|（使）反弹/弹起/跳动
+leap|v./n.|跳；跃；跳跃|The thief leaped over the wall and ran away
+plunge|v./n.|纵身投入；猛跌；（使）投身。跳水；猛跌|He plunged into the water to save the child|plunge whole-heartedly 全心全意的投入
+spring|v./n.|跳；跃|The cat crouched, ready to spring
+hop|v.|跳上/下；单脚跳行；齐足跳行|The robber hopped into his car and rushed off
+bounce|v.|（使）反弹/弹起/跳动|The ball hit the wall and bounced off it
 ---
-tent|n.|帐篷
-camp|n.|营地；阵营
-picnic|n./v.|野餐；野餐食物||go for a picnic
-hunt|v./n.|打猎；搜寻；猎取||hunter n. 猎人。hunt for 寻找
+tent|n.|帐篷|He drew back the tent flap and strode out into the blizzard 他拉开帐篷门帘，大步走进暴风雪中
+camp|n.|营地；阵营|At dusk, we pitched camp in the middle of nowhere
+picnic|n./v.|野餐；野餐食物|Let's eat our picnic by the waterfall|go for a picnic
+hunt|v./n.|打猎；搜寻；猎取|Parent birds begin to hunt for food for their young|hunter n. 猎人。hunt for 寻找
 ---
-race|n.|赛跑；速度竞赛；人种；种族
-marathon|n.|马拉松
+race|n.|赛跑；速度竞赛；人种；种族|The horse is racing against five others
+marathon|n.|马拉松|Gallard completed the marathon in less than 3 hours
 pedestrian|n.|步行者；行人|In the accident a pedestrian and a cyclist were injured|a pedestrian crossing 人形横道
-pace|n./v.|步速；速度；步调；节奏；来回踱步
-step|n.|步伐；步骤||footstep n. 脚步声；足迹。step by step 一步一步；逐步
+pace|n./v.|步速；速度；步调；节奏；来回踱步|Our wage's keeping pace with inflation
+step|n.|步伐；步骤|One thing you can do is trying to solve it step by step|footstep n. 脚步声；足迹。step by step 一步一步；逐步
 ---
-excursion|n.|远足；短程旅行
-cruise|v.|乘船游览；以平稳的速度行驶||cruiser n. 巡洋舰；舱式游艇；巡逻警车
-trip|v./n.|绊倒；旅行
-vacation|v./n.|休假；假期
-hike|n./v.|徒步旅行；远足
+excursion|n.|远足；短程旅行|We went on an excursion to that town
+cruise|v.|乘船游览；以平稳的速度行驶|The car was cruising along at 60 kilometers an hour|cruiser n. 巡洋舰；舱式游艇；巡逻警车
+trip|v./n.|绊倒；旅行|The trip was expensive and uncomfortable
+vacation|v./n.|休假；假期|I was too busy to spare time for a vacation
+hike|n./v.|徒步旅行；远足|It may rain, in which case the hike will be cancelled
 ---
-jog|v.|慢跑||jogger n. 慢跑锻炼的人。jogging n. 慢跑
+jog|v.|慢跑|The old bus jogs steadily down the road|jogger n. 慢跑锻炼的人。jogging n. 慢跑
 stride|v.|大步走；阔步行走|They are strading forward both in English and in Mathematics
-wander|v.|闲逛；漫步；走神；开小差
-linger|v.|逗留；流连；继续存留|We linger at the beach whole summer
-lag|v./n.|落后；间隔；时间差||lag behind sb./sth. 落后于某人/某物
+wander|v.|闲逛；漫步；走神；开小差|It is fun to wander the world
+linger|v.|逗留；流连；继续存留|We linger at the beach the whole summer
+lag|v./n.|落后；间隔；时间差|Let not a single classmate lag behind|lag behind sb./sth. 落后于某人/某物
 ---
-climb|v.|攀登；爬
-pull|v.|拉；拖；扯；划（小船）
-drag|v.|拖；拉；拽
-bend|v.|俯身；弯腰；使弯曲
-bow|v./n.|鞠躬||take a bow
+climb|v.|攀登；爬|It is not easy to climb a steep mountain
+pull|v.|拉；拖；扯；划（小船）|They pulled the boat towards the light house
+drag|v.|拖；拉；拽|Use your mouse to drag the pictures into that folder
+bend|v.|俯身；弯腰；使弯曲|He bent his walking direction toward me
+bow|v./n.|鞠躬|He can't agree with her, but bowed to her greater experience and knowledge|take a bow
 ===
 物品材料
 +++
-stuff|n.|东西；原料
-item|n.|一件物品；一件商品
-merchandise|n.|商品
-souvenir|n.|纪念品
-artifact/artefact|n.|人造物品；手工艺品
+stuff|n.|东西；原料|I've got quite a lot of stuff to read
+item|n.|一件物品；一件商品|She couldn't wedge another item into the suitcase
+merchandise|n.|商品|We often call these goods merchandise
+souvenir|n.|纪念品|These souvenirs were gathered from all parts of the world
+artifact/artefact|n.|人造物品；手工艺品|Software is a cultural artifact of the modern world
 ---
-material|n./adj.|材料；原料；人才；物质的
-raw|adj.|天然的；未经加工的；（感情）原始的
-crude|adj.|天然的；未经加工的；粗超的
+material|n./adj.|材料；原料；人才；物质的|There is singer material among these young girls
+raw|adj.|天然的；未经加工的；（感情）原始的|Today the main resources of raw cotton are China and India
+crude|adj.|天然的；未经加工的；粗糙的|The price of crude oil has come down recently
 ---
-necessity|n.|必需品；必要||necessary adj. 必须的；必要的
-outfit|adj./n.|全套服装；全套装备；配备；装备
-kit|n.|成套工具
-utensil|n.|（家庭）用具；器皿
+necessity|n.|必需品；必要|Water is a necessity of life|necessary adj. 必须的；必要的
+outfit|adj./n.|全套服装；全套装备；配备；装备|The football team were wearing orange outfits
+kit|n.|成套工具|There is a repair kit provided in the boot of each car|boot n. （英）汽车后备箱
+utensil|n.|（家庭）用具；器皿|He took a camping utensil that can serve as a knife, fork, and spoon to school
 ---
-garbage|n.|（尤美）垃圾；废物
-rubbish|n.|（尤英）垃圾；废弃物；废话||clear away the rubbish 清除垃圾
-trash|n.|（美）垃圾
-recycle|v.|使再循环；回收利用
-reuse|v.|再次使用
+garbage|n.|（尤美）垃圾；废物|They fouled the water by throwing in garbage|foul v. 弄脏；污染
+rubbish|n.|（尤英）垃圾；废弃物；废话|The dustman comes once a week to collect the rubbish|clear away the rubbish 清除垃圾
+trash|n.|（美）垃圾|Trash can do a great demage to the environment
+recycle|v.|使再循环；回收利用|I plan on recycling old warehouses as condominiums
+reuse|v.|再次使用|These bottles are designed to be reused up to twenty times
 ---
-litter|n./v.|垃圾；废弃物；乱丢东西
-waste|n./v.|废物；浪费
-junk|n.|无用的东西；废物
-landfill|n.|垃圾填埋地；垃圾填埋
-sewerage|n.|排水系统；污水处理系统；（=sewage）污水
+litter|n./v.|垃圾；废弃物；乱丢东西|Litter covered the cinema floor after the film
+waste|n./v.|废物；浪费|It's a waste of time to speak to her
+junk|n.|无用的东西；废物|What about junk food?
+landfill|n.|垃圾填埋地；垃圾填埋|Americans send more than 30 million tons of food to the landfill every year
+sewerage|n.|排水系统；污水处理系统；（=sewage）污水|Our town has a modern sewerage system
 ---
-detergent|n.|洗涤剂
-lotion|n.|洁肤乳；润肤乳
-shampoo|v./n.|用洗发剂（头发）；洗发剂
-soap|n./v.|肥皂；用肥皂擦洗
+detergent|n.|洗涤剂|He recommended a new detergent to me
+lotion|n.|洁肤乳；润肤乳|This lotion helps brighten and smooth your skin
+shampoo|v./n.|用洗发剂（头发）；洗发剂|She weted her hair and then put shampoo on it
+soap|n./v.|肥皂；用肥皂擦洗|Don't touch anything before you soap your hands
 ---
-tub|n.|桶；盆；（美）鱼缸；浴盆
-plug|n./v.|塞子；插头；把...塞住
+tub|n.|桶；盆；（美）鱼缸；浴盆|She comforted her husband by putting his feet in a tub of hot water
+plug|n./v.|塞子；插头；把...塞住|You don't need to plug your ears since the music is not so loud
 tap|n.|旋塞；龙头|He rigged a rubber hose to tap in kitchen|和轻拍是一个单词。 rig v. 安装；装配
-pipe|n.|管子；管道；烟斗
-tube|n.|管；显像管；（英国/伦敦）地铁
+pipe|n.|管子；管道；烟斗|All through the afternoon and the evening, he went on thinking silently and smoking pipe after pipe
+tube|n.|管；显像管；（英国/伦敦）地铁|She passed me a tube of toothpaste
 ---
-mop|n./v.|拖把；用拖把擦
+mop|n./v.|拖把；用拖把擦|She mopped up the water
 broom|n./v.|扫帚；用扫帚扫|She used a broom to sweep up the scraps of paper|scrap n. 碎片，碎屑 ~ paper 废纸
-sweep|v.|打扫；（迅猛的）吹走；掠过||sweep the board 囊括所有奖项
+sweep|v.|打扫；（迅猛的）吹走；掠过|I saw the tops of trees moving in circles and pieces of wood were swept up into the air|sweep the board 囊括所有奖项
 ---
-mattress|n.|床垫
-carpet|n.|地毯||red carpet （迎接贵宾用的）红毯
-rug|n.|小地毯；（盖肩或腿的）小毛毯
-mat|n.|地垫
+mattress|n.|床垫|A mattress is filled with feathers, cotton, or straw
+carpet|n.|地毯|The armchair blends well with the color of the carpet|red carpet （迎接贵宾用的）红毯
+rug|n.|小地毯；（盖肩或腿的）小毛毯|He bargained with the merchant for an hour before he bought the rug
+mat|n.|地垫|I wiped my shoes on the mat before I came in
 cushion|n.|软垫|She plumps up the sofa cushion 她把沙发垫拍得鼓鼓的|plump adj./v. 丰满的；饱满的；发福的/使丰满；使鼓起。 ~ sth. up 鼓起，变丰满。 a back cushion 靠背垫。a sofa cushion 沙发垫
-pad|n./v.|衬垫；便签本；（用软材料）填塞
+pad|n./v.|衬垫；便签本；（用软材料）填塞|She always kept a pad and a pencil by the phone
 ---
 blanket|n.|毛毯；毯子|She huddled herself in the blanket|huddle v. 蜷缩；缩成一团
 quilt|n.|被子|If you air your quilt on such a wet day, it'll soak up the moisture|晾，这里用的 air。soak sth. up 吸收，吸掉（液体）
-sheet|n.|被单；床单；一张（纸）；薄板
-pillow|n.|枕头
-sponge|n.|海绵
-towel|n.|毛巾
+sheet|n.|被单；床单；一张（纸）；薄板|We changed the sheet every week
+pillow|n.|枕头|My daughter asked me to buy her a pillow stuffed with feathers
+sponge|n.|海绵|That child soaks up new facts like a sponge
+towel|n.|毛巾|I dry my hands and face with the towel
 ---
-staple|n.|订书钉；主要部分
-nail|n./v.|指甲；钉子；（用钉子）钉住
-razor|n.|剃刀；（用剃刀）剃||an electric razor 电动剃须刀
+staple|n.|订书钉；主要部分|He used a pair of scissors to take the staple out of the document
+nail|n./v.|指甲；钉子；（用钉子）钉住|Please hammer a nail into the wall
+razor|n.|剃刀；（用剃刀）剃|He razored his face, clean off the beard|an electric razor 电动剃须刀
 shave|v.|剃须；刮脸|I lathered my face and started to shave|lather n./v. 肥皂泡/形成泡沫；在...涂皂泡
 ---
-fuse|n./v.|保险丝；导火线；（使）融化、融合
-cable|n.|电缆；缆绳；电报；有线电视|a cable car 缆车
-cord|n.|细绳；粗线；（体内的）线、索、带||vocal cords 声带
-strand|n.|缕，股；滨，岸|One strand of silk doesn't make a thread 单丝不成线
+fuse|n./v.|保险丝；导火线；（使）融化、融合|We fuse copper and tin to make bronze
+cable|n.|电缆；缆绳；电报；有线电视|This country has almost 15 milliion subscribers to satellite and cable television|a cable car 缆车
+cord|n.|细绳；粗线；（体内的）线、索、带|Our voices depend on our vocal cords|vocal cords 声带
+strand|n.|缕，股；滨，岸|One strand of silk doesn't make a thread; One tree doesn't make a forest 单丝不成线，独木不成林
 ---
-match|n./v.|火柴；比赛；匹配的人或物；与...匹配
-candle|n.|蜡烛
-wax|n.|蜡；蜂蜡
+match|n./v.|火柴；比赛；匹配的人或物；与...匹配|A high standard of play marked the match between the two teams
+candle|n.|蜡烛|The candle was blown out by the wind
+wax|n.|蜡；蜂蜡|The candle gutters when the melted wax runs down its sides
 ---
-portfolio|n.|文件夹；公事包||briefcase n. 公事包
-paperback|n.|简装书；平装书
-pamphlet|n.|小册子
-tissue|n.|面巾纸；（器官）组织
-cover|n.|封面；盖子；套子
+portfolio|n.|文件夹；公事包|She has left her portfolio in a chair|briefcase n. 公事包
+paperback|n.|简装书；平装书|This bookshop only sells paperbacks
+pamphlet|n.|小册子|I took a few pamphlets from the travel agency
+tissue|n.|面巾纸；（器官）组织|She wipes off the sweat from her face with a tissue
+cover|n.|封面；盖子；套子|The front cover of the novel has been torn off| tear off 撕破，撕下
 ---
-Xerox|n.|施乐复印机
-duplicate|v./n.|重复；副本；复制品
-memorandum|n.|备忘录；建议书；=memo
-stationery|n.|文具；信纸
+Xerox|n.|施乐复印机|He kept the original copy and gave her only a Xerox
+duplicate|v./n.|重复；副本；复制品|Don't duplicate what you have already done
+memorandum|n.|备忘录；建议书；=memo|They agreed on the memorandum
+stationery|n.|文具；信纸|Stationery can be imprinted with your message or logo
 ---
-glue|n.|胶水
-ink|n.|墨水
-rubber|n.|（英）橡皮擦；橡胶
-scissors|n.|剪刀
+glue|n.|胶水|Stick them on the card using a small amount of glue
+ink|n.|墨水|If the ink sinks in, it would be hard to remove it
+rubber|n.|（英）橡皮擦；橡胶|Rubber is the country's principal export
+scissors|n.|剪刀|It is rumored that Leonardo da Vinci invented the scissors
 ---
-shear|n./v.|shears（尤指修篱笆用的）大剪刀；剪
-edge|n.|边；边缘；刀口
-rim|n.|（圆形物品的）外缘、边缘
+shear|n./v.|shears（尤指修篱笆用的）大剪刀；剪|With a few quick snips of the shears, he pruned the bush
+edge|n.|边；边缘；刀口|Look out! You could fall off the edge here
+rim|n.|（圆形物品的）外缘、边缘|Mike liked very much the golden rims of his glasses
 ---
-element|n.|元素；组成部分；基本部分
-factor|n.|因素；要素
-section|n.|部分；章；节
+element|n.|元素；组成部分；基本部分|Both hydrogen and oxygen are elements
+factor|n.|因素；要素|Her friendly manner is an important factor in her rapid success
+section|n.|部分；章；节|One section of the class is reading and the other is writing
 ---
-tag|n.|标签；称号
-label|n.|标签；标贴
-badge|n.|徽章；证章；标志；象征
+tag|n.|标签；称号|Don't forget to put tags with your name and address on your suitcases
+label|n.|标签；标贴|I read the information on the labels before deciding which jam to buy
+badge|n.|徽章；证章；标志；象征|Wisdom is the badge of maturity
 ---
-bolt|n./v.|螺栓；插销；闩上（门、窗）
-knob|n.|球形把手；旋钮
-handle|n./v.|柄；把手；拿；处理
+bolt|n./v.|螺栓；插销；闩上（门、窗）|We need an eye bold to fit this valve
+knob|n.|球形把手；旋钮|He twisted the knob of the door and went inside
+handle|n./v.|柄；把手；拿；处理|You have to press on the handle to turn it. It's very stiff
 ---
-shutter|n./v.|百叶窗；快门；停止（营业）
-curtain|n./v.|窗帘；幕布；给...装上帘子
-pane|n.|（一块）玻璃窗
-opacity|n.|不透明性||opaque n. 不透明物体；adj. 不透明的
+shutter|n./v.|百叶窗；快门；停止（营业）|The company shuttered its Hong Kong investment banking business a year ago
+curtain|n./v.|窗帘；幕布；给...装上帘子|I have enough material to curtain all the windows
+pane|n.|（一块）玻璃窗|He suffered a lot of pain after he accidentally broke a pane of glass
+opacity|n.|不透明性|They have chosen the frosted glass owing to its opacity|opaque n. 不透明物体；adj. 不透明的
 ---
-jar|n.|罐；广口瓶；猛烈震动
-barrel|n.|桶
-bucket|n.|（有提手的）桶
-pail|n.|（尤美-通常是金属或者木质的）桶；提桶
+jar|n.|罐；广口瓶；猛烈震动|I can't get the lid off this jar
+barrel|n.|桶|The wine is aged in oak barrels
+bucket|n.|（有提手的）桶|One bucket of paint will be enough for the ceiling
+pail|n.|（尤美-通常是金属或者木质的）桶；提桶|He tipped the slops out of the pail
 ---
-phone|n.|电话
-bell|n.|钟，铃
-camera|n.|照相机
-portable|adj.|手提式的；便携的
+phone|n.|电话|We swapped phone numbers
+bell|n.|钟，铃|I was roused by the sound of the bell this morning
+camera|n.|照相机|You'd better declare the camera to the official
+portable|adj.|手提式的；便携的|The new portale computers are selling like hot cakes|selling like hot cakes 畅销
 ---
-spotlight|n.|聚光灯
-lantern|n.|提灯；灯笼
-bulb|n.|电灯泡；球茎；球茎状物
-flashlight|n.|闪光灯的闪光；手电筒
+spotlight|n.|聚光灯|The spotlight followed the dancer around the stage
+lantern|n.|提灯；灯笼|The ice lantern festival, held in Harbin every winter, is fantastic
+bulb|n.|电灯泡；球茎；球茎状物|An efficient bulb may lighten the load of power stations
+flashlight|n.|闪光灯的闪光；手电筒|You can use the flashlight when you take a photo indoors
 ---
-refrigerator|n.|冰箱
+refrigerator|n.|冰箱|My refrigerator suddenly broke down yesterday evening
 fridge|n.|冰箱|The butter will soften out of the fridge
-vacuum|n./adj.|真空；真空吸尘器；真空的
-fan|n./v.|扇子；风扇；狂热爱好者；扇
-switch|n./v.|开关；转换；
+vacuum|n./adj.|真空；真空吸尘器；真空的|The food is kept in a vacuum pack
+fan|n./v.|扇子；风扇；狂热爱好者；扇|He has charmed most of them into membership of his fan club
+switch|n./v.|开关；转换；|Press the switch to see if the light comes on
 ---
-hurdle|n.|栏架；跨栏赛跑
-fence|n.|栅栏；围栏
-pedal|n./v.|踏板；踩踏板|One of the pedals has come out off my bicycle
+hurdle|n.|栏架；跨栏赛跑|With her speed and agility, she can beat all her competitors in the hurdle race
+fence|n.|栅栏；围栏|That fence is the limit of the schoolyard
+pedal|n./v.|踏板；踩踏板|One of the pedals has come off my bicycle
 ---
-shelf|n.|架子；隔板
-ladder|n.|梯子；阶梯
-lift|v./n.|提；抬；提高；（英）电梯（美 elevator）
+shelf|n.|架子；隔板|The shelf is too weak to hold all those books
+ladder|n.|梯子；阶梯|Diligence is often a ladder to success
+lift|v./n.|提；抬；提高；（英）电梯（美 elevator）|This box is too heavy for me to lift
 ---
-stool|n.|凳子
-drawer|n.|抽屉
-umbrella|n.|伞
-raincoat|n.|雨衣
+stool|n.|凳子|Because of that stool and a pair of computers, I gained a best friend
+drawer|n.|抽屉|The keys are in the back left hand corner of the drawer
+umbrella|n.|伞|The wind blew my umbrella inside out
+raincoat|n.|雨衣|He had no raincoat on when the rain started
 ---
-dredge|n./v.|挖泥船；挖掘机/挖掘；撒（糖；面粉等）
-can|v./n.|把（食品）罐装保存；罐头；听
-mill|n./v.|磨粉机；磨坊/碾碎；无目的地乱转
+dredge|n./v.|挖泥船；挖掘机/挖掘；撒（糖；面粉等）|She dredged a little sugar over the cake
+can|v./n.|把（食品）罐装保存；罐头；听|She was carrying an armful of cat food cans and talking to herself
+mill|n./v.|磨粉机；磨坊/碾碎；无目的地乱转|Corn is ground into flour in a mill
 ---
-forge|n./v.|炼铁炉；锻造；伪造
-alloy|n.|合金；（金属的）成色
-metal|n.|金属
+forge|n./v.|炼铁炉；锻造；伪造|These machine parts have been forged with the finest steel
+alloy|n.|合金；（金属的）成色|Brass is an alloy of copper and zinc
+metal|n.|金属|A gust of wind pried loose a section of sheet metal roofing|pry loose 撬开；撬动
 ---
-iron|n./v.|铁；熨斗；熨；烫
-lead|n.|铅
-brass|n.|黄铜；黄铜制品
-bronze|n.|青铜；青铜艺术品
+iron|n./v.|铁；熨斗；熨；烫|They analyzed the ore and found iron in it
+lead|n.|铅|Lead is one of the softer metals
+brass|n.|黄铜；黄铜制品|Brass is formed by the fusion of copper and zinc
+bronze|n.|青铜；青铜艺术品|We fuse copper and tin to make bronze
 ---
-cement|n./v.|水泥；胶结剂；使黏结
-pitch|n.|沥青
-lime|n.|石灰
-plaster|n.|灰泥；熟石膏
+cement|n./v.|水泥；胶结剂；使黏结|The mixed cement has been hoisted up the building|hoist v. 提起；升起
+pitch|n.|沥青|They used pitch to cover roofs
+lime|n.|石灰|Lime in the soil is detrimental to some plants|detrimental adj. 有害的
+plaster|n.|灰泥；熟石膏|The plaster had started to come away from the wall
 ---
-leather|n.|皮革；皮衣
-plastic|n./adj.|塑料；有塑性的；塑料的
-fiber/fibre|n.|纤维；纤维素
+leather|n.|皮革；皮衣|Wax polish preserves wood and leather
+plastic|n./adj.|塑料；有塑性的；塑料的|Many items in daily use are made out of plastic
+fiber/fibre|n.|纤维；纤维素|Scientists are recommending that people eat more fiber
 ---
-fabric|n.|织物；布料
-knit|v.|编织；针织
-weave|v.|编织；编造
+fabric|n.|织物；布料|The jacket is comfortable because the fabric breathes
+knit|v.|编织；针织|My grandmother knited me some socks
+weave|v.|编织；编造|We're weaving garlands of flowers for heros
 ---
-canvas|n.|帆布；油画布
-linen|n.|亚麻布；亚麻织品
-cotton|n.|棉；棉线；棉布
+canvas|n.|帆布；油画布|They carried canvas sacks over their shoulders
+linen|n.|亚麻布；亚麻织品|Low elasticity, imparting a hard and smooth texture, makes linen subject to wrinkling
+cotton|n.|棉；棉线；棉布|The cotton has been picked and weighed up
 ---
-nylon|n.|尼龙
-lumber|n.|木材；木料
-wooden|adj.|木制的；呆板的
+nylon|n.|尼龙|This dress is eighty percent nylon
+lumber|n.|木材；木料|Forested areas have been expanding every year, with the amount of increase in standing timber greater than that of the felled lumber
+wooden|adj.|木制的；呆板的|There is a wooden porch over the sidewalk
 ---
-mine|n.|矿场；矿井；地雷
-pit|n.|深坑；煤矿；潜在危险
-fuel|n./v.|燃料；给...加燃料||add fuel to 给...加燃料
-lubricate|v.|润滑；加润滑油于
+mine|n.|矿场；矿井；地雷|The mine was closed owing to exhaustion
+pit|n.|深坑；煤矿；潜在危险|When you fall into a pit, you either die or get out
+fuel|n./v.|燃料；给...加燃料|We aim for a ten percent saving in fuel|add fuel to 给...加燃料
+lubricate|v.|润滑；加润滑油于|We find it necessary to lubricate machines
 ---
-diamond|n.|金刚石；钻石；菱形
-crystal|n.|水晶；结晶；晶体
+diamond|n.|金刚石；钻石；菱形|The diamond ring on her finger glittered in the light
+crystal|n.|水晶；结晶；晶体|People imitate diamond with crystal
 ---
-inferior|adj./n.|差的；下级的；低等的；级别/地位低的人；次品||inferiority
-counterfeit|adj./v.|假冒的；伪造
-fake|adj./n.|假冒的；冒充者；假货
+inferior|adj./n.|差的；下级的；低等的；级别/地位低的人；次品|I grudge paying so much for such inferior goods|inferiority grudge v. 勉强做；不情愿地给
+counterfeit|adj./v.|假冒的；伪造|It is against the law to counterfeit money
+fake|adj./n.|假冒的；冒充者；假货|On closer examination, the painting was proved to be a fake
 ---
-fragile|adj.|易碎的；脆弱的
-miniature|adj./n.|微型的；很小的/微缩模型；微型画
-available|adj.|可获得的
-durable|adj.|耐用的；持久的
+fragile|adj.|易碎的；脆弱的|Glass is fragile and must be handled with great care
+miniature|adj./n.|微型的；很小的/微缩模型；微型画|The locket contained a miniature portrait of her late husband|late adj. 已故的
+available|adj.|可获得的|Water and electric hookups are available and facilities are good|water and electric hookups 水电接口
+durable|adj.|耐用的；持久的|Some parts of the machine have to be made from durable materials
 ===
 时尚潮流
 +++
-fashion|n./v.|时尚；制作；制成||fashionable adj. 流行的。come into fashion 流行起来；开始流行。out of fashion 过时的
-style|n.|风格；样式；时尚||stylish adj. 时髦的；有格调的
-trend|n.|趋势；倾向
-tendency|n.|趋势；倾向；偏好
-current|n./adj.|潮流；趋势；当前的
+fashion|n./v.|时尚；制作；制成|Loose trousers are the latest fashion|fashionable adj. 流行的。come into fashion 流行起来；开始流行。out of fashion 过时的
+style|n.|风格；样式；时尚|The style of this skirt is just in season|stylish adj. 时髦的；有格调的
+trend|n.|趋势；倾向|The youth like to follow the latest trend in fashion
+tendency|n.|趋势；倾向；偏好|There is a growing tendency for people to work at home instead of in offices
+current|n./adj.|潮流；趋势；当前的|Newspapers influenced the current of thought|current of thought 思潮
 ---
 popularity|n.|流行|That record made the singer's popularity boom 那张唱片捧红了这位歌手
-vogue|n.|流行||in vogue 流行的
-prevail|v.|盛行；获胜||prevalence n. 流行；普遍存在。prevailing adj. 盛行的。prevail over/against 压倒；战胜
+vogue|n.|流行|Long hair for men and high boots for ladies are no longer in vogue|in vogue 流行的
+prevail|v.|盛行；获胜|Truth will ultimately prevail|prevalence n. 流行；普遍存在。prevailing adj. 盛行的。prevail over/against 压倒；战胜
 ---
 model|n./v.|模型；模特/使模仿|After a brief spell as a model, she got into singing|spell n. 作名词有“（持续的）一段时间”的意思
-icon|n.|偶像；图标
-idol|n.|偶像；受到崇拜的人或物；神像
+icon|n.|偶像；图标|That singer is one of the pop culture icons of 1980s
+idol|n.|偶像；受到崇拜的人或物；神像|That football player is the idol of many young people
 ---
-luxury|n.|奢侈；奢侈品||luxurious adj. 奢侈的；豪华的
-extravagant|adj.|奢侈的；过分的
-jewelry/jewellery|n.|珠宝；手势
+luxury|n.|奢侈；奢侈品|The increasing sales of luxuries are an indication of the country's prosperity|luxurious adj. 奢侈的；豪华的
+extravagant|adj.|奢侈的；过分的|She's very extravagant. She spends all her money on clothes
+jewelry/jewellery|n.|珠宝；手势|The piece of jewelry is priceless
 ---
-jewel|n.|宝石
-gem|n.|宝石；珍品
-jade|n.|玉石；翡翠
+jewel|n.|宝石|That jewel has a beautiful shimmer|shimmer n./v.|微光；闪烁/发微光；闪烁
+gem|n.|宝石；珍品|This picture is the gem of the collection
+jade|n.|玉石；翡翠|I have a pair of jade bracelets|bracelet n. 手镯；手链
 ---
-adorn|v.|装饰；装扮
+adorn|v.|装饰；装扮|She likes to adorn herself with jewels
 ornament|n./v.|装饰品；装饰|Clearness ornaments profound thought 清晰性能为深刻的思想增辉|
 embellish|v.|修饰|The door of the old church was embellished with intricate carvings|intricate adj. 错综复杂的；复杂精细的；难理解的；难解决的。carving n. 雕刻品；雕刻图案；雕刻技艺
-embroider|v.|对（故事等）加以渲染；在...上刺绣
+embroider|v.|对（故事等）加以渲染；在...上刺绣|Her shirt is embroidered with roses
 ---
-hairdressing|n.|美发；理发
-pigment|n.|色素；颜料
-dye|n.|染料；（染上的）颜色；染
+hairdressing|n.|美发；理发|She has spent much money and time on hairdressing
+pigment|n.|色素；颜料|This pigment is a good and common food additive|additive n. 添加剂
+dye|n.|染料；（染上的）颜色；染|My roommate has dyed her hair red. It looks so unnatural
 ---
-masquerade|n./v.|化装舞会；化妆；假扮
-veil|n.|面纱；遮蔽物
-costume|n.|戏服；（某历史时期或某地的）服装||academic costume 学位服；a costume ball 化装舞会
+masquerade|n./v.|化装舞会；化妆；假扮|She masqueraded as a shepherdess
+veil|n.|面纱；遮蔽物|The bride's face was covered with a white veil
+costume|n.|戏服；（某历史时期或某地的）服装|Her national costume showed which country she came from|academic costume 学位服；a costume ball 化装舞会
 ---
-fascinate|v.|迷住||fascinating adj. 迷人的。be fascinated with 迷上
+fascinate|v.|迷住|This city fascinates him|fascinating adj. 迷人的。be fascinated with 迷上
 decent|adj.|得体的；尚好的|He made a decent record 他成绩善佳|indecent adj. 下流的
-exquisite|adj.|精致的；雅致的
+exquisite|adj.|精致的；雅致的|He has exquisite taste and decent manners
 ---
 grace|n.|优美；优雅|She was a beautiful girl with the grace and poise of a natural model 她是一个美丽的女孩，天生有着模特的那种优雅仪态|poise n. 沉着，泰然自若；平衡
-elegance|n.|文雅；典雅||elegant adj. 优雅的
-perfect|adj.|完美的
+elegance|n.|文雅；典雅|He is admired for the elegance of this writing|elegant adj. 优雅的
+perfect|adj.|完美的|No one expect you to be perfect, but we do expect you to do your best always
 ---
-appearance|n.|外貌；出现||appear v. 出现
-cosmetics|n.|化妆品
-make-up|n.|化妆品；组成成分；性格||make up 化妆
+appearance|n.|外貌；出现|Don't judge by appearances|appear v. 出现
+cosmetics|n.|化妆品|We have many types of cosmetics for sale
+make-up|n.|化妆品；组成成分；性格|I cannot tell who's who when the women take off their their make-up|make up 化妆
 ---
-handsome|adj.|数量大的；英俊的
-charming|adj.|迷人的||Prince Charming白马王子
-pretty|adj./adv.|漂亮的；相当地
-beautiful|adj.|美丽的
-ugly|adj.|丑陋的
+handsome|adj.|数量大的；英俊的|The waitress received a handsome tip
+charming|adj.|迷人的|Her colorful character makes her very charming|Prince Charming白马王子
+pretty|adj./adv.|漂亮的；相当地|All the pretty mowen wore their smartest dresses
+beautiful|adj.|美丽的|Looking at a beautiful painting always gives one satisfaction
+ugly|adj.|丑陋的|You can't persuade me to buy this ugly vase
 ---
-dress|n.|衣服；连衣裙
-clothe|v.|给...穿衣；为...提供衣服||clothes n. 衣服。clothing n. 衣服
-uniform|n./adj.|制服；一致的
+dress|n.|衣服；连衣裙|She wears a beautiful evening dress
+clothe|v.|给...穿衣；为...提供衣服|He had to work hard to feed and clothe the large family|clothes n. 衣服。clothing n. 衣服
+uniform|n./adj.|制服；一致的|Do you have to wear uniform if you work at McDonald's?
 ---
-garment|n.|（一件）衣服
-laundry|n.|洗衣店；要（或正在）洗的衣服；刚洗好的衣服||do/hang/iron the laundry 洗/晾/熨衣服
-wardrobe|n.|衣柜；（某人的）全部服装
+garment|n.|（一件）衣服|This garment should be washed carefully
+laundry|n.|洗衣店；要（或正在）洗的衣服；刚洗好的衣服|There's a lot of laundry in the basket|do/hang/iron the laundry 洗/晾/熨衣服
+wardrobe|n.|衣柜；（某人的）全部服装|Can you hang this in the wardrobe please?
 ---
-overall|n./adj.|（英）（工作时穿的）罩衣；全面的
-overcoat|n.|大衣
-robe|n.|长袍；浴袍
+overall|n./adj.|（英）（工作时穿的）罩衣；全面的|The shop assistant was wearing a white overall
+overcoat|n.|大衣|He turned his overcoat collar up
+robe|n.|长袍；浴袍|She was simply dressed in a plain white robe
 gown|n.|长外衣；女礼服|She put on her silk gown and went to the ball|ball n. 除了球还有舞会的意思
 ---
-sweater|n.|毛衣；线衣
-jacket|n.|夹克衫
-skirt|n.|裙子
+sweater|n.|毛衣；线衣|This woolen sweater may keep you warm in winter
+jacket|n.|夹克衫|He wore a pair of dark glasses and a jacket all day long
+skirt|n.|裙子|How many skirts do you have?
 ---
-jeans|n.|牛仔裤
-trousers|n.|（尤英）裤子
-clasp|n./v.|搭扣；扣住
-button|n./v.|纽扣；按钮；扣上...的纽扣||unbutton v. 解开...的纽扣；如解开纽扣一样解开
+jeans|n.|牛仔裤|Jeans are made of jean, dynim or other durable fabrics
+trousers|n.|（尤英）裤子|This pair of trousers is too tight for me
+clasp|n./v.|搭扣；扣住|The button won't clasp 纽扣扣不上
+button|n./v.|纽扣；按钮；扣上...的纽扣|One of the buttons has come off my coat|unbutton v. 解开...的纽扣；如解开纽扣一样解开
 ---
-glove|n.|手套
-hat|n.|（常指带帽檐的）帽子
-cap|n.|（有帽舌的）帽子；（经费等的）最高限额
+glove|n.|手套|It's getting cold and I have to take out my woolen gloves
+hat|n.|（常指带帽檐的）帽子|She bought a hat yesterday
+cap|n.|（有帽舌的）帽子；（经费等的）最高限额|The cap goes well with your suit|go well with 与...相配；与...协调
 brim|n.|边缘；帽檐|He drank at the fountain's brim|drink 现在分词 drinking，过去式 drank 过去分词 drunk 或 drank。fountain n. 泉水;（尤指具有装饰效果的）喷泉
-scarf|n.|围巾；头巾
+scarf|n.|围巾；头巾|The price of this scarf is below ten dollars
 ---
-handkerchief|n.|手帕
-purse|n.|（英）钱包；（美）小手提包
-wallet|n.|钱包；皮夹子
+handkerchief|n.|手帕|He was playing with his handkerchief all the while during his speech|all the while 一直；始终
+purse|n.|（英）钱包；（美）小手提包|The lost of her purse caused her much inconvenience
+wallet|n.|钱包；皮夹子|She placed the receipt in her wallet
 ---
-vest|n.|英-汗衫；美-西装背心
+vest|n.|英-汗衫；美-西装背心|One button on the vest is loose
 wrap|n.|披肩|Over her shoulders was a much-mended wrap 她的肩上搭着一条被多次缝补的披肩|mend v./n. 修理；修补；缝补/修补过的地方
-cloak|n.|斗篷；覆盖物
-collar|n.|衣领；项圈
-sleeve|n.|袖子
+cloak|n.|斗篷；覆盖物|She picked up the old brown cloak and handed it to him
+collar|n.|衣领；项圈|She turned up his coat collar against the chilly wind
+sleeve|n.|袖子|A stranger pulled at my sleeve as I was leaving
 ---
-sock|n.|短袜
-stocking|n.|（女式）长筒袜
+sock|n.|短袜|There is a hole in my sock
+stocking|n.|（女式）长筒袜|The thief musked his face with a stocking
 slipper|n.|拖鞋|No slipper is allowed in the laboratory|laboratory n. UK  /ləˈbɒr.ə.tər.i/ US  /ˈlæb.rə.tɔːr.i/ 实验室，实验大楼
-boot|n.|靴子
+boot|n.|靴子|My foot won't go into this boot
 lace|n.|鞋带|He stopped to tie the laces of his sneakers|sneakers(UK trainer) n. 运动鞋 UK trainer
 ---
-tailor|n./v.|裁缝；专门制作
-sew|v.|缝补；缝制
-spin|v./n.|纺；（使）旋转；高速旋转；（乘车）兜风
+tailor|n./v.|裁缝；专门制作|The tailor can alter your new coat to fit you
+sew|v.|缝补；缝制|The skirt is finished and I'm going to sew a pocket.
+spin|v./n.|纺；（使）旋转；高速旋转；（乘车）兜风|We took a spin around the town
 ---
-stitch|n./v.|针脚；缝
-needle|n.|针
-pin|n./v.|别针；大头针；别住，钉住
-string|n.|线；一串
-thread|n.|线；螺纹
+stitch|n./v.|针脚；缝|My mother is stitching a new dress
+needle|n.|针|The needle pierced her finger
+pin|n./v.|别针；大头针；别住，钉住|Pin the bills together so you won't lose them
+string|n.|线；一串|We have had a string of complaints about the program
+thread|n.|线；螺纹|She is looking for threads which match the cloth
 ---
-strap|n./v.|带子；用带子系
-stripe|n.|条纹
-ribbon|n.|缎带；丝带
+strap|n./v.|带子；用带子系|A safety strap is used to prevent falling
+stripe|n.|条纹|The body of a zebra is marked by black and white stripes
+ribbon|n.|缎带；丝带|Her hair was tied up with a ribbon
 ---
-belt|n.|腰带，皮带；地带，地区
-chain|n.|链子；链条
-bracelet|n.|手镯
-necklace|n.|项链
-bead|n./v.|珠子，（液体的）小滴；形成珠状
+belt|n.|腰带，皮带；地带，地区|A belt of trees grew between the two fields
+chain|n.|链子；链条|She wore a silver chain around her neck
+bracelet|n.|手镯|I'd like you to take this bracelet as a gift
+necklace|n.|项链|I valued this necklace at five thousand dollars
+bead|n./v.|珠子，（液体的）小滴；形成珠状|She wore a string of beads around her neck
 ---
-textile|n./adj.|纺织品；纺织的
-velvet|n.|丝绒；天鹅绒
+textile|n./adj.|纺织品；纺织的|He intends to retail textile goods
+velvet|n.|丝绒；天鹅绒|The lawn looks like green velvet
 wool|n.|（羊等的）毛；毛线|He found a job of shearing wool from sheep|woollen=woolen adj. 羊毛的
 ---
 patch|n./v.|补丁，（与周围不同的）小片；补缀|She sewed a patch onto the knee of the trousers 她在裤子的膝部缝了个补丁|patchwork n. 拼布工艺；混杂物
 rag|n.|破布|She wrapped the box with an old rag|ragged adj. 破旧的
-shabby|adj.|破旧的；衣衫褴褛的
-tight|adj.|紧的
+shabby|adj.|破旧的；衣衫褴褛的|His shabby appearance creates a bad impression
+tight|adj.|紧的|This drawer is too tight for me to open it
 ---
-colour/color|n.|颜色；颜料|Due to the use of nature pigments, these folk paintings retain their color well. 因为使用了天然颜料，这些民俗画的颜色很好地保留了下来|retain [formal]v. 保持；保留；保有；留住；容纳。colorful=colourful adj. 富于色彩的
+colour/color|n.|颜色；颜料|Due to the use of natural pigments, these folk paintings retain their color well. 因为使用了天然颜料，这些民俗画的颜色很好地保留了下来|retain [formal]v. 保持；保留；保有；留住；容纳。colorful=colourful adj. 富于色彩的
 white|adj./n.|白的；白色|He was white with fury 他气的脸色发白|whitewash v. 粉刷，刷石灰水
-yellow|adj./n.|黄的；黄色
-brown|adj./n.|褐色的；褐色
+yellow|adj./n.|黄的；黄色|The leaves turn yellow in autumn
+brown|adj./n.|褐色的；褐色|He had brown skin
 ---
-grey/gray|adj./n.|灰色的；灰色
-pink|adj./n.|粉色的；粉色
-purple|adj./n.|紫色的；紫色
-tan|adj./n.|棕黄色的；棕黄色；晒成的棕褐色
+grey/gray|adj./n.|灰色的；灰色|She dressed in grey
+pink|adj./n.|粉色的；粉色|She carried a spray of pink roses
+purple|adj./n.|紫色的；紫色|That girl liked to wear purple dresses
+tan|adj./n.|棕黄色的；棕黄色；晒成的棕褐色|It took me all summer to get this tan
 ---
-fade|v.|逐渐消失；（使）褪色
-stain|v./n.|污染；污渍||stainless adj. 无瑕疵的；不锈钢的
-blot|n.|污点
+fade|v.|逐渐消失；（使）褪色|Beauty fades like a flower
+stain|v./n.|污染；污渍|The coffe stained her shirt brown|stainless adj. 无瑕疵的；不锈钢的
+blot|n.|污点|The new power station is a blot on the landscape
 ---
-figure|n./v.|身材；身影；重要人物；数字；认为||figure out 理解；弄明白。a slender/slim figure 苗条的身材；a hourglass figure 沙漏身材
-slender|adj.|苗条的；微弱的
+figure|n./v.|身材；身影；重要人物；数字；认为|I could see a tall figure near the door|figure out 理解；弄明白。a slender/slim figure 苗条的身材；a hourglass figure 沙漏身材
+slender|adj.|苗条的；微弱的|All of us admired her slender figure
 slight|adj.|纤细的；轻微的|Our army suffered a slight reverse|reverse 作名词有失败、挫折的意思。slightly adv. 稍微
 ===
 饮食健康
 +++
 food|n.|食物|I prefer vegetarian food|foodie n. 美食家；吃货
-diet|n.|日常饮食；（医生指定的）特别饮食；节食|A sugar-free diet is recommended for diabetics|dietary adj. 饮食的。on a diet 进行节食
-appetite|n.|食欲；强烈欲望
+diet|n.|日常饮食；（医生指定的）特别饮食；节食|A sugar-free diet is recommended for diabetics|dietary adj. 饮食的。on a diet 进行节食 diabetic adj. 糖尿病的
+appetite|n.|食欲；强烈欲望|I lost my appetite
 ---
-treat|v./n.|请客；对待；治疗/款待||treatment n. 对待；处理；治疗
-cater|v.|为...提供饮食；满足...的需要
-provision|n.|供应、预备||provisions 食品供应
-edible|adj.|可以吃的
-recipe|n.|食谱；秘诀
+treat|v./n.|请客；对待；治疗/款待|It is my turn to treat us today|treatment n. 对待；处理；治疗
+cater|v.|为...提供饮食；满足...的需要|Our hotel also caters for weddings and parties
+provision|n.|供应、预备|Provision of shelter was the Red Cross's main concern for the disater victims|provisions 食品供应
+edible|adj.|可以吃的|Take something edible with you when you go there
+recipe|n.|食谱；秘诀|In the recipe, it says that I must use two eggs
 ---
-restaurant|n.|餐馆
-refectory|n.|（学校或其他机构）食堂、餐厅
-bar|n.|酒吧、吧台
-cafeteria|n.|自助餐厅
+restaurant|n.|餐馆|I had my breakfast in a small restaurant
+refectory|n.|（学校或其他机构）食堂、餐厅|The meal of the school refectory is healthy and delicious
+bar|n.|酒吧、吧台|There weren't any free tables, so I sat on a stool at the bar
+cafeteria|n.|自助餐厅|In the cafeteria, we serve ourselves
 ---
-buffet|n.|自助餐
-barbecue|n./v.|烧烤野餐、烤架/烧烤
-supper|n.|晚餐
-banquet|n.|宴会
+buffet|n.|自助餐|We serve buffet during lunch time only
+barbecue|n./v.|烧烤野餐、烤架/烧烤|I you're not busy Sunday, we'd love to have you both over for a barbecue|have sb. over 邀请某人到家里做客
+supper|n.|晚餐|His wife made some pumpkin pie for supper
+banquet|n.|宴会|We met his foreign friends and gave a banquet in their honor
 ---
-refreshment|n.|茶点、点心
-snack|n.|快餐、小吃、零食
-appetiser/appetizer|n.|开胃饮料、开胃小菜
-cuisine|n.|菜肴、烹饪
-menu|n.|菜单
-order|n./v.|订单、点的餐/点（酒菜等）
-takeaway|n.|[英]外卖餐馆、外卖食物
+refreshment|n.|茶点、点心|We only serve drinks and light refreshments on this short flight
+snack|n.|快餐、小吃、零食|Apples are a more nutritional snack than popcorn
+appetiser/appetizer|n.|开胃饮料、开胃小菜|We served some crackers and cheese as an appetizer
+cuisine|n.|菜肴、烹饪|Chinese cuisine is the perfect fusion of color, shape, appearance and flavor
+menu|n.|菜单|He called the waiter to bring the menu
+order|n./v.|订单、点的餐/点（酒菜等）|He gave his order to the waiter
+takeaway|n.|[英]外卖餐馆、外卖食物|Eat in or takeaway?
 ---
-chief|n.|厨师
-gourmet|n./adj.|美食家/美味佳肴的
-vegetarian|n./adj.|素食者/素食的、无肉的
+chef|n.|厨师|There's only one chef in that grand hotel
+gourmet|n./adj.|美食家/美味佳肴的|The gourmet is very particular about food
+vegetarian|n./adj.|素食者/素食的、无肉的|I've become used to a vegetarian diet
 ---
-cutlery|n.|餐具、刀具
-silver|n./adj.|银、银器/银的、银色的
-ceramic|adj./n.|陶瓷的/陶瓷制品
-porcelain|n.|瓷器、瓷
+cutlery|n.|餐具、刀具|Knife and fork are the main cutlery used by the European people
+silver|n./adj.|银、银器/银的、银色的|She wore a silver chain around her neck
+ceramic|adj./n.|陶瓷的/陶瓷制品|The ceramic industry dates from ancient times
+porcelain|n.|瓷器、瓷|The museum displays specimens of ancient Chinese porcelain
 ---
 bowl|n.|碗|I have a bowl of cereal every morning|cereal n. 谷类植物，谷物；（尤指早晨加牛奶食用的）谷类食物，麦片。a fish bowl 鱼缸
-dish|n.|碟、菜肴
-saucer|n.|茶托、茶碟
-tray|n.|盘、托盘
+dish|n.|碟、菜肴|The careless waiter dropped the dish onto the ground
+saucer|n.|茶托、茶碟|He is drinking with a cup and saucer
+tray|n.|盘、托盘|He put the toast on the breakfast tray
 ---
-fork|n.|餐叉、分岔处
-knife|n.|刀
-spoon|n.|匙、调羹
-glass|n.|玻璃、玻璃杯
-mug|n.|大杯、马克杯
+fork|n.|餐叉、分岔处|They usually eat with a knife and fork
+knife|n.|刀|He halved an apple with a knife
+spoon|n.|匙、调羹|His soup spoon dropped onto the ground
+glass|n.|玻璃、玻璃杯|I cut my hand on some broken glass
+mug|n.|大杯、马克杯|He asked me to make him a mug of coffee
 ---
-kettle|n.|水壶、[美]锅
-pan|n.|平底锅、[美]烤盘
-pot|n.|锅、壶
+kettle|n.|水壶、[美]锅|The kettle is boiling
+pan|n.|平底锅、[美]烤盘|I cracked two eggs into the frying pan
+pot|n.|锅、壶|Will you help me wash up all these pots and pans?
 ---
-stove|n.|炉子
-furnace|n.|熔炉；暖气炉
-oven|n.|烤炉、烤箱
+stove|n.|炉子|Please warm up this milk over the stove
+furnace|n.|熔炉；暖气炉|Would you please fire up the furnace?
+oven|n.|烤炉、烤箱|The bread is fresh out of the oven 新鲜出炉的面包
 ---
-tin|n.|锡、罐头
+tin|n.|锡、罐头|I never eat anything out of a tin
 lid|n.|盖子；眼睑，眼皮|He slammed the lid down|slam v. （使）重重撞上，（使）砰地关上
-drink|v./n.|饮、喝；喝酒/饮料
-beverage|n.|（水以外的）饮料
+drink|v./n.|饮、喝；喝酒/饮料|It is harmful to your health to drink too much
+beverage|n.|（水以外的）饮料|He is our regular supplier of beverages
 ---
-juice|n.|果汁、菜汁
-soda|n.|无碳酸钠的；苏打水；[美]汽水
-coffee|n.|咖啡
+juice|n.|果汁、菜汁|She was drinking juice through a straw
+soda|n.|无碳酸钠的；苏打水；[美]汽水|He gave me a bottle of orange soda
+coffee|n.|咖啡|He put some sugar into his coffee
 ---
-alcohol|n.|酒精、乙醇、酒
-liquor|n.|烈性酒
-whisky/whiskey|n.|威士忌酒
-brandy|n.|白兰地酒
-drunk|adj.|醉的
+alcohol|n.|酒精、乙醇、酒|The doctor told me to keep off alcohol
+liquor|n.|烈性酒|He appears to have drunk a lot of liquor
+whisky/whiskey|n.|威士忌酒|A great deal of whisky is made in Scotland
+brandy|n.|白兰地酒|I drank a miniature bottle of brandy last night
+drunk|adj.|醉的|He was obviously drunk
 ---
-tobacco|n.|烟草
-cigarette|n.|香烟
-sober|adj./v.|清醒的/（使）醒酒||sober up （使）醒酒
+tobacco|n.|烟草|A high amount of money is spent on tobacco every year
+cigarette|n.|香烟|A cigarette set the dry grass on fire
+sober|adj./v.|清醒的/（使）醒酒|He was tipsy yesterday, but now he is sober|sober up （使）醒酒
 ---
-vegetable|n.|蔬菜
-tomato|n.|番茄
-potato|n.|土豆
+vegetable|n.|蔬菜|Is the tomato a fruit or a vegetable?
+tomato|n.|番茄|His shirt was stained with tomato juice
+potato|n.|土豆|This salad is made up of apple, pear, potato and celery
 ---
 pea|n.|豌豆|This kind of pea has a long pod（荚）
-bean|n.|豆
-cucumber|n.|黄瓜
+bean|n.|豆|A bean grows rapidly
+cucumber|n.|黄瓜|I would like a cucumber salad for an appetizer
 ---
-cabbage|n.|洋白菜、卷心菜、甘蓝
-onion|n.|洋葱
-mushroom|n./v.|蘑菇/呈蘑菇状扩散
-eggplant|n.|茄子
+cabbage|n.|洋白菜、卷心菜、甘蓝|I'd like to cook dishes with cabbage
+onion|n.|洋葱|I don't like the flavor of onion
+mushroom|n./v.|蘑菇/呈蘑菇状扩散|The smoke mushroomed into the sky
+eggplant|n.|茄子|We grow many different vegetables, including potatoes, eggplants, etc.
 ---
-carrot|n.|胡萝卜
-turnip|n.|萝卜、芜菁
-radish|n.|樱桃萝卜
+carrot|n.|胡萝卜|The dish of boiled beef and carrot tastes good
+turnip|n.|萝卜、芜菁|My nephew loves to eat raw turnip
+radish|n.|樱桃萝卜|Please help me pull up the radishes
 ---
-fruit|n.|水果
-peel|v./n.|剥（水果、蔬菜的）皮/（水果）皮
-strip|v./n.|剥去、除去/条、带
-core|n.|果核
-hull|n./v.|（果实等的）外壳；船体/剥去（果实的）外壳
+fruit|n.|水果|Several baskets of fruit were eaten at the party
+peel|v./n.|剥（水果、蔬菜的）皮/（水果）皮|She throwed the banana peel into the trash can
+strip|v./n.|剥去、除去/条、带|Elephants strip the leaves from trees
+core|n.|果核|He ate the plum and then threw the core away|plum n. 李子、梅子
+hull|n./v.|（果实等的）外壳；船体/剥去（果实的）外壳|Rice is gathered, cleaned, and hulled before being sold
 ---
-cherry|n.|樱桃；樱桃树
-berry|n.|浆果
-grape|n.|葡萄
-papaya|n.|番木瓜
+cherry|n.|樱桃；樱桃树|We have different pies, such as apple, cherry and strawberry pies
+berry|n.|浆果|The berry is nutritious and has a sweetish taste
+grape|n.|葡萄|Sour grapes can never make sweet wine
+papaya|n.|番木瓜|I would be happy to share these bananas and papayas with you
 ---
-peach|n.|桃子
-pear|n.|梨
-plum|n.|李子、梅子
+peach|n.|桃子|The peach is a sweet and juicy fruit
+pear|n.|梨|Would you like a pear
+plum|n.|李子、梅子|Could I have some more sugar for my plum juice?
 ---
-orange|n.|橙子
-melon|n.|瓜、甜瓜
-lemon|n.|柠檬
-kiwi|n.|猕猴桃、奇异果
+orange|n.|橙子|Would you peel me an orange?
+melon|n.|瓜、甜瓜|We garnished the melon with strawberries
+lemon|n.|柠檬|I like orange more than lemon
+kiwi|n.|猕猴桃、奇异果|In Asia, the hardy kiwi grows well inside the shade
 ---
-crop|n.|庄稼、收成、产量
-corn|n.|[英]谷物；[美]玉米
-grain|n.|谷物、颗粒
+crop|n.|庄稼、收成、产量|We have had the biggest wheat crop ever this year
+corn|n.|[英]谷物；[美]玉米|The corn is nearly ready for harvesting
+grain|n.|谷物、颗粒|We ship grain to Africa
 ---
-wheat|n.|小麦
-reap|v.|收割、收获
-flour|n.|面粉
-porridge|n.|麦片粥
-paste|n.|糨糊、面团
+wheat|n.|小麦|This old man is a leading authority on wheat diseases
+reap|v.|收割、收获|We reap what we sow
+flour|n.|面粉|Bread is chiefly made of flour
+porridge|n.|麦片粥|She spooned out bowls of porridge
+paste|n.|糨糊、面团|We used paste to attach our designs to the poster
 ---
-livestock|n.|家畜|He is good at breading livestock|livestock sector 畜牧业
-chicken|n.|鸡
-turkey|n.|火鸡
+livestock|n.|家畜|He is good at breeding livestock|livestock sector 畜牧业
+chicken|n.|鸡|He has a chicken farm
+turkey|n.|火鸡|People often drink white wine with turkey
 ---
-beef|n.|牛肉
-pork|n.|猪肉
-mutton|n.|羊肉
-sausage|n.|香肠
+beef|n.|牛肉|Do you like stewed beef?
+pork|n.|猪肉|The little girl only eats lean pork|lean adj. 瘦的
+mutton|n.|羊肉|People like to have mutton in the winter
+sausage|n.|香肠|She loves sausage and mash
 ---
-fish|n./v.|鱼/钓鱼
-pond|n.|池塘
-rod|n.|杆、竿||a fishing rod
+fish|n./v.|鱼/钓鱼|We caught three little fish
+pond|n.|池塘|The dear lowered its head to drink from the pond
+rod|n.|杆、竿|I bought a new fishing rod last Sunday|a fishing rod
 ---
-dairy|n./adj.|乳制品、乳品店/乳制的||diary n. 日记（注意拼写）。dairy products 乳制品
-milk|n./v.|奶/挤奶
-yogurt|n.|酸奶
-cream|n.|奶油
-cheese|n.|起司、奶酪||a big cheese 要员、大人物
+dairy|n./adj.|乳制品、乳品店/乳制的|We bought milk at the dairy|diary n. 日记（注意拼写）。dairy products 乳制品
+milk|n./v.|奶/挤奶|I am boiling the milk
+yogurt|n.|酸奶|Do you have any low-fat yogurt?
+cream|n.|奶油|He is whipping cream
+cheese|n.|起司、奶酪|Cheese often upset her stomach|a big cheese 要员、大人物
 ---
-butter|n./v.|黄油/涂黄油
-salad|n.|色拉
-sandwich|v./n.|把...夹入/三明治
-hamburger|n.|汉堡包
+butter|n./v.|黄油/涂黄油|I'll butter the bread
+salad|n.|色拉|It only takes a minute to make a salad
+sandwich|v./n.|把...夹入/三明治|She was sandwiched between two fat men
+hamburger|n.|汉堡包|I had a hamburger and a fried chicken leg
 ---
-loaf|n./v.|一条（面包）/游荡、闲逛
-pie|n.|馅饼、派
-pizza|n.|披萨饼
+loaf|n./v.|一条（面包）/游荡、闲逛|Half a loaf is better than no bread 聊胜于无
+pie|n.|馅饼、派|Would you like another piece of apple pie?
+pizza|n.|披萨饼|I decided to go get a carryout pizza for dinner
 ---
-pasta|n.|意大利面食
-spaghetti|n.|意大利细面
-soup|n.|汤
+pasta|n.|意大利面食|Do you want chicken or pasta for dinner?
+spaghetti|n.|意大利细面|Spaghetti is one of my favorite foods
+soup|n.|汤|He had spoiled the soup by putting in too much salt
 ---
-pudding|n.|布丁
-biscuit|n.|[英]饼干，[美]烤饼、小圆面包
-jam|n.|果酱
+pudding|n.|布丁|Let the pudding chill for an hour
+biscuit|n.|[英]饼干，[美]烤饼、小圆面包|He had some biscuits before the dinner
+jam|n.|果酱|He spread some apple jam on the bread
 ---
-nut|n.|坚果、螺母
-chocolate|n.|巧克力
-ice cream|n.|冰淇淋
-vanilla|n./adj.|香草/香草味的
+nut|n.|坚果、螺母|He carefully cracked a nut and then gave it to me
+chocolate|n.|巧克力|Never eat chocolate before dinner
+ice cream|n.|冰淇淋|Mother knows how to make ice cream
+vanilla|n./adj.|香草/香草味的|Many children don't like vanilla-flavored ice cream
 ---
-mustard|n.|芥末、芥菜
-wasabi|n.|山葵、山葵根
-pepper|n.|胡椒粉、柿子树
+mustard|n.|芥末、芥菜|He put some mustard into the dish
+wasabi|n.|山葵、山葵根|sashimi is usually served with soy sauce and wasabi paste
+pepper|n.|胡椒粉、柿子树|The pepper in the food causes me to sneeze
 ---
-ginger|n.|姜
-garlic|n.|蒜
-scallion|n.|大葱|Kimchi is a well-known Korean side dish（配菜） make from fermented（发酵的） cabbage, radish, scallion or cucumber
+ginger|n.|姜|The ginger should be crushed up before it is added to the boiling jam
+garlic|n.|蒜|Your breath smells of garlic
+scallion|n.|大葱|Kimchi is a well-known Korean side dish（配菜） mdke from fermented（发酵的） cabbage, radish, scallion or cucumber
 ---
-vinegar|n.|醋
-salt|n.|盐
-sugar|n.|糖
-candy|n.|糖果
-honey|n.|蜂蜜
+vinegar|n.|醋|Vinegar has a acid taste
+salt|n.|盐|Salt lowers the freezing point of water
+sugar|n.|糖|I bought him a packet of sugar
+candy|n.|糖果|The greedy little boy ate all the candy at the party
+honey|n.|蜂蜜|We can use honey as a substitute for sugar
 ---
-flavor/flavour|n.|味道、口味、特色、风格
-sour|adj.|酸的
-sweet|adj.|甜的、愉快的
-bitter|adj.|苦的；痛苦的；严寒的
-spicy|adj.|辣的
+flavor/flavour|n.|味道、口味、特色、风格|You may choose anyone from the six popular flavors
+sour|adj.|酸的|Most green fruits are sour
+sweet|adj.|甜的、愉快的|The dish tastes a bit sweet
+bitter|adj.|苦的；痛苦的；严寒的|The medicine has a bitter taste
+spicy|adj.|辣的|Which province is famous for its hot and spicy cuisine?
 ---
-delicious|adj.|美味的
-yummy|adj.|美味的
-tasty|adj.|美味的
-hunger|n.|饥饿、渴望
-thirsty|n.|渴的、渴望的
+delicious|adj.|美味的|She can make a delicious meal from very simple ingredients
+yummy|adj.|美味的|This cake is really yummy
+tasty|adj.|美味的|I always get a double espresso, but their normal coffee is tasty too
+hunger|n.|饥饿、渴望|His hunger was soon appeased 平息、和缓
+thirsty|n.|渴的、渴望的|He was thirsty for power
 ---
-spice|n.|香料、给生活添加情趣的事
-sauce|n.|酱汁
-ketchup|n.|番茄酱
+spice|n.|香料、给生活添加情趣的事|Variety is the spice of life
+sauce|n.|酱汁|Waiter, may I have some steak sauce, please?
+ketchup|n.|番茄酱|I want to put some ketchup on the hamburger
 ---
-perfume|n.|香味、芳香；香水
-ingredient|n.|成分；（烹调的）原料、因素
-supplement|n./v.|营养补给、补贴/增补、补充
-digest|v.|消化、理解、领悟
+perfume|n.|香味、芳香；香水|The smell of her perfume lingered in the empty house
+ingredient|n.|成分；（烹调的）原料、因素|Chilli (红辣椒) is a crucial ingredient in Sichuan cuisine
+supplement|n./v.|营养补给、补贴/增补、补充|John had to get a job to supplement the family income
+digest|v.|消化、理解、领悟|Mary can't digest fat
 ---
-cook|v./n.|烹调、烧、煮/厨师
-bake|v.|烘烤、烤熟
-fry|v.|油煎
-roast|v./n.|烤/烤肉
-toast|v./n.|向...祝酒；为...干杯；烤/烤面包片
+cook|v./n.|烹调、烧、煮/厨师|Will she cook dinner this evening?
+bake|v.|烘烤、烤熟|The bread is baking in the oven
+fry|v.|油煎|The eggs are frying in the pan
+roast|v./n.|烤/烤肉|Let's have a nice roast for Sunday dinner
+toast|v./n.|向...祝酒；为...干杯；烤/烤面包片|We toasted the bride and bridegroom
 ---
-suck|v.|吮吸
-swallow|v.|咽下、吞下
-lick|v.|舔
-chew|v.|咀嚼
-gum|n.|口香糖、树胶
+suck|v.|吮吸|Don't suck your thumb. It's so dirty
+swallow|v.|咽下、吞下|A boa swollowed its prey whole|boa n. 蟒蛇 prey n. 猎物
+lick|v.|舔|He licked his fingers
+chew|v.|咀嚼|You must chew your food well before you swallow it
+gum|n.|口香糖、树胶|Would you like some sugarless gum?
 ---
-soak|v.|浸泡、使湿透
-dip|v.|蘸、浸
-squeeze|v.|挤压
+soak|v.|浸泡、使湿透|I have soaked the beans for eight hours
+dip|v.|蘸、浸|She dipped her hand in the sea to find out how cold it was
+squeeze|v.|挤压|He squeezed an orange to get the juice out
 ---
-stir|v.|搅动
-grind|v./n.|碾碎/枯燥乏味的事情
+stir|v.|搅动|The oatmeal will become lumpy if you don't stir it well|oatmeal n. 燕麦粥 lumpy adj. 多块状物的
+grind|v./n.|碾碎/枯燥乏味的事情|The mill of god grinds slowly but it grinds exceedingly well
 slice|v./n.|切成薄片、切、划/薄片|I sliced the bread
 ===
 建筑场所
