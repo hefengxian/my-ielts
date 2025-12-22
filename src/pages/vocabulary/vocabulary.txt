@@ -214,7 +214,7 @@ outskirts|n.|郊区；市郊|We live on the outskirts of the city
 ---
 remote|adj.|遥远的；偏僻的；疏远的|She came from a remote village|a remote control 遥控器
 desolate|adj.|荒凉的|So how should they escape from these desolate canyons?
-distaaaaaaaant|adj.|疏远的；遥远的|It snows all year around in that distant little village|the distant past 遥远的过去
+distant|adj.|疏远的；遥远的|It snows all year around in that distant little village|the distant past 遥远的过去
 adjacent|adj.|邻近的；毗连的|We stayed in adjacent rooms|adjacent to 与...毗连的
 ---
 toxic|adj.|有毒的|All medicines are toxic|poisonous adj. 有毒的；toxic waste 有毒的废物；highly toxic 剧毒的
