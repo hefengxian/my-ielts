@@ -2212,7 +2212,7 @@ appetite|n.|食欲；强烈欲望|I lost my appetite
 ---
 treat|v./n.|请客；对待；治疗/款待|It is my turn to treat us today|treatment n. 对待；处理；治疗
 cater|v.|为...提供饮食；满足...的需要|Our hotel also caters for weddings and parties
-provision|n.|供应、预备|Provision of shelter was the Red Cross's main concern for the disater victims|provisions 食品供应
+provision|n.|供应、预备|Provision of shelter was the Red Cross's main concern for the disaster victims|provisions 食品供应
 edible|adj.|可以吃的|Take something edible with you when you go there
 recipe|n.|食谱；秘诀|In the recipe, it says that I must use two eggs
 ---
@@ -2240,7 +2240,7 @@ vegetarian|n./adj.|素食者/素食的、无肉的|I've become used to a vegetar
 ---
 cutlery|n.|餐具、刀具|Knife and fork are the main cutlery used by the European people
 silver|n./adj.|银、银器/银的、银色的|She wore a silver chain around her neck
-ceramic|adj./n.|陶瓷的/陶瓷制品|The ceramic industry dates from ancient times
+ceramic|adj./n.|陶瓷的/陶瓷制品|The ceramic industry dates from the ancient times
 porcelain|n.|瓷器、瓷|The museum displays specimens of ancient Chinese porcelain
 ---
 bowl|n.|碗|I have a bowl of cereal every morning|cereal n. 谷类植物，谷物；（尤指早晨加牛奶食用的）谷类食物，麦片。a fish bowl 鱼缸
@@ -2281,7 +2281,7 @@ tobacco|n.|烟草|A high amount of money is spent on tobacco every year
 cigarette|n.|香烟|A cigarette set the dry grass on fire
 sober|adj./v.|清醒的/（使）醒酒|He was tipsy yesterday, but now he is sober|sober up （使）醒酒
 ---
-vegetable|n.|蔬菜|Is the tomato a fruit or a vegetable?
+vegetable|n.|蔬菜|Is a tomato a fruit or a vegetable?
 tomato|n.|番茄|His shirt was stained with tomato juice
 potato|n.|土豆|This salad is made up of apple, pear, potato and celery
 ---
@@ -2374,8 +2374,8 @@ wasabi|n.|山葵、山葵根|sashimi is usually served with soy sauce and wasabi
 pepper|n.|胡椒粉、柿子树|The pepper in the food causes me to sneeze
 ---
 ginger|n.|姜|The ginger should be crushed up before it is added to the boiling jam
-garlic|n.|蒜|Your breath smells of garlic
-scallion|n.|大葱|Kimchi is a well-known Korean side dish（配菜） mdke from fermented（发酵的） cabbage, radish, scallion or cucumber
+garlic|n.|蒜|Your breath smelt of garlic
+scallion|n.|大葱|Kimchi is a well-known Korean side dish（配菜） made from fermented（发酵的） cabbage, radish, scallion or cucumber
 ---
 vinegar|n.|醋|Vinegar has a acid taste
 salt|n.|盐|Salt lowers the freezing point of water
@@ -2384,7 +2384,7 @@ candy|n.|糖果|The greedy little boy ate all the candy at the party
 honey|n.|蜂蜜|We can use honey as a substitute for sugar
 ---
 flavor/flavour|n.|味道、口味、特色、风格|You may choose anyone from the six popular flavors
-sour|adj.|酸的|Most green fruits are sour
+sour|adj.|酸的|Most green fruits are sour|sour 水果酸；sore 肌肉酸痛
 sweet|adj.|甜的、愉快的|The dish tastes a bit sweet
 bitter|adj.|苦的；痛苦的；严寒的|The medicine has a bitter taste
 spicy|adj.|辣的|Which province is famous for its hot and spicy cuisine?
@@ -2426,96 +2426,96 @@ slice|v./n.|切成薄片、切、划/薄片|I sliced the bread
 ===
 建筑场所
 +++
-architecture|n.|建筑风格、建筑学
+architecture|n.|建筑风格、建筑学|The forbidden city is one of the world's greatest works of architecture
 erection|n.|建筑、建造|The erection of the building took several years
-structure|n.|建筑物；结构
-construct|v.|建造
-obstruct|v.|阻塞、妨碍
+structure|n.|建筑物；结构|Most linguists would say they were concerned primarily with the grammatical structure of languages
+construct|v.|建造|They are planning to construct a new highway
+obstruct|v.|阻塞、妨碍|The road was obstructed by a fallen tree
 ---
-establish|v.|建立；设立
-build|v.|建造、开发
-found|v.|创建、创办
+establish|v.|建立；设立|The minister established a commission to suggest improments in the educational system
+build|v.|建造、开发|We should study hard to build a better future for ourselves
+found|v.|创建、创办|The rich businessman founded a hospital and a school in the town where he was born
 ---
-concrete|n./adj.|混泥土/具体的、混凝土制的
-steel|n.|钢铁
-stability|n.|稳定（性）
+concrete|n./adj.|混泥土/具体的、混凝土制的|The statue rests on a concrete base
+steel|n.|钢铁|Hot steel is quenched to be hardened
+stability|n.|稳定（性）|The government has taken measures to maintain the stability of prices
 ---
-site|n.|地点
+site|n.|地点|The construction site of a new shopping mall was a hive of activity 一片繁忙的景象
 venue|n.|发生地点、举行场所|They have already told us the venue for tomorrow's match
-landmark|n.|地标
+landmark|n.|地标|He oriented himself by finding a familiar landmark
 ---
 situated|adj.|位于...的|The zoo is situated in the suburbs
-locate|v.|放置；建立；找到
+locate|v.|放置；建立；找到|The new hospital will be located near college
 reside|v.|居住|The city in which I reside is very beautiful
 ---
 inhabit|v.|居住于|Thoughts inhabit my mind
-migrate|v.|迁徙；移居
-settle|v.|解决；在...定居；使定居
+migrate|v.|迁徙；移居|More and more people migrate from one city to another to seek fortune
+settle|v.|解决；在...定居；使定居|They moved the local people and settled them in another place
 ---
-dwelling|n.|住所
-skyscraper|n.|摩天大楼
-villa|n.|乡间别墅；[英]度假别墅
+dwelling|n.|住所|He has changed his dwelling recently
+skyscraper|n.|摩天大楼|The skyscraper towers into the sky
+villa|n.|乡间别墅；[英]度假别墅|I want to buy a villa outside the city
 ---
-mansion|n.|宅第；公馆
-apartment|n.|公寓
-flat|n.|[尤英]单元房；公寓
+mansion|n.|宅第；公馆|This old mansion became a hospital
+apartment|n.|公寓|I have an apartment in downtown Manhattan
+flat|n.|[尤英]单元房；公寓|She is buying a flat close to her office
 ---
-hostel|n.|廉价招待所
+hostel|n.|廉价招待所|We found a happy crew of foreign students in the youth hostel
 lodge|v./n.|租住/小屋；度假屋|Where we lodge is the problem
-hut|n.|小屋、棚屋
-cabin|n.|小木屋、（船上的）小舱
+hut|n.|小屋、棚屋|The hut was made out of pieces of wood
+cabin|n.|小木屋、（船上的）小舱|They lived in a little log cabin in the mountains
 ---
-cellar|n.|地窖、地下室
+cellar|n.|地窖、地下室|The celler floods whenever it rains heavily
 shed|n./v.|简易房、棚/流、洒、摆脱|He built a bicycle shed
-cottage|n.|村舍、小屋
+cottage|n.|村舍、小屋|The cottage could accommodate up to six people
 ---
-nursery|n./adj.|托儿所、托儿所的
+nursery|n./adj.|托儿所、托儿所的|The nursery teacher made the children sit bold upright 笔直坐
 cradle|n.|摇篮、发源地|Ancient Greece was the cradle of western civilization|from the cradle to the grave 从生到死、一生
-shelter|n./v.|庇护所；掩蔽/庇护；遮蔽
-block|n.|街区、障碍、一块
-grid|n.|栅栏、网格、输电网
+shelter|n./v.|庇护所；掩蔽/庇护；遮蔽|These plants must be sheltered from direct sunlight
+block|n.|街区、障碍、一块|Walk two blocks down the street and go pass the city hall
+grid|n.|栅栏、网格、输电网|The city's streets form a grid
 ---
 aisle|n.|走廊、过道|Don't stand in the aisle
-porch|n.|门廊
-corridor|n.|走廊、通道
+porch|n.|门廊|A pegion perched on our porch railing 一只鸽子栖息在我们门廊的栏杆上
+corridor|n.|走廊、通道|The corridor leads to the headmaster's office
 ---
-stair|n.|楼梯
-staircase|n.|（建筑内的）楼梯
-storey/story|n.|楼层
+stair|n.|楼梯|The child was sitting on the bottom stair
+staircase|n.|（建筑内的）楼梯|Only the staff members were allowed to use the staircase
+storey/story|n.|楼层|There's a nice-story apartment building next to the park
 layer|n.|层|There is a layer of dust on the table. Clean it before the guests arrive
 ---
 elevator|n.|[美]电梯|Her job is to operate an elevator|lift n. [英]电梯。a freight elevator 货梯
-escalator|n.|自动扶梯、滚梯
-handrail|n.|扶手、栏杆
+escalator|n.|自动扶梯、滚梯|I could never find escalators or the door I came in
+handrail|n.|扶手、栏杆|Where necessary for safety, in alleyways and stairs for example, handrails should be fitted
 ---
 pillar|n.|柱子、中坚、栋梁|The robber tied him to a pillar|a pillar of society 社会栋梁
-column|n.|柱；（书、报纸的）栏；专栏
+column|n.|柱；（书、报纸的）栏；专栏|The dome was supported by white marble columns
 beam|n.|（能量、放射线或粒子的）束；柱|The beam of the searchlights flooded the sky over the airport|a laser beam 激光束
 ---
-vault|n.|拱顶；金库；保险库
-arch|n./v.|拱门/（使）弯成弓形
-ceiling|n.|天花板、顶棚
-eaves|n.|屋檐
-chimney|n.|烟囱
+vault|n.|拱顶；金库；保险库|The walls and vault are decorated by marble
+arch|n./v.|拱门/（使）弯成弓形|The cat arches its back when it sees the dog
+ceiling|n.|天花板、顶棚|The traditional houses in that country have very low ceilings
+eaves|n.|屋檐|Under the eaves, I have to lower my head
+chimney|n.|烟囱|The chimney is choked up with soot and needs to be cleaned
 ---
-reception|n.|接待处
-lobby|n./v.|大厅；前厅；游说/游说||lobbyist n. 说客
-bench|n.|长凳||the bench 法官职位
+reception|n.|接待处|You can leave your key at reception
+lobby|n./v.|大厅；前厅；游说/游说|Please wait for me in the lobby of the hotel|lobbyist n. 说客
+bench|n.|长凳|An old man sat on the park bench and fed the pegions|the bench 法官职位
 ---
-parlour/parlor|n.|客厅
-fireplace|n.|壁炉
-radiator|n.|暖气设备
-living room|n.|客厅、起居室
-cabinet|n.|储藏柜、内阁||a cabinet meeting 内阁会议
+parlour/parlor|n.|客厅|The parlor has been decorated delicately
+fireplace|n.|壁炉|She edged her chair closer to the fireplace|edge 缓慢地移动
+radiator|n.|暖气设备|He tossed his coat on the chair and warmed his hands at a radiator
+living room|n.|客厅、起居室|The dining room is next to the living room
+cabinet|n.|储藏柜、内阁|She needs a cherry cabinet in her room|a cabinet meeting 内阁会议
 ---
-balcony|n.|阳台；（剧院的）楼座
-terrace|n.|露天平台、大阳台
-kitchen|n.|厨房
+balcony|n.|阳台；（剧院的）楼座|All bedrooms have private bathrooms and balconies
+terrace|n.|露天平台、大阳台|Do you want to sit at a table on the terrace
+kitchen|n.|厨房|I have to mop the kitchen floor at least once a day
 ---
-lavatory|n.|盥洗室、厕所
-toilet|n.|抽水马桶；[英]厕所
-bath|n.|洗澡；[英]浴缸||bathe v. 用水清洗
-basin|n.|盆；盆地
+lavatory|n.|盥洗室、厕所|The use of the lavatory is suspended during takeoff
+toilet|n.|抽水马桶；[英]厕所|Every flat has its own toilet
+bath|n.|洗澡；[英]浴缸|He has a cold bath every day|bathe v. 用水清洗
+basin|n.|盆；盆地|This basin is made of iron
 ---
 reserve|n./v.|储备；自然保护区/预订||reservoir n. 水库
 store|n./v.|商店；贮存物/贮存
