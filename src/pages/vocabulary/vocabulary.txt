@@ -2517,85 +2517,85 @@ toilet|n.|抽水马桶；[英]厕所|Every flat has its own toilet
 bath|n.|洗澡；[英]浴缸|He has a cold bath every day|bathe v. 用水清洗
 basin|n.|盆；盆地|This basin is made of iron
 ---
-reserve|n./v.|储备；自然保护区/预订||reservoir n. 水库
-store|n./v.|商店；贮存物/贮存
-mall|n.|购物中心
-complex|n.|综合建筑群
+reserve|n./v.|储备；自然保护区/预订|I have reserved a room for you at the hotel|reservoir n. 水库
+store|n./v.|商店；贮存物/贮存|When he got into the convenience store, he saw the long lines
+mall|n.|购物中心|The local kids often hang out at the mall
+complex|n.|综合建筑群|A new sports and leisure complex will open next month
 ---
-supermarket|n.|超市
+supermarket|n.|超市|A variety of foods are sold at a supermarket
 booth|n.|售货摊；电话亭；小隔间|Would you please watch over my booth?请照料一下我的摊位号码？|a telephone booth 电话亭。a photo booth 自助快照亭
-casino|n.|赌场
-studio|n.|演播室；工作室；单间公寓
+casino|n.|赌场|The city of dreams casino does not seem worried about the decline in tour groups
+studio|n.|演播室；工作室；单间公寓|The studio was filled with the scent of wild flowers
 ---
-downtown|n./adj.|市中心/市中心的
-urban|adj.|城市的
-peripheral|adj./n.|外围的/外围设备||periphery n. 外围；边缘
-vicinity|n.|附近；附近地区
+downtown|n./adj.|市中心/市中心的|Most of the old buildings in the downtown were torn down
+urban|adj.|城市的|Both urban and rural areas are more and more prosperous
+peripheral|adj./n.|外围的/外围设备|The peripheral parts of the city are poor|periphery n. 外围；边缘
+vicinity|n.|附近；附近地区|The stolen car was found in the vicinity of the station
 ---
-room|n.|房间；空间
-void|n./adj.|空间；空白；空虚/空的
-spacious|adj.|宽敞的
-airtight|adj.|密封的；不透气的
+room|n.|房间；空间|There is no room for a table in my bedroom
+void|n./adj.|空间；空白；空虚/空的|The amusement park will fill a void in this town, which has little entertainment for children
+spacious|adj.|宽敞的|The hotel room is neither spacious nor comfortable
+airtight|adj.|密封的；不透气的|The whole room is airtight
 ---
-expanse|n.|广阔；辽阔
-plaza|n.|广场；购物中心
-castle|n.|城堡
+expanse|n.|广阔；辽阔|There was a vast expanse of desert before us
+plaza|n.|广场；购物中心|The plaza is crammed with people|cram v. 塞满、挤满
+castle|n.|城堡|The ancient castle commands a fine view of the town
 ---
-carpenter|n.|木匠
-mason|n.|石匠；泥瓦匠
-tile|n.|瓦；瓷砖
-brickwork|n.|砖结构
+carpenter|n.|木匠|The carpenter charged ninety dollars for the job
+mason|n.|石匠；泥瓦匠|He asked the mason to make him a tombstone
+tile|n.|瓦；瓷砖|Clay is used to make things like pots and tiles
+brickwork|n.|砖结构|There is a weird crack in the brickwork
 ---
-suspension|n.|暂缓；暂令停职、停赛
-hook|n.|钩；钩状物；勾拳
-lever|n.|杠杆；操纵杆
-pole|n.|竿；杆
-scaffold|n.|脚手架；绞刑架
+suspension|n.|暂缓；暂令停职、停赛|I think her suspension from the team is a very harsh punishment
+hook|n.|钩；钩状物；勾拳|Hang your coat on the hook
+lever|n.|杠杆；操纵杆|Push the lever and the machine will start
+pole|n.|竿；杆|The hut is made of poles covered with grass mats
+scaffold|n.|脚手架；绞刑架|The worker fell down from the scaffold
 ---
-infrastructure|n.|基础设施
-apparatus|n.|机械；装置
-crane|n.|起重机；鹤
+infrastructure|n.|基础设施|The local government is too poor to invest in social welfare programs, new infrastructure or anything else
+apparatus|n.|机械；装置|A new piece of apparatus was used in the experiment
+crane|n.|起重机；鹤|We used a crane to lift a slab of concrete
 ---
-malfunction|v.|发生故障
-maintain|v.|维持；维修；坚称
-fix|v.|修理；使固定
+malfunction|v.|发生故障|The computer malfunctioned and printed out wrong words
+maintain|v.|维持；维修；坚称|It is absolutely vital that food supplies should be maintained
+fix|v.|修理；使固定|My watch has stopped. Can you fix it?
 ---
-mend|v.|修理；（使）康复
-modify|v.|稍作修改
-trim|v./adj.|修剪；装饰/整齐的、整洁的
+mend|v.|修理；（使）康复|It won't take long to mend the car
+modify|v.|稍作修改|We have to modify our plan a little bit
+trim|v./adj.|修剪；装饰/整齐的、整洁的|They trimmed their Christmas tree and put strings of color lights on it
 ---
-weld|v.|焊接；使紧密结合
-saw|n.|锯
-screw|n.|螺丝钉；螺旋架
-drill|n./v.|钻机；反复练习/钻孔；训练
+weld|v.|焊接；使紧密结合|His job is to weld all those parts together
+saw|n.|锯|The electric saw winds when my uncle uses it to cut the fallen tree
+screw|n.|螺丝钉；螺旋架|Turn the screw to the right to tighten it
+drill|n./v.|钻机；反复练习/钻孔；训练|The Saudi government has announced plans to drill for water in the desert
 plumb|n./v.|（表示垂直度的）铅锤/用铅锤线校正|We need to plumb the line
 ---
-viaduct|n.|高架桥
-span|n.|跨距；跨度；持续时间||span of life 寿命
-dam|n./v.|水坝/控制、抑制
+viaduct|n.|高架桥|An overhead road for cars or trains is called a viaduct
+span|n.|跨距；跨度；持续时间|The bridge has a clear span of 40 meters|span of life 寿命
+dam|n./v.|水坝/控制、抑制|A new dam is under construction at the valley
 ---
-assemble|v.|组装；装配
-install|v.|安装
+assemble|v.|组装；装配|She assembled the bookshelf all by herself
+install|v.|安装|We're installing a new heating system
 furnish|v.|为...配备家具陈设|The house is well furnished
 ---
-placement|n.|放置、布置
-layout|n.|设计；布局
-design|v./n.|设计；计划/设计
+placement|n.|放置、布置|The placement of the buttons and knobs in the car is well thought out
+layout|n.|设计；布局|The new page layout is appealing to teenagers
+design|v./n.|设计；计划/设计|He has already designed a good excuse for not attending the conference
 ---
-entrance|n.|入口；进入权
-entry|n.|进入；进入权
-enter|v.|进入
-exit|n./v.|出口；退场；离去/离去
+entrance|n.|入口；进入权|I'll meet you at the entrance of the zoo tomorrow
+entry|n.|进入；进入权|He pretended not to observe our entry
+enter|v.|进入|Please knock on the door before you enter
+exit|n./v.|出口；退场；离去/离去|I was eventually granted an exit visa
 ---
-outside|adj./n.|外部的/外表
-outward|adj./adv.|向外的/向外
-exterior|n./adj.|外部；外观/外部的
-external|adj.|外来的；外面的；对外的
+outside|adj./n.|外部的/外表|He had a tough outside but a kind heart
+outward|adj./adv.|向外的/向外|Frost consists of tiny crystals of ice, which grow outward from a solid surface
+exterior|n./adj.|外部；外观/外部的|The designer gives a design for the exterior of the container
+external|adj.|外来的；外面的；对外的|The external sector has improved performance significantly during the period
 ---
-inner|adj.|内部的；内心的
-interior|n./adj.|内部/内部的||interior design 室内设计
-inward|adj./adv.|向内的；内心的/向内
-internal|adj.|内部的；自身的；国内的
+inner|adj.|内部的；内心的|I can feel the inner peace again
+interior|n./adj.|内部/内部的|Interior design is a very promising industry nowadays|interior design 室内设计
+inward|adj./adv.|向内的；内心的/向内|The expedition discovered an inward passage
+internal|adj.|内部的；自身的；国内的|Every theory has its internal logic
 ===
 交通旅行
 +++
