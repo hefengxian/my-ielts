@@ -2476,7 +2476,7 @@ block|n.|街区、障碍、一块|Walk two blocks down the street and go pass th
 grid|n.|栅栏、网格、输电网|The city's streets form a grid
 ---
 aisle|n.|走廊、过道|Don't stand in the aisle
-porch|n.|门廊|A pegion perched on our porch railing 一只鸽子栖息在我们门廊的栏杆上
+porch|n.|门廊|A pigeon perched on our porch railing 一只鸽子栖息在我们门廊的栏杆上
 corridor|n.|走廊、通道|The corridor leads to the headmaster's office
 ---
 stair|n.|楼梯|The child was sitting on the bottom stair
@@ -2485,14 +2485,14 @@ storey/story|n.|楼层|There's a nice-story apartment building next to the park
 layer|n.|层|There is a layer of dust on the table. Clean it before the guests arrive
 ---
 elevator|n.|[美]电梯|Her job is to operate an elevator|lift n. [英]电梯。a freight elevator 货梯
-escalator|n.|自动扶梯、滚梯|I could never find escalators or the door I came in
+escalator|n.|自动扶梯、滚梯|I could never find the escalators or the door I came in
 handrail|n.|扶手、栏杆|Where necessary for safety, in alleyways and stairs for example, handrails should be fitted
 ---
 pillar|n.|柱子、中坚、栋梁|The robber tied him to a pillar|a pillar of society 社会栋梁
 column|n.|柱；（书、报纸的）栏；专栏|The dome was supported by white marble columns
 beam|n.|（能量、放射线或粒子的）束；柱|The beam of the searchlights flooded the sky over the airport|a laser beam 激光束
 ---
-vault|n.|拱顶；金库；保险库|The walls and vault are decorated by marble
+vault|n.|拱顶；金库；保险库|The walls and vaults are decorated by marble
 arch|n./v.|拱门/（使）弯成弓形|The cat arches its back when it sees the dog
 ceiling|n.|天花板、顶棚|The traditional houses in that country have very low ceilings
 eaves|n.|屋檐|Under the eaves, I have to lower my head
@@ -2500,7 +2500,7 @@ chimney|n.|烟囱|The chimney is choked up with soot and needs to be cleaned
 ---
 reception|n.|接待处|You can leave your key at reception
 lobby|n./v.|大厅；前厅；游说/游说|Please wait for me in the lobby of the hotel|lobbyist n. 说客
-bench|n.|长凳|An old man sat on the park bench and fed the pegions|the bench 法官职位
+bench|n.|长凳|An old man sat on the park bench and fed the pigeons|the bench 法官职位
 ---
 parlour/parlor|n.|客厅|The parlor has been decorated delicately
 fireplace|n.|壁炉|She edged her chair closer to the fireplace|edge 缓慢地移动
@@ -2599,92 +2599,92 @@ internal|adj.|内部的；自身的；国内的|Every theory has its internal lo
 ===
 交通旅行
 +++
-navigate|v.|航行；横渡
-voyage|n.|航海，航行；旅行|He goes on a voyage on a warship in the name of the government
-aviation|n.|航空；航空学；航空工业
+navigate|v.|航行；横渡|He was the first man who navigated the Atlantic alone
+voyage|n.|航海，航行；旅行|He goes on a voyage on a warship in the name of the government|warship n. 军舰
+aviation|n.|航空；航空学；航空工业|He was a pilot in the early days of aviation
 ---
-journey|n.|旅行；历程
-travel|n./v.|旅行/旅行
-safari|n.|观兽旅行
-parade|v./n.|游行；炫耀/庆祝游行；列队进行；炫耀
-haunt|v./n.|（鬼魂等）常出没于/常去的地方
+journey|n.|旅行；历程|I wish a pleasant journey to you
+travel|n./v.|旅行/旅行|During his travels, he met many interesting people
+safari|n.|观兽旅行|We'll go on safari in Africa after the wedding
+parade|v./n.|游行；炫耀/庆祝游行；列队进行；炫耀|The sports meeting began with a parade for all the competing teams
+haunt|v./n.|（鬼魂等）常出没于/常去的地方|This cafe used to be my favorite haunt
 ---
-attraction|n.|吸引；具有吸引力的事物
-memorial|n./adj.|纪念碑/纪念的；悼念的
-pyramid|n.|金字塔；棱锥体
+attraction|n.|吸引；具有吸引力的事物|The main attraction in this amusement park is a large swimming pool with salt water
+memorial|n./adj.|纪念碑/纪念的；悼念的|A memorial for victims of the blast was built
+pyramid|n.|金字塔；棱锥体|The ancient pyramid in Egypt is one of the wonders of the world
 ---
-port|n.|港口；左舷
-visa|n.|签证
-traffic|n.|交通；车流
+port|n.|港口；左舷|The boy often watched the boats return to port in the late afternoon
+visa|n.|签证|You need a visa to enter that country
+traffic|n.|交通；车流|Traffic reaches a peak between 8 and 9 in the morning
 ---
-airline|n.|航空公司
-airplane|n.|飞机
-helicopter|n.|直升机
-jet|n.|喷气式飞机；喷气口
-parachute|n.|降落伞
+airline|n.|航空公司|The airline launched a European route for the first time
+airplane|n.|飞机|An airplane engine is a complex machanism
+helicopter|n.|直升机|The president helicoptered to that city yesterday
+jet|n.|喷气式飞机；喷气口|Developing the supersonic jet was quite an accomplishment
+parachute|n.|降落伞|The parachutes in the air look like colorful mushrooms
 ---
-flight|n.|飞行；航班
-pilot|n.|飞行员
-passenger|n.|乘客
+flight|n.|飞行；航班|I'll book a direct flight to Shanghai for you
+pilot|n.|飞行员|A pilot must stay alert for the changes in weather
+passenger|n.|乘客|The baggage allowance per passenger is 25 kilograms
 ---
-baggage|n.|（尤美）行李
-luggage|n.|行李
-suitcase|n.|手提箱
-carry-on|n./adj.|（可随身携带上飞机的）小包/随身携带上飞机的
+baggage|n.|（尤美）行李|We may have lost some pieces of baggage, so we want to make a lost-baggage report
+luggage|n.|行李|I've just been informed that my luggage had already arrived
+suitcase|n.|手提箱|Her suitcase is stuffed with her clothes
+carry-on|n./adj.|（可随身携带上飞机的）小包/随身携带上飞机的|I have two carry-on bags with me
 ---
-rack|n.|挂物架；置物架
-freight|n./v.|货运；货物/运送（货物）
-fare|n.|车费；路费
+rack|n.|挂物架；置物架|He put his bag on the luggage rack
+freight|n./v.|货运；货物/运送（货物）|We can send these goods by air freight or by sea freight
+fare|n.|车费；路费|He didn't have enough money for the railway fare
 ---
-atlas|n.|地图册；地图集
-route|n.|路线
-itinerary|n.|路线；行程
+atlas|n.|地图册；地图集|Check where Sydney is on your atlas
+route|n.|路线|We came by a longer route than usual
+itinerary|n.|路线；行程|We have some more places to visit on our itinerary
 ---
-passage|n.|通过；通道；走廊
-intersection|n.|十字路口；交叉路口
-cross|n./v.|十字形；十字架/穿过
+passage|n.|通过；通道；走廊|The bridge is not strong enough to allow for the passage of vehicles
+intersection|n.|十字路口；交叉路口|The town lies at the intersection of three motorways
+cross|n./v.|十字形；十字架/穿过|It's very dangerous for children to cross a busy road
 ---
-way|n.|路；方式
-path|n.|小路
-lane|n.|小巷；车道
-avenue|n.|大街；途径
-highway|n.|[尤美]公路
+way|n.|路；方式|I'm on my way to the grocery
+path|n.|小路|We bumped up and down along the gravel path
+lane|n.|小巷；车道|There are many small lanes in the quiant town
+avenue|n.|大街；途径|One of the world's most beautiful avenues is the Champs-Élysées in Paris
+highway|n.|[尤美]公路|A four-lane highway connects the two towns
 ---
-curb|n.|路缘；起控制作用的事物
-signpost|n.|路标
-pave|v.|铺（路或地面）
+curb|n.|路缘；起控制作用的事物|I stopped and stood at the curb, trying to breathe
+signpost|n.|路标|The signpost showed us the right road to follow
+pave|v.|铺（路或地面）|The road was paved with cobblestones
 ---
-vehicle|n.|车辆；交通工具；手段；工具
-auto|n.|汽车
-express|n./v./adj.|特快列车；快递服务/表示/特快的
+vehicle|n.|车辆；交通工具；手段；工具|Subway is a convenient vehicle for white-collar workers
+auto|n.|汽车|The auto industry has brought many people to Detroit
+express|n./v./adj.|特快列车；快递服务/表示/特快的|We have to change here for the express train
 ---
-tram|n.|[尤英]有轨电车||[US]streetcar/trolley
-coach|n./v.|[英]长途汽车；教练；私人教师/训练
-ambulance|n.|救护车
+tram|n.|[尤英]有轨电车|If you want to go to that place, you can travel by tram|[US]streetcar/trolley
+coach|n./v.|[英]长途汽车；教练；私人教师/训练|We went to New York City by coach
+ambulance|n.|救护车|An ambulance was racing by with its siren wailing|race by 飞驰而过 wail v. 哀号、嚎叫
 ---
-truck|n.|卡车；敞篷火车
-lorry|n.|[英]卡车
-van|n.|厢式货车；客货车
-wagon|n.|四轮运货马车（或牛车）；[英]（火车的）火车车厢
-carriage|n.|四轮马车；[英]（客运火车的）车厢
+truck|n.|卡车；敞篷火车|They transported the goods by truck
+lorry|n.|[英]卡车|A heavy lorry is floundering in deep snow
+van|n.|厢式货车；客货车|As the car turned the corner, it collided with a van
+wagon|n.|四轮运货马车（或牛车）；[英]（火车的）火车车厢|An ox pulls a wagon into the village
+carriage|n.|四轮马车；[英]（客运火车的）车厢|The carriage, which he had ordered, arrived, and we drove off
 ---
-tractor|n.|拖拉机；牵引力
-cart|n.|货运马车；手推车；购物车
-pedicab|n.|（人力）三轮车
-cycle|v./n.|骑/周期；自行车
+tractor|n.|拖拉机；牵引力|The tractor has been demaged owing to rough usage
+cart|n.|货运马车；手推车；购物车|A heavy cart rumbled down the street
+pedicab|n.|（人力）三轮车|They hopped on a pedicab and toured the park
+cycle|v./n.|骑/周期；自行车|In many universities, students cycle from their dorms to the classroom or library
 ---
-garage|n.|汽车修理厂；车库
-motor|n./adj.|发动机/机动的
-horsepower|n.|马力
-wheel|n.|方向盘；车轮
+garage|n.|汽车修理厂；车库|My car broke down, and it has been towed to a garage
+motor|n./adj.|发动机/机动的|If the battery is dead, the motor won't be started
+horsepower|n.|马力|The horsepower of the engine is not very impressive
+wheel|n.|方向盘；车轮|The driver slumped over the steering wheel
 ---
-brake|n./v.|车闸；刹车/刹车
-tire/tyre|n.|轮胎
-honk|n./v.|汽车喇叭声；鹅叫声/按（汽车喇叭）
+brake|n./v.|车闸；刹车/刹车|The car in front of me stopped suddenly, and I had to brake sharply
+tire/tyre|n.|轮胎|My uncle jacked up his car to fix a flat tire
+honk|n./v.|汽车喇叭声；鹅叫声/按（汽车喇叭）|The drivers honked their horns, hoping to disperse the crowd in the streets
 ---
-crew|n.|全体工作人员；一组工作人员
-captain|n.|船长；队长
-steward|n.|男乘务员；管家
+crew|n.|全体工作人员；一组工作人员|I'd like to thank you on your behalf of the crew
+captain|n.|船长；队长|The captain of the sinking ship used flares to attract the attention of the coast guard
+steward|n.|男乘务员；管家|He is a steward of that great mansion
 ---
 emergency|n./adj.|紧急事件/应急的
 wreck|v./n.|使失事；破坏/失事的船只；残破的东西
