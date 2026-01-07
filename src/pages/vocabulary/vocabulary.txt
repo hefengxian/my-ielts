@@ -2686,91 +2686,91 @@ crew|n.|全体工作人员；一组工作人员|I'd like to thank you on your be
 captain|n.|船长；队长|The captain of the sinking ship used flares to attract the attention of the coast guard
 steward|n.|男乘务员；管家|He is a steward of that great mansion
 ---
-emergency|n./adj.|紧急事件/应急的
-wreck|v./n.|使失事；破坏/失事的船只；残破的东西
-crash|v.|撞击；崩溃；破产
-crush|v./n.|压碎、压坏/拥挤的人群；迷恋；迷恋对象
-dash|v.|猛冲；猛摔
+emergency|n./adj.|紧急事件/应急的|He has the ability to keep calm in emergencies
+wreck|v./n.|使失事；破坏/失事的船只；残破的东西|Because of the tsunami, the coast was a wreck
+crash|v.|撞击；崩溃；破产|The rocks crash down onto the car
+crush|v./n.|压碎、压坏/拥挤的人群；迷恋；迷恋对象|There was such a crush on the bus that I could hardly breathe
+dash|v.|猛冲；猛摔|He dashed the bowl to bits against the ground
 ---
-vanish|v.|突然消失；绝迹
-disappear|v.|失踪；消失
-hazard|n./v.|危险/使冒风险
+vanish|v.|突然消失；绝迹|He seemed to vanish into thin air
+disappear|v.|失踪；消失|He has disappeared for three years
+hazard|n./v.|危险/使冒风险|There are many hazards in a journey across the Arctic
 ---
-harbour/harbor|n.| 港口
-dock|n.|码头；船坞
-anchor|n.|锚
+harbour/harbor|n.| 港口|Our hotel room overlooked a pretty little harbour
+dock|n.|码头；船坞|The ship's hull scraped along the side of the dock
+anchor|n.|锚|We raised the anchor and set sail during the night|set sail 启航
 ---
-submerge|v.|（使）浸没；掩盖
-sailor|n.|水手；海员
-seaman|n.|海员；水手
+submerge|v.|（使）浸没；掩盖|I watched the submarine submerge
+sailor|n.|水手；海员|A sailor is at the mercy of the weather|at the mercy of 受...支配，任凭...摆布
+seaman|n.|海员；水手|There are many skilled seamen on our ship
 ---
-carrier|n.|航空母舰；运输工具
-steamer|n.|汽船；轮船
-liner|n.|邮轮；客轮
+carrier|n.|航空母舰；运输工具|The missile is launched from the aircraft carrier
+steamer|n.|汽船；轮船|The steamer arrived at the harbor this morning
+liner|n.|邮轮；客轮|The liner has been refitted from stern to stern 从头到尾整修
 ---
-vessel|n.|大船；舰；容器；器皿；血管
-ferry|n./v.|渡船/渡运
-sail|v.|航行；驾驶（帆船）
+vessel|n.|大船；舰；容器；器皿；血管|We haved cited the vessel and are following it
+ferry|n./v.|渡船/渡运|We can take the ferry that crosses the river every hour
+sail|v.|航行；驾驶（帆船）|His ship has been given the all-clear to sail
 ---
-raft|n.|木筏；木排
-canoe|n.|独木舟
-oar|n./v.|桨/用桨划
+raft|n.|木筏；木排|After a series of adventures alone on a raft, he eventually reached the village
+canoe|n.|独木舟|We crossed the lake in a canoe
+oar|n./v.|桨/用桨划|In dragon boat rowing, each paddler has one oar
 ---
-deck|n./v.|甲板/装饰
-turbine|n.|涡轮机
-propeller|n.|螺旋桨，推进器
+deck|n./v.|甲板/装饰|The deck of the sailing ship was made of thick planks
+turbine|n.|涡轮机|The turbine is spun by the high pressure gases
+propeller|n.|螺旋桨，推进器|The propeller starts to spin around
 ---
-stern|n./adj.|船尾/严厉的，苛刻的；严峻的，棘手的
-aboard|adv.|在（船、飞机等）上
-embark|v.|上船、飞机等；开始做
+stern|n./adj.|船尾/严厉的，苛刻的；严峻的，棘手的|She seated herself in the stern
+aboard|adv.|在（船、飞机等）上|All passengers aboard fell into the river
+embark|v.|上船、飞机等；开始做|They embarked at Liverpool for New York
 ---
-channel|n.|频道；航道；海峡
-canal|n.|运河；（人体内输送食物、气体等的）管
-ditch|n./v.|沟、渠/抛弃
+channel|n.|频道；航道；海峡|The English Channel is between France and England
+canal|n.|运河；（人体内输送食物、气体等的）管|The canal is now open to shipping
+ditch|n./v.|沟、渠/抛弃|When the road became impassable, they ditched their cat and walked
 ---
-railroad|n.|[美]铁路；铁路公司
-railway|n.|[英]铁路；铁路系统
-locomotive|n.|火车头；机车
+railroad|n.|[美]铁路；铁路公司|The building of the railroad is progressing
+railway|n.|[英]铁路；铁路系统|The goods were sent to you by railway
+locomotive|n.|火车头；机车|The locomotive is detached from the train
 ---
-subway|n.|[英]地下通道；[美]地铁
-underground|adj./n.|地下的；秘密的/[英]地铁
-tunnel|n.|隧道、地道
-rail|n.|栏杆；铁路系统
+subway|n.|[英]地下通道；[美]地铁|There is a new subway being built
+underground|adj./n.|地下的；秘密的/[英]地铁|There is an underground passage leading to the old house
+tunnel|n.|隧道、地道|The train ruled into a tunnel and everything went black
+rail|n.|栏杆；铁路系统|The man was holding onto the rail as he walked down the stairs
 ---
-depart|v.|离开；启程
-arrive|v.|到达；取得成功
-destination|n.|目的地；终点
+depart|v.|离开；启程|When does the next train depart?
+arrive|v.|到达；取得成功|You must arrive at the airport at least two hours in advance
+destination|n.|目的地；终点|We eventually arrived at our destination
 ---
-delay|n./v.|耽搁；延期/使耽搁；使延期
-postpone|v.|推迟；使延期
-defer|v.|推迟；延期
+delay|n./v.|耽搁；延期/使耽搁；使延期|We have decided to delay our holiday until September
+postpone|v.|推迟；使延期|The match was postponed from March the 5th to March the 19th
+defer|v.|推迟；延期|We have to defer our departure because of the snowstorm
 ---
-lull|n./v.|暂停；暂时平静期/使昏昏欲睡
-expire|v.|期满；气绝；死亡
-due|adj.|到期的；预期的||overdue adj. 过期未完成的
+lull|n./v.|暂停；暂时平静期/使昏昏欲睡|The monotonous sound of the train's movement lulled me to sleep
+expire|v.|期满；气绝；死亡|My passport is about to expire
+due|adj.|到期的；预期的|If you are going to the library, would you mind returning this book for me? It's due today|overdue adj. 过期未完成的
 ---
-postage|n.|邮费；邮资
-stamp|n./v.|邮票；印章/贴邮票；盖章
-envelope|n.|信封
-mail|n./v.|邮件；邮包；邮政/邮寄
+postage|n.|邮费；邮资|What is the postage for an airmail letter
+stamp|n./v.|邮票；印章/贴邮票；盖章|You can buy a stamp over there and affix it to the postcard
+envelope|n.|信封|He glued a stamp onto the envelope
+mail|n./v.|邮件；邮包；邮政/邮寄|She opened her mail and took out a vase carefully
 ---
-packet|n.|包装盒；小件包裹
-package|n./v.|包裹；盒；包/包装
-bind|v.|捆；绑
+packet|n.|包装盒；小件包裹|The government has imposed an additional tax on a packet of cigarettes
+package|n./v.|包裹；盒；包/包装|The old town was packaged to attract tourists
+bind|v.|捆；绑|Love rules without a sword and binds without a chord
 ---
-parcel|v./n.|打包；包/土地的一块；包裹
-load|v./n.|装载；装满/负荷；大量
-burden|v./n.|使负担/重担；负担
+parcel|v./n.|打包；包/土地的一块；包裹|He parcelled up the books
+load|v./n.|装载；装满/负荷；大量|The lorry was carrying a load of pineapples
+burden|v./n.|使负担/重担；负担|It's a burden I have been carrying for a long time
 ---
-transfer|v.|迁移；转移；调动
-transmit|v.|传送；传染；传播；传输
-transit|v./n.|通过；运送/运输；通行；过境；中装
+transfer|v.|迁移；转移；调动|The cat has transferred her affection to her new master
+transmit|v.|传送；传染；传播；传输|Parents transmit some of their values and ideas to their children
+transit|v./n.|通过；运送/运输；通行；过境；中转|Transit passengers, please go to the transit lounge
 ---
-deliver|v.|传送；递送
-convey|v.|运送；输送；表达；传递
-speed|n.|速度；迅速
-velocity|n.|速度
-swift|adj.|迅速的；敏捷的
+deliver|v.|传送；递送|You don't have to go out into the rain since the store delivers for free
+convey|v.|运送；输送；表达；传递|It's hard to convey my feelings in words
+speed|n.|速度；迅速|The police advised motorists to reduce their speed because of the fog
+velocity|n.|速度|The velocity of light is about 300,000 kilometers per second
+swift|adj.|迅速的；敏捷的|With the failure of the peace talks, all hopes of a swift end to the war have flown out the window
 ===
 国家政府
 +++
