@@ -2832,78 +2832,78 @@ administration|n.|管理；行政|You will need some experience in administratio
 dominate|v.|支配；控制；占优势|A great man can dominate others by force of character
 power|n.|能源；权力；政权；能力|A person should rely upon his or her own power
 ---
-influence|n./v.|影响；作用/影响
-affect|v.|影响；打动；使悲伤
+influence|n./v.|影响；作用/影响|I was influenced by my teacher and chose to study science at college
+affect|v.|影响；打动；使悲伤|The disease affects the central nervous system
 importance|n.|重要，重要性|The police officer emphasised the importance of careful driving|important adj. 重要的；有势力的。realise the importance 意识到重要性
-significance|n.|重要性；意义
+significance|n.|重要性；意义|The fact has little significance for us
 ---
-organization/organisation|n.|组织；团体；机构
-association|n.|协会；团体；关联
-union|n.|联合；联盟；工会
+organization/organisation|n.|组织；团体；机构|They have established a student organization
+association|n.|协会；团体；关联|Have you ever joined the parent teacher association?
+union|n.|联合；联盟；工会|The largest teachers' union supports the education reforms
 ---
-community|n.|社区；群体；（生物的）群落
-consortium|n.|财团；联营企业
-league|n.|联赛；联盟；同盟
+community|n.|社区；群体；（生物的）群落|To host the Olympics Games, Beijing expanded its English speaking community
+consortium|n.|财团；联营企业|Several big companies have formed a consortium
+league|n.|联赛；联盟；同盟|Our club is a member of the football league
 ---
-institution|n.|机构
-unite|v.|联合；团结
-unique|adj.|独一无二的；唯一的；独特的
+institution|n.|机构|Universities are educational institutions
+unite|v.|联合；团结|All parties should unite their efforts to bring peace
+unique|adj.|独一无二的；唯一的；独特的|Each person's fingerprints are unique
 ---
-nation|n.|国家；民族；国民
-global|adj.|全球的；全世界的
-worldwide|adj.|世界范围的；遍及全球的
-federal|adj.|联邦的；联合的
+nation|n.|国家；民族；国民|My judgment may be faulty, but my loyalty to the nation could not be questioned
+global|adj.|全球的；全世界的|In the coming decades, the pacific rim will become the main impetus of the global economy
+worldwide|adj.|世界范围的；遍及全球的|The money came from worldwide contribution
+federal|adj.|联邦的；联合的|Switzerland is a federal state in Europe
 ---
-foreign|adj.|外国的；外来的；外交的
-overseas|adj./adv.|海外的；外国的/向海外；在海外
-abroad|adv.|到国外；在国外；广为流传
+foreign|adj.|外国的；外来的；外交的|The new policy helped us to attract a lot of foreign investment
+overseas|adj./adv.|海外的；外国的/向海外；在海外|The overseas students were concerned about the destiny of their motherland
+abroad|adv.|到国外；在国外；广为流传|The news spread abroad
 ---
-civil|adj.|公民的；国内的；民用的；斯文的
-emigrate|v.|移居国外
-immigrate|v.|（从外地）移居；移入
+civil|adj.|公民的；国内的；民用的；斯文的|Gone With the Wind, a film about American Civil War, is still regarded as one of the best Hollywood films
+emigrate|v.|移居国外|They did not receive the permission to emigrate to the United States
+immigrate|v.|（从外地）移居；移入|Many British colonists immigrated to the new world
 ---
-reign|n./v.|君主统治的时期/统治
-puppet|n.|玩偶；傀儡
-throne|n.|王位；宝座
-crown|n./v.|王冠/为...加冕
-wreath|n.|花环；花冠；花圈
+reign|n./v.|君主统治的时期/统治|The reign of Queen Victoria lasted more than 60 years
+puppet|n.|玩偶；傀儡|Are we the puppets of fate?
+throne|n.|王位；宝座|He was only eight when he ascended the throne
+crown|n./v.|王冠/为...加冕|They crowned him shortly after the old king's death
+wreath|n.|花环；花冠；花圈|A group of students placed a wreath at the tomb of the national hero
 ---
-colony|n.|殖民地
-liberty|n.|自由
-independence|n.|独立；自立
+colony|n.|殖民地|Britain lost its American colonies in a revolution
+liberty|n.|自由|Those prisoners are dreaming of liberty
+independence|n.|独立；自立|The country attained its independence in 1972
 ---
-slum|n.|贫民窟
-refuge|n.|避难；庇护；避难所
-asylum|n.|庇护；精神病院
+slum|n.|贫民窟|I grew up in the East London slums
+refuge|n.|避难；庇护；避难所|A small cave was the only refuge from the cold
+asylum|n.|庇护；精神病院|The terrorist tried to seek political asylum in that country
 ---
-population|n.|人口；人口数量
-demographic|adj.|人口的，人口统计的
-citizen|n.|公民；市民
-resident|n./adj.|居民；居住的
+population|n.|人口；人口数量|There is a stable increase in population of this city
+demographic|adj.|人口的，人口统计的|I have no knowledge of demographic theory
+citizen|n.|公民；市民|She a lawful citizen
+resident|n./adj.|居民；居住的|The residents of the town are proud of its new library
 ---
 ethnic|adj.|民族的；种族的|She is keen on ethnic dance|an ethnic minority 少数民族
-racial|adj.|种族的；人种的
-clan|n.|宗族；家族；帮派
+racial|adj.|种族的；人种的|A new law has been brought in to eliminate racial discrimination
+clan|n.|宗族；家族；帮派|The whole clan will be here over Christmas
 ---
-franchise|v./n.|向…授予（或出售）特许经销权/特许权||the franchise 选举权
-entitle|v.|给...权力（或资格）；给...题名||be entitled to/do sth. 有获得某物/做某事的权利
-preference|n.|偏爱；优先权
+franchise|v./n.|向…授予（或出售）特许经销权/特许权|In Britain, women were given the franchise in 1918|the franchise 选举权
+entitle|v.|给...权力（或资格）；给...题名|This ticket entitles you to one-day admission to all three parks|be entitled to/do sth. 有获得某物/做某事的权利
+preference|n.|偏爱；优先权|A teacher should not show preference for any one of his or her students
 ---
 vote|n./v.|选举权；投票/表决、投票|The vote will be held next month|vote against 投票反对
-elect|v.|选举；选择
-respondent|n.|（民意测验的）调查对象
-poll|n.|民意调查；选举投票；投票数
-ambition|n.|雄心；抱负
+elect|v.|选举；选择|They organized a poll to elect a president
+respondent|n.|（民意测验的）调查对象|Only 34 percent of respondents said they were satisfied
+poll|n.|民意调查；选举投票；投票数|A public opinion poll shows that most people see the protectionist policies negatively
+ambition|n.|雄心；抱负|Her ambition was to be a famous politician
 ---
-nominate|v.|报名；任命
-checklist|n.|清单；选民花名册
-succession|n.|连续；继承权；继位
+nominate|v.|报名；任命|He has been nominated as minister of education
+checklist|n.|清单；选民花名册|The guide contains a useful checklist of points to consider when buying a car
+succession|n.|连续；继承权；继位|He has been late for school three times in succession
 ---
-safety|n.|安全；安全场所
-welfare|n.|健康；幸福
-well-being|n.|康乐；安宁
-harmony|n.|协调；和谐；融洽；和声
-steady|adj.|稳定的；不摇晃的
+safety|n.|安全；安全场所|They ran to safety, away from the fire
+welfare|n.|健康；幸福|In making this decision, the court's main concern is for the welfare of the children
+well-being|n.|康乐；安宁|To reduce public spending on the well-being of the citizens is an act of sheer folly
+harmony|n.|协调；和谐；融洽；和声|They worked in perfect harmony
+steady|adj.|稳定的；不摇晃的|That ladder doesn't look very steady
 ---
 flourish|v.|繁荣；兴旺；茁壮成长
 succeed|v.|成功
