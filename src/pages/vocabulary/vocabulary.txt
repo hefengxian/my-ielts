@@ -2212,7 +2212,7 @@ appetite|n.|食欲；强烈欲望|I lost my appetite
 ---
 treat|v./n.|请客；对待；治疗/款待|It is my turn to treat us today|treatment n. 对待；处理；治疗
 cater|v.|为...提供饮食；满足...的需要|Our hotel also caters for weddings and parties
-provision|n.|供应、预备|Provision of shelter was the Red Cross's main concern for the disater victims|provisions 食品供应
+provision|n.|供应、预备|Provision of shelter was the Red Cross's main concern for the disaster victims|provisions 食品供应
 edible|adj.|可以吃的|Take something edible with you when you go there
 recipe|n.|食谱；秘诀|In the recipe, it says that I must use two eggs
 ---
@@ -2240,7 +2240,7 @@ vegetarian|n./adj.|素食者/素食的、无肉的|I've become used to a vegetar
 ---
 cutlery|n.|餐具、刀具|Knife and fork are the main cutlery used by the European people
 silver|n./adj.|银、银器/银的、银色的|She wore a silver chain around her neck
-ceramic|adj./n.|陶瓷的/陶瓷制品|The ceramic industry dates from ancient times
+ceramic|adj./n.|陶瓷的/陶瓷制品|The ceramic industry dates from the ancient times
 porcelain|n.|瓷器、瓷|The museum displays specimens of ancient Chinese porcelain
 ---
 bowl|n.|碗|I have a bowl of cereal every morning|cereal n. 谷类植物，谷物；（尤指早晨加牛奶食用的）谷类食物，麦片。a fish bowl 鱼缸
@@ -2281,7 +2281,7 @@ tobacco|n.|烟草|A high amount of money is spent on tobacco every year
 cigarette|n.|香烟|A cigarette set the dry grass on fire
 sober|adj./v.|清醒的/（使）醒酒|He was tipsy yesterday, but now he is sober|sober up （使）醒酒
 ---
-vegetable|n.|蔬菜|Is the tomato a fruit or a vegetable?
+vegetable|n.|蔬菜|Is a tomato a fruit or a vegetable?
 tomato|n.|番茄|His shirt was stained with tomato juice
 potato|n.|土豆|This salad is made up of apple, pear, potato and celery
 ---
@@ -2374,8 +2374,8 @@ wasabi|n.|山葵、山葵根|sashimi is usually served with soy sauce and wasabi
 pepper|n.|胡椒粉、柿子树|The pepper in the food causes me to sneeze
 ---
 ginger|n.|姜|The ginger should be crushed up before it is added to the boiling jam
-garlic|n.|蒜|Your breath smells of garlic
-scallion|n.|大葱|Kimchi is a well-known Korean side dish（配菜） mdke from fermented（发酵的） cabbage, radish, scallion or cucumber
+garlic|n.|蒜|Your breath smelt of garlic
+scallion|n.|大葱|Kimchi is a well-known Korean side dish（配菜） made from fermented（发酵的） cabbage, radish, scallion or cucumber
 ---
 vinegar|n.|醋|Vinegar has a acid taste
 salt|n.|盐|Salt lowers the freezing point of water
@@ -2384,7 +2384,7 @@ candy|n.|糖果|The greedy little boy ate all the candy at the party
 honey|n.|蜂蜜|We can use honey as a substitute for sugar
 ---
 flavor/flavour|n.|味道、口味、特色、风格|You may choose anyone from the six popular flavors
-sour|adj.|酸的|Most green fruits are sour
+sour|adj.|酸的|Most green fruits are sour|sour 水果酸；sore 肌肉酸痛
 sweet|adj.|甜的、愉快的|The dish tastes a bit sweet
 bitter|adj.|苦的；痛苦的；严寒的|The medicine has a bitter taste
 spicy|adj.|辣的|Which province is famous for its hot and spicy cuisine?
@@ -2426,351 +2426,351 @@ slice|v./n.|切成薄片、切、划/薄片|I sliced the bread
 ===
 建筑场所
 +++
-architecture|n.|建筑风格、建筑学
+architecture|n.|建筑风格、建筑学|The forbidden city is one of the world's greatest works of architecture
 erection|n.|建筑、建造|The erection of the building took several years
-structure|n.|建筑物；结构
-construct|v.|建造
-obstruct|v.|阻塞、妨碍
+structure|n.|建筑物；结构|Most linguists would say they were concerned primarily with the grammatical structure of languages
+construct|v.|建造|They are planning to construct a new highway
+obstruct|v.|阻塞、妨碍|The road was obstructed by a fallen tree
 ---
-establish|v.|建立；设立
-build|v.|建造、开发
-found|v.|创建、创办
+establish|v.|建立；设立|The minister established a commission to suggest improments in the educational system
+build|v.|建造、开发|We should study hard to build a better future for ourselves
+found|v.|创建、创办|The rich businessman founded a hospital and a school in the town where he was born
 ---
-concrete|n./adj.|混泥土/具体的、混凝土制的
-steel|n.|钢铁
-stability|n.|稳定（性）
+concrete|n./adj.|混泥土/具体的、混凝土制的|The statue rests on a concrete base
+steel|n.|钢铁|Hot steel is quenched to be hardened
+stability|n.|稳定（性）|The government has taken measures to maintain the stability of prices
 ---
-site|n.|地点
+site|n.|地点|The construction site of a new shopping mall was a hive of activity 一片繁忙的景象
 venue|n.|发生地点、举行场所|They have already told us the venue for tomorrow's match
-landmark|n.|地标
+landmark|n.|地标|He oriented himself by finding a familiar landmark
 ---
 situated|adj.|位于...的|The zoo is situated in the suburbs
-locate|v.|放置；建立；找到
+locate|v.|放置；建立；找到|The new hospital will be located near college
 reside|v.|居住|The city in which I reside is very beautiful
 ---
 inhabit|v.|居住于|Thoughts inhabit my mind
-migrate|v.|迁徙；移居
-settle|v.|解决；在...定居；使定居
+migrate|v.|迁徙；移居|More and more people migrate from one city to another to seek fortune
+settle|v.|解决；在...定居；使定居|They moved the local people and settled them in another place
 ---
-dwelling|n.|住所
-skyscraper|n.|摩天大楼
-villa|n.|乡间别墅；[英]度假别墅
+dwelling|n.|住所|He has changed his dwelling recently
+skyscraper|n.|摩天大楼|The skyscraper towers into the sky
+villa|n.|乡间别墅；[英]度假别墅|I want to buy a villa outside the city
 ---
-mansion|n.|宅第；公馆
-apartment|n.|公寓
-flat|n.|[尤英]单元房；公寓
+mansion|n.|宅第；公馆|This old mansion became a hospital
+apartment|n.|公寓|I have an apartment in downtown Manhattan
+flat|n.|[尤英]单元房；公寓|She is buying a flat close to her office
 ---
-hostel|n.|廉价招待所
+hostel|n.|廉价招待所|We found a happy crew of foreign students in the youth hostel
 lodge|v./n.|租住/小屋；度假屋|Where we lodge is the problem
-hut|n.|小屋、棚屋
-cabin|n.|小木屋、（船上的）小舱
+hut|n.|小屋、棚屋|The hut was made out of pieces of wood
+cabin|n.|小木屋、（船上的）小舱|They lived in a little log cabin in the mountains
 ---
-cellar|n.|地窖、地下室
+cellar|n.|地窖、地下室|The celler floods whenever it rains heavily
 shed|n./v.|简易房、棚/流、洒、摆脱|He built a bicycle shed
-cottage|n.|村舍、小屋
+cottage|n.|村舍、小屋|The cottage could accommodate up to six people
 ---
-nursery|n./adj.|托儿所、托儿所的
+nursery|n./adj.|托儿所、托儿所的|The nursery teacher made the children sit bold upright 笔直坐
 cradle|n.|摇篮、发源地|Ancient Greece was the cradle of western civilization|from the cradle to the grave 从生到死、一生
-shelter|n./v.|庇护所；掩蔽/庇护；遮蔽
-block|n.|街区、障碍、一块
-grid|n.|栅栏、网格、输电网
+shelter|n./v.|庇护所；掩蔽/庇护；遮蔽|These plants must be sheltered from direct sunlight
+block|n.|街区、障碍、一块|Walk two blocks down the street and go pass the city hall
+grid|n.|栅栏、网格、输电网|The city's streets form a grid
 ---
 aisle|n.|走廊、过道|Don't stand in the aisle
-porch|n.|门廊
-corridor|n.|走廊、通道
+porch|n.|门廊|A pigeon perched on our porch railing 一只鸽子栖息在我们门廊的栏杆上
+corridor|n.|走廊、通道|The corridor leads to the headmaster's office
 ---
-stair|n.|楼梯
-staircase|n.|（建筑内的）楼梯
-storey/story|n.|楼层
+stair|n.|楼梯|The child was sitting on the bottom stair
+staircase|n.|（建筑内的）楼梯|Only the staff members were allowed to use the staircase
+storey/story|n.|楼层|There's a nice-story apartment building next to the park
 layer|n.|层|There is a layer of dust on the table. Clean it before the guests arrive
 ---
 elevator|n.|[美]电梯|Her job is to operate an elevator|lift n. [英]电梯。a freight elevator 货梯
-escalator|n.|自动扶梯、滚梯
-handrail|n.|扶手、栏杆
+escalator|n.|自动扶梯、滚梯|I could never find the escalators or the door I came in
+handrail|n.|扶手、栏杆|Where necessary for safety, in alleyways and stairs for example, handrails should be fitted
 ---
 pillar|n.|柱子、中坚、栋梁|The robber tied him to a pillar|a pillar of society 社会栋梁
-column|n.|柱；（书、报纸的）栏；专栏
+column|n.|柱；（书、报纸的）栏；专栏|The dome was supported by white marble columns
 beam|n.|（能量、放射线或粒子的）束；柱|The beam of the searchlights flooded the sky over the airport|a laser beam 激光束
 ---
-vault|n.|拱顶；金库；保险库
-arch|n./v.|拱门/（使）弯成弓形
-ceiling|n.|天花板、顶棚
-eaves|n.|屋檐
-chimney|n.|烟囱
+vault|n.|拱顶；金库；保险库|The walls and vaults are decorated by marble
+arch|n./v.|拱门/（使）弯成弓形|The cat arches its back when it sees the dog
+ceiling|n.|天花板、顶棚|The traditional houses in that country have very low ceilings
+eaves|n.|屋檐|Under the eaves, I have to lower my head
+chimney|n.|烟囱|The chimney is choked up with soot and needs to be cleaned
 ---
-reception|n.|接待处
-lobby|n./v.|大厅；前厅；游说/游说||lobbyist n. 说客
-bench|n.|长凳||the bench 法官职位
+reception|n.|接待处|You can leave your key at reception
+lobby|n./v.|大厅；前厅；游说/游说|Please wait for me in the lobby of the hotel|lobbyist n. 说客
+bench|n.|长凳|An old man sat on the park bench and fed the pigeons|the bench 法官职位
 ---
-parlour/parlor|n.|客厅
-fireplace|n.|壁炉
-radiator|n.|暖气设备
-living room|n.|客厅、起居室
-cabinet|n.|储藏柜、内阁||a cabinet meeting 内阁会议
+parlour/parlor|n.|客厅|The parlor has been decorated delicately
+fireplace|n.|壁炉|She edged her chair closer to the fireplace|edge 缓慢地移动
+radiator|n.|暖气设备|He tossed his coat on the chair and warmed his hands at a radiator
+living room|n.|客厅、起居室|The dining room is next to the living room
+cabinet|n.|储藏柜、内阁|She needs a cherry cabinet in her room|a cabinet meeting 内阁会议
 ---
-balcony|n.|阳台；（剧院的）楼座
-terrace|n.|露天平台、大阳台
-kitchen|n.|厨房
+balcony|n.|阳台；（剧院的）楼座|All bedrooms have private bathrooms and balconies
+terrace|n.|露天平台、大阳台|Do you want to sit at a table on the terrace
+kitchen|n.|厨房|I have to mop the kitchen floor at least once a day
 ---
-lavatory|n.|盥洗室、厕所
-toilet|n.|抽水马桶；[英]厕所
-bath|n.|洗澡；[英]浴缸||bathe v. 用水清洗
-basin|n.|盆；盆地
+lavatory|n.|盥洗室、厕所|The use of the lavatory is suspended during takeoff
+toilet|n.|抽水马桶；[英]厕所|Every flat has its own toilet
+bath|n.|洗澡；[英]浴缸|He has a cold bath every day|bathe v. 用水清洗
+basin|n.|盆；盆地|This basin is made of iron
 ---
-reserve|n./v.|储备；自然保护区/预订||reservoir n. 水库
-store|n./v.|商店；贮存物/贮存
-mall|n.|购物中心
-complex|n.|综合建筑群
+reserve|n./v.|储备；自然保护区/预订|I have reserved a room for you at the hotel|reservoir n. 水库
+store|n./v.|商店；贮存物/贮存|When he got into the convenience store, he saw the long lines
+mall|n.|购物中心|The local kids often hang out at the mall
+complex|n.|综合建筑群|A new sports and leisure complex will open next month
 ---
-supermarket|n.|超市
+supermarket|n.|超市|A variety of foods are sold at a supermarket
 booth|n.|售货摊；电话亭；小隔间|Would you please watch over my booth?请照料一下我的摊位号码？|a telephone booth 电话亭。a photo booth 自助快照亭
-casino|n.|赌场
-studio|n.|演播室；工作室；单间公寓
+casino|n.|赌场|The city of dreams casino does not seem worried about the decline in tour groups
+studio|n.|演播室；工作室；单间公寓|The studio was filled with the scent of wild flowers
 ---
-downtown|n./adj.|市中心/市中心的
-urban|adj.|城市的
-peripheral|adj./n.|外围的/外围设备||periphery n. 外围；边缘
-vicinity|n.|附近；附近地区
+downtown|n./adj.|市中心/市中心的|Most of the old buildings in the downtown were torn down
+urban|adj.|城市的|Both urban and rural areas are more and more prosperous
+peripheral|adj./n.|外围的/外围设备|The peripheral parts of the city are poor|periphery n. 外围；边缘
+vicinity|n.|附近；附近地区|The stolen car was found in the vicinity of the station
 ---
-room|n.|房间；空间
-void|n./adj.|空间；空白；空虚/空的
-spacious|adj.|宽敞的
-airtight|adj.|密封的；不透气的
+room|n.|房间；空间|There is no room for a table in my bedroom
+void|n./adj.|空间；空白；空虚/空的|The amusement park will fill a void in this town, which has little entertainment for children
+spacious|adj.|宽敞的|The hotel room is neither spacious nor comfortable
+airtight|adj.|密封的；不透气的|The whole room is airtight
 ---
-expanse|n.|广阔；辽阔
-plaza|n.|广场；购物中心
-castle|n.|城堡
+expanse|n.|广阔；辽阔|There was a vast expanse of desert before us
+plaza|n.|广场；购物中心|The plaza is crammed with people|cram v. 塞满、挤满
+castle|n.|城堡|The ancient castle commands a fine view of the town
 ---
-carpenter|n.|木匠
-mason|n.|石匠；泥瓦匠
-tile|n.|瓦；瓷砖
-brickwork|n.|砖结构
+carpenter|n.|木匠|The carpenter charged ninety dollars for the job
+mason|n.|石匠；泥瓦匠|He asked the mason to make him a tombstone
+tile|n.|瓦；瓷砖|Clay is used to make things like pots and tiles
+brickwork|n.|砖结构|There is a weird crack in the brickwork
 ---
-suspension|n.|暂缓；暂令停职、停赛
-hook|n.|钩；钩状物；勾拳
-lever|n.|杠杆；操纵杆
-pole|n.|竿；杆
-scaffold|n.|脚手架；绞刑架
+suspension|n.|暂缓；暂令停职、停赛|I think her suspension from the team is a very harsh punishment
+hook|n.|钩；钩状物；勾拳|Hang your coat on the hook
+lever|n.|杠杆；操纵杆|Push the lever and the machine will start
+pole|n.|竿；杆|The hut is made of poles covered with grass mats
+scaffold|n.|脚手架；绞刑架|The worker fell down from the scaffold
 ---
-infrastructure|n.|基础设施
-apparatus|n.|机械；装置
-crane|n.|起重机；鹤
+infrastructure|n.|基础设施|The local government is too poor to invest in social welfare programs, new infrastructure or anything else
+apparatus|n.|机械；装置|A new piece of apparatus was used in the experiment
+crane|n.|起重机；鹤|We used a crane to lift a slab of concrete
 ---
-malfunction|v.|发生故障
-maintain|v.|维持；维修；坚称
-fix|v.|修理；使固定
+malfunction|v.|发生故障|The computer malfunctioned and printed out wrong words
+maintain|v.|维持；维修；坚称|It is absolutely vital that food supplies should be maintained
+fix|v.|修理；使固定|My watch has stopped. Can you fix it?
 ---
-mend|v.|修理；（使）康复
-modify|v.|稍作修改
-trim|v./adj.|修剪；装饰/整齐的、整洁的
+mend|v.|修理；（使）康复|It won't take long to mend the car
+modify|v.|稍作修改|We have to modify our plan a little bit
+trim|v./adj.|修剪；装饰/整齐的、整洁的|They trimmed their Christmas tree and put strings of color lights on it
 ---
-weld|v.|焊接；使紧密结合
-saw|n.|锯
-screw|n.|螺丝钉；螺旋架
-drill|n./v.|钻机；反复练习/钻孔；训练
+weld|v.|焊接；使紧密结合|His job is to weld all those parts together
+saw|n.|锯|The electric saw winds when my uncle uses it to cut the fallen tree
+screw|n.|螺丝钉；螺旋架|Turn the screw to the right to tighten it
+drill|n./v.|钻机；反复练习/钻孔；训练|The Saudi government has announced plans to drill for water in the desert
 plumb|n./v.|（表示垂直度的）铅锤/用铅锤线校正|We need to plumb the line
 ---
-viaduct|n.|高架桥
-span|n.|跨距；跨度；持续时间||span of life 寿命
-dam|n./v.|水坝/控制、抑制
+viaduct|n.|高架桥|An overhead road for cars or trains is called a viaduct
+span|n.|跨距；跨度；持续时间|The bridge has a clear span of 40 meters|span of life 寿命
+dam|n./v.|水坝/控制、抑制|A new dam is under construction at the valley
 ---
-assemble|v.|组装；装配
-install|v.|安装
+assemble|v.|组装；装配|She assembled the bookshelf all by herself
+install|v.|安装|We're installing a new heating system
 furnish|v.|为...配备家具陈设|The house is well furnished
 ---
-placement|n.|放置、布置
-layout|n.|设计；布局
-design|v./n.|设计；计划/设计
+placement|n.|放置、布置|The placement of the buttons and knobs in the car is well thought out
+layout|n.|设计；布局|The new page layout is appealing to teenagers
+design|v./n.|设计；计划/设计|He has already designed a good excuse for not attending the conference
 ---
-entrance|n.|入口；进入权
-entry|n.|进入；进入权
-enter|v.|进入
-exit|n./v.|出口；退场；离去/离去
+entrance|n.|入口；进入权|I'll meet you at the entrance of the zoo tomorrow
+entry|n.|进入；进入权|He pretended not to observe our entry
+enter|v.|进入|Please knock on the door before you enter
+exit|n./v.|出口；退场；离去/离去|I was eventually granted an exit visa
 ---
-outside|adj./n.|外部的/外表
-outward|adj./adv.|向外的/向外
-exterior|n./adj.|外部；外观/外部的
-external|adj.|外来的；外面的；对外的
+outside|adj./n.|外部的/外表|He had a tough outside but a kind heart
+outward|adj./adv.|向外的/向外|Frost consists of tiny crystals of ice, which grow outward from a solid surface
+exterior|n./adj.|外部；外观/外部的|The designer gives a design for the exterior of the container
+external|adj.|外来的；外面的；对外的|The external sector has improved performance significantly during the period
 ---
-inner|adj.|内部的；内心的
-interior|n./adj.|内部/内部的||interior design 室内设计
-inward|adj./adv.|向内的；内心的/向内
-internal|adj.|内部的；自身的；国内的
+inner|adj.|内部的；内心的|I can feel the inner peace again
+interior|n./adj.|内部/内部的|Interior design is a very promising industry nowadays|interior design 室内设计
+inward|adj./adv.|向内的；内心的/向内|The expedition discovered an inward passage
+internal|adj.|内部的；自身的；国内的|Every theory has its internal logic
 ===
 交通旅行
 +++
-navigate|v.|航行；横渡
-voyage|n.|航海，航行；旅行|He goes on a voyage on a warship in the name of the government
-aviation|n.|航空；航空学；航空工业
+navigate|v.|航行；横渡|He was the first man who navigated the Atlantic alone
+voyage|n.|航海，航行；旅行|He goes on a voyage on a warship in the name of the government|warship n. 军舰
+aviation|n.|航空；航空学；航空工业|He was a pilot in the early days of aviation
 ---
-journey|n.|旅行；历程
-travel|n./v.|旅行/旅行
-safari|n.|观兽旅行
-parade|v./n.|游行；炫耀/庆祝游行；列队进行；炫耀
-haunt|v./n.|（鬼魂等）常出没于/常去的地方
+journey|n.|旅行；历程|I wish a pleasant journey to you
+travel|n./v.|旅行/旅行|During his travels, he met many interesting people
+safari|n.|观兽旅行|We'll go on safari in Africa after the wedding
+parade|v./n.|游行；炫耀/庆祝游行；列队进行；炫耀|The sports meeting began with a parade for all the competing teams
+haunt|v./n.|（鬼魂等）常出没于/常去的地方|This cafe used to be my favorite haunt
 ---
-attraction|n.|吸引；具有吸引力的事物
-memorial|n./adj.|纪念碑/纪念的；悼念的
-pyramid|n.|金字塔；棱锥体
+attraction|n.|吸引；具有吸引力的事物|The main attraction in this amusement park is a large swimming pool with salt water
+memorial|n./adj.|纪念碑/纪念的；悼念的|A memorial for victims of the blast was built
+pyramid|n.|金字塔；棱锥体|The ancient pyramid in Egypt is one of the wonders of the world
 ---
-port|n.|港口；左舷
-visa|n.|签证
-traffic|n.|交通；车流
+port|n.|港口；左舷|The boy often watched the boats return to port in the late afternoon
+visa|n.|签证|You need a visa to enter that country
+traffic|n.|交通；车流|Traffic reaches a peak between 8 and 9 in the morning
 ---
-airline|n.|航空公司
-airplane|n.|飞机
-helicopter|n.|直升机
-jet|n.|喷气式飞机；喷气口
-parachute|n.|降落伞
+airline|n.|航空公司|The airline launched a European route for the first time
+airplane|n.|飞机|An airplane engine is a complex machanism
+helicopter|n.|直升机|The president helicoptered to that city yesterday
+jet|n.|喷气式飞机；喷气口|Developing the supersonic jet was quite an accomplishment
+parachute|n.|降落伞|The parachutes in the air look like colorful mushrooms
 ---
-flight|n.|飞行；航班
-pilot|n.|飞行员
-passenger|n.|乘客
+flight|n.|飞行；航班|I'll book a direct flight to Shanghai for you
+pilot|n.|飞行员|A pilot must stay alert for the changes in weather
+passenger|n.|乘客|The baggage allowance per passenger is 25 kilograms
 ---
-baggage|n.|（尤美）行李
-luggage|n.|行李
-suitcase|n.|手提箱
-carry-on|n./adj.|（可随身携带上飞机的）小包/随身携带上飞机的
+baggage|n.|（尤美）行李|We may have lost some pieces of baggage, so we want to make a lost-baggage report
+luggage|n.|行李|I've just been informed that my luggage had already arrived
+suitcase|n.|手提箱|Her suitcase is stuffed with her clothes
+carry-on|n./adj.|（可随身携带上飞机的）小包/随身携带上飞机的|I have two carry-on bags with me
 ---
-rack|n.|挂物架；置物架
-freight|n./v.|货运；货物/运送（货物）
-fare|n.|车费；路费
+rack|n.|挂物架；置物架|He put his bag on the luggage rack
+freight|n./v.|货运；货物/运送（货物）|We can send these goods by air freight or by sea freight
+fare|n.|车费；路费|He didn't have enough money for the railway fare
 ---
-atlas|n.|地图册；地图集
-route|n.|路线
-itinerary|n.|路线；行程
+atlas|n.|地图册；地图集|Check where Sydney is on your atlas
+route|n.|路线|We came by a longer route than usual
+itinerary|n.|路线；行程|We have some more places to visit on our itinerary
 ---
-passage|n.|通过；通道；走廊
-intersection|n.|十字路口；交叉路口
-cross|n./v.|十字形；十字架/穿过
+passage|n.|通过；通道；走廊|The bridge is not strong enough to allow for the passage of vehicles
+intersection|n.|十字路口；交叉路口|The town lies at the intersection of three motorways
+cross|n./v.|十字形；十字架/穿过|It's very dangerous for children to cross a busy road
 ---
-way|n.|路；方式
-path|n.|小路
-lane|n.|小巷；车道
-avenue|n.|大街；途径
-highway|n.|[尤美]公路
+way|n.|路；方式|I'm on my way to the grocery
+path|n.|小路|We bumped up and down along the gravel path
+lane|n.|小巷；车道|There are many small lanes in the quiant town
+avenue|n.|大街；途径|One of the world's most beautiful avenues is the Champs-Élysées in Paris
+highway|n.|[尤美]公路|A four-lane highway connects the two towns
 ---
-curb|n.|路缘；起控制作用的事物
-signpost|n.|路标
-pave|v.|铺（路或地面）
+curb|n.|路缘；起控制作用的事物|I stopped and stood at the curb, trying to breathe
+signpost|n.|路标|The signpost showed us the right road to follow
+pave|v.|铺（路或地面）|The road was paved with cobblestones
 ---
-vehicle|n.|车辆；交通工具；手段；工具
-auto|n.|汽车
-express|n./v./adj.|特快列车；快递服务/表示/特快的
+vehicle|n.|车辆；交通工具；手段；工具|Subway is a convenient vehicle for white-collar workers
+auto|n.|汽车|The auto industry has brought many people to Detroit
+express|n./v./adj.|特快列车；快递服务/表示/特快的|We have to change here for the express train
 ---
-tram|n.|[尤英]有轨电车||[US]streetcar/trolley
-coach|n./v.|[英]长途汽车；教练；私人教师/训练
-ambulance|n.|救护车
+tram|n.|[尤英]有轨电车|If you want to go to that place, you can travel by tram|[US]streetcar/trolley
+coach|n./v.|[英]长途汽车；教练；私人教师/训练|We went to New York City by coach
+ambulance|n.|救护车|An ambulance was racing by with its siren wailing|race by 飞驰而过 wail v. 哀号、嚎叫
 ---
-truck|n.|卡车；敞篷火车
-lorry|n.|[英]卡车
-van|n.|厢式货车；客货车
-wagon|n.|四轮运货马车（或牛车）；[英]（火车的）火车车厢
-carriage|n.|四轮马车；[英]（客运火车的）车厢
+truck|n.|卡车；敞篷火车|They transported the goods by truck
+lorry|n.|[英]卡车|A heavy lorry is floundering in deep snow
+van|n.|厢式货车；客货车|As the car turned the corner, it collided with a van
+wagon|n.|四轮运货马车（或牛车）；[英]（火车的）火车车厢|An ox pulls a wagon into the village
+carriage|n.|四轮马车；[英]（客运火车的）车厢|The carriage, which he had ordered, arrived, and we drove off
 ---
-tractor|n.|拖拉机；牵引力
-cart|n.|货运马车；手推车；购物车
-pedicab|n.|（人力）三轮车
-cycle|v./n.|骑/周期；自行车
+tractor|n.|拖拉机；牵引力|The tractor has been demaged owing to rough usage
+cart|n.|货运马车；手推车；购物车|A heavy cart rumbled down the street
+pedicab|n.|（人力）三轮车|They hopped on a pedicab and toured the park
+cycle|v./n.|骑/周期；自行车|In many universities, students cycle from their dorms to the classroom or library
 ---
-garage|n.|汽车修理厂；车库
-motor|n./adj.|发动机/机动的
-horsepower|n.|马力
-wheel|n.|方向盘；车轮
+garage|n.|汽车修理厂；车库|My car broke down, and it has been towed to a garage
+motor|n./adj.|发动机/机动的|If the battery is dead, the motor won't be started
+horsepower|n.|马力|The horsepower of the engine is not very impressive
+wheel|n.|方向盘；车轮|The driver slumped over the steering wheel
 ---
-brake|n./v.|车闸；刹车/刹车
-tire/tyre|n.|轮胎
-honk|n./v.|汽车喇叭声；鹅叫声/按（汽车喇叭）
+brake|n./v.|车闸；刹车/刹车|The car in front of me stopped suddenly, and I had to brake sharply
+tire/tyre|n.|轮胎|My uncle jacked up his car to fix a flat tire
+honk|n./v.|汽车喇叭声；鹅叫声/按（汽车喇叭）|The drivers honked their horns, hoping to disperse the crowd in the streets
 ---
-crew|n.|全体工作人员；一组工作人员
-captain|n.|船长；队长
-steward|n.|男乘务员；管家
+crew|n.|全体工作人员；一组工作人员|I'd like to thank you on your behalf of the crew
+captain|n.|船长；队长|The captain of the sinking ship used flares to attract the attention of the coast guard
+steward|n.|男乘务员；管家|He is a steward of that great mansion
 ---
-emergency|n./adj.|紧急事件/应急的
-wreck|v./n.|使失事；破坏/失事的船只；残破的东西
-crash|v.|撞击；崩溃；破产
-crush|v./n.|压碎、压坏/拥挤的人群；迷恋；迷恋对象
-dash|v.|猛冲；猛摔
+emergency|n./adj.|紧急事件/应急的|He has the ability to keep calm in emergencies
+wreck|v./n.|使失事；破坏/失事的船只；残破的东西|Because of the tsunami, the coast was a wreck
+crash|v.|撞击；崩溃；破产|The rocks crash down onto the car
+crush|v./n.|压碎、压坏/拥挤的人群；迷恋；迷恋对象|There was such a crush on the bus that I could hardly breathe
+dash|v.|猛冲；猛摔|He dashed the bowl to bits against the ground
 ---
-vanish|v.|突然消失；绝迹
-disappear|v.|失踪；消失
-hazard|n./v.|危险/使冒风险
+vanish|v.|突然消失；绝迹|He seemed to vanish into thin air
+disappear|v.|失踪；消失|He has disappeared for three years
+hazard|n./v.|危险/使冒风险|There are many hazards in a journey across the Arctic
 ---
-harbour/harbor|n.| 港口
-dock|n.|码头；船坞
-anchor|n.|锚
+harbour/harbor|n.| 港口|Our hotel room overlooked a pretty little harbour
+dock|n.|码头；船坞|The ship's hull scraped along the side of the dock
+anchor|n.|锚|We raised the anchor and set sail during the night|set sail 启航
 ---
-submerge|v.|（使）浸没；掩盖
-sailor|n.|水手；海员
-seaman|n.|海员；水手
+submerge|v.|（使）浸没；掩盖|I watched the submarine submerge
+sailor|n.|水手；海员|A sailor is at the mercy of the weather|at the mercy of 受...支配，任凭...摆布
+seaman|n.|海员；水手|There are many skilled seamen on our ship
 ---
-carrier|n.|航空母舰；运输工具
-steamer|n.|汽船；轮船
-liner|n.|邮轮；客轮
+carrier|n.|航空母舰；运输工具|The missile is launched from the aircraft carrier
+steamer|n.|汽船；轮船|The steamer arrived at the harbor this morning
+liner|n.|邮轮；客轮|The liner has been refitted from stern to stern 从头到尾整修
 ---
-vessel|n.|大船；舰；容器；器皿；血管
-ferry|n./v.|渡船/渡运
-sail|v.|航行；驾驶（帆船）
+vessel|n.|大船；舰；容器；器皿；血管|We haved cited the vessel and are following it
+ferry|n./v.|渡船/渡运|We can take the ferry that crosses the river every hour
+sail|v.|航行；驾驶（帆船）|His ship has been given the all-clear to sail
 ---
-raft|n.|木筏；木排
-canoe|n.|独木舟
-oar|n./v.|桨/用桨划
+raft|n.|木筏；木排|After a series of adventures alone on a raft, he eventually reached the village
+canoe|n.|独木舟|We crossed the lake in a canoe
+oar|n./v.|桨/用桨划|In dragon boat rowing, each paddler has one oar
 ---
-deck|n./v.|甲板/装饰
-turbine|n.|涡轮机
-propeller|n.|螺旋桨，推进器
+deck|n./v.|甲板/装饰|The deck of the sailing ship was made of thick planks
+turbine|n.|涡轮机|The turbine is spun by the high pressure gases
+propeller|n.|螺旋桨，推进器|The propeller starts to spin around
 ---
-stern|n./adj.|船尾/严厉的，苛刻的；严峻的，棘手的
-aboard|adv.|在（船、飞机等）上
-embark|v.|上船、飞机等；开始做
+stern|n./adj.|船尾/严厉的，苛刻的；严峻的，棘手的|She seated herself in the stern
+aboard|adv.|在（船、飞机等）上|All passengers aboard fell into the river
+embark|v.|上船、飞机等；开始做|They embarked at Liverpool for New York
 ---
-channel|n.|频道；航道；海峡
-canal|n.|运河；（人体内输送食物、气体等的）管
-ditch|n./v.|沟、渠/抛弃
+channel|n.|频道；航道；海峡|The English Channel is between France and England
+canal|n.|运河；（人体内输送食物、气体等的）管|The canal is now open to shipping
+ditch|n./v.|沟、渠/抛弃|When the road became impassable, they ditched their cat and walked
 ---
-railroad|n.|[美]铁路；铁路公司
-railway|n.|[英]铁路；铁路系统
-locomotive|n.|火车头；机车
+railroad|n.|[美]铁路；铁路公司|The building of the railroad is progressing
+railway|n.|[英]铁路；铁路系统|The goods were sent to you by railway
+locomotive|n.|火车头；机车|The locomotive is detached from the train
 ---
-subway|n.|[英]地下通道；[美]地铁
-underground|adj./n.|地下的；秘密的/[英]地铁
-tunnel|n.|隧道、地道
-rail|n.|栏杆；铁路系统
+subway|n.|[英]地下通道；[美]地铁|There is a new subway being built
+underground|adj./n.|地下的；秘密的/[英]地铁|There is an underground passage leading to the old house
+tunnel|n.|隧道、地道|The train ruled into a tunnel and everything went black
+rail|n.|栏杆；铁路系统|The man was holding onto the rail as he walked down the stairs
 ---
-depart|v.|离开；启程
-arrive|v.|到达；取得成功
-destination|n.|目的地；终点
+depart|v.|离开；启程|When does the next train depart?
+arrive|v.|到达；取得成功|You must arrive at the airport at least two hours in advance
+destination|n.|目的地；终点|We eventually arrived at our destination
 ---
-delay|n./v.|耽搁；延期/使耽搁；使延期
-postpone|v.|推迟；使延期
-defer|v.|推迟；延期
+delay|n./v.|耽搁；延期/使耽搁；使延期|We have decided to delay our holiday until September
+postpone|v.|推迟；使延期|The match was postponed from March the 5th to March the 19th
+defer|v.|推迟；延期|We have to defer our departure because of the snowstorm
 ---
-lull|n./v.|暂停；暂时平静期/使昏昏欲睡
-expire|v.|期满；气绝；死亡
-due|adj.|到期的；预期的||overdue adj. 过期未完成的
+lull|n./v.|暂停；暂时平静期/使昏昏欲睡|The monotonous sound of the train's movement lulled me to sleep
+expire|v.|期满；气绝；死亡|My passport is about to expire
+due|adj.|到期的；预期的|If you are going to the library, would you mind returning this book for me? It's due today|overdue adj. 过期未完成的
 ---
-postage|n.|邮费；邮资
-stamp|n./v.|邮票；印章/贴邮票；盖章
-envelope|n.|信封
-mail|n./v.|邮件；邮包；邮政/邮寄
+postage|n.|邮费；邮资|What is the postage for an airmail letter
+stamp|n./v.|邮票；印章/贴邮票；盖章|You can buy a stamp over there and affix it to the postcard
+envelope|n.|信封|He glued a stamp onto the envelope
+mail|n./v.|邮件；邮包；邮政/邮寄|She opened her mail and took out a vase carefully
 ---
-packet|n.|包装盒；小件包裹
-package|n./v.|包裹；盒；包/包装
-bind|v.|捆；绑
+packet|n.|包装盒；小件包裹|The government has imposed an additional tax on a packet of cigarettes
+package|n./v.|包裹；盒；包/包装|The old town was packaged to attract tourists
+bind|v.|捆；绑|Love rules without a sword and binds without a chord
 ---
-parcel|v./n.|打包；包/土地的一块；包裹
-load|v./n.|装载；装满/负荷；大量
-burden|v./n.|使负担/重担；负担
+parcel|v./n.|打包；包/土地的一块；包裹|He parcelled up the books
+load|v./n.|装载；装满/负荷；大量|The lorry was carrying a load of pineapples
+burden|v./n.|使负担/重担；负担|It's a burden I have been carrying for a long time
 ---
-transfer|v.|迁移；转移；调动
-transmit|v.|传送；传染；传播；传输
-transit|v./n.|通过；运送/运输；通行；过境；中装
+transfer|v.|迁移；转移；调动|The cat has transferred her affection to her new master
+transmit|v.|传送；传染；传播；传输|Parents transmit some of their values and ideas to their children
+transit|v./n.|通过；运送/运输；通行；过境；中转|Transit passengers, please go to the transit lounge
 ---
-deliver|v.|传送；递送
-convey|v.|运送；输送；表达；传递
-speed|n.|速度；迅速
-velocity|n.|速度
-swift|adj.|迅速的；敏捷的
+deliver|v.|传送；递送|You don't have to go out into the rain since the store delivers for free
+convey|v.|运送；输送；表达；传递|It's hard to convey my feelings in words
+speed|n.|速度；迅速|The police advised motorists to reduce their speed because of the fog
+velocity|n.|速度|The velocity of light is about 300,000 kilometers per second
+swift|adj.|迅速的；敏捷的|With the failure of the peace talks, all hopes of a swift end to the war have flown out the window
 ===
 国家政府
 +++
