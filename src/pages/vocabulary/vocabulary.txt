@@ -2905,63 +2905,63 @@ well-being|n.|康乐；安宁|To reduce public spending on the well-being of the
 harmony|n.|协调；和谐；融洽；和声|They worked in perfect harmony
 steady|adj.|稳定的；不摇晃的|That ladder doesn't look very steady
 ---
-flourish|v.|繁荣；兴旺；茁壮成长
-succeed|v.|成功
+flourish|v.|繁荣；兴旺；茁壮成长|Plants will not flurish without water
+succeed|v.|成功|If you work hard, you will succeed
 prospect|n.|希望；可能性；风景|There is not much prospect of his being elected as a congressman
 perspective|n.|景观；观点|We all have confidence in this new technology from a developmental perspective
 ---
-viewpoint|n.|观点；看法；视角
-standpoint|n.|立场；立足点
-outlook|n.|观点；展望；前景
-guideline|n.|指导方针
+viewpoint|n.|观点；看法；视角|I look at this problem from a different viewpoint
+standpoint|n.|立场；立足点|We all look at things from a certain standpoint
+outlook|n.|观点；展望；前景|The economic outlook is not very bright
+guideline|n.|指导方针|The hospital has issued new guidelines on the treatment of mentally ill patients
 ethic|n.|行为准则；ethics 道德规范，伦理标准|Merchants must observe their code of ethics|ethical adj. 道德的；伦理的。a work ~ 职业道德观
 ---
-suggest|v.|建议；暗示
-advise|v.|劝告；建议；通知
-proposal|n.|提议；建议
-hint|v./n.|暗示，提示
+suggest|v.|建议；暗示|I suggested him tackle the problem in another way
+advise|v.|劝告；建议；通知|She advised the government on economic affairs
+proposal|n.|提议；建议|The proposal of new terms for a peace treaty has been put forward
+hint|v./n.|暗示，提示|When she said she was tired, it was a hint that she wanted us to leave
 ---
-declare|v.|宣布，宣告，宣称，声称
-affirm|v.|断言，坚持声称，证实
-claim|n./v.|声称；主张；索赔/声称；要求（拥有）
-proclaim|v.|声明；清楚的表明
+declare|v.|宣布，宣告，宣称，声称|He declared that he would never come back again
+affirm|v.|断言，坚持声称，证实|The suspect affirmed that he had been at home all day
+claim|n./v.|声称；主张；索赔/声称；要求（拥有）|Every citizen may claim the protection of the law
+proclaim|v.|声明；清楚的表明|His accent proclaimed that he was an American
 ---
-state|v./n.|陈述；说明/国家，州，状况
-announce|v.|宣布，通知
-clarify|v.|澄清，阐明
+state|v./n.|陈述；说明/国家，州，状况|Railways in Britain belong to the state
+announce|v.|宣布，通知|The government announced that they would build a new highway to that area
+clarify|v.|澄清，阐明|The government has clarified its position on equal pay for women
 ---
-assist|v.|帮助；协助
-aid|n.|救助；救援物资；辅助物
-encourage|v.|鼓励，激励，怂恿
+assist|v.|帮助；协助|A team of nurses assisted the doctor in performing the operation
+aid|n.|救助；救援物资；辅助物|An English-Chinese dictionary is an important aid in learning English
+encourage|v.|鼓励，激励，怂恿|Her success encouraged me to try the same thing
 ---
-implement|v./n.|实施；执行/工具；器具
-monitor|v./n.|监视；监听/监控器，监视器，班长
-admit|v.|供认，承认
+implement|v./n.|实施；执行/工具；器具|The new policy on housing will be implemented next month
+monitor|v./n.|监视；监听/监控器，监视器，班长|The agents are monitoring the enemy's radio broadcasts to try to find out their secret plans
+admit|v.|供认，承认|He admitted to his father that he had failed his driving test
 ---
-African|adj./n.|非洲的/非洲人
-European|adj./n.|欧洲的/欧洲人
-Latin|adj./n.|拉丁语的，拉丁人的/拉丁人，拉丁语
-Jewish|adj.|犹太教的，犹太人的
-Arabian|adj.|阿拉伯的
+African|adj./n.|非洲的/非洲人|Many African people are very energetic and outgoing
+European|adj./n.|欧洲的/欧洲人|The Japanese have taken in many European ways of life
+Latin|adj./n.|拉丁语的，拉丁人的/拉丁人，拉丁语|Many languages have Latin as their origin
+Jewish|adj.|犹太教的，犹太人的|Jewish people are scattered around the world
+Arabian|adj.|阿拉伯的|Arabian Nights and Treasure Island are famous romances
 ---
-Portuguese|adj./n.|葡萄牙的/葡萄牙人，葡萄牙语
-Roman|adj./n.|罗马的/罗马人
-Russian|adj./n.|
-Spanish|adj./n.|
-Swiss|adj./n.|瑞士的/瑞士人
+Portuguese|adj./n.|葡萄牙的/葡萄牙人，葡萄牙语|The Portuguese power in the East was on the wane|on the wane 衰落中
+Roman|adj./n.|罗马的/罗马人|The wrote a storybook about ancient Roman
+Russian|adj./n.|俄国的/俄国人|The limit of Russian endurance was reached
+Spanish|adj./n.|西班牙的/西班牙人|French is a sister language of Spanish
+Swiss|adj./n.|瑞士的/瑞士人|The Swiss standard of living is very high
 ---
-Greek|adj./n.|
-Italian|adj./n.|
-soviet|adj./n.|苏联的/苏维埃
-Indian|adj./n.|
+Greek|adj./n.|希腊的/希腊人|The chef is not interested in Greek food
+Italian|adj./n.|意大利的/意大利人|Italian pizza is very popular in China
+soviet|adj./n.|苏联的/苏维埃|The Soviet Union was a major power on the Eurasian continent
+Indian|adj./n.|印度的/印度人|To an Indian, the owl is a symbol of bad luck
 ---
-Australia|n.|澳大利亚
-New Zealand|n.|
-Canada|n.|
+Australia|n.|澳大利亚|Australia is the hometown of kangaroos
+New Zealand|n.|新西兰|Oceania is mainly made up of Australia and New Zealand
+Canada|n.|加拿大|The maple leaf is the emblem of Canada
 ---
-Britain|n.|
-France|n.|
-Germany|n.|
+Britain|n.|英国|The United Kingdom consists of Great Britain and Northern Ireland
+France|n.|法国|The English channel divides England from France
+Germany|n.|德国|I need to buy a round-trip ticket to Germany
 ===
 社会经济
 +++
