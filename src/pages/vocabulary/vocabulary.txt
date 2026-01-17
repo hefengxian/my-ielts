@@ -2965,81 +2965,81 @@ Germany|n.|德国|I need to buy a round-trip ticket to Germany
 ===
 社会经济
 +++
-economy|n.|经济；节约
-trade|n./v.|贸易/交换
-market|n.|市场；市场需求
-industry|n.|工业；产业；勤劳
+economy|n.|经济；节约|As the war debt lightened, the economy of the country developed quickly
+trade|n./v.|贸易/交换|China does a lot of trade with many countries
+market|n.|市场；市场需求|The market is experiencing depression at the moment
+industry|n.|工业；产业；勤劳|The conference underscored the importance of modern industry
 ---
-merchant|n./adj.|商人/商业的
-financial|adj.|财政的；金融的
-fund|v./n.|资助/基金；资金
-donate|v.|捐款；捐献
-endow|v.|捐赠；赋予
+merchant|n./adj.|商人/商业的|The merchant decided to use camels to carry his goods across the desert
+financial|adj.|财政的；金融的|Southeast Asia's financial crisis taught an important lesson
+fund|v./n.|资助/基金；资金|The research is funded the government
+donate|v.|捐款；捐献|The government calls on the youth to donate their blood voluntarily
+endow|v.|捐赠；赋予|She is endowed with great writing ability
 ---
-commercial|adj./n.|商业的/商业广告
-advertise|v.|做广告
-slogan|n.|标语；口号
+commercial|adj./n.|商业的/商业广告|The downtown area is zoned for commercial use
+advertise|v.|做广告|We advertised in the local press
+slogan|n.|标语；口号|The advertising slogan is play on words
 ---
-purchase|n./v.|购买
-lease|n./v.|租约/出租；租用
-afford|v.|负担得起；提供；给予
+purchase|n./v.|购买|The new couple spent some money for the purchase of the furniture necessary for their new house
+lease|n./v.|租约/出租；租用|We'll lease you the house for one year
+afford|v.|负担得起；提供；给予|I couldn't afford the rent on my own
 ---
-retail|n./v.|零售/以...价格零售
-chain|n.|一连串；连锁店
-grocery|n.|食品杂货店
+retail|n./v.|零售/以...价格零售|These slippers retail at ten dollars per pair
+chain|n.|一连串；连锁店|The strike may produce a chain reaction in other industries
+grocery|n.|食品杂货店|Her mother began to operate a small grocery
 ---
-discount|n./v.|折扣/打折出售
-promotion|n.|促销活动；晋升
-voucher|n.|代金券
-coupon|n.|优惠券
+discount|n./v.|折扣/打折出售|I'll sell at the discount in return for a speedy sale
+promotion|n.|促销活动；晋升|Last year's sales promotions were quite successful
+voucher|n.|代金券|The voucher can be used at most major cinemas
+coupon|n.|优惠券|I have a coupon for thirty percent off any dairy product in this supermarket
 ---
-currency|n.|货币；通用，流行
-exchange|n.|交换；兑换
-swap/swop|v./n.|交换
-receipt|n.|收据；收到
-invoice|n./v.|发票/开发票给
+currency|n.|货币；通用，流行|Our currency will not depreciate
+exchange|n.|交换；兑换|It seems the exchange rate fluctuates almost daily
+swap/swop|v./n.|交换|She swapped her watch for an antique locket
+receipt|n.|收据；收到|When you have paied for something, a receipt is given to you
+invoice|n./v.|发票/开发票给|The seller issued an invoice for the goods
 ---
-tax|n./v.|税/对...征税
-levy|n./v.|税款/征收
-tariff|n.|关税；（公共服务的）收费
-duty|n.|职责；义务；关税
-impose|v.|强加；征收（书款）
+tax|n./v.|税/对...征税|Governments don't tax children
+levy|n./v.|税款/征收|The government has decided to levy a tax on imported cars
+tariff|n.|关税；（公共服务的）收费|There is a very high tariff on alcohol
+duty|n.|职责；义务；关税|I feel it my duty to speak frankly to you
+impose|v.|强加；征收（书款）|She often imposed her values on her daughter
 ---
-consume|v.|消耗，吃，喝
-spend|v./n.|花费/开支
-cost|v./n.|需付费/费用；代价；成本
+consume|v.|消耗，吃，喝|Chinese people consume huge amounts of rice every year
+spend|v./n.|花费/开支|The time I spend in commuting everyday adds up to two hours
+cost|v./n.|需付费/费用；代价；成本|I'm determined to attain my purpose at any cost
 ---
-expense|n.|费用；花费
-revenue|n.|（公司、组织的）收入；（政府的）税收
-gross|adj.|总的；毛的
+expense|n.|费用；花费|Society should try to save every plant and animal species regardless of the expense
+revenue|n.|（公司、组织的）收入；（政府的）税收|State universities in the US get most of their revenue from taxes
+gross|adj.|总的；毛的|GDP stands for Gross Domestic Product
 ---
-recession|n.|经济衰退
-depression|n.|沮丧；消沉；萧条期；不景气
-crisis|n.|危机
+recession|n.|经济衰退|This country was in a deep economic recession
+depression|n.|沮丧；消沉；萧条期；不景气|A holiday may help him cope with feelings of depression
+crisis|n.|危机|They suffered huge losses in the financial crisis
 ---
-security|n.|安全工作；安全；[securities]证券|
-bond|n.|债券
-debt|n.|债务
+security|n.|安全工作；安全；[securities]证券|The government looks after the security of the country
+bond|n.|债券|A company issues a bond to collect money and will pay back with interest
+debt|n.|债务|Liabilities are the debt or obligation that a businessman must pay in money or services at some time in the future
 ---
-deficit|n.|赤字；逆差
-inflation|n.|通货膨胀
-deflation|n.|通货紧缩
+deficit|n.|赤字；逆差|The current trade deficit indicates a serious inbalance between our imports and exports
+inflation|n.|通货膨胀|An inflation erodes the purchasing power of the families with lower income
+deflation|n.|通货紧缩|Deflation and financial distress stifled economic growth
 ---
-dwindle|v.|缩小；减少
-decrease|n./v.|减少；减小/（使）减少；（使）减小
-downsize|v.|使精简；裁员
+dwindle|v.|缩小；减少|The number of people going to the bookstores seems to dwindle steadily
+decrease|n./v.|减少；减小/（使）减少；（使）减小|Her interest in the subject gradually decreases
+downsize|v.|使精简；裁员|The factory has to downsize and more fully utilize the remaining workers
 ---
-decline|v./n.|下降
-diminish|v.|减少；贬低
-reduce|v.|减少，减小
+decline|v./n.|下降|There is a sharp decline in unemployment
+diminish|v.|减少；贬低|We should try to diminish the cost of production
+reduce|v.|减少，减小|The prices in the shop have been reduced, so it's a good time to buy
 ---
-increase|n./v.|增加，增长/（使）增加，（使）增长
-increment|n.|增加量；定期加薪
-growth|n.|增长；生长
+increase|n./v.|增加，增长/（使）增加，（使）增长|His employer has increased his salary
+increment|n.|增加量；定期加薪|Your salary will be 12, 000 a year with annual increments of five hundred dollars
+growth|n.|增长；生长|Cold weather constrained the plant's growth
 ---
-escalate|v.|（使）逐步升级；（使）不断恶化
-expand|v.|扩充；扩大；扩展
-influx|n.|流入，涌进||influx of capital 资本的涌进
+escalate|v.|（使）逐步升级；（使）不断恶化|The cost of living is escalating in the country
+expand|v.|扩充；扩大；扩展|Metals expand when they are heated
+influx|n.|流入，涌进|The country simply can not handle this influx of refugees|influx of capital 资本的涌进
 ---
 affluent|adj.|富裕的；富足的
 enrich|v.|使富有；充实
