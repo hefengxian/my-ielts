@@ -3041,79 +3041,79 @@ escalate|v.|（使）逐步升级；（使）不断恶化|The cost of living is 
 expand|v.|扩充；扩大；扩展|Metals expand when they are heated
 influx|n.|流入，涌进|The country simply can not handle this influx of refugees|influx of capital 资本的涌进
 ---
-affluent|adj.|富裕的；富足的
-enrich|v.|使富有；充实
-sufficient|adj.|足够的||insufficient adj. 不足的
-adequate|adj.|足够的；合格的
+affluent|adj.|富裕的；富足的|We live in an affluent society
+enrich|v.|使富有；充实|Giving much to the poor will enrich a man's store
+sufficient|adj.|足够的|We must work hard, but equally, we must get sufficient rest|insufficient adj. 不足的
+adequate|adj.|足够的；合格的|We had adequate food for a week's journey
 ---
-spare|adj./v.|多余的；空闲的/剩余
-saving|n.|节约；节省
-redundant|adj.|多余的；被裁减的
-lack|n./v.|缺乏；不足/缺少；没有
+spare|adj./v.|多余的；空闲的/剩余|If you have a spare bed, may I stay tonight?
+saving|n.|节约；节省|A saving of twenty percent is obtainable under this scheme
+redundant|adj.|多余的；被裁减的|During the financial crisis, many workers were made redundant
+lack|n./v.|缺乏；不足/缺少；没有|Serious lack of circulating funds forced the closure of the company|circulating funds 流动资金
 ---
-company|n.|公司；陪伴；剧团||keep sb. company 陪伴某人
-firm|n./adj.|公司/坚定的；坚固的
-enterprise|n.|企业；事业
-agent|n.|代理人，代理商
-entity|n.|实体，独立存在物
+company|n.|公司；陪伴；剧团|The company has connections with a number of Canadian firms|keep sb. company 陪伴某人
+firm|n./adj.|公司/坚定的；坚固的|Because of their common values, they soon formed a firm friendship
+enterprise|n.|企业；事业|They are involved in an exciting scientific enterprise
+agent|n.|代理人，代理商|The travel agent has made all their reservations for my journey
+entity|n.|实体，独立存在物|The country is no longer a sovereign entity
 ---
-invest|v.|投资；投入
-input|n.|输入信息；投入物
-product|n.|产品；产物
+invest|v.|投资；投入|The state has planned to invest 2 million in the dam
+input|n.|输入信息；投入物|We must increase the output with less labor input
+product|n.|产品；产物|A series of technical issues delayed the launch of the new product
 ---
-acquisition|n.|获得；（对公司的）并购
-goods|n.|商品；货物
-cargo|n.|货物
+acquisition|n.|获得；（对公司的）并购|The acquisition of knowledge is a social activity
+goods|n.|商品；货物|You give me the money and I'll give you the goods
+cargo|n.|货物|The ship is discharging cargo
 ---
-insure|v.|确保；给...上保险
-guarantee|v./n.|担保；确保/保证；保修单；担保金；担保物
-reliable|adj.|可靠的，可信赖的
+insure|v.|确保；给...上保险|His talent and commitment will insure his success
+guarantee|v./n.|担保；确保/保证；保修单；担保金；担保物|They offer a two-year guarantee on all their household appliances
+reliable|adj.|可靠的，可信赖的|It's reliable to judge a man only by his looks
 ---
-negotiation|n.|谈判，协商
-attend|v.|参加，出席
-absent|adj.|缺席的；不在场的；心不在焉的
+negotiation|n.|谈判，协商|We are statisfied with the smoothness of the negotiation
+attend|v.|参加，出席|A large number of people attended her birthday party
+absent|adj.|缺席的；不在场的；心不在焉的|Daniel was absent from the house all the next day
 ---
-sale|n.|买；销售；销售额
-wholesale|n.| 批发
-auction|v./n.|拍卖
-bid|v./n.|出价；投标
+sale|n.|买；销售；销售额|The store discounted all air conditioners for sale
+wholesale|n.| 批发|These wholesale dealers earned a large sum of money
+auction|v./n.|拍卖|His house was sold at an auction
+bid|v./n.|出价；投标|They lost the contract because their bid was too high
 ---
-deal|v./n.|买卖；[~ with]处理；应付/协议；交易；大量
-transaction|n.|（一笔）交易；业务
-turnover|n.|（人员的）流动率；营业额
-dump|v.|丢弃；倾倒；倾销
+deal|v./n.|买卖；[~ with]处理；应付/协议；交易；大量|I'll deal with the children later
+transaction|n.|（一笔）交易；业务|Because sellers and buyers manage business transactions, it leads companies to keeping in touch with customers
+turnover|n.|（人员的）流动率；营业额|Annual turnover is about 800 million pounds
+dump|v.|丢弃；倾倒；倾销|Some people just dumped their rubbish in the river
 ---
-export|v./n.|出口/出口；出口商品
-import|v./n.|进口/进口；进口商品
-quota|n.|限额；配额；定额
+export|v./n.|出口/出口；出口商品|Oil has supplanted coffee as our main export
+import|v./n.|进口/进口；进口商品|We import a huge amount of produce from other countries every year
+quota|n.|限额；配额；定额|The committee reversed its decision on the import quota
 ---
-share|n./v.|股份，股票；一份/分享；共享；分担
-benefit|n./v.|益处/有利于；获益
-interest|n./v.|兴趣；利益；利息/使感兴趣
-dividend|n.|股息；红利
-stock|n.|股本；股票；库存
+share|n./v.|股份，股票；一份/分享；共享；分担|He has put all his money in stocks and shares
+benefit|n./v.|益处/有利于；获益|A large number of students will benefit from the new teaching method
+interest|n./v.|兴趣；利益；利息/使感兴趣|You must pay interest on that loan
+dividend|n.|股息；红利|The company declared a large dividend at the end of the year
+stock|n.|股本；股票；库存|All stock prices have jumped up this month
 ---
-account|n.|账户；解释
-deposit|n.|存款；押金
-instalment/installment|n.|（分期付款的）一期付款
-cheque/check|n.|支票
+account|n.|账户；解释|Have you got a bank account?
+deposit|n.|存款；押金|The interest of the current account is lower than that of the deposit account|current account 活期存款账户
+instalment/installment|n.|（分期付款的）一期付款|Buying goods in installments has become an epidemic in recent years
+cheque/check|n.|支票|The bank cashed my check
 ---
-cash|n./v.|现金/兑现（支票）
-coin|n./v.|硬币/铸币；创造（新词语）
-shilling|n.|先令
-copper|n.|铜；[~s]铜币；警察||cop n. 警察
+cash|n./v.|现金/兑现（支票）|He paied for the meal in cash
+coin|n./v.|硬币/铸币；创造（新词语）|We'd better not coin terms which are not intelligible
+shilling|n.|先令|Five pence was equal to a shilling
+copper|n.|铜；[~s]铜币；警察|He polished up the old copper coins|cop n. 警察
 ---
-treasure|n.|金银财宝；宝物；珍品
-wealth|n.|财富；丰富
-estate|n.|地产；遗产
+treasure|n.|金银财宝；宝物；珍品|This museum has many art treasures
+wealth|n.|财富；丰富|Health is better than wealth
+estate|n.|地产；遗产|The old lady left an estate of 3 million pounds when she died
 ---
-possess|v.|占用；拥有；影响；控制
-legacy|n.|遗赠；遗产
-descend|v.|下降，下来
+possess|v.|占用；拥有；影响；控制|She was possessed by the desire to be rich
+legacy|n.|遗赠；遗产|The girl received a small legacy from her aunt
+descend|v.|下降，下来|She is said to be descended from a French aristocratic family
 ---
-worthy|adj.|有价值的
-valuable|adj.|很值钱的；贵重的；很重要的
-cheap|adj.|廉价的；质劣价低的
+worthy|adj.|有价值的|This book is worthy of reading
+valuable|adj.|很值钱的；贵重的；很重要的|His wife put on her valuable ring and necklace
+cheap|adj.|廉价的；质劣价低的|Cheap shoes soon wear out
 ---
 incentive|n.|刺激；激励
 accelerate|v.|加速
