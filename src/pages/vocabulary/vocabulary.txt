@@ -3115,74 +3115,74 @@ worthy|adj.|有价值的|This book is worthy of reading
 valuable|adj.|很值钱的；贵重的；很重要的|His wife put on her valuable ring and necklace
 cheap|adj.|廉价的；质劣价低的|Cheap shoes soon wear out
 ---
-incentive|n.|刺激；激励
-accelerate|v.|加速
-prompt|v./adj.|促使/迅速的
+incentive|n.|刺激；激励|Incentives differ from country to country and region to region
+accelerate|v.|加速|Good economic policies can accelerate the economic growth of a society
+prompt|v./adj.|促使/迅速的|What prompted you to do such a thing?
 ---
-salary|n.|工资；（按月领的）薪水
-income|n.|收入
-wage|n.|（通常指按周领的）工钱
+salary|n.|工资；（按月领的）薪水|She was employed with a salary of three thousand dollars a month
+income|n.|收入|Many staff members made an accusation that the earned incomes were not distributed upon the principle of equality
+wage|n.|（通常指按周领的）工钱|These workers demanded a wage rise of 5 percent
 ---
-payment|n.|支付；支付的款项；付款额
-refund|n./v.|退款
-reimburse|v.|赔偿；补偿
+payment|n.|支付；支付的款项；付款额|You may defer payment until next week
+refund|n./v.|退款|We can refund the price difference
+reimburse|v.|赔偿；补偿|We will reimburse the customer for any loss or damage
 ---
-payroll|n.|工资名单
-remuneration|n.|报酬
-subsidy|n.|津贴，补贴||subsidise=subsidize v. 资助，给...发津贴
-earn|v.|赚得；赢得；获得
+payroll|n.|工资名单|Every month she has to make a payroll of the staff
+remuneration|n.|报酬|He received a small remuneration
+subsidy|n.|津贴，补贴|The government has decided to increase subsidies on farm produce|subsidise=subsidize v. 资助，给...发津贴
+earn|v.|赚得；赢得；获得|He has earned a lot of money this month
 ---
 undertaking|n.|任务；事业；许诺；保证|I give an undertaking that we shall proceed with the legislation|a written undertaking 书面保证。an undertaking clause 承诺条款
-career|n.|职业；事业；职业生涯
-profession|n.|职业
+career|n.|职业；事业；职业生涯|After the accident, she realized that her acting career was over
+profession|n.|职业|The medical profession requires a strong sense of responsibility
 ---
-occupation|n.|占领，占据；职业
-job|n.|职业；工作
-vocation|n.|（认为特别适合自己的）职业；使命感
+occupation|n.|占领，占据；职业|I regard being a teacher as a decent occupation and I love being a teacher
+job|n.|职业；工作|The job is not yet finished
+vocation|n.|（认为特别适合自己的）职业；使命感|She struggled for years to find her true vocation
 ---
-labour/labor|n.|劳动；体力劳动
-workforce|n.|劳动力；全体员工
-workaholic|n.|工作狂
-personnel|n.|人员，职员；人事部门
-clerk|n.|店员，办事员，接待员
+labour/labor|n.|劳动；体力劳动|Many women do hard manual labour
+workforce|n.|劳动力；全体员工|This year 5 percent of the workforce will be made redundant
+workaholic|n.|工作狂|I do not want to become a workaholic
+personnel|n.|人员，职员；人事部门|The next project needs new personnel
+clerk|n.|店员，办事员，接待员|The clerk was elevated to a managerial position
 ---
-interview|n./v.|面试；采访/对...进行面试；采访
-résumé/resume|n.|UK /ˈrez.juː.meɪ/ US /ˈrez.ə.meɪ/ 履历；简历；摘要
-recommend|v.|推荐；劝告；介绍
-employ|v.|雇用；采用
-hire|v./n.|雇用；租用/租赁（业）
+interview|n./v.|面试；采访/对...进行面试；采访|The interview has drawn considerable attention to the profession
+résumé/resume|n.|UK /ˈrez.juː.meɪ/ US /ˈrez.ə.meɪ/ 履历；简历；摘要|Please email your personal resume to us before setting a writing test
+recommend|v.|推荐；劝告；介绍|I recommend you to reserve a table in advance
+employ|v.|雇用；采用|They employ casual labor to pick the fruit|casual labor 临时工
+hire|v./n.|雇用；租用/租赁（业）|They hired an advertising company to help sell a new product
 ---
-fire|v./n.|解雇/火
-lay-off|n.|（因岗位不足的）解雇；裁员；歇工期
-dismiss|v.|解雇；解散；驳回
-discharge|v./n.|解雇/卸货
+fire|v./n.|解雇/火|He was fired by his boss
+lay-off|n.|（因岗位不足的）解雇；裁员；歇工期|There are more layoffs in the IT industry this year
+dismiss|v.|解雇；解散；驳回|If you are late again, you will be dismissed
+discharge|v./n.|解雇/卸货|How long will the discharge of the cargo take?
 ---
-resign|v.|辞去；辞职
-sack|n./v.|大口袋，麻布袋/开除
-retire|v.|退休
+resign|v.|辞去；辞职|Catherine was forced to resign from the board of directors
+sack|n./v.|大口袋，麻布袋/开除|The poor guy got sacked yesterday
+retire|v.|退休|If they prove incompetent, they should be demoted or asked to retire|demote v. 降职
 ---
-result|n./v.|结果，后果/导致
-failure|n.|失败；失败的人；失败的事
-abortion|n.|人工流产；中途失败
-loss|n.|遗失；损失；亏损
+result|n./v.|结果，后果/导致|As a result, there is often trouble in American families
+failure|n.|失败；失败的人；失败的事|His failure may lead to the bankruptcy of the company
+abortion|n.|人工流产；中途失败|His attempt proved an abortion
+loss|n.|遗失；损失；亏损|They forfeited the business after only two months and with great loss
 ---
-opportunity|n.|机会；时机
-chance|n.|机会；可能性
-choose|v.|选择
-change|n.|改变
+opportunity|n.|机会；时机|I'd like to take this opportunity to thank everyone for their hard work on this project
+chance|n.|机会；可能性|Her testimony works against his chance of winning the case
+choose|v.|选择|We have many patterns in stock for you to choose from
+change|n.|改变|All our previous ideas are now in the melting pot, which means our jobs are bound to change radically
 ---
-solve|v.|解答，解决
-develop|v.|发展，开发
-sustainable|adj.|可持续的
-improve|v.|改善；改进
+solve|v.|解答，解决|I must alert him to the needs to solve the problem
+develop|v.|发展，开发|The United States can't develop in isolation from the rest of world
+sustainable|adj.|可持续的|Sustainable development is the common target of the human beings
+improve|v.|改善；改进|The offered a suggestion to improve the plan
 ---
-manage|v.|管理；设法做到
-regulate|v.|管理；调整
-sanction|n./v.|批准；制裁/批准；对...制裁
+manage|v.|管理；设法做到|From this day on, I will manage all my affairs on my own
+regulate|v.|管理；调整|You watch is slow. It needs to be regulated
+sanction|n./v.|批准；制裁/批准；对...制裁|The minister can only act in this matter with the sanction of parliament
 ---
-coordinate|v./n.|调和；协调/坐标
-cooperate|v.|合作；协作
-collaborate|v.|合作
+coordinate|v./n.|调和；协调/坐标|Our efforts need to be further coordinated for higher efficiency
+cooperate|v.|合作；协作|If they cooperate with each other, everyone will run smoothly
+collaborate|v.|合作|We would like to ask you to collaborate with us
 ===
 法律法规
 +++
