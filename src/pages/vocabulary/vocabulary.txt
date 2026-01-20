@@ -2726,7 +2726,7 @@ embark|v.|上船、飞机等；开始做|They embarked at Liverpool for New York
 ---
 channel|n.|频道；航道；海峡|The English Channel is between France and England
 canal|n.|运河；（人体内输送食物、气体等的）管|The canal is now open to shipping
-ditch|n./v.|沟、渠/抛弃|When the road became impassable, they ditched their cat and walked
+ditch|n./v.|沟、渠/抛弃|When the road became impassable, they ditched their car and walked
 ---
 railroad|n.|[美]铁路；铁路公司|The building of the railroad is progressing
 railway|n.|[英]铁路；铁路系统|The goods were sent to you by railway
@@ -2734,7 +2734,7 @@ locomotive|n.|火车头；机车|The locomotive is detached from the train
 ---
 subway|n.|[英]地下通道；[美]地铁|There is a new subway being built
 underground|adj./n.|地下的；秘密的/[英]地铁|There is an underground passage leading to the old house
-tunnel|n.|隧道、地道|The train ruled into a tunnel and everything went black
+tunnel|n.|隧道、地道|The train rolled into a tunnel and everything went black
 rail|n.|栏杆；铁路系统|The man was holding onto the rail as he walked down the stairs
 ---
 depart|v.|离开；启程|When does the next train depart?
@@ -2774,415 +2774,415 @@ swift|adj.|迅速的；敏捷的|With the failure of the peace talks, all hopes 
 ===
 国家政府
 +++
-republic|n.|共和国；共和政体
-Marxism|n.|马克思主义
-socialism|n.|社会主义
-communism|n.|共产主义
+republic|n.|共和国；共和政体|He was one of the architects of the republic
+Marxism|n.|马克思主义|The essence of Marxism is seeking truth from facts
+socialism|n.|社会主义|Let us do our best to build socialism
+communism|n.|共产主义|Communism is based on Marxism
 ---
-regime|n.|统治制度；政权、政体
-government|n.|政府、政体、统治
-authority|n.|权力；权威人士||the authorities 当局
-political|adj.|政治的；政党的
-hierarchy|n.|等级制度；统治集团
+regime|n.|统治制度；政权、政体|The regime got rid of most of its opponents
+government|n.|政府、政体、统治|He is a man of some influence in the government
+authority|n.|权力；权威人士|The government is the highest authority in a country|the authorities 当局
+political|adj.|政治的；政党的|The British political system has evolved over several centuries
+hierarchy|n.|等级制度；统治集团|There is a rigid hierarchy of power in that country
 ---
-democracy|n.|民主、民主制度；民主国家
-bureaucracy|n.|官僚主义；官僚作风
-egalitarian|adj./n.|平等主义的/平等主义者
-materialism|n.|唯物主义；唯物论
+democracy|n.|民主、民主制度；民主国家|The military government promised to restore democracy within one year
+bureaucracy|n.|官僚机构；官僚主义；官僚作风|The government promised to reorganize the bureaucracy
+egalitarian|adj./n.|平等主义的/平等主义者|Clearly, the egalitarian society remains a dream
+materialism|n.|唯物主义；唯物论|Both of them believed in Marxism and materialism
 ---
-revolution|n.|革命；巨大变化
-reform|v./n.|改革、改良；改过自新/改革、改良
-process|n./v.|过程；进程/处理；加工；列队前进
-conservative|adj./n.|保守的/保守党员
-meltdown|n.|堆芯熔毁；崩溃
+revolution|n.|革命；巨大变化|The invention of aircraft caused a revolution in our ways of traveling
+reform|v./n.|改革、改良；改过自新/改革、改良|He promised to reform if given another chance
+process|n./v.|过程；进程/处理；加工；列队前进|They went over every process again, but couldn't find the cause of the problem
+conservative|adj./n.|保守的/保守党员|The researchers made a conservative estimation of the population of New Delhi
+meltdown|n.|堆芯熔毁；崩溃|The commentator sees a bright side to the financial meltdown
 ---
-municipal|adj.|市政的，地方政府的
-neutral|adj.|中立的；中立国的
-bilateral|adj.|双边的
+municipal|adj.|市政的，地方政府的|He went to a municipal university
+neutral|adj.|中立的；中立国的|He is neutral in this argument and doesn't care who wins
+bilateral|adj.|双边的|They have signed a bilateral peace treaty
 ---
-arena|n.|竞技场、运动场；舞台、活动领域
-flag|n.|旗
-banner|n.|横幅、标语
+arena|n.|竞技场、运动场；舞台、活动领域|He withdrew from the political arena
+flag|n.|旗|Flags were fluttering in the wind
+banner|n.|横幅、标语|Banners demanding an immediate ceasefire are flying in the city's main square
 ---
-president|n.|总统；校长；董事长
-premier|n./adj.|总理、首相/首要的，第一的
-minister|n.|部长；大臣；公使
-secretary|n.|秘书、书记员、大臣
+president|n.|总统；校长；董事长|When the president of the country retired, the vice-president was elevated to his position
+premier|n./adj.|总理、首相/首要的，第一的|The premier deals with important state affairs
+minister|n.|部长；大臣；公使|The minister can only act in this matter with the sanction of parliament
+secretary|n.|秘书、书记员、大臣|The new secretary is being lectured for the poor quality of her work
 ---
-parliament|n.|议会、国会
-senate|n.|大学理事会||the Senate 参议院
-conference|n.|（常持续数日的大型正式）会议；正式商谈
-meeting|n.|会议；会面
+parliament|n.|议会、国会|He lost his seat in the parliament at the election
+senate|n.|大学理事会|The bill was approved by both the House and the Senate|the Senate 参议院
+conference|n.|（常持续数日的大型正式）会议；正式商谈|The world's conference on human rights discussed the common problems of mankind and advanced human rights work around the world
+meeting|n.|会议；会面|I have written down the date of the next meeting in my diary
 ---
-headquarters|n.|总部，总公司；司令部
-delegation|n.|代表团；委派
-behalf|n.|[on ~ of sb.]代表某人
+headquarters|n.|总部，总公司；司令部|The company's headquarters is in Paris
+delegation|n.|代表团；委派|The delegation ended their visit to China on March the 30th
+behalf|n.|[on ~ of sb.]代表某人|The president signed the document on behalf of the school
 ---
-police|n.|警察||the police 警方
-statesman|n.|政治家
-mayor|n.|市长
+police|n.|警察|His strange behavior made the police suspicious|the police 警方
+statesman|n.|政治家|He will go down in history as a great statesman|go down in history 名垂青史
+mayor|n.|市长|The mayor is determined to clean up the city
 ---
-service|n.|服务
-office|n.|办公室；要职；官职；[Office]部、局、厅
-bureau|n.|局、处、科；办事处
-department|n.|（政府的）部门；（大学的）系、所
+service|n.|服务|The volunteers for community service are doing a good job
+office|n.|办公室；要职；官职；[Office]部、局、厅|Now he holds office in the foreign ministry
+bureau|n.|局、处、科；办事处|The Bureau of Land Management is not so far from here
+department|n.|（政府的）部门；（大学的）系、所|He worked in the community welfare department
 ---
-harness|v.|利用；控制
-administration|n.|管理；行政
-dominate|v.|支配；控制；占优势
-power|n.|能源；权力；政权；能力
+harness|v.|利用；控制|Some scientists are working hard at how tide can be harnessed to produce electricity
+administration|n.|管理；行政|You will need some experience in administration before you can run the department
+dominate|v.|支配；控制；占优势|A great man can dominate others by force of character
+power|n.|能源；权力；政权；能力|A person should rely upon his or her own power
 ---
-influence|n./v.|影响；作用/影响
-affect|v.|影响；打动；使悲伤
+influence|n./v.|影响；作用/影响|I was influenced by my teacher and chose to study science at college
+affect|v.|影响；打动；使悲伤|The disease affects the central nervous system
 importance|n.|重要，重要性|The police officer emphasised the importance of careful driving|important adj. 重要的；有势力的。realise the importance 意识到重要性
-significance|n.|重要性；意义
+significance|n.|重要性；意义|The fact has little significance for us
 ---
-organization/organisation|n.|组织；团体；机构
-association|n.|协会；团体；关联
-union|n.|联合；联盟；工会
+organization/organisation|n.|组织；团体；机构|They have established a student organization
+association|n.|协会；团体；关联|Have you ever joined the parent teacher association?
+union|n.|联合；联盟；工会|The largest teachers' union supports the education reforms
 ---
-community|n.|社区；群体；（生物的）群落
-consortium|n.|财团；联营企业
-league|n.|联赛；联盟；同盟
+community|n.|社区；群体；（生物的）群落|To host the Olympics Games, Beijing expanded its English speaking community
+consortium|n.|财团；联营企业|Several big companies have formed a consortium
+league|n.|联赛；联盟；同盟|Our club is a member of the football league
 ---
-institution|n.|机构
-unite|v.|联合；团结
-unique|adj.|独一无二的；唯一的；独特的
+institution|n.|机构|Universities are educational institutions
+unite|v.|联合；团结|All parties should unite their efforts to bring peace
+unique|adj.|独一无二的；唯一的；独特的|Each person's fingerprints are unique
 ---
-nation|n.|国家；民族；国民
-global|adj.|全球的；全世界的
-worldwide|adj.|世界范围的；遍及全球的
-federal|adj.|联邦的；联合的
+nation|n.|国家；民族；国民|My judgment may be faulty, but my loyalty to the nation could not be questioned
+global|adj.|全球的；全世界的|In the coming decades, the pacific rim will become the main impetus of the global economy
+worldwide|adj.|世界范围的；遍及全球的|The money came from worldwide contribution
+federal|adj.|联邦的；联合的|Switzerland is a federal state in Europe
 ---
-foreign|adj.|外国的；外来的；外交的
-overseas|adj./adv.|海外的；外国的/向海外；在海外
-abroad|adv.|到国外；在国外；广为流传
+foreign|adj.|外国的；外来的；外交的|The new policy helped us to attract a lot of foreign investment
+overseas|adj./adv.|海外的；外国的/向海外；在海外|The overseas students were concerned about the destiny of their motherland
+abroad|adv.|到国外；在国外；广为流传|The news spread abroad
 ---
-civil|adj.|公民的；国内的；民用的；斯文的
-emigrate|v.|移居国外
-immigrate|v.|（从外地）移居；移入
+civil|adj.|公民的；国内的；民用的；斯文的|Gone With the Wind, a film about American Civil War, is still regarded as one of the best Hollywood films
+emigrate|v.|移居国外|They did not receive the permission to emigrate to the United States
+immigrate|v.|（从外地）移居；移入|Many British colonists immigrated to the new world
 ---
-reign|n./v.|君主统治的时期/统治
-puppet|n.|玩偶；傀儡
-throne|n.|王位；宝座
-crown|n./v.|王冠/为...加冕
-wreath|n.|花环；花冠；花圈
+reign|n./v.|君主统治的时期/统治|The reign of Queen Victoria lasted more than 60 years
+puppet|n.|玩偶；傀儡|Are we the puppets of fate?
+throne|n.|王位；宝座|He was only eight when he ascended the throne
+crown|n./v.|王冠/为...加冕|They crowned him shortly after the old king's death
+wreath|n.|花环；花冠；花圈|A group of students placed a wreath at the tomb of the national hero
 ---
-colony|n.|殖民地
-liberty|n.|自由
-independence|n.|独立；自立
+colony|n.|殖民地|Britain lost its American colonies in a revolution
+liberty|n.|自由|Those prisoners are dreaming of liberty
+independence|n.|独立；自立|The country attained its independence in 1972
 ---
-slum|n.|贫民窟
-refuge|n.|避难；庇护；避难所
-asylum|n.|庇护；精神病院
+slum|n.|贫民窟|I grew up in the East London slums
+refuge|n.|避难；庇护；避难所|A small cave was the only refuge from the cold
+asylum|n.|庇护；精神病院|The terrorist tried to seek political asylum in that country
 ---
-population|n.|人口；人口数量
-demographic|adj.|人口的，人口统计的
-citizen|n.|公民；市民
-resident|n./adj.|居民；居住的
+population|n.|人口；人口数量|There is a stable increase in population of this city
+demographic|adj.|人口的，人口统计的|I have no knowledge of demographic theory
+citizen|n.|公民；市民|She a lawful citizen
+resident|n./adj.|居民；居住的|The residents of the town are proud of its new library
 ---
 ethnic|adj.|民族的；种族的|She is keen on ethnic dance|an ethnic minority 少数民族
-racial|adj.|种族的；人种的
-clan|n.|宗族；家族；帮派
+racial|adj.|种族的；人种的|A new law has been brought in to eliminate racial discrimination
+clan|n.|宗族；家族；帮派|The whole clan will be here over Christmas
 ---
-franchise|v./n.|向…授予（或出售）特许经销权/特许权||the franchise 选举权
-entitle|v.|给...权力（或资格）；给...题名||be entitled to/do sth. 有获得某物/做某事的权利
-preference|n.|偏爱；优先权
+franchise|v./n.|向…授予（或出售）特许经销权/特许权|In Britain, women were given the franchise in 1918|the franchise 选举权
+entitle|v.|给...权力（或资格）；给...题名|This ticket entitles you to one-day admission to all three parks|be entitled to/do sth. 有获得某物/做某事的权利
+preference|n.|偏爱；优先权|A teacher should not show preference for any one of his or her students
 ---
 vote|n./v.|选举权；投票/表决、投票|The vote will be held next month|vote against 投票反对
-elect|v.|选举；选择
-respondent|n.|（民意测验的）调查对象
-poll|n.|民意调查；选举投票；投票数
-ambition|n.|雄心；抱负
+elect|v.|选举；选择|They organized a poll to elect a president
+respondent|n.|（民意测验的）调查对象|Only 34 percent of respondents said they were satisfied
+poll|n.|民意调查；选举投票；投票数|A public opinion poll shows that most people see the protectionist policies negatively
+ambition|n.|雄心；抱负|Her ambition was to be a famous politician
 ---
-nominate|v.|报名；任命
-checklist|n.|清单；选民花名册
-succession|n.|连续；继承权；继位
+nominate|v.|报名；任命|He has been nominated as minister of education
+checklist|n.|清单；选民花名册|The guide contains a useful checklist of points to consider when buying a car
+succession|n.|连续；继承权；继位|He has been late for school three times in succession
 ---
-safety|n.|安全；安全场所
-welfare|n.|健康；幸福
-well-being|n.|康乐；安宁
-harmony|n.|协调；和谐；融洽；和声
-steady|adj.|稳定的；不摇晃的
+safety|n.|安全；安全场所|They ran to safety, away from the fire
+welfare|n.|健康；幸福|In making this decision, the court's main concern is for the welfare of the children
+well-being|n.|康乐；安宁|To reduce public spending on the well-being of the citizens is an act of sheer folly
+harmony|n.|协调；和谐；融洽；和声|They worked in perfect harmony
+steady|adj.|稳定的；不摇晃的|That ladder doesn't look very steady
 ---
-flourish|v.|繁荣；兴旺；茁壮成长
-succeed|v.|成功
+flourish|v.|繁荣；兴旺；茁壮成长|Plants will not flurish without water
+succeed|v.|成功|If you work hard, you will succeed
 prospect|n.|希望；可能性；风景|There is not much prospect of his being elected as a congressman
 perspective|n.|景观；观点|We all have confidence in this new technology from a developmental perspective
 ---
-viewpoint|n.|观点；看法；视角
-standpoint|n.|立场；立足点
-outlook|n.|观点；展望；前景
-guideline|n.|指导方针
+viewpoint|n.|观点；看法；视角|I look at this problem from a different viewpoint
+standpoint|n.|立场；立足点|We all look at things from a certain standpoint
+outlook|n.|观点；展望；前景|The economic outlook is not very bright
+guideline|n.|指导方针|The hospital has issued new guidelines on the treatment of mentally ill patients
 ethic|n.|行为准则；ethics 道德规范，伦理标准|Merchants must observe their code of ethics|ethical adj. 道德的；伦理的。a work ~ 职业道德观
 ---
-suggest|v.|建议；暗示
-advise|v.|劝告；建议；通知
-proposal|n.|提议；建议
-hint|v./n.|暗示，提示
+suggest|v.|建议；暗示|I suggested him tackle the problem in another way
+advise|v.|劝告；建议；通知|She advised the government on economic affairs
+proposal|n.|提议；建议|The proposal of new terms for a peace treaty has been put forward
+hint|v./n.|暗示，提示|When she said she was tired, it was a hint that she wanted us to leave
 ---
-declare|v.|宣布，宣告，宣称，声称
-affirm|v.|断言，坚持声称，证实
-claim|n./v.|声称；主张；索赔/声称；要求（拥有）
-proclaim|v.|声明；清楚的表明
+declare|v.|宣布，宣告，宣称，声称|He declared that he would never come back again
+affirm|v.|断言，坚持声称，证实|The suspect affirmed that he had been at home all day
+claim|n./v.|声称；主张；索赔/声称；要求（拥有）|Every citizen may claim the protection of the law
+proclaim|v.|声明；清楚的表明|His accent proclaimed that he was an American
 ---
-state|v./n.|陈述；说明/国家，州，状况
-announce|v.|宣布，通知
-clarify|v.|澄清，阐明
+state|v./n.|陈述；说明/国家，州，状况|Railways in Britain belong to the state
+announce|v.|宣布，通知|The government announced that they would build a new highway to that area
+clarify|v.|澄清，阐明|The government has clarified its position on equal pay for women
 ---
-assist|v.|帮助；协助
-aid|n.|救助；救援物资；辅助物
-encourage|v.|鼓励，激励，怂恿
+assist|v.|帮助；协助|A team of nurses assisted the doctor in performing the operation
+aid|n.|救助；救援物资；辅助物|An English-Chinese dictionary is an important aid in learning English
+encourage|v.|鼓励，激励，怂恿|Her success encouraged me to try the same thing
 ---
-implement|v./n.|实施；执行/工具；器具
-monitor|v./n.|监视；监听/监控器，监视器，班长
-admit|v.|供认，承认
+implement|v./n.|实施；执行/工具；器具|The new policy on housing will be implemented next month
+monitor|v./n.|监视；监听/监控器，监视器，班长|The agents are monitoring the enemy's radio broadcasts to try to find out their secret plans
+admit|v.|供认，承认|He admitted to his father that he had failed his driving test
 ---
-African|adj./n.|非洲的/非洲人
-European|adj./n.|欧洲的/欧洲人
-Latin|adj./n.|拉丁语的，拉丁人的/拉丁人，拉丁语
-Jewish|adj.|犹太教的，犹太人的
-Arabian|adj.|阿拉伯的
+African|adj./n.|非洲的/非洲人|Many African people are very energetic and outgoing
+European|adj./n.|欧洲的/欧洲人|The Japanese have taken in many European ways of life
+Latin|adj./n.|拉丁语的，拉丁人的/拉丁人，拉丁语|Many languages have Latin as their origin
+Jewish|adj.|犹太教的，犹太人的|Jewish people are scattered around the world
+Arabian|adj.|阿拉伯的|Arabian Nights and Treasure Island are famous romances
 ---
-Portuguese|adj./n.|葡萄牙的/葡萄牙人，葡萄牙语
-Roman|adj./n.|罗马的/罗马人
-Russian|adj./n.|
-Spanish|adj./n.|
-Swiss|adj./n.|瑞士的/瑞士人
+Portuguese|adj./n.|葡萄牙的/葡萄牙人，葡萄牙语|The Portuguese power in the East was on the wane|on the wane 衰落中
+Roman|adj./n.|罗马的/罗马人|The wrote a storybook about ancient Roman
+Russian|adj./n.|俄国的/俄国人|The limit of Russian endurance was reached
+Spanish|adj./n.|西班牙的/西班牙人|French is a sister language of Spanish
+Swiss|adj./n.|瑞士的/瑞士人|The Swiss standard of living is very high
 ---
-Greek|adj./n.|
-Italian|adj./n.|
-soviet|adj./n.|苏联的/苏维埃
-Indian|adj./n.|
+Greek|adj./n.|希腊的/希腊人|The chef is not interested in Greek food
+Italian|adj./n.|意大利的/意大利人|Italian pizza is very popular in China
+soviet|adj./n.|苏联的/苏维埃|The Soviet Union was a major power on the Eurasian continent
+Indian|adj./n.|印度的/印度人|To an Indian, the owl is a symbol of bad luck
 ---
-Australia|n.|澳大利亚
-New Zealand|n.|
-Canada|n.|
+Australia|n.|澳大利亚|Australia is the hometown of kangaroos
+New Zealand|n.|新西兰|Oceania is mainly made up of Australia and New Zealand
+Canada|n.|加拿大|The maple leaf is the emblem of Canada
 ---
-Britain|n.|
-France|n.|
-Germany|n.|
+Britain|n.|英国|The United Kingdom consists of Great Britain and Northern Ireland
+France|n.|法国|The English channel divides England from France
+Germany|n.|德国|I need to buy a round-trip ticket to Germany
 ===
 社会经济
 +++
-economy|n.|经济；节约
-trade|n./v.|贸易/交换
-market|n.|市场；市场需求
-industry|n.|工业；产业；勤劳
+economy|n.|经济；节约|As the war debt lightened, the economy of the country developed quickly
+trade|n./v.|贸易/交换|China does a lot of trade with many countries
+market|n.|市场；市场需求|The market is experiencing depression at the moment
+industry|n.|工业；产业；勤劳|The conference underscored the importance of modern industry
 ---
-merchant|n./adj.|商人/商业的
-financial|adj.|财政的；金融的
-fund|v./n.|资助/基金；资金
-donate|v.|捐款；捐献
-endow|v.|捐赠；赋予
+merchant|n./adj.|商人/商业的|The merchant decided to use camels to carry his goods across the desert
+financial|adj.|财政的；金融的|Southeast Asia's financial crisis taught an important lesson
+fund|v./n.|资助/基金；资金|The research is funded the government
+donate|v.|捐款；捐献|The government calls on the youth to donate their blood voluntarily
+endow|v.|捐赠；赋予|She is endowed with great writing ability
 ---
-commercial|adj./n.|商业的/商业广告
-advertise|v.|做广告
-slogan|n.|标语；口号
+commercial|adj./n.|商业的/商业广告|The downtown area is zoned for commercial use
+advertise|v.|做广告|We advertised in the local press
+slogan|n.|标语；口号|The advertising slogan is play on words
 ---
-purchase|n./v.|购买
-lease|n./v.|租约/出租；租用
-afford|v.|负担得起；提供；给予
+purchase|n./v.|购买|The new couple spent some money for the purchase of the furniture necessary for their new house
+lease|n./v.|租约/出租；租用|We'll lease you the house for one year
+afford|v.|负担得起；提供；给予|I couldn't afford the rent on my own
 ---
-retail|n./v.|零售/以...价格零售
-chain|n.|一连串；连锁店
-grocery|n.|食品杂货店
+retail|n./v.|零售/以...价格零售|These slippers retail at ten dollars per pair
+chain|n.|一连串；连锁店|The strike may produce a chain reaction in other industries
+grocery|n.|食品杂货店|Her mother began to operate a small grocery
 ---
-discount|n./v.|折扣/打折出售
-promotion|n.|促销活动；晋升
-voucher|n.|代金券
-coupon|n.|优惠券
+discount|n./v.|折扣/打折出售|I'll sell at the discount in return for a speedy sale
+promotion|n.|促销活动；晋升|Last year's sales promotions were quite successful
+voucher|n.|代金券|The voucher can be used at most major cinemas
+coupon|n.|优惠券|I have a coupon for thirty percent off any dairy product in this supermarket
 ---
-currency|n.|货币；通用，流行
-exchange|n.|交换；兑换
-swap/swop|v./n.|交换
-receipt|n.|收据；收到
-invoice|n./v.|发票/开发票给
+currency|n.|货币；通用，流行|Our currency will not depreciate
+exchange|n.|交换；兑换|It seems the exchange rate fluctuates almost daily
+swap/swop|v./n.|交换|She swapped her watch for an antique locket
+receipt|n.|收据；收到|When you have paied for something, a receipt is given to you
+invoice|n./v.|发票/开发票给|The seller issued an invoice for the goods
 ---
-tax|n./v.|税/对...征税
-levy|n./v.|税款/征收
-tariff|n.|关税；（公共服务的）收费
-duty|n.|职责；义务；关税
-impose|v.|强加；征收（书款）
+tax|n./v.|税/对...征税|Governments don't tax children
+levy|n./v.|税款/征收|The government has decided to levy a tax on imported cars
+tariff|n.|关税；（公共服务的）收费|There is a very high tariff on alcohol
+duty|n.|职责；义务；关税|I feel it my duty to speak frankly to you
+impose|v.|强加；征收（书款）|She often imposed her values on her daughter
 ---
-consume|v.|消耗，吃，喝
-spend|v./n.|花费/开支
-cost|v./n.|需付费/费用；代价；成本
+consume|v.|消耗，吃，喝|Chinese people consume huge amounts of rice every year
+spend|v./n.|花费/开支|The time I spend in commuting everyday adds up to two hours
+cost|v./n.|需付费/费用；代价；成本|I'm determined to attain my purpose at any cost
 ---
-expense|n.|费用；花费
-revenue|n.|（公司、组织的）收入；（政府的）税收
-gross|adj.|总的；毛的
+expense|n.|费用；花费|Society should try to save every plant and animal species regardless of the expense
+revenue|n.|（公司、组织的）收入；（政府的）税收|State universities in the US get most of their revenue from taxes
+gross|adj.|总的；毛的|GDP stands for Gross Domestic Product
 ---
-recession|n.|经济衰退
-depression|n.|沮丧；消沉；萧条期；不景气
-crisis|n.|危机
+recession|n.|经济衰退|This country was in a deep economic recession
+depression|n.|沮丧；消沉；萧条期；不景气|A holiday may help him cope with feelings of depression
+crisis|n.|危机|They suffered huge losses in the financial crisis
 ---
-security|n.|安全工作；安全；[securities]证券|
-bond|n.|债券
-debt|n.|债务
+security|n.|安全工作；安全；[securities]证券|The government looks after the security of the country
+bond|n.|债券|A company issues a bond to collect money and will pay back with interest
+debt|n.|债务|Liabilities are the debt or obligation that a businessman must pay in money or services at some time in the future
 ---
-deficit|n.|赤字；逆差
-inflation|n.|通货膨胀
-deflation|n.|通货紧缩
+deficit|n.|赤字；逆差|The current trade deficit indicates a serious inbalance between our imports and exports
+inflation|n.|通货膨胀|An inflation erodes the purchasing power of the families with lower income
+deflation|n.|通货紧缩|Deflation and financial distress stifled economic growth
 ---
-dwindle|v.|缩小；减少
-decrease|n./v.|减少；减小/（使）减少；（使）减小
-downsize|v.|使精简；裁员
+dwindle|v.|缩小；减少|The number of people going to the bookstores seems to dwindle steadily
+decrease|n./v.|减少；减小/（使）减少；（使）减小|Her interest in the subject gradually decreases
+downsize|v.|使精简；裁员|The factory has to downsize and more fully utilize the remaining workers
 ---
-decline|v./n.|下降
-diminish|v.|减少；贬低
-reduce|v.|减少，减小
+decline|v./n.|下降|There is a sharp decline in unemployment
+diminish|v.|减少；贬低|We should try to diminish the cost of production
+reduce|v.|减少，减小|The prices in the shop have been reduced, so it's a good time to buy
 ---
-increase|n./v.|增加，增长/（使）增加，（使）增长
-increment|n.|增加量；定期加薪
-growth|n.|增长；生长
+increase|n./v.|增加，增长/（使）增加，（使）增长|His employer has increased his salary
+increment|n.|增加量；定期加薪|Your salary will be 12, 000 a year with annual increments of five hundred dollars
+growth|n.|增长；生长|Cold weather constrained the plant's growth
 ---
-escalate|v.|（使）逐步升级；（使）不断恶化
-expand|v.|扩充；扩大；扩展
-influx|n.|流入，涌进||influx of capital 资本的涌进
+escalate|v.|（使）逐步升级；（使）不断恶化|The cost of living is escalating in the country
+expand|v.|扩充；扩大；扩展|Metals expand when they are heated
+influx|n.|流入，涌进|The country simply can not handle this influx of refugees|influx of capital 资本的涌进
 ---
-affluent|adj.|富裕的；富足的
-enrich|v.|使富有；充实
-sufficient|adj.|足够的||insufficient adj. 不足的
-adequate|adj.|足够的；合格的
+affluent|adj.|富裕的；富足的|We live in an affluent society
+enrich|v.|使富有；充实|Giving much to the poor will enrich a man's store
+sufficient|adj.|足够的|We must work hard, but equally, we must get sufficient rest|insufficient adj. 不足的
+adequate|adj.|足够的；合格的|We had adequate food for a week's journey
 ---
-spare|adj./v.|多余的；空闲的/剩余
-saving|n.|节约；节省
-redundant|adj.|多余的；被裁减的
-lack|n./v.|缺乏；不足/缺少；没有
+spare|adj./v.|多余的；空闲的/剩余|If you have a spare bed, may I stay tonight?
+saving|n.|节约；节省|A saving of twenty percent is obtainable under this scheme
+redundant|adj.|多余的；被裁减的|During the financial crisis, many workers were made redundant
+lack|n./v.|缺乏；不足/缺少；没有|Serious lack of circulating funds forced the closure of the company|circulating funds 流动资金
 ---
-company|n.|公司；陪伴；剧团||keep sb. company 陪伴某人
-firm|n./adj.|公司/坚定的；坚固的
-enterprise|n.|企业；事业
-agent|n.|代理人，代理商
-entity|n.|实体，独立存在物
+company|n.|公司；陪伴；剧团|The company has connections with a number of Canadian firms|keep sb. company 陪伴某人
+firm|n./adj.|公司/坚定的；坚固的|Because of their common values, they soon formed a firm friendship
+enterprise|n.|企业；事业|They are involved in an exciting scientific enterprise
+agent|n.|代理人，代理商|The travel agent has made all their reservations for my journey
+entity|n.|实体，独立存在物|The country is no longer a sovereign entity
 ---
-invest|v.|投资；投入
-input|n.|输入信息；投入物
-product|n.|产品；产物
+invest|v.|投资；投入|The state has planned to invest 2 million in the dam
+input|n.|输入信息；投入物|We must increase the output with less labor input
+product|n.|产品；产物|A series of technical issues delayed the launch of the new product
 ---
-acquisition|n.|获得；（对公司的）并购
-goods|n.|商品；货物
-cargo|n.|货物
+acquisition|n.|获得；（对公司的）并购|The acquisition of knowledge is a social activity
+goods|n.|商品；货物|You give me the money and I'll give you the goods
+cargo|n.|货物|The ship is discharging cargo
 ---
-insure|v.|确保；给...上保险
-guarantee|v./n.|担保；确保/保证；保修单；担保金；担保物
-reliable|adj.|可靠的，可信赖的
+insure|v.|确保；给...上保险|His talent and commitment will insure his success
+guarantee|v./n.|担保；确保/保证；保修单；担保金；担保物|They offer a two-year guarantee on all their household appliances
+reliable|adj.|可靠的，可信赖的|It's reliable to judge a man only by his looks
 ---
-negotiation|n.|谈判，协商
-attend|v.|参加，出席
-absent|adj.|缺席的；不在场的；心不在焉的
+negotiation|n.|谈判，协商|We are statisfied with the smoothness of the negotiation
+attend|v.|参加，出席|A large number of people attended her birthday party
+absent|adj.|缺席的；不在场的；心不在焉的|Daniel was absent from the house all the next day
 ---
-sale|n.|买；销售；销售额
-wholesale|n.| 批发
-auction|v./n.|拍卖
-bid|v./n.|出价；投标
+sale|n.|买；销售；销售额|The store discounted all air conditioners for sale
+wholesale|n.| 批发|These wholesale dealers earned a large sum of money
+auction|v./n.|拍卖|His house was sold at an auction
+bid|v./n.|出价；投标|They lost the contract because their bid was too high
 ---
-deal|v./n.|买卖；[~ with]处理；应付/协议；交易；大量
-transaction|n.|（一笔）交易；业务
-turnover|n.|（人员的）流动率；营业额
-dump|v.|丢弃；倾倒；倾销
+deal|v./n.|买卖；[~ with]处理；应付/协议；交易；大量|I'll deal with the children later
+transaction|n.|（一笔）交易；业务|Because sellers and buyers manage business transactions, it leads companies to keeping in touch with customers
+turnover|n.|（人员的）流动率；营业额|Annual turnover is about 800 million pounds
+dump|v.|丢弃；倾倒；倾销|Some people just dumped their rubbish in the river
 ---
-export|v./n.|出口/出口；出口商品
-import|v./n.|进口/进口；进口商品
-quota|n.|限额；配额；定额
+export|v./n.|出口/出口；出口商品|Oil has supplanted coffee as our main export
+import|v./n.|进口/进口；进口商品|We import a huge amount of produce from other countries every year
+quota|n.|限额；配额；定额|The committee reversed its decision on the import quota
 ---
-share|n./v.|股份，股票；一份/分享；共享；分担
-benefit|n./v.|益处/有利于；获益
-interest|n./v.|兴趣；利益；利息/使感兴趣
-dividend|n.|股息；红利
-stock|n.|股本；股票；库存
+share|n./v.|股份，股票；一份/分享；共享；分担|He has put all his money in stocks and shares
+benefit|n./v.|益处/有利于；获益|A large number of students will benefit from the new teaching method
+interest|n./v.|兴趣；利益；利息/使感兴趣|You must pay interest on that loan
+dividend|n.|股息；红利|The company declared a large dividend at the end of the year
+stock|n.|股本；股票；库存|All stock prices have jumped up this month
 ---
-account|n.|账户；解释
-deposit|n.|存款；押金
-instalment/installment|n.|（分期付款的）一期付款
-cheque/check|n.|支票
+account|n.|账户；解释|Have you got a bank account?
+deposit|n.|存款；押金|The interest of the current account is lower than that of the deposit account|current account 活期存款账户
+instalment/installment|n.|（分期付款的）一期付款|Buying goods in installments has become an epidemic in recent years
+cheque/check|n.|支票|The bank cashed my check
 ---
-cash|n./v.|现金/兑现（支票）
-coin|n./v.|硬币/铸币；创造（新词语）
-shilling|n.|先令
-copper|n.|铜；[~s]铜币；警察||cop n. 警察
+cash|n./v.|现金/兑现（支票）|He paied for the meal in cash
+coin|n./v.|硬币/铸币；创造（新词语）|We'd better not coin terms which are not intelligible
+shilling|n.|先令|Five pence was equal to a shilling
+copper|n.|铜；[~s]铜币；警察|He polished up the old copper coins|cop n. 警察
 ---
-treasure|n.|金银财宝；宝物；珍品
-wealth|n.|财富；丰富
-estate|n.|地产；遗产
+treasure|n.|金银财宝；宝物；珍品|This museum has many art treasures
+wealth|n.|财富；丰富|Health is better than wealth
+estate|n.|地产；遗产|The old lady left an estate of 3 million pounds when she died
 ---
-possess|v.|占用；拥有；影响；控制
-legacy|n.|遗赠；遗产
-descend|v.|下降，下来
+possess|v.|占用；拥有；影响；控制|She was possessed by the desire to be rich
+legacy|n.|遗赠；遗产|The girl received a small legacy from her aunt
+descend|v.|下降，下来|She is said to be descended from a French aristocratic family
 ---
-worthy|adj.|有价值的
-valuable|adj.|很值钱的；贵重的；很重要的
-cheap|adj.|廉价的；质劣价低的
+worthy|adj.|有价值的|This book is worthy of reading
+valuable|adj.|很值钱的；贵重的；很重要的|His wife put on her valuable ring and necklace
+cheap|adj.|廉价的；质劣价低的|Cheap shoes soon wear out
 ---
-incentive|n.|刺激；激励
-accelerate|v.|加速
-prompt|v./adj.|促使/迅速的
+incentive|n.|刺激；激励|Incentives differ from country to country and region to region
+accelerate|v.|加速|Good economic policies can accelerate the economic growth of a society
+prompt|v./adj.|促使/迅速的|What prompted you to do such a thing?
 ---
-salary|n.|工资；（按月领的）薪水
-income|n.|收入
-wage|n.|（通常指按周领的）工钱
+salary|n.|工资；（按月领的）薪水|She was employed with a salary of three thousand dollars a month
+income|n.|收入|Many staff members made an accusation that the earned incomes were not distributed upon the principle of equality
+wage|n.|（通常指按周领的）工钱|These workers demanded a wage rise of 5 percent
 ---
-payment|n.|支付；支付的款项；付款额
-refund|n./v.|退款
-reimburse|v.|赔偿；补偿
+payment|n.|支付；支付的款项；付款额|You may defer payment until next week
+refund|n./v.|退款|We can refund the price difference
+reimburse|v.|赔偿；补偿|We will reimburse the customer for any loss or damage
 ---
-payroll|n.|工资名单
-remuneration|n.|报酬
-subsidy|n.|津贴，补贴||subsidise=subsidize v. 资助，给...发津贴
-earn|v.|赚得；赢得；获得
+payroll|n.|工资名单|Every month she has to make a payroll of the staff
+remuneration|n.|报酬|He received a small remuneration
+subsidy|n.|津贴，补贴|The government has decided to increase subsidies on farm produce|subsidise=subsidize v. 资助，给...发津贴
+earn|v.|赚得；赢得；获得|He has earned a lot of money this month
 ---
 undertaking|n.|任务；事业；许诺；保证|I give an undertaking that we shall proceed with the legislation|a written undertaking 书面保证。an undertaking clause 承诺条款
-career|n.|职业；事业；职业生涯
-profession|n.|职业
+career|n.|职业；事业；职业生涯|After the accident, she realized that her acting career was over
+profession|n.|职业|The medical profession requires a strong sense of responsibility
 ---
-occupation|n.|占领，占据；职业
-job|n.|职业；工作
-vocation|n.|（认为特别适合自己的）职业；使命感
+occupation|n.|占领，占据；职业|I regard being a teacher as a decent occupation and I love being a teacher
+job|n.|职业；工作|The job is not yet finished
+vocation|n.|（认为特别适合自己的）职业；使命感|She struggled for years to find her true vocation
 ---
-labour/labor|n.|劳动；体力劳动
-workforce|n.|劳动力；全体员工
-workaholic|n.|工作狂
-personnel|n.|人员，职员；人事部门
-clerk|n.|店员，办事员，接待员
+labour/labor|n.|劳动；体力劳动|Many women do hard manual labour
+workforce|n.|劳动力；全体员工|This year 5 percent of the workforce will be made redundant
+workaholic|n.|工作狂|I do not want to become a workaholic
+personnel|n.|人员，职员；人事部门|The next project needs new personnel
+clerk|n.|店员，办事员，接待员|The clerk was elevated to a managerial position
 ---
-interview|n./v.|面试；采访/对...进行面试；采访
-résumé/resume|n.|UK /ˈrez.juː.meɪ/ US /ˈrez.ə.meɪ/ 履历；简历；摘要
-recommend|v.|推荐；劝告；介绍
-employ|v.|雇用；采用
-hire|v./n.|雇用；租用/租赁（业）
+interview|n./v.|面试；采访/对...进行面试；采访|The interview has drawn considerable attention to the profession
+résumé/resume|n.|UK /ˈrez.juː.meɪ/ US /ˈrez.ə.meɪ/ 履历；简历；摘要|Please email your personal resume to us before setting a writing test
+recommend|v.|推荐；劝告；介绍|I recommend you to reserve a table in advance
+employ|v.|雇用；采用|They employ casual labor to pick the fruit|casual labor 临时工
+hire|v./n.|雇用；租用/租赁（业）|They hired an advertising company to help sell a new product
 ---
-fire|v./n.|解雇/火
-lay-off|n.|（因岗位不足的）解雇；裁员；歇工期
-dismiss|v.|解雇；解散；驳回
-discharge|v./n.|解雇/卸货
+fire|v./n.|解雇/火|He was fired by his boss
+lay-off|n.|（因岗位不足的）解雇；裁员；歇工期|There are more layoffs in the IT industry this year
+dismiss|v.|解雇；解散；驳回|If you are late again, you will be dismissed
+discharge|v./n.|解雇/卸货|How long will the discharge of the cargo take?
 ---
-resign|v.|辞去；辞职
-sack|n./v.|大口袋，麻布袋/开除
-retire|v.|退休
+resign|v.|辞去；辞职|Catherine was forced to resign from the board of directors
+sack|n./v.|大口袋，麻布袋/开除|The poor guy got sacked yesterday
+retire|v.|退休|If they prove incompetent, they should be demoted or asked to retire|demote v. 降职
 ---
-result|n./v.|结果，后果/导致
-failure|n.|失败；失败的人；失败的事
-abortion|n.|人工流产；中途失败
-loss|n.|遗失；损失；亏损
+result|n./v.|结果，后果/导致|As a result, there is often trouble in American families
+failure|n.|失败；失败的人；失败的事|His failure may lead to the bankruptcy of the company
+abortion|n.|人工流产；中途失败|His attempt proved an abortion
+loss|n.|遗失；损失；亏损|They forfeited the business after only two months and with great loss
 ---
-opportunity|n.|机会；时机
-chance|n.|机会；可能性
-choose|v.|选择
-change|n.|改变
+opportunity|n.|机会；时机|I'd like to take this opportunity to thank everyone for their hard work on this project
+chance|n.|机会；可能性|Her testimony works against his chance of winning the case
+choose|v.|选择|We have many patterns in stock for you to choose from
+change|n.|改变|All our previous ideas are now in the melting pot, which means our jobs are bound to change radically
 ---
-solve|v.|解答，解决
-develop|v.|发展，开发
-sustainable|adj.|可持续的
-improve|v.|改善；改进
+solve|v.|解答，解决|I must alert him to the needs to solve the problem
+develop|v.|发展，开发|The United States can't develop in isolation from the rest of world
+sustainable|adj.|可持续的|Sustainable development is the common target of the human beings
+improve|v.|改善；改进|The offered a suggestion to improve the plan
 ---
-manage|v.|管理；设法做到
-regulate|v.|管理；调整
-sanction|n./v.|批准；制裁/批准；对...制裁
+manage|v.|管理；设法做到|From this day on, I will manage all my affairs on my own
+regulate|v.|管理；调整|You watch is slow. It needs to be regulated
+sanction|n./v.|批准；制裁/批准；对...制裁|The minister can only act in this matter with the sanction of parliament
 ---
-coordinate|v./n.|调和；协调/坐标
-cooperate|v.|合作；协作
-collaborate|v.|合作
+coordinate|v./n.|调和；协调/坐标|Our efforts need to be further coordinated for higher efficiency
+cooperate|v.|合作；协作|If they cooperate with each other, everyone will run smoothly
+collaborate|v.|合作|We would like to ask you to collaborate with us
 ===
 法律法规
 +++
