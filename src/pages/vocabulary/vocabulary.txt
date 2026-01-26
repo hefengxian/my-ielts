@@ -3187,80 +3187,80 @@ collaborate|v.|合作|We would like to ask you to collaborate with us
 法律法规
 +++
 law|n.|法律；规律；定理|Those who break the law are subjected to justice. 违法者要受到法律的制裁|be subject to something 有；遭受，承受。enact a law 通过法律
-legal|adj.|法律的；合法的
-rule|n./v.|规则/统治
-regulation|n.|规则；规定；管理
+legal|adj.|法律的；合法的|When you are eighteen, you are a legal voter
+rule|n./v.|规则/统治|It's against the rules to pick up the ball
+regulation|n.|规则；规定；管理|The rules and regulations should be made clear to all employees
 ---
 item|n.|条目|This is the next item on the agenda|agenda n. 议事日程;（会议的）议程；议事日程;（会议的）议程
-treaty|n.|条约；协议
-agreement|n.|同意；协定
-charter|n./v.|宪章/租；包（船、车、飞机等）
-protocol|n.|协定书；协议；礼仪
+treaty|n.|条约；协议|In the treaty, both sides pledged to respect human rights
+agreement|n.|同意；协定|The agreement has raised hopes that the war may end soon
+charter|n./v.|宪章/租；包（船、车、飞机等）|The rights of our citizens are granted by the Charter
+protocol|n.|协定书；协议；礼仪|Do we need sign a contract or follow any protocol?
 ---
-norm|n.|标准；[~s]行为准则；规范
-benchmark|n.|基准，水准点
-criteria|n.|[criterion 的复数形式]标准；准则
-standard|n.|标准
-permit|v.|允许；准许
-allow|v.|允许；准许
-admission|n.|承认；入场费；准许入场
+norm|n.|标准；[~s]行为准则；规范|You must adapt to the norms of the society you live in
+benchmark|n.|基准，水准点|Her performances set a new benchmark for dancers throughout the world
+criteria|n.|[criterion 的复数形式]标准；准则|We each have our own criteria for success
+standard|n.|标准|This piece of work does not come up to your usual standard
+permit|v.|允许；准许|Those words hardly permit doubt
+allow|v.|允许；准许|They did not allow the slaves any freedom
+admission|n.|承认；入场费；准许入场|He gained admission into the association
 ---
-perform|v.|履行；执行
-enforce|v.|强制执行；强行实施；迫使
-default|v./n.|不支付、不履行/违约；默认值
-reject|v.|拒绝接受；摒弃
-constraint|n.|约束；限制，克制
+perform|v.|履行；执行|They always perform their duties faithfully
+enforce|v.|强制执行；强行实施；迫使|The police are there to enforce the law
+default|v./n.|不支付、不履行/违约；默认值|The company has already been in default on its loan
+reject|v.|拒绝接受；摒弃|The board of directors rejected the proposal as a non-starter|non-starter n. 毫无希望的计划（或建议）
+constraint|n.|约束；限制，克制|He felt constraint when in her presence
 ---
-official|adj.|正式的；官方的
-mandatory|adj.|法定的；强制的
-potent|adj.|很有效的；强有力的
-bound|adj.|[be ~ to]一定会；很可能会；有义务
-obligation|n.|义务；责任
+official|adj.|正式的；官方的|The mass media demanded that all the official documents concerning the product in question be made public
+mandatory|adj.|法定的；强制的|A reply to this letter is mandatory
+potent|adj.|很有效的；强有力的|The medicine had a potent effect on your disease
+bound|adj.|[be ~ to]一定会；很可能会；有义务|You are not legally bound to answer these questions
+obligation|n.|义务；责任|We are under an obligation to help
 ---
-court|n.|法院；庭院
-supreme|adj.|最高的；最大的
-enact|v.|通过（法律）；表演
-legislate|v.|立法，制定（或通过）法律
+court|n.|法院；庭院|The company is anxious to keep the whole case out of court
+supreme|adj.|最高的；最大的|He was supreme leader of that fascist dictatorship
+enact|v.|通过（法律）；表演|This country has just enacted a law allowing same-sex marriage
+legislate|v.|立法，制定（或通过）法律|The government will legislate against discrimination in the workplace
 ---
-equity|n.|公平
-fair|adj.|公平的；公章的
-just|adj./adv.|公证的；正义的/刚刚；仅仅
-prejudice|n.|偏见；成见
-discrimination|n.|歧视
+equity|n.|公平|They call for laws to promote gender equity
+fair|adj.|公平的；公章的|He won the game, fair and square
+just|adj./adv.|公证的；正义的/刚刚；仅仅|Our aim is a just and lasting peace
+prejudice|n.|偏见；成见|A judge must be free from prejudice
+discrimination|n.|歧视|He is opposed to racial discrimination
 ---
-accuse|v.|控告；指责
-sue|v.|控告，提起诉讼；提出请求
-prosecute|v.|检举；起诉
+accuse|v.|控告；指责|The police accused him of murder
+sue|v.|控告，提起诉讼；提出请求|The company is suing the formal president
+prosecute|v.|检举；起诉|He was prosecuted for robbery
 ---
-condemn|v.|谴责；指责
-complain|v.|抱怨；投诉
-boycott|n./v.|抵制；拒绝购买
+condemn|v.|谴责；指责|Most people would condemn violence of any sort as evil
+complain|v.|抱怨；投诉|She complained that the room is too cold
+boycott|n./v.|抵制；拒绝购买|They boycott all products tested on animals
 ---
-session|n.|会议；会期
-mediate|v.|斡旋；调解||mediate between 在...之间进行调解
-plea|n.|辩解理由；借口；请求
+session|n.|会议；会期|The general sesion approved the report of the investigation committee
+mediate|v.|斡旋；调解|He mediated a settlement between labor and management|mediate between 在...之间进行调解
+plea|n.|辩解理由；借口；请求|His plea was that he did not see the stop signal
 ---
-appeal|v./n.|呼吁；申述
-contradict|v.|反驳；与...矛盾
-persuade|v.|说服；使相信
-controversy|n.|争议；辩论
+appeal|v./n.|呼吁；申述|The response to our appeal was encouraging
+contradict|v.|反驳；与...矛盾|Your actions contradict your belief
+persuade|v.|说服；使相信|The woman persuaded the robber to turn himself in|turn oneself in 自首
+controversy|n.|争议；辩论|The new traffic regulations caused much controversy among drivers
 ---
-whisper|v.|低声说；私下谈论
-mutter|v.|低声低语；小声抱怨
-murmur|n./v.|低声说/咕哝；低语
+whisper|v.|低声说；私下谈论|The children were whispering in the corner
+mutter|v.|低声低语；小声抱怨|That man muttered his dissatisfaction
+murmur|n./v.|低声说/咕哝；低语|There was a low murmur of conversation in the hall
 silent|adj.|沉默的；寂静无声的|He couldn't speak English and was completely silent during the visit|silence n./v. 沉默；寂静/使安静
-mute|adj./n.|缄默的；哑的；无声的/哑巴
+mute|adj./n.|缄默的；哑的；无声的/哑巴|She kept herself mute during the meeting
 ---
-investigate|v.|调查
-witness|n./v.|目击者；见证人/见证
-justify|v.|为...辩护；证明...正当
-reasonable|adj.|合理的；理智的
-suitable|adj.|合适的，适宜的
+investigate|v.|调查|To investigate a problem is indeed to solve it
+witness|n./v.|目击者；见证人/见证|Children in regions of chaos and bloodshed are witnessing a disturbing amount of violence
+justify|v.|为...辩护；证明...正当|Don't try to justify your mistakes
+reasonable|adj.|合理的；理智的|At first sight, their reaction was reasonable
+suitable|adj.|合适的，适宜的|The authorities must provide suitable accommodation for the family
 ---
-judge|n.|法官；裁判员
-jury|n.|陪审团；评判委员会|The jury will retire to consider its verdict today. 陪审团今天将退庭商议其裁决|verdict n. 裁决
-trial|n.|试验；审判
-suspect|n./v.|嫌疑犯/怀疑
+judge|n.|法官；裁判员|TGhe defence counsel said his client was too tired, so the judge called a recess
+jury|n.|陪审团；评判委员会|The jury will retire to consider its verdict today. 陪审团今天将退庭商议其e决|verdict n. 裁决
+trial|n.|试验；审判|I noticed that his report was highly critical of the trial judge of this case
+suspect|n./v.|嫌疑犯/怀疑|The police couldn't prove that the suspect was guilty
 ---
 sentence|n./v.|判决/宣判
 arrest|v./n.|逮捕；吸引（注意）/逮捕||arrest sb.'s attention 引起某人的注意
