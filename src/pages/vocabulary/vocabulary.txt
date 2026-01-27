@@ -3262,74 +3262,74 @@ jury|n.|陪审团；评判委员会|The jury will retire to consider its verdict
 trial|n.|试验；审判|I noticed that his report was highly critical of the trial judge of this case
 suspect|n./v.|嫌疑犯/怀疑|The police couldn't prove that the suspect was guilty
 ---
-sentence|n./v.|判决/宣判
-arrest|v./n.|逮捕；吸引（注意）/逮捕||arrest sb.'s attention 引起某人的注意
-jail|n./v.|监狱/监禁
-prison|n.|监狱，监禁
+sentence|n./v.|判决/宣判|He stood emtionless as he heard the judge sentence him to twenty years in prison
+arrest|v./n.|逮捕；吸引（注意）/逮捕|You shouldn't arrest him without an arrest warrant|arrest sb.'s attention 引起某人的注意
+jail|n./v.|监狱/监禁|A bunch of prisoners broke loose from jail
+prison|n.|监狱，监禁|Many people believe that prison isn't a cure for crime
 confine|n./v.|[~s]边界；范围/限制；监禁|this is outside the confines of human knowledge|be confined to 局限于。 within the confines of 在（某范围）之内
 ---
-oversee|v.|监督；监管
-supervise|v.|监督；管理；指导
-restrict|v.|限制；限定；约束
-restrain|v.|抑制；制止||restrain oneself 克制自己
+oversee|v.|监督；监管|You must employ someone to oversee the project
+supervise|v.|监督；管理；指导|This kind of project ought to be supervised by management
+restrict|v.|限制；限定；约束|Don't restrict their proper activities
+restrain|v.|抑制；制止|I can't restrain my anger when I hear someone being cruel to animals|restrain oneself 克制自己
 ---
-commit|v.|犯（罪）；做（坏事）
-sin|n./s.|罪孽/犯戒律
-crime|n.|罪行；犯罪活动
+commit|v.|犯（罪）；做（坏事）|He, who commits a fault, thinks everyone speaks of it
+sin|n./s.|罪孽/犯戒律|She was baptized and she was pure and clean of sin
+crime|n.|罪行；犯罪活动|There is no proof that he was on the crime scene
 ---
-vice|n.|恶行；缺点|Virtue and vise are different things: former leads to peace, the latter to misery|virtue n. 美德；高尚品德。misery n. 痛苦，悲惨；常常不高兴/老发牢骚的人
-bribe|n./v.|贿赂/向...行贿||bribery n. 贿赂行为。bribee n. 受贿者 briber n. 行贿者
-rob|v.|抢劫；夺走
-pirate|n./v.|海盗；盗版者/盗印，窃用
+vice|n.|恶行；缺点|Virtue and vise are two different things: the former leads to peace, the latter to misery|virtue n. 美德；高尚品德。misery n. 痛苦，悲惨；常常不高兴/老发牢骚的人
+bribe|n./v.|贿赂/向...行贿|The counterfeiter bribed the police officer to let him go free|bribery n. 贿赂行为。bribee n. 受贿者 briber n. 行贿者
+rob|v.|抢劫；夺走|They were scheming to rob the bank
+pirate|n./v.|海盗；盗版者/盗印，窃用|The terrible pirates attacked a merchant ship
 ---
-steal|n.|偷，窃取；剽窃
-thief|n.|窃贼；偷窃犯
-murder|n./v.|谋杀
-suicide|n.|自杀
+steal|n.|偷，窃取；剽窃|The young man was sent to prison for stealing
+thief|n.|窃贼；偷窃犯|The thief got in through the open window
+murder|n./v.|谋杀|There have been serveral murder cases this year
+suicide|n.|自杀|He attempted to commit suicide after his firm had gone bankrupt
 ---
-deceive|v.|欺骗；蒙蔽；误导
-cheat|v./n.|欺骗；作弊/作弊者
-fraud|n.|骗子；赝品；欺诈
-liar|n.|说谎的人
+deceive|v.|欺骗；蒙蔽；误导|Nobody can deceive me
+cheat|v./n.|欺骗；作弊/作弊者|She always cheats at cards
+fraud|n.|骗子；赝品；欺诈|People who try to sell you something that can treat all diseases are frauds
+liar|n.|说谎的人|Why did they call him a liar
 ---
-trap|n./v.|陷阱；诡计/诱骗
-trick|n./v.|诡计/哄骗
-pretend|v.|假装，假扮
+trap|n./v.|陷阱；诡计/诱骗|The police set a trap for the thieves
+trick|n./v.|诡计/哄骗|The children played a trick on their teacher
+pretend|v.|假装，假扮|The children pretended to be different animals and danced to the music
 fool|n./v.|蠢人；傻子/欺骗|A fool's haste is no speed. 欲速则不达|foolish adj. 愚蠢的。make a fool of sb. 愚弄某人。haste n. 仓促，匆忙
-stigma|n.|耻辱；污名
+stigma|n.|耻辱；污名|It's a stigma to ask for money
 ---
-confess|v.|供认；忏悔
-conform|v.|遵守；顺从；相符合
-reconcile|v.|使和解；调和
-obey|v.|服从；顺从
-succumb|v.|屈服；屈从
+confess|v.|供认；忏悔|The suspect confessed to the armed robbery
+conform|v.|遵守；顺从；相符合|A coat must conform to the figure of the wearer
+reconcile|v.|使和解；调和|The estranged couple were reconciled after a year
+obey|v.|服从；顺从|The students obeyed the new teacher without hesitation
+succumb|v.|屈服；屈从|The president said his country would never succumb to pressure from other countries
 ---
-penalty|n.|惩罚；处罚
-fine|n./adj.|罚款/美好的
-mortgage|v./n.|抵押（房屋、土地）借款/房贷
-ownership|n.|所有权；物主身份
+penalty|n.|惩罚；处罚|What is the penalty for dangerous driving?
+fine|n./adj.|罚款/美好的|The judge imposed a fine of twenty pounds on him
+mortgage|v./n.|抵押（房屋、土地）借款/房贷|It is easy to get a mortgage on a house
+ownership|n.|所有权；物主身份|The equity ownership ought to be protected
 ---
-copyright|n.|版权
-privilege|n.|特权
-accredit|v.|把...归于；委任
+copyright|n.|版权|He retained the copyright of his book
+privilege|n.|特权|The privilege was abused
+accredit|v.|把...归于；委任|The invention of the electric light is accredited to Edison
 ---
-clue|n.|线索；提示
-access|n.|通路；查阅（或使用、接近）的机会（或权利）
-anonymous|adj.|匿名的
-false|adj.|不正确的；虚假的；伪造的
-genuine|adj.|真诚的；真正的
+clue|n.|线索；提示|The police found a clue which helped them catch the robber
+access|n.|通路；查阅（或使用、接近）的机会（或权利）|Citizens have free access to the library
+anonymous|adj.|匿名的|He received an anonymous letter
+false|adj.|不正确的；虚假的；伪造的|Cutting down on libraries seems a false economy to me
+genuine|adj.|真诚的；真正的|This metal is made of genuine gold
 ---
-procedure|n.|手续；程序
-routine|n./adj.|例行公事；常规/惯例的
-consequence|n.|后果
+procedure|n.|手续；程序|The new work procedure is a great improvement on the old one
+routine|n./adj.|例行公事；常规/惯例的|Our department holds a routine meeting every month
+consequence|n.|后果|Your behavior is of no great consequence
 ---
-demand|v./n.|要求；需要/需求；需求量
-request|n./v.|要求；请求
-require|v.|需要；命令；规定
+demand|v./n.|要求；需要/需求；需求量|This work demands your patience
+request|n./v.|要求；请求|We shall give your request our careful consideration
+require|v.|需要；命令；规定|You are requried by law to wear a seat belt
 ---
-petition|v./n.|请求/请愿书；上诉
-command|v./n.|命令；指挥；统率/命令；指挥；控制；运用能力||have a good command of 能自如地运用
-instruct|v.|指导；讲授；通知；命令
+petition|v./n.|请求/请愿书；上诉|The villagers all signed a petition for a hospital to be built
+command|v./n.|命令；指挥；统率/命令；指挥；控制；运用能力|The army is under the King's command|have a good command of 能自如地运用
+instruct|v.|指导；讲授；通知；命令|The tour guide instructed the tourists in customs regulations|customs regulations 海关条例
 ===
 沙场争锋
 +++
