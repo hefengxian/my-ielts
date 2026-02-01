@@ -3403,75 +3403,75 @@ destitute|adj.|赤贫的；一无所有的，缺乏|The floods left many people 
 famine|n.|饥荒|Many people died of famine that year
 starve|v.|使挨饿；饿死|They besieged the town and tried to starve the army into surrender|starvation n. 饥饿，极度饥饿
 ---
-deprive|v.|剥夺||deprivation n. 剥夺，丧失。~ sb. of sth. 剥夺某人的某事物
-seize|v.|抓住；夺取||seize on 抓住，利用。seize a moment 抓住时机
-pursue|v.|追赶||pursuit n. 追赶，追求，爱好。pursue pleasure 寻欢作乐
+deprive|v.|剥夺|Sickness deprived me of the pleasure of traveling overseas|deprivation n. 剥夺，丧失。~ sb. of sth. 剥夺某人的某事物
+seize|v.|抓住；夺取|Uncontrollable laughter seized us up|seize on 抓住，利用。seize a moment 抓住时机
+pursue|v.|追赶|Why should we even have to decide whether to pursue truth|pursuit n. 追赶，追求，爱好。pursue pleasure 寻欢作乐
 ---
-threat|n.|威胁；恐吓||threaten v. 威胁；恐吓
-offend|v.|冒犯；犯罪；违反
-aggressive|adj.|侵略的；好斗的
+threat|n.|威胁；恐吓|The United Nations is trying to free the world from the threat of war|threaten v. 威胁；恐吓
+offend|v.|冒犯；犯罪；违反|We mustn't offend the local customs
+aggressive|adj.|侵略的；好斗的|The world dooms itself to war because man is aggressive at heart
 ---
-invade|v.|入侵；侵略；侵扰
-trespass|v./n.|非法入侵/罪过，非法入侵
+invade|v.|入侵；侵略；侵扰|They are determined to resist the invading armies
+trespass|v./n.|非法入侵/罪过，非法入侵|The farmer saied we were trespassing on private land
 intrude|v.|闯入，侵入，侵扰|Employers should not intrude into the private lives of their employees
-violate|v.|违反；违背；侵犯；搅扰
+violate|v.|违反；违背；侵犯；搅扰|The sound of guns violated the usual calm of a Sunday morning
 ---
-attack|v./n.|攻击；进攻||~ sb. by words 用语言抨击某人
-assault|n./v.|猛攻；（身体）侵犯/袭击||an ~ on/against 对...的（人身）侵犯
-challenge|n./v.|挑战/向...挑战||challenging adj. 有挑战性的；挑衅的。face a ~ 遇到挑战。accept a ~ 接受挑战
+attack|v./n.|攻击；进攻|The police are launching a major attack on drug dealers|~ sb. by words 用语言抨击某人
+assault|n./v.|猛攻；（身体）侵犯/袭击|He was accused of sexual assault|an ~ on/against 对...的（人身）侵犯
+challenge|n./v.|挑战/向...挑战|He challenged me to play another tennis game|challenging adj. 有挑战性的；挑衅的。face a ~ 遇到挑战。accept a ~ 接受挑战
 ---
 siege|n.|包围，围攻|The TV station has been under siege from irate viewers phoning in to complain 电视被愤怒的观众围攻，一直打电话来抱怨
-surround|v.|包围；环绕
-enclose|v.|围住；包围；把...封入信封；随信附上||~ sth. with a letter 随信附上某物
+surround|v.|包围；环绕|They have surrounded the town with troops
+enclose|v.|围住；包围；把...封入信封；随信附上|The writer's house is enclosed by a wall|~ sth. with a letter 随信附上某物
 ---
-pause|n./v.|暂停，停顿
+pause|n./v.|暂停，停顿|After she ran up the hill, she paused for a minute to rest
 halt|v./n.|（使）停止/停止|The cab rolled to a halt before the hotel 计程车缓缓地停在了酒店前|halter n. 🐴的缰绳。halt the advance of history 阻挡历史的前进
 cease|v.|终止；停止|At last, they ceased working for lack of capital 他们最终由于缺乏资金停工了|~ fire 停火
 ---
-oppose|v.|反对，抵制
-oppress|v.|压迫；压制；使压抑||oppressive adj. 压制的，压迫的
-counter|v./adv./n.|抵消；反击；反驳/相反的/柜台；工作台
+oppose|v.|反对，抵制|The employees opposed their company's new policies
+oppress|v.|压迫；压制；使压抑|The king oppressed his people with terrible taxes and punishments|oppressive adj. 压制的，压迫的
+counter|v./adv./n.|抵消；反击；反驳/相反的/柜台；工作台|My colleague countered my proposal with one of his own
 ---
-deter|v.|阻止；威慑住
-forbid|v.|禁止；阻止
-prohibit|v.|禁止；不允许
-prevent|v.|预防，防止；阻止，阻碍
+deter|v.|阻止；威慑住|The security camera was installed to deter people from stealing
+forbid|v.|禁止；阻止|Lack of time forbids any further discussion on this issue
+prohibit|v.|禁止；不允许|Smoking is strictly prohibited in the process of handling explosive materials
+prevent|v.|预防，防止；阻止，阻碍|Scientists are trying to find ways to prevent the disease from spreading
 ---
 revolt|n./v.|叛乱；反抗|Autocracy often causes the people to revolt 独裁统治常常引起人民的反抗|revoltive adj. 厌恶的，反感的。rise in revolt 发生叛乱
-betray|v.|背叛；出卖；（无意中）泄露；流露出||betrayal n. 背叛，出卖
-treason|n.|叛国罪；通敌罪
+betray|v.|背叛；出卖；（无意中）泄露；流露出|They have promised never to betray the organization|betrayal n. 背叛，出卖
+treason|n.|叛国罪；通敌罪|They have committed treason against the state
 ---
-rebel|n./v.|反叛者；叛逆者/造反；反抗；反对
-traitor|n.|叛徒，卖国贼
-patriot|n.|爱国者
+rebel|n./v.|反叛者；叛逆者/造反；反抗；反对|The rebels made regular attacks on the railways
+traitor|n.|叛徒，卖国贼|He stuck a knife into the traitor's heart
+patriot|n.|爱国者|A true patriot will never betray his country
 ---
-blame|v./n.|责备，指责/（对坏事应负的）责任
+blame|v./n.|责备，指责/（对坏事应负的）责任|Bad workmen often blame their tools
 reproach|n./v.|责备；指责|His manners are beyond reproach 他的举止无可指摘|bring reproach on oneself 让自己丢脸
-evidence|n.|证据；根据
-proof|n.|证明，证据
+evidence|n.|证据；根据|Can you show me any evidence for your statement?
+proof|n.|证明，证据|Have you got any proof that you own his handbag?
 ---
-terror|n.|恐惧；恐慌||terrorist n. 恐怖分子。in terror 惊慌地
-terrible|adj.|可怕的；糟糕的；极严重的
-terrific|adj.|极好的；很大的；很强的
-horrible|adj.|可怕的；恐怖的
+terror|n.|恐惧；恐慌|His terror is so intense that he can't do anything|terrorist n. 恐怖分子。in terror 惊慌地
+terrible|adj.|可怕的；糟糕的；极严重的|The earthquake was a terrible catastrophe
+terrific|adj.|极好的；很大的；很强的|The ceiling came down with a terrific crash
+horrible|adj.|可怕的；恐怖的|There was a horrible accident here yesterday
 ---
-alarm|n.|惊恐；犹豫；报警；报警器
+alarm|n.|惊恐；犹豫；报警；报警器|The instant they heard the alarm, they fell in for action
 dread|v./n.|极为害怕；非常担心/恐惧忧愁|I dread to think what will happen if she finds out the truth|dreadful adj. 可怕的，糟透的
-frighten|v.|使害怕；使惊恐
+frighten|v.|使害怕；使惊恐|He frightened the old man into giving him all the money
 ---
 tension|n.|紧张；拉紧状态|Tension mounted as we waited for the exam results to be published 在我们等待公布考试成绩时，气氛越来越紧张|tense adj. 绷紧的；紧张的。ease the tension 缓和紧张局势
-turbulent|adj.|动荡的；混乱的；汹涌的||turbulence n. 动荡；骚乱。a turbulent period 动荡时期
+turbulent|adj.|动荡的；混乱的；汹涌的|The sea was to turbulent for us to set sail|turbulence n. 动荡；骚乱。a turbulent period 动荡时期
 turmoil|n.|混乱，骚乱|The demostration turned into turmoil 示威演变成了骚乱
-scenario|n.|可能发生的情况；剧情梗概；脚本
+scenario|n.|可能发生的情况；剧情梗概；脚本|Imagine a scenario where only 20 percent of people have a job
 occasion|n.|场合；时机；机会|A wedding is a very happy occasion|occasionally adv. 偶尔；时而。on occasion 有时；不时
 ---
-limit|n./v.|限度；界限/限制，限定
-boundary|n.|分界线，边界；界限
+limit|n./v.|限度；界限/限制，限定|I'll help as much as I can, but there is a limit to what I can do
+boundary|n.|分界线，边界；界限|The river is the boundary between the two countries
 rein|n./v.|缰绳；控制权/用缰绳勒马；管束|The hourse responds to the slightest pull on the rein|give free rein to 放任，对...不加约束
 ---
-compete|v.|竞争；参加（比赛）
-contest|v./n.|争取赢得；争辩/竞争；比赛||contestant n. 参赛者。a contest with 与...的竞争
-contend|v.|竞争；争辩；主张
+compete|v.|竞争；参加（比赛）|Our products must be able to compete in marketplace
+contest|v./n.|争取赢得；争辩/竞争；比赛|If the election is one-sided, it is really no contest|contestant n. 参赛者。a contest with 与...的竞争
+contend|v.|竞争；争辩；主张|He contended that it was not his fault
 ---
 rival|n./v.|竞争者；对手/与...匹敌||rivalry n. 竞争，敌对状态
 competitor|n.|竞争者；对手
