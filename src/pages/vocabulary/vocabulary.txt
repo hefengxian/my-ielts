@@ -3473,77 +3473,77 @@ compete|v.|竞争；参加（比赛）|Our products must be able to compete in m
 contest|v./n.|争取赢得；争辩/竞争；比赛|If the election is one-sided, it is really no contest|contestant n. 参赛者。a contest with 与...的竞争
 contend|v.|竞争；争辩；主张|He contended that it was not his fault
 ---
-rival|n./v.|竞争者；对手/与...匹敌||rivalry n. 竞争，敌对状态
-competitor|n.|竞争者；对手
-enemy|n.|敌人；仇敌；敌军
+rival|n./v.|竞争者；对手/与...匹敌|She and I are rivals for the swimming prize|rivalry n. 竞争，敌对状态
+competitor|n.|竞争者；对手|That company is a strong competitor of us
+enemy|n.|敌人；仇敌；敌军|Disease is an enemy of mankind
 ---
-strategy|n.|策略；战略
-tactic|n.|策略，战术
+strategy|n.|策略；战略|Maozedong was a great strategist and skilled in developing military strategies
+tactic|n.|策略，战术|Reducing prices is a common sales tactic
 maneuver/manoeuvre|n.|策略；技巧；[~s]军事演习|The army is doing maneuvers at sea
-blueprint|n.|蓝图；行动计划
+blueprint|n.|蓝图；行动计划|The construction of a concert hall is still in the blueprint stage
 ---
-warn|v.|警告；告诫
-compel|v.|强迫；迫使
-oblige|v.|迫使；强迫；帮忙|The law obliges parent to send their children to school|obligation n. 义务；责任
+warn|v.|警告；告诫|They warned her that if she did it again, she would be sent to prison
+compel|v.|强迫；迫使|I was compelled to find a part-time job because I needed money
+oblige|v.|迫使；强迫；帮忙|The law obliges parents to send their children to school|obligation n. 义务；责任
 ---
-order|n./v.|次序；整齐/命令
-protest|n./v.|抗议；申明/抗议；申辩
+order|n./v.|次序；整齐/命令|Some teachers find it difficult to keep order in class
+protest|n./v.|抗议；申明/抗议；申辩|The diners protested about the bad service at the restaurant
 refute|v.|反驳；驳斥；否认|He had hardly finished when someone rose to refute his points 他还没有说完，就有人起来驳斥他的观点|refute sb.'s argument/claim 驳斥某人的论点/说法
 ---
-might|n.|力量，威力
-force|n./v.|力量；武力/强迫；迫使
-reinforce|v.|增援；增强；加强；加固
+might|n.|力量，威力|We fear the military might of the enemy
+force|n./v.|力量；武力/强迫；迫使|We'll settle the problem by force if necessary
+reinforce|v.|增援；增强；加强；加固|If concrete has steel bars inside it, it is known as reinforced concrete
 ---
 impair|v.|削弱；妨碍|If a witness is allowed to withhold information, it impairs the legal process 如果允许证人知情不报，会妨碍法律程序
 mitigate|v.|减轻；缓和|Nothing could mitigate the cruelty with which she had treated him 她对他太残暴了，没有什么能为她开脱|mitigation n. 缓和；减轻
-comfort|n./v.|安慰；舒适/缓和抚慰
+comfort|n./v.|安慰；舒适/缓和抚慰|A father is a treasure, a brother is a comfort, but a friend is both
 ---
-event|n.|事件；大事；公开活动
-matter|n./v.|事情；物质/要紧||as a matter of fact 事实上
-happen|v.|发生；出现；碰巧
-occur|v.|发生，出现||occurrence n. 发生，出现，发生的事情
+event|n.|事件；大事；公开活动|There will be a fundraising event in the library tomorrow
+matter|n./v.|事情；物质/要紧|He reconsidered his decision on the matter because something unexpected happened|as a matter of fact 事实上
+happen|v.|发生；出现；碰巧|It is important to anticipate when it will happen
+occur|v.|发生，出现|The accident occurred at six o'clock in the morning|occurrence n. 发生，出现，发生的事情
 ---
-savage|adj./v./n.|野蛮的；凶狠的/凶狠的攻击/野蛮人
+savage|adj./v./n.|野蛮的；凶狠的/凶狠的攻击/野蛮人|Elephants are tame most of the time, but they can be very savage
 reckless|adj.|鲁莽的；不计后果的|He is very reckless when he is drunk|recklessness n. 不顾后果，鲁莽。be reckless of 不注意
 fierce|adj.|凶猛的；猛烈的；（天气或温度）恶劣的|They launched a fierce attack against the enemy position 他们向敌人的阵地发起了猛烈的进攻
 ---
 foul|adj./v.|恶臭的；恶劣的；邪恶的/弄脏；对...犯规|The foul weather spoiled our vacation 恶劣的天气毁了我们的假期|a foul deed 邪恶的行为
-evil|n./adj.|邪恶；祸害/邪恶的
-devil|n.|魔鬼；恶棍
+evil|n./adj.|邪恶；祸害/邪恶的|Money is thought to be the root cause of all evil
+devil|n.|魔鬼；恶棍|That enemy officer is the devil incarnate 他是魔鬼的化身
 ---
-punishment|n.|惩罚；处罚
-execute|v.|实行，执行；处死
-hang|n.|悬挂；悬浮；（被）绞死||hang oneself 自缢
+punishment|n.|惩罚；处罚|Punishment had very little effect on him
+execute|v.|实行，执行；处死|We can execute the big volume of orders in 20 days
+hang|n.|悬挂；悬浮；（被）绞死|He was hanged for murder|hang oneself 自缢
 ---
-sacrifice|n./v.|牺牲；献祭/牺牲；以...为祭品
-casualty|n.|伤亡人员
-bury|v.|埋葬
-funeral|n.|葬礼
+sacrifice|n./v.|牺牲；献祭/牺牲；以...为祭品|I would never dream of asking you to make such a sacrifice
+casualty|n.|伤亡人员|In the Iran-Iraq war, both sides incurred heavy casualties
+bury|v.|埋葬|He felt lonely after he buried his good friend
+funeral|n.|葬礼|Funeral customs vary with different religions
 ---
-grave|n./adj.|坟墓；死亡/庄重的；严肃的
-tomb|n.|坟墓；塚
-hell|n.|地狱；苦境
+grave|n./adj.|坟墓；死亡/庄重的；严肃的|The lady's grave is made of granite
+tomb|n.|坟墓；塚|Many things left by the ancient people in tombs haven't been brought to light
+hell|n.|地狱；苦境|The priest said they would go to hell for their sins
 ---
 maritime|adj.|海的，海上的，海事的|That maritime peril happened at night|maritime court 海事法庭
-naval|adj.|海军的||navy n. 海军
-fleet|n.|舰队，船队；机群，车队
+naval|adj.|海军的|He took part in a great naval battle|navy n. 海军
+fleet|n.|舰队，船队；机群，车队|The general ordered the fleet to remain where they were and wait for further instructions
 ---
-troop|n./v.|一群，一对；[~s]军队/结队前行
-landing|n.|着陆；登陆
-hover|v.|盘旋，悬浮；徘徊；处于不确定状态
-proceed|v.|接下来做；继续进行；行进
-progress|n./v.|前进；进步；进程/前进；进步
+troop|n./v.|一群，一对；[~s]军队/结队前行|The troops made good their retreat from the occupied city
+landing|n.|着陆；登陆|The plane circled over the airport before landing
+hover|v.|盘旋，悬浮；徘徊；处于不确定状态|The helicopter is hovering over the cloud
+proceed|v.|接下来做；继续进行；行进|The conference proceeded in a very friendly atmosphere
+progress|n./v.|前进；进步；进程/前进；进步|The building of the largest bridge across a river in that country is in progress
 ---
-military|adj.|军事的，军用的
-nuclear|adj.|原子核的；核能的；核武器的
-poison|n./v.|毒物，毒药/毒害
+military|adj.|军事的，军用的|According to the constitution of the country, all the young men should do a year's military service
+nuclear|adj.|原子核的；核能的；核武器的|Nowadays, more and more people prefer a nuclear family to a standard family
+poison|n./v.|毒物，毒药/毒害|Spiritual rubbish can poison the children's pure minds
 devastate|v.|毁坏，摧毁|They intended to devastate the town at a stroke|devastation n. （尤指大面积）破坏。devastating adj. 毁灭性的
 ---
-risk|n./v.|危险，风险/冒着...的危险
-adventure|n./v.|冒险，冒险尽量/去（某地）探险
+risk|n./v.|危险，风险/冒着...的危险|If you don't warm up before taking exercise, you risk injuring yourself
+adventure|n./v.|冒险，冒险尽量/去（某地）探险|All the children were listening to her adventures with eager attention
 peril|n.|重大危险，险情，危险|Preparedness averts peril|avert v. 防止，避免。at one's (own) peril 自担风险
-catastrophe|n.|重大灾难，大祸
-collapse|n./v.|倒塌，崩溃
+catastrophe|n.|重大灾难，大祸|Their party turned out to be a catastrophe
+collapse|n./v.|倒塌，崩溃|The man lost all his money in the collapse of the stock market 
 ---
 torture|n./v.|拷问，痛苦，折磨/拷问，使痛苦
 humiliate|v.|羞辱；使蒙羞
