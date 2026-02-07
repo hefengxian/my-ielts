@@ -3545,63 +3545,63 @@ peril|n.|重大危险，险情，危险|Preparedness averts peril|avert v. 防�
 catastrophe|n.|重大灾难，大祸|Their party turned out to be a catastrophe
 collapse|n./v.|倒塌，崩溃|The man lost all his money in the collapse of the stock market 
 ---
-torture|n./v.|拷问，痛苦，折磨/拷问，使痛苦
-humiliate|v.|羞辱；使蒙羞
-damage|n./v.|损害；伤害
-harmful|adj.|有害的
+torture|n./v.|拷问，痛苦，折磨/拷问，使痛苦|She suffered the torture of toothache
+humiliate|v.|羞辱；使蒙羞|The team was humiliated in the recent game
+damage|n./v.|损害；伤害|An earthquake sometimes causes extensive damage to a town
+harmful|adj.|有害的|A freezing winter is harmful to orange trees
 ---
-mislead|v.|误导，欺骗，使误入歧途
-disturb|v.|打扰，使焦虑，弄乱
-interfere|v.|干涉；妨碍
-interrupt|v.|打断；中断
+mislead|v.|误导，欺骗，使误入歧途|A description about a product should not mislead the consumers
+disturb|v.|打扰，使焦虑，弄乱|A soft breeze gently disturbed the surface of the pool
+interfere|v.|干涉；妨碍|Don't allow pleasure to interfere with duty
+interrupt|v.|打断；中断|Execuse me, I wonder if I could interrupt you
 ---
-retreat|n./v.|撤退；退避
-shrink|v.|退缩；缩水；（使）减少
-withdraw|v.|回收；（使）撤退；提（款）
+retreat|n./v.|撤退；退避|He immediately sounded a retreat
+shrink|v.|退缩；缩水；（使）减少|The dress shrank when I washed it
+withdraw|v.|回收；（使）撤退；提（款）|She withdrew all her savings from the bank
 withstand|v.|承受；顶住；经受住|The bridge is built to withstand an earthquake of 8.0 magnitude 这座桥可以经受 8 级地震|magnitude n. 巨大；重大；重要性。~ severe tests 经得住严峻的考验
 ---
-compromise|v.|妥协
-surrender|n./v.|投降；（被迫）放弃
-escape|n./v.|逃跑；逃脱；逃避
-avoid|v.|避免；躲开
+compromise|v.|妥协|They cannot compromise with the terrorists on such terms
+surrender|n./v.|投降；（被迫）放弃|Thousands of illegal immigrants have surrendered to police
+escape|n./v.|逃跑；逃脱；逃避|To my suprise, he managed to escape from that big fire
+avoid|v.|避免；躲开|He'll look for any excuse to avoid doing the dishes
 ---
-quit|v.|放弃，停止；辞去，离开
-abandon|v.|放弃，抛弃，丢弃
-forgo/forego|v.|放弃
-discard|v.|丢弃，抛弃
-rid|adj.|[get ~ of]摆脱，丢弃
+quit|v.|放弃，停止；辞去，离开|She has not quit smoking, but is holding down to three cigarettes a day
+abandon|v.|放弃，抛弃，丢弃|Do not abandon yourself to despair
+forgo/forego|v.|放弃|We'll have to forgo our rest hour to gather in the wheat before the storm begins
+discard|v.|丢弃，抛弃|Outdated theory should be discarded
+rid|adj.|[get ~ of]摆脱，丢弃|If you get rid of the water, you get rid of the mosquitoes
 ---
-defend|v.|防御，保护；为...辩护||defendant n. 被告
-safeguard|v./n.|保护，保卫/保护措施
-defeat|v./n.|战胜，击败/失败
-resist|v.|抵制，反对；抵御，忍住
-capture|n./v.|战利品/捕获，夺得
+defend|v.|防御，保护；为...辩护|She demonstrated the best way to defend oneself|defendant n. 被告
+safeguard|v./n.|保护，保卫/保护措施|To safeguard the peace is one of the most important tasks of the army
+defeat|v./n.|战胜，击败/失败|They were defeated in the football match
+resist|v.|抵制，反对；抵御，忍住|She could hardly resist laughing
+capture|n./v.|战利品/捕获，夺得|The fraudster was captured when trying to escape from the city
 ---
-victory|n.|胜利，成功||victorious adj. 胜利的，得胜的
-triumph|n./v.|伟大胜利，非凡的成功/获得胜利
-conquer|v.|征服，客服，战胜
+victory|n.|胜利，成功|The school football team has had three victories this month against other schools|victorious adj. 胜利的，得胜的
+triumph|n./v.|伟大胜利，非凡的成功/获得胜利|It was a great triumph when our team won the race
+conquer|v.|征服，克服，战胜|To conquer or to die
 ---
-monument|n.|纪念碑，历史古迹，典范
-tablet|n.|碑，匾，药片
-statue|n.|雕像，塑像
-medal|n.|勋章，奖章
+monument|n.|纪念碑，历史古迹，典范|This work is one of the great monuments of French literature
+tablet|n.|碑，匾，药片|The doctor told him to take two tablets before every meal
+statue|n.|雕像，塑像|The statue of liberty was presented to the United States of America in the 19th century by the people from France
+medal|n.|勋章，奖章|It was an unbelievable moment when Victoria won the gold medal
 ---
-honor/honour|n./v.|尊敬，敬意，冗余/尊敬，给予表扬
-glorious|adj.|光荣的，荣耀的||glory n. 光荣，荣耀
-contribute|v.|捐献，做贡献，撰稿
-devote|v.|献身，投入
-owe|v.|欠；应把...归功于；欠，感激
+honor/honour|n./v.|尊敬，敬意，冗余/尊敬，给予表扬|He's won an academy award and a host of other honors
+glorious|adj.|光荣的，荣耀的|Our country has a glorious past|glory n. 光荣，荣耀
+contribute|v.|捐献，做贡献，撰稿|She seldom contributes to the discussion
+devote|v.|献身，投入|After she graduated, she continuted to devote herself to research
+owe|v.|欠；应把...归功于；欠，感激|I owe a lot to my wife and children
 ---
-patrol|n./v.|巡逻，巡查
-guard|n./v.|卫兵，警卫员/看守，守卫，保卫
-camouflage|v./n.|伪装||protection camouflage 防护伪装
-obstacle|n.|障碍；障碍物
+patrol|n./v.|巡逻，巡查|Every hour, a policeman patrolled our street
+guard|n./v.|卫兵，警卫员/看守，守卫，保卫|The dog guarded the house against strangers
+camouflage|v./n.|伪装|Many animals have natural camouflage, which hides them from the preditors|protection camouflage 防护伪装
+obstacle|n.|障碍；障碍物|Her father's disapproval remains their obstacle
 burrow|n./v.|地洞，地道/掘地洞|The prairie dog stores food in its burrow|prairie dog 草原犬鼠
 ---
-spy|n./v.|间谍，特务/收集情报，从事间谍活动
-scout|n./v.|侦查员，侦察机/侦查，搜寻
-general|n./adj.|将军/总的，一般性的
-soldier|n.|战士，士兵
+spy|n./v.|间谍，特务/收集情报，从事间谍活动|She hired a detective to spy on her husband
+scout|n./v.|侦查员，侦察机/侦查，搜寻|The scout was searching through the woods
+general|n./adj.|将军/总的，一般性的|As a general rule, prices follow demands
+soldier|n.|战士，士兵|The soldier received a serious wound on the chest
 veteran|n.|老兵，老手|The baseball veteran loved to coach young players
 ===
 社会角色
