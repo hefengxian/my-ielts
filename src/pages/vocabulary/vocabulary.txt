@@ -3343,7 +3343,7 @@ battle|n./v.|战斗，战役/与...战斗|Life is a battle from cradle to grave
 struggle|v./n.|挣扎；奋力；奋斗|His father struggled to control his temper
 ---
 explosion|n.|爆发；迸发；爆炸；激增|The explosion was caused by a burst gas pipe
-bombard|v.|轰击，轰炸；连珠炮般指纹（或批评）|The speaker was bombarded with questions
+bombard|v.|轰击，轰炸；连珠炮般质问（或批评）|The speaker was bombarded with questions
 bomb|n./v.|炸弹/轰炸|The terrorist planted a bomb in the post office
 ---
 blast|n./v.|爆炸/爆炸，炸毁|It's thought that the blast occurred when volatile chemicals exploded.|volatile adj. 不稳定的；易变的；易怒的，喜怒无常的；（液体或固体）易挥发的，易气化的
@@ -3606,47 +3606,47 @@ veteran|n.|老兵，老手|The baseball veteran loved to coach young players
 ===
 社会角色
 +++
-pioneer|n.|先驱，开创者
-prophet|n.|先知；预言家
-herald|n./v.|使者，传令官，先驱；预兆/预告；宣布
-heir|n.|后嗣；继承人
-successor|n.|接替者；继任者；后继的事物
+pioneer|n.|先驱，开创者|Napoleon was a pioneer and a symbol
+prophet|n.|先知；预言家|A prophet made a prophecy that the tyrant would be killed by a young man
+herald|n./v.|使者，传令官，先驱；预兆/预告；宣布|Early green birds are heralds of spring
+heir|n.|后嗣；继承人|In the UK, it is customary for the next heir to the throne to be regent
+successor|n.|接替者；继任者；后继的事物|He is the successor to the throne
 ---
-generation|n.|一代，一代人
-surname|n./v.|姓/给...起别名
-gender|n.|性别
-sex|n.|性别 ；性行为
-female|n./adj.|女子 ；雌性生物/女的；雌性的
+generation|n.|一代，一代人|A mother and her daughters represent two generations
+surname|n./v.|姓/给...起别名|To make a nickname from someone's surname can sometimes be bad
+gender|n.|性别|Please fill in your name, address, age and gender
+sex|n.|性别 ；性行为|What sex is your cat
+female|n./adj.|女子 ；雌性生物/女的；雌性的|We've got three cats, two females and a male
 ---
-couple|n.|夫妻 ，情侣；两个；几个
-spouse|n.|配偶（指夫或妻）
-husband|n.|丈夫
-gay|n./adj.|同性恋者（尤指男性）/同性恋的；快乐的；艳丽的
+couple|n.|夫妻 ，情侣；两个；几个|I waited a couple of hours
+spouse|n.|配偶（指夫或妻）|They get free tickets for their spouses
+husband|n.|丈夫|He is a model husband and father
+gay|n./adj.|同性恋者（尤指男性）/同性恋的；快乐的；艳丽的|The children were all gay at the thought of the coming holidays
 ---
-grandfather|n.|（外）祖父
-father-in-law|n.|岳父，公公
-sibling|n.|兄，弟，姐，妹
+grandfather|n.|（外）祖父|The kid was named after his grandfather
+father-in-law|n.|岳父，公公|He has paid a formal visit to his father-in-law
+sibling|n.|兄，弟，姐，妹|Some young smokers are influenced by their sibling's smoking habit
 ---
-cousin|n.|堂（或表）兄（或弟、姐、妹）
-nephew|n.|侄子；外甥
-niece|n.|侄女；外甥女
-twin|adj./n.|成双的/双胞胎之一
+cousin|n.|堂（或表）兄（或弟、姐、妹）|For our first anniversary, he's taking me to his cousin's cabi
+nephew|n.|侄子；外甥|I'm going to have a nephew soon
+niece|n.|侄女；外甥女|My niece drew a picture of my family when she was four
+twin|adj./n.|成双的/双胞胎之一|You should know that this plan has a twin purpose
 ---
-embryo|n./adj.|胚胎/胚胎的，初期的
-infant|n./adj.|供婴儿用的；婴儿的
-orphan|n./v.|孤儿/使成为孤儿
+embryo|n./adj.|胚胎/胚胎的，初期的|Our plans are still in embryo
+infant|n./adj.|供婴儿用的；婴儿的|The infant mortality rate is highly sensitive barometer of social-economic conditions
+orphan|n./v.|孤儿/使成为孤儿|The three children were orphaned when their parents died in the plane crash
 ---
-juvenile|adj./n.|少年的/少年
-youngster|n.|年轻人；少年
-youth|n.|青年时期；青春；青年
+juvenile|adj./n.|少年的/少年|The problem of juvenile delinquency calls for the attention of the whole society
+youngster|n.|年轻人；少年|These youngsters yarn for an adventure in the wild
+youth|n.|青年时期；青春；青年|We shouldn't blame youth crime simply on unemployment
 ---
-gang|n.|一帮，一伙（常聚在一起闹事、打斗的年轻人）
-teenager|n.|（13 至 19 岁之间的）青少年
-adolescence|n.|青春期||reach one's adolescence
+gang|n.|一帮，一伙（常聚在一起闹事、打斗的年轻人）|Have you seen any of the gang lately?
+teenager|n.|（13 至 19 岁之间的）青少年|The survey shows that four out of five teenagers in this area have experimented with illegal drugs
+adolescence|n.|青春期|His adolescence was not a happy time for him|reach one's adolescence
 ---
-kin|n./adj.|（统称）家属，亲戚/有血缘关系的；类似的
-folk|n.|人们；[~s]家属，亲属
-relative|n./adj.|相对的；有关的
+kin|n./adj.|（统称）家属，亲戚/有血缘关系的；类似的|All his kin were at the wedding
+folk|n.|人们；[~s]家属，亲属|You're on the list of folds I'm indebted to
+relative|n./adj.|相对的；有关的|We do not abandon our relatives when times get tough
 ---
 intimate|adj./n.|亲密的；个人隐私的/密友，至交
 dear|adj./int.|亲爱的/啊呀
