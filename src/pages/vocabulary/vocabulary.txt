@@ -3648,69 +3648,69 @@ kin|n./adj.|（统称）家属，亲戚/有血缘关系的；类似的|All his k
 folk|n.|人们；[~s]家属，亲属|You're on the list of folds I'm indebted to
 relative|n./adj.|相对的；有关的|We do not abandon our relatives when times get tough
 ---
-intimate|adj./n.|亲密的；个人隐私的/密友，至交
-dear|adj./int.|亲爱的/啊呀
-darling|n.|亲爱的；宠儿
-lover|n.|爱好者；（婚外的）情人
-beloved|n./adj.|爱人/深受喜爱的
+intimate|adj./n.|亲密的；个人隐私的/密友，至交|Do you believe these two intimates friends used to be mutual sworn enemies?
+dear|adj./int.|亲爱的/啊呀|Dear John, thanks for asking me to help you with the class trip
+darling|n.|亲爱的；宠儿|Oh darling, I couldn't be more pleased for you
+lover|n.|爱好者；（婚外的）情人|He and his wife are both great lovers of drama
+beloved|n./adj.|爱人/深受喜爱的|This safari park is beloved by tourists from all parts of the globe
 ---
-madam|n.|夫人；女士；[英]自以为是的小姑娘
-hostess|n.|女主人
-landlady|n.|女房东；女地主
-mistress|n.|女主人；情妇
-housewife|n.|家庭主妇
+madam|n.|夫人；女士；[英]自以为是的小姑娘|That poor madam has lost all contact with reality
+hostess|n.|女主人|It's polite to bring flowers, chocolates or a bottle of wine to the hostess
+landlady|n.|女房东；女地主|The landlady has prepared some coffee for us
+mistress|n.|女主人；情妇|Our wife is duty; our mistress is honor
+housewife|n.|家庭主妇|The cleverest housewife can't cook a meal without rice
 ---
-widow|n.|寡妇，遗孀
-maid|n.|女佣，女仆，少女
-maiden|n.|少女，姑娘
+widow|n.|寡妇，遗孀|He left a widow and children totally unprovided for
+maid|n.|女佣，女仆，少女|Those people looked at me like I was just a maid
+maiden|n.|少女，姑娘|She was a tender, watchful maiden
 ---
-household|n.|家庭，一户，家务
-chore|n.|家庭杂物；乏味无聊的工作
-host|n.|主人，东道主
+household|n.|家庭，一户，家务|The appliance of electricity to household makes the housework much easier
+chore|n.|家庭杂物；乏味无聊的工作|It's such a chore to do the shopping everyday
+host|n.|主人，东道主|Do not bring alcoholic beverages in case your host or hostess doesn't drink alcohol
 ---
-landlord|n.|地主；房东；（酒吧）店主
-tenant|n.|客房；租户
-guest|n.|客人，宾客，旅客
-customer|n.|顾客，主顾，客户
-client|n.|顾客；客户；委托人
+landlord|n.|地主；房东；（酒吧）店主|He is the landlord of this house
+tenant|n.|客房；租户|He threatened to take the tenant to court or to have the tenant evicted
+guest|n.|客人，宾客，旅客|The guest who arrives half an hour earlier is the greatest nuisance
+customer|n.|顾客，主顾，客户|If that doesn't work, ask them if they really think customer is King
+client|n.|顾客；客户；委托人|He proves to be a successful lawyer with lots of clients
 ---
-encounter|v./n.|遭遇；偶遇；邂逅
-chase|v./n.|追逐；追求
-miss|v.|想念；未注意到
+encounter|v./n.|遭遇；偶遇；邂逅|The more dangerous we encounter, the harder should we push forward
+chase|v./n.|追逐；追求|Please chased the speeding car 
+miss|v.|想念；未注意到|The woman missed her baby dreadfully
 ---
-appointment|n.|约会；指派
-accompany|v.|陪伴；伴随
-dependent|adj.|依靠的；依赖的
+appointment|n.|约会；指派|I made an appointment to see the doctor
+accompany|v.|陪伴；伴随|She accompanied me to the doctors
+dependent|adj.|依靠的；依赖的|She was unemployed for several years and almost totally dependent on welfare to survive
 ---
-propose|v.|提议；向...求婚
-engagement|n.|婚约；约定
-marry|v.|娶，嫁，结婚
+propose|v.|提议；向...求婚|They proposed that a new school should be set up in the suburbs
+engagement|n.|婚约；约定|My younger brother has just told me about his engagement to Anne
+marry|v.|娶，嫁，结婚|It is easier to marry than to divorce
 ---
-wedding|n.|婚礼
-honeymoon|n.|蜜月
-kiss|v./n.|吻，接吻/吻
+wedding|n.|婚礼|They went out to a fancy restaurant to celebrate their wedding anniversary
+honeymoon|n.|蜜月|While on honeymoon in Bali, she learned to surf
+kiss|v./n.|吻，接吻/吻|The singer blew a kiss to the audience
 ---
-divorce|n./v.|离婚；脱离/（与...）离婚；使脱离
-separate|adj./v.|分开的，单独的/（使）分开；分局
-single|adj.|单一的；单身的
-sole|adj.|仅有的；唯一的
+divorce|n./v.|离婚；脱离/（与...）离婚；使脱离|Never be divorced from real life
+separate|adj./v.|分开的，单独的/（使）分开；分局|The children sleep in separate beds
+single|adj.|单一的；单身的|Not a single detail can escape his notice
+sole|adj.|仅有的；唯一的|My sole aim was to discover what had happened during that period
 ---
-respective|adj.|各自的；分别的
-each|pron./det.|各个，各自
-individual|n./adj.|个人；个体/个别的，单独的
+respective|adj.|各自的；分别的|We went back to school and visited our respective teachers
+each|pron./det.|各个，各自|They each have their own dream
+individual|n./adj.|个人；个体/个别的，单独的|The rights of the individual are considered to be very important
 ---
-commuter|n.|上下班，往返者
-neighborhood/neighbourhood|n.|街坊；居住区；周边地区
-member|n.|成员；会员
+commuter|n.|上下班，往返者|The train was packed with sweaty complaining commuters
+neighborhood/neighbourhood|n.|街坊；居住区；周边地区|She was reluctant to leave the neighborhood of Paris
+member|n.|成员；会员|Yesterday, there was a meeting between OPEC member Saudi Arabia and non-member Russia
 ---
-boss|n./v.|老板，上司/对...指手画脚
-manager|n.|经理，管理人
-supervisor|n.|管理者，监督者
-subordinate|n./adj.|部署，下级/次要的；下级的
+boss|n./v.|老板，上司/对...指手画脚|The boss always makes them work overtime without pay
+manager|n.|经理，管理人|She has been promoted to a middle manager
+supervisor|n.|管理者，监督者|This special supervisor inspected this examination
+subordinate|n./adj.|部署，下级/次要的；下级的|The minority is subordinate to the majority
 ---
-partner|n.|伙伴，盟友；合伙人；搭档
-mate|n.|伙伴；[构成复合词]同伴
-colleague|n.|同事；同僚
+partner|n.|伙伴，盟友；合伙人；搭档|He was considered as a partner in the crime
+mate|n.|伙伴；[构成复合词]同伴|The people we work with are called workmates and our friends at school are called classmates
+colleague|n.|同事；同僚|He is getting along well with his colleagues
 ---
 comrade|n.|同志；（尤指共患难的）同伴
 acquaintance|n.|相识之人，泛泛之交；认识；了解
