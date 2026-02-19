@@ -242,7 +242,7 @@ dramatic|adj.|戏剧的；引人入胜的|She made a dramatic speech at the meet
 ---
 wilderness|n.|荒野|From his attic window, he looked out over a beautiful wildernes|wild adj. 野生的；荒芜的。 attic 阁楼；顶楼
 desert|n./v.|/ˈdez.ət/ 沙漠/ /dɪˈzɜːt/遗弃|The baby's mother deserted him soon after giving birth|a cultural desert 文化沙漠
-deforest|v.|毁掉...深林|The land is severely eroded as a result of widespread deforesting and intensive farming|deforestation n. 毁林，滥伐深林
+deforest|v.|毁掉...森林|The land is severely eroded as a result of widespread deforesting and intensive farming|deforestation n. 毁林，滥伐森林
 ---
 barren|adj.|贫瘠的；荒芜的；不结果实的|That remote barren land has blossomed into rich granaries|granary n. 谷仓；粮仓
 fertile|adj.|富饶的；肥沃的|There's enough to ransform barrel coral atolls into fertile groves
@@ -3543,7 +3543,7 @@ risk|n./v.|危险，风险/冒着...的危险|If you don't warm up before taking
 adventure|n./v.|冒险，冒险尽量/去（某地）探险|All the children were listening to her adventures with eager attention
 peril|n.|重大危险，险情，危险|Preparedness averts peril|avert v. 防止，避免。at one's (own) peril 自担风险
 catastrophe|n.|重大灾难，大祸|Their party turned out to be a catastrophe
-collapse|n./v.|倒塌，崩溃|The man lost all his money in the collapse of the stock market 
+collapse|n./v.|倒塌，崩溃|The man lost all his money in the collapse of the stock market
 ---
 torture|n./v.|拷问，痛苦，折磨/拷问，使痛苦|She suffered the torture of toothache
 humiliate|v.|羞辱；使蒙羞|The team was humiliated in the recent game
