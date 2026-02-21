@@ -3712,54 +3712,54 @@ partner|n.|伙伴，盟友；合伙人；搭档|He was considered as a partner i
 mate|n.|伙伴；[构成复合词]同伴|The people we work with are called workmates and our friends at school are called classmates
 colleague|n.|同事；同僚|He is getting along well with his colleagues
 ---
-comrade|n.|同志；（尤指共患难的）同伴
-acquaintance|n.|相识之人，泛泛之交；认识；了解
-friendship|n.|友谊；有情；友好
-affection|n.|喜爱，喜欢；[~s]爱情
+comrade|n.|同志；（尤指共患难的）同伴|The medic saved a comrade's life and helped evacuate many other wounded soldiers
+acquaintance|n.|相识之人，泛泛之交；认识；了解|I have some acquaintance with French but don't speak it well
+friendship|n.|友谊；有情；友好|No one can wreck the friendship between them
+affection|n.|喜爱，喜欢；[~s]爱情|I can not believe that you are unaware of my growing affection for you
 ---
-stranger|n.|陌生人；新来者
-apprentice|n./v.|学徒，徒弟/使当...的学徒
-deputy|n.|代理人，副手
+stranger|n.|陌生人；新来者|The region is no stranger to armed conflict
+apprentice|n./v.|学徒，徒弟/使当...的学徒|His father apprenticed him to a barber
+deputy|n.|代理人，副手|John will be my deputy while I'm away
 ---
-hero|n.|男主角；男主；英雄；勇士
-heroine|n.|女主角；女主；女英雄||heroin n. 毒品海洛因（这里没有 e）
-actress|n.|女演员
+hero|n.|男主角；男主；英雄；勇士|The hero of the novel is Bilbo
+heroine|n.|女主角；女主；女英雄|The fairy godmother waves her magic wand and grants the heroine's wishes|heroin n. 毒品海洛因（这里没有 e）
+actress|n.|女演员|This actress was perfect for the part
 ---
-chancellor|n.|（德国或奥地利的）总理；（英国）财政大臣
-commander|n.|司令官；指挥官
-director|n.|主管；理事；导演
-proponent|n.|拥护者；支持者
+chancellor|n.|（德国或奥地利的）总理；（英国）财政大臣|In Britain, the chancelllor of the exchequer deals with the taxes and government spending|exchequer n. 国库，财政部
+commander|n.|司令官；指挥官|You must follow the commander's order
+director|n.|主管；理事；导演|The director cast him as a deaf and dumb man
+proponent|n.|拥护者；支持者|He is one of the leading proponents of the project
 ---
-committee|n.|委员会
-council|n.|委员会；市政委员会
-delegate|n./v.|代表/授权，委派
+committee|n.|委员会|They have set up a committee to inspect the park facilities
+council|n.|委员会；市政委员会|The city council will decide the fate of the building
+delegate|n./v.|代表/授权，委派|I was delegated to approach the local press
 ---
-specialist|n.|专家；专科医生
-consultant|n.|顾问；[英]会诊医师
-veterinary|adj.|兽医的
+specialist|n.|专家；专科医生|She is a specialist in E-business
+consultant|n.|顾问；[英]会诊医师|The consultant committee met at the call of the chairman
+veterinary|adj.|兽医的|Sectioning the nerves in the hoof of a limping horse is a common practice in a veterinary procedure
 ---
-counsellor/counselor|n.|顾问，辅导顾问；（美国的）律师
-solicitor|n.|（英国的）诉状律师，事务律师；（美国的）法务官
-attorney|n.|（美国的）律师
-umpire|n.|裁判员
+counsellor/counselor|n.|顾问，辅导顾问；（美国的）律师|I'd like to talk to my counselor before I answer any of your questions 
+solicitor|n.|（英国的）诉状律师，事务律师；（美国的）法务官|We asked a solicitor for advice
+attorney|n.|（美国的）律师|The defense attorney's objection was overruled by the judge
+umpire|n.|裁判员|Mike was thrown out of the game for hitting an umpire
 ---
-cashier|n.|出纳员，收银员
-fireman|n.|消防队员
-nurse|n.|护士；保姆/狐狸
-gardener|n.|园丁，花匠
+cashier|n.|出纳员，收银员|A cashier takes and gives money in a bank or shop
+fireman|n.|消防队员|I saw a fireman racing into the burning house
+nurse|n.|护士；保姆/狐狸|She is waiting for the nurse to give her a injection
+gardener|n.|园丁，花匠|The old gardener had rough hands
 ---
-barber|n.|理发师
-haircut|n.|理发
+barber|n.|理发师|He asked the barber to crop his hair short
+haircut|n.|理发|He was unshaven and badly needed a haircut
 ---
-fisherman|n.|渔民，渔夫，垂钓者
-butcher|n.|屠夫；杀人狂
-groom|n./v.|马夫；新郎/（给动物）刷洗；理毛；梳毛
+fisherman|n.|渔民，渔夫，垂钓者|What is it like to be a tuna fisherman
+butcher|n.|屠夫；杀人狂|Tom is a friendly butcher in our neighborhood
+groom|n./v.|马夫；新郎/（给动物）刷洗；理毛；梳毛|The head groom is responsible for seeing that his stable mates have safe journeys
 ---
-hostage|n.|人质
-toil|n./v.|苦工，苦活，网，圈套/辛勤劳作，苦干
-beggar|n.|乞丐||beg v. 恳求；乞讨
-slave|n.|奴隶
-coward|n.|懦夫，胆小鬼
+hostage|n.|人质|A British hostage was held hostage for over two years
+toil|n./v.|苦工，苦活，网，圈套/辛勤劳作，苦干|They spent months of toil on the water conservation project
+beggar|n.|乞丐|He tossed the beggar a handful of coins|beg v. 恳求；乞讨
+slave|n.|奴隶|Slaves were mercilessly ground down by slave owners
+coward|n.|懦夫，胆小鬼|He is a liar and a coward to boot|to boot 还；而且
 ===
 行为动作
 +++
