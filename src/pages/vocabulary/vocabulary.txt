@@ -3763,64 +3763,64 @@ coward|n.|懦夫，胆小鬼|He is a liar and a coward to boot|to boot 还；而
 ===
 行为动作
 +++
-act|v./n.|行动/行为
-behave|v.|表现；运转
-deed|n.|行为；功绩；契约
-accustom|v.|使习惯于
+act|v./n.|行动/行为|Dreaming is one thing, but acting is another
+behave|v.|表现；运转|The children must behave in a way which would be socially acceptable
+deed|n.|行为；功绩；契约|The primacy of the deed is over word and thought
+accustom|v.|使习惯于|They have to accustom themselves to the hot weather
 ---
-react|v.|作出反应，反应
-respond|v.|回答；响应，作出反应
-reflect|v.|反应；反射
+react|v.|作出反应，反应|An acid can react with an alkali to form a salt
+respond|v.|回答；响应，作出反应|I offered him a drink, but he didn't respond
+reflect|v.|反应；反射|Her look reflected the thought passing though her mind
 ---
 bear|v.|生（孩子）；容忍；承担（责任）|They must bear most of the blame|bear responsibility for 对...负有责任
-adopt|v.|收养；采取；采纳
-nourish|v.|滋养；给...提供营养
-mow|v./n.|割，修剪/干草堆||mow the lawn
-support|v./n.|支撑；支持；供养/支持；帮助
+adopt|v.|收养；采取；采纳|They adopted our effective methods
+nourish|v.|滋养；给...提供营养|Milk could nourish a baby
+mow|v./n.|割，修剪/干草堆|I want to have my garden mowed|mow the lawn
+support|v./n.|支撑；支持；供养/支持；帮助|We should encourage and support them to participate in collective activities with friends, family, colleagues and support groups
 ---
-exhale|v.|呼气；呼出
-intake|n.|吸入；摄取量；新招收者
-revive|v.|（使）苏醒；（使）复兴；（使）复活
-survive|v.|幸存；生存
+exhale|v.|呼气；呼出|Take a deep breath then exhale slowly
+intake|n.|吸入；摄取量；新招收者|He heard a sharp intake of breath
+revive|v.|（使）苏醒；（使）复兴；（使）复活|The fresh air soon revived him
+survive|v.|幸存；生存|The man was very ill, but he survived
 ---
-glare|v./n.|怒目而视；发出强光/刺眼的光；怒视
-glimpse|v./n.|瞥见/一瞥
-glance|v./n.|瞥，迅速看一眼/一瞥
-peep|v./n.|窥视，偷看/偷偷一瞥
-gaze|v.|凝视，注视
+glare|v./n.|怒目而视；发出强光/刺眼的光；怒视|The glare of the oncoming headlights temporarily blinded me
+glimpse|v./n.|瞥见/一瞥|I caught a glimpse of our new neighbor
+glance|v./n.|瞥，迅速看一眼/一瞥|The man glanced at the burglar climbing out of the window
+peep|v./n.|窥视，偷看/偷偷一瞥|I peeped through the window to see if she was there
+gaze|v.|凝视，注视|The child gazed at the toys in the shop window
 ---
-peer|v./n.|凝视；盯着看/同等地位的人，同辈
-stare|v.|凝视，盯着看||stare at 凝视，盯着看
-contemplate|v.|凝视；沉思；考虑
+peer|v./n.|凝视；盯着看/同等地位的人，同辈|The new postman peered through the mist, trying to find the right house
+stare|v.|凝视，盯着看|He stared at the word, trying to remember what it meant|stare at 凝视，盯着看
+contemplate|v.|凝视；沉思；考虑|The young surgeon contemplated the difficult operation of kidney transplant
 ---
-vow|n./v.|誓约/发誓
-oath|n.|誓言；宣誓
-pledge|v./n.|保证/保证；誓言
-whistle|n./v.|口哨；哨子；汽笛声/吹口哨；吹哨子
+vow|n./v.|誓约/发誓|The couple made their wedding vows at Saint Paul's church
+oath|n.|誓言；宣誓|He swore an oath to support and protect the king
+pledge|v./n.|保证/保证；誓言|The conflicts continued in spite of a no strike pledge by the unions
+whistle|n./v.|口哨；哨子；汽笛声/吹口哨；吹哨子|The referee blew the whistle at the end of the game
 ---
-reply|v./n.|回答，答复
-notify|v.|通知，告知
-assert|v.|断言，坚称；坚持（自己的）主张
+reply|v./n.|回答，答复|He tried to reply and then stopped
+notify|v.|通知，告知|I notified him that the meeting had been postponed
+assert|v.|断言，坚称；坚持（自己的）主张|Justice will assert itself
 ---
-explain|v.|说明；解释
-quarrel|v./n.|吵架，争论
-dispute|v./n.|争论，辩论
-argument|n.|辩论，争论；论点，论据
+explain|v.|说明；解释|He explained his plan in detail
+quarrel|v./n.|吵架，争论|We had a quarrel about the price
+dispute|v./n.|争论，辩论|A long dispute means that both parties are wrong
+argument|n.|辩论，争论；论点，论据|We accepted the agreement without argument
 ---
-mention|v./n.|提及；说起
-hurry|v./n.|赶紧；催促/匆忙
-hasten|v.|赶紧；促进|It was now obvious that she was hastening to restore the car to it's owner
-urge|v.|催促，敦促/冲动
+mention|v./n.|提及；说起|As for that film you mentioned, not my scene|not my scene 不是我的菜
+hurry|v./n.|赶紧；催促/匆忙|I'm in no hurry to get back to school
+hasten|v.|赶紧；促进|It was now obvious that she was hastening to restore the car to its owner
+urge|v.|催促，敦促/冲动|They urged Washington to reconsider its decision
 ---
-scold|v.|责骂，斥责
-curse|v./n.|诅咒；咒骂/咒语
-swear|v.|诅咒；咒骂；发誓；保证
-provoke|v.|激怒，挑拨；引起||thought-provoking adj. 引起思考的，发人深省的
+scold|v.|责骂，斥责|Don't scold the children without reason
+curse|v./n.|诅咒；咒骂/咒语|A light purse is a heavy curse 贫穷是沉重的诅咒
+swear|v.|诅咒；咒骂；发誓；保证|He had to swear that his story was true
+provoke|v.|激怒，挑拨；引起|Mind you, that dog is very dangerous when provoked|thought-provoking adj. 引起思考的，发人深省的
 ---
-preach|v.|宣扬||preach at/to sb. 对某人说教
-boast|v./n.|自夸，吹嘘
-tease|v.|取笑；嘲弄
-mock|v./adj.|嘲笑；嘲弄/模拟的；假装的
+preach|v.|宣扬|He was always preaching about the benefits of exercise and fresh air|preach at/to sb. 对某人说教
+boast|v./n.|自夸，吹嘘|Nobody should boast of his knowledge
+tease|v.|取笑；嘲弄|If you always tease others like that, you'll forfeit the good opinions of your friends
+mock|v./adj.|嘲笑；嘲弄/模拟的；假装的|They mocked at my timidity|timidity n. 胆小，羞怯
 ---
 touch|v./n.|触摸；触动/触觉，接触
 hug|v./n.|拥抱
