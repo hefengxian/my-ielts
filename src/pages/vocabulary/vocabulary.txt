@@ -3886,62 +3886,62 @@ steer|v.|掌舵；驾驶；操纵|He steered the ship carefully among the reefs
 ---
 baptize/baptise|v.|给...施行洗礼|It transpired that Mark had been baptized a catholic|baptism n. 洗礼；浸礼
 bet|v./n.|下注；打赌；敢说/打赌；赌注|I bet our team will win
-stake|n./v.|赌注；桩/以...打赌
-gamble|v./n.|赌博；冒险
-promise|n./v.|诺言/承诺
+stake|n./v.|赌注；桩/以...打赌|I'd stake my all on it
+gamble|v./n.|赌博；冒险|Don't gamble with your future
+promise|n./v.|诺言/承诺|I hope you'll keep your promise to come for a long visit
 ---
-attract|v.|吸引；引起
-obsess|v.|（是）痴迷、心神不宁||be obsessed by/with 被...迷住，对...着迷
-mesmerize/mesmerise|v.|吸引；迷住
-nightmare|n.|噩梦，梦魇
+attract|v.|吸引；引起|She was attracted by the novel advertisement
+obsess|v.|（是）痴迷、心神不宁|He became absolutely obsessed with the girl in red|be obsessed by/with 被...迷住，对...着迷
+mesmerize/mesmerise|v.|吸引；迷住|I stood by the lake, mesmerized by the flashing colors of the fish
+nightmare|n.|噩梦，梦魇|This mid-term exam is a nightmare
 ---
-amaze|v.|使惊奇，使惊愕
-marvel|v./n.|感到惊讶，大为赞叹/奇迹
-astonish|v.|使惊讶
+amaze|v.|使惊奇，使惊愕|John amazed his friends by suddenly getting married
+marvel|v./n.|感到惊讶，大为赞叹/奇迹|I marvel at how it can be so
+astonish|v.|使惊讶|We were astonished to hear that their football team had won the championship
 ---
-involve|v.|参加；牵涉
-annoy|v.|使恼怒；打扰
-upset|v.|使心烦意乱；使生气；搅乱；打翻
-bewilder|v.|使迷惑，使不知所措
+involve|v.|参加；牵涉|This forum will involve people with specialist knowledge
+annoy|v.|使恼怒；打扰|Sometimes we annoy or upset others unintentionally
+upset|v.|使心烦意乱；使生气；搅乱；打翻|I hope I haven't said anything to upset you
+bewilder|v.|使迷惑，使不知所措|A new environment can bewilder and frighten a child
 ---
-irony|n.|反话；有讽刺意味的情形
-indignity|n.|侮辱；轻蔑
-contempt|n.|轻视，藐视
-neglect|v./n.|忽视；忽略
-disregard|v./n.|不顾，漠视/忽视，漠视
+irony|n.|反话；有讽刺意味的情形|The irony is that some of the poorest countries have the richest natural resources
+indignity|n.|侮辱；轻蔑|The soldiers who were captured had to endure many indignities at the hands of the enemy
+contempt|n.|轻视，藐视|A liar is held in contempt 说谎者为人所轻视
+neglect|v./n.|忽视；忽略|In course of time, old customs and observances tend to fall into neglect
+disregard|v./n.|不顾，漠视/忽视，漠视|Disregarding all difficulties, we succeeded in bringing them around in the end
 ---
-ignorance|n.|无知，愚昧
-bias|v./n.|使有偏见；使偏心/偏见；偏心
-deviate|v.|偏离；背离
-expel|V.|驱逐；开除；排出
-flee|v.|逃避，逃离
+ignorance|n.|无知，愚昧|Where ignorance is bliss, 'tis folly to be wise
+bias|v./n.|使有偏见；使偏心/偏见；偏心|His experiences bias him against businessmen
+deviate|v.|偏离；背离|His statement deviates from the truth
+expel|V.|驱逐；开除；排出|The pupil was expelled for stealing
+flee|v.|逃避，逃离|Follow love and it will flee, flee love and it will follow thee
 ---
-bully|v./n.|恐吓，欺凌/恃强凌弱者
-panic|n./v.|惊慌，惊恐/（使）惊恐、惊慌
-terrify|v.|使恐惧，使非常害怕
-revenge|n./v.|报仇，复仇/为...报仇
+bully|v./n.|恐吓，欺凌/恃强凌弱者|He's always bullying smaller boys
+panic|n./v.|惊慌，惊恐/（使）惊恐、惊慌|When the theater caught fire, there was a panic
+terrify|v.|使恐惧，使非常害怕|Her husband's violence terrified her
+revenge|n./v.|报仇，复仇/为...报仇|Hamlet took revenge for his father's murder
 ---
-kidnap|v.|绑架；劫持
-hijack|v.|劫持（飞机或其他交通工具）
-smuggle|v.|走私，投运
-convict|v./n.|定罪；宣判...有罪/已决犯
+kidnap|v.|绑架；劫持|A businessman has been kidnapped
+hijack|v.|劫持（飞机或其他交通工具）|The terrorists hijacked the plane and held all the passengers hostage
+smuggle|v.|走私，投运|He was caught smuggling cameras into the country
+convict|v./n.|定罪；宣判...有罪/已决犯|He was convicted of murder
 ---
-strangle|v.|扼杀，压制，勒死，扼死
-massacre|n./v.|残杀。屠杀
-decimation|n.|大批杀死，大量毁灭；大大削弱
-intervene|v.|插话；干扰；干涉
-impede|v.|妨碍，阻止
+strangle|v.|扼杀，压制，勒死，扼死|The economist argues that high taxation strangles the economy
+massacre|n./v.|残杀。屠杀|The massacre of Jews by Nazi in World War II was appalling
+decimation|n.|大批杀死，大量毁灭；大大削弱|Those policies resulted in a decimation of essential services used by the poor
+intervene|v.|插话；干扰；干涉|I shall leave on Sunday if nothing intervenes
+impede|v.|妨碍，阻止|Nothing can impede his progress
 ---
-allure|v.|吸引，引诱
+allure|v.|吸引，引诱|Those unwary investors are allured by promises of quick profits
 bait|v./n.|使上当发火/诱饵，诱惑物|He is known for baiting his opponents. 众所周知，他善于激怒对手
-induce|v.|引诱，劝说
-tempt|v.|引诱，诱惑，怂恿
+induce|v.|引诱，劝说|Nothing shall induce me to join their club
+tempt|v.|引诱，诱惑，怂恿|Apply generous amounts of sunscreen 15 minutes before you go out. Don't allow impatience to tempt you into sunburn
 ---
-designate|v.|指明；选派；指派||appoint v. 指派
-assign|v.|布置；分配；指定；确定
-distribute|v.|分发，分配
-despatch/dispatch|v.|派遣；调派；迅速处理
-detach|v.|（使）分开，（使）分离；派遣
+designate|v.|指明；选派；指派|He designated Smith as his successor|appoint v. 指派
+assign|v.|布置；分配；指定；确定|It is not possible to assign this building an exact date
+distribute|v.|分发，分配|His part-time job on Sunday was to distribute leaflets on the street
+despatch/dispatch|v.|派遣；调派；迅速处理|He dispatched his breakfast and left
+detach|v.|（使）分开，（使）分离；派遣|He had to detach himself from social activities for the time being in order to concentrate on his studies
 ---
 undo|v.|解开，打开，取笑
 disguise|v./n.|掩饰；假扮；伪装/假扮；伪装物
