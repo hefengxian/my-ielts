@@ -3943,62 +3943,62 @@ distribute|v.|分发，分配|His part-time job on Sunday was to distribute leaf
 despatch/dispatch|v.|派遣；调派；迅速处理|He dispatched his breakfast and left
 detach|v.|（使）分开，（使）分离；派遣|He had to detach himself from social activities for the time being in order to concentrate on his studies
 ---
-undo|v.|解开，打开，取笑
-disguise|v./n.|掩饰；假扮；伪装/假扮；伪装物
-conceal|v.|掩盖
+undo|v.|解开，打开，取笑|He finally managed to undo this knot
+disguise|v./n.|掩饰；假扮；伪装/假扮；伪装物|The spy disguised himself as a nurse
+conceal|v.|掩盖|He was unable to conceal his surprise
 ---
-refuse|v.|拒绝；回绝
-exclude|v.|把...排除在外；拒绝
-reverse|v./n./adj.|颠倒；彻底改变；撤销/相反的情况；反面/相反的
+refuse|v.|拒绝；回绝|Jonah's mother refused to let him go abroad
+exclude|v.|把...排除在外；拒绝|They excluded people under 18 to join the club
+reverse|v./n./adj.|颠倒；彻底改变；撤销/相反的情况；反面/相反的|He reversed the judgement and set the prisoner free
 ---
-assure|v.|向...保证；保证；保险
-undertake|v.|承担；许诺；保证
-stipulate|v.|规定；明确要求；保证
-convince|v.|使确信，使信服，说服
-reassure|v.|使安心；使放心
+assure|v.|向...保证；保证；保险|I can assure you of the reliability of the news
+undertake|v.|承担；许诺；保证|The developed countries should undertake the main responsibilities of global warming
+stipulate|v.|规定；明确要求；保证|We have stipulated a date of payment and a price
+convince|v.|使确信，使信服，说服|He finally convinced us of his innocence
+reassure|v.|使安心；使放心|When the child was afraid in the storm, his parents reassured him
 ---
-wish|v./n.|想要（某事发生）/希望
-aspire|v.|有志于；渴望||aspire to do sth. 渴望做某事
-desire|n./v.|愿望；欲望/渴望，期望
+wish|v./n.|想要（某事发生）/希望|I wish it to be clearly understood
+aspire|v.|有志于；渴望|These college graduates aspire to careers in finance|aspire to do sth. 渴望做某事
+desire|n./v.|愿望；欲望/渴望，期望|He desired a college education
 yearn|v.|渴望；向往|The children who had been abducted and sold yearned to return to their homes|yearn for 渴望。abduct v. 绑架，劫持，诱拐
-invoke|v.|唤起（情感等）；向...祈求帮助；恳求||invoke sb.'s help 恳求某人帮忙
+invoke|v.|唤起（情感等）；向...祈求帮助；恳求|The man despaired and invoked to gods|invoke sb.'s help 恳求某人帮忙
 ---
-itch|v./n.|发痒；渴望/痒；渴望
-attempt|v./n.|尝试；试图/尝试；企图
-strive|v.|努力；奋斗||strive after/for 为...奋斗
-effort|n.|努力；努力的成果
-fulfil/fulfill|v.|履行；实现；完成；满足
+itch|v./n.|发痒；渴望/痒；渴望|I've gotten itch on my back
+attempt|v./n.|尝试；试图/尝试；企图|He studied hard in an attempt to pass the exam
+strive|v.|努力；奋斗||strive after/for 为...奋斗|With the power of will and wisdom, we can strive for victory
+effort|n.|努力；努力的成果|Our effects were unveiling
+fulfil/fulfill|v.|履行；实现；完成；满足|We're determined to fulfill the task
 ---
-range|v.|（在一定幅度内的）变动||ranger n. 护林员；公园看管人
-sort|n./v.|种类，类别/把...分类
-loom|v./n.|（庞然大物或形状模糊之物）隐现；逼近/织布机
-launch|v.|发射；发布；推出；发起
-commence|v.|开始；着手
+range|v.|（在一定幅度内的）变动|The price is ranged from 10 pounds to 20 pounds|ranger n. 护林员；公园看管人
+sort|n./v.|种类，类别/把...分类|We must sort out the good apples from the bad ones
+loom|v./n.|（庞然大物或形状模糊之物）隐现；逼近/织布机|A hard struggle looms ahead
+launch|v.|发射；发布；推出；发起|Full market research is needed before a new proudct is launched
+commence|v.|开始；着手|I will commence around a visit
 ---
-exploit|v.|开发；开采；开拓
-explore|v.|勘察；考察；探讨
-exert|v.|运用，行驶；施加||exert an influence on 对...施加影响
+exploit|v.|开发；开采；开拓|They plan to exploit oil under the sea
+explore|v.|勘察；考察；探讨|We explore all the possibilities to find the solution
+exert|v.|运用，行驶；施加|For college students to do a part-time job, we'll exert a profound influence on their personality and life|exert an influence on 对...施加影响
 ---
-tackle|v./n.|处理；应对；处理/用具；器材
-cope|v.|处理；应付
-dispose|v.|布置；安排||disposal n. 处理；清除。dispose of sth. 清除某物；处理某事；解决某事
-conduct|v./n.|进行；实施/举止；行为
+tackle|v./n.|处理；应对；处理/用具；器材|Everyone has their own problems to tackle
+cope|v.|处理；应付|I'm afraid I can't cope with these troubles
+dispose|v.|布置；安排|I have to dispose of this pile of old papers and magazines|disposal n. 处理；清除。dispose of sth. 清除某物；处理某事；解决某事
+conduct|v./n.|进行；实施/举止；行为|His conduct contradicts his words
 ---
-omit|v.|遗漏 ；省略；删去
-delete|v.|删除；删掉
-cancel|v.|取消；废除
-clear|adj./v.|清晰的；明显的/清除
-erase|v.|清除；抹去
+omit|v.|遗漏 ；省略；删去|The secretary omitted the date when typing the contract
+delete|v.|删除；删掉|References to places of battle were deleted from soldiers' letters during the war
+cancel|v.|取消；废除|The match had to be canceled due to the bad whether
+clear|adj./v.|清晰的；明显的/清除|It seems clear that he has no reasonable alternative
+erase|v.|清除；抹去|Jim tried to erase the idea from his mind
 ---
-rescue|v./n.|营救；救援
-resort|v./n.|求助于；采取；诉诸/（度假）胜地
-recover|v.|重新拿回；恢复健康；复原
-restore|v.|恢复；归还；修复
-rectify|v.|纠正；矫正；改正||correct v. 改正
+rescue|v./n.|营救；救援|They rescued the boy who fell into the river
+resort|v./n.|求助于；采取；诉诸/（度假）胜地|I'm sorry you have resorted to deception
+recover|v.|重新拿回；恢复健康；复原|She soon recovered and stopped crying
+restore|v.|恢复；归还；修复|It's hard to restore a broken mirror
+rectify|v.|纠正；矫正；改正|I hope I can find a way to rectify your opinion of my behavior|correct v. 改正
 ---
-redeem|v.|赎回；挽回；补偿；兑现
-offset|v./n.|补偿；抵消||offset sth. by (doing) sth. 以某物/做某事来补偿（或抵消）某事物
-replenish|v.|重新装满；补充
+redeem|v.|赎回；挽回；补偿；兑现|You botched the last job, but can redeem yourself on this one
+offset|v./n.|补偿；抵消|He offset his small salary by living economically|offset sth. by (doing) sth. 以某物/做某事来补偿（或抵消）某事物
+replenish|v.|重新装满；补充|Your body is in survival mode and needs food to replenish its energy
 ---
 obtain|v.|获得；得到||obtain employment 实现就业；找到工作
 gain|v./n.|获得；增加/增加；改进
