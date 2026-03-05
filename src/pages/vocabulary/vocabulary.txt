@@ -4000,52 +4000,52 @@ redeem|v.|赎回；挽回；补偿；兑现|You botched the last job, but can re
 offset|v./n.|补偿；抵消|He offset his small salary by living economically|offset sth. by (doing) sth. 以某物/做某事来补偿（或抵消）某事物
 replenish|v.|重新装满；补充|Your body is in survival mode and needs food to replenish its energy
 ---
-obtain|v.|获得；得到||obtain employment 实现就业；找到工作
-gain|v./n.|获得；增加/增加；改进
-supply|v./n.|供给；供应；提供/供应量；[supplies]补给品
-offer|n./v.|给予（物）；提议/提供；出（价）
-render|v.|给予，提供；翻译
+obtain|v.|获得；得到|It is wise to obtain an independent valuation|obtain employment 实现就业；找到工作
+gain|v./n.|获得；增加/增加；改进|every time they reap gains from their investment, more people wish to join them
+supply|v./n.|供给；供应；提供/供应量；[supplies]补给品|Domestic consumers were supplied enough necessities by those companies
+offer|n./v.|给予（物）；提议/提供；出（价）|They reject all our offers to help
+render|v.|给予，提供；翻译|You have rendered great service
 ---
-enlarge|v.|扩大，扩展；放大
-augment|v.|扩大；增加；加强；提高
-magnify|v.|放大；夸大
+enlarge|v.|扩大，扩展；放大|This photograph probably won't enlarge well
+augment|v.|扩大；增加；加强；提高|With the birth of his third son, he found it necessary to do something to augment his income
+magnify|v.|放大；夸大|Fame is a magnifying glass
 ---
-amplify|v.|增强；扩大（声音）；充实（陈述）
-exaggerate|v.|夸张；夸大
-prolong|v.|延长
+amplify|v.|增强；扩大（声音）；充实（陈述）|The student amplified his new findings with drawings and figures
+exaggerate|v.|夸张；夸大|A painter may exaggerate or distort shapes and forms
+prolong|v.|延长|We must prolong the runway of the airfield
 ---
-uphold|v.|支持；维护；维持
-backup|n./adj.|后援；支持（文件等的）备份/备用的
-propel|v.|推动；驱使；推进||propeller n. 螺旋桨
-update|v.|更新；使现代化
+uphold|v.|支持；维护；维持|The appeal court upheld the sentence
+backup|n./adj.|后援；支持（文件等的）备份/备用的|Make a backup of any work you do on the computer
+propel|v.|推动；驱使；推进||propeller n. 螺旋桨|His addiction to drugs propelled him towards a life of crime
+update|v.|更新；使现代化|Our email addresses are unlikely to be updated everyday
 raise|v.|举起；引起；抚养；提高；筹募|Please raise your hand if you've been told you're too aggressive at work|raise a price 涨价。raise capital 筹集资本。raise sb's awareness of 提高某人在...方面的意识
 ---
-leak|v./n.|泄露/漏洞，裂缝
-spill|v.|（使）溢出||spill over 溢出；蔓延；波及
-seep|v.|渗出；渗透
-ooze|v.|渗出；洋溢着
+leak|v./n.|泄露/漏洞，裂缝|A small leak will sink a great ship
+spill|v.|（使）溢出|The teacup is so full that the tea might spill over|spill over 溢出；蔓延；波及
+seep|v.|渗出；渗透|Rain seeped through the roof
+ooze|v.|(浓液等)渗出；洋溢着|Blood oozed from his wound
 ---
-evacuate|v.|疏散；撤离
-trench|v./n.|掘沟于；砍除/沟，渠，壕沟
-saturate|v.|使饱和；使充满；浸透
+evacuate|v.|疏散；撤离|The village was evacuated because of the threat of a flood
+trench|v./n.|掘沟于；砍除/沟，渠，壕沟|The fireman's successfully trenched the roof, preventing the fire spreading further down the block
+saturate|v.|使饱和；使充满；浸透|The air was saturated with the perfume of flowers
 ---
-excuse|v./n.|原谅；同意免除/理由；借口
-forgive|v.|原谅，宽恕，饶恕
-contain|v.|包含，容纳；抑制（感情）
+excuse|v./n.|原谅；同意免除/理由；借口|There is no excuse for treapassing on private property
+forgive|v.|原谅，宽恕，饶恕|I'll never forgive you for what have done wrong to my friend
+contain|v.|包含，容纳；抑制（感情）|The speech contained some interesting ideas
 ---
-regard|n./v.|尊重；问候/看待
-flatter|v.|奉承，讨好，向...谄媚
-worship|n./v.|崇拜，礼拜，爱慕/做礼拜
+regard|n./v.|尊重；问候/看待|You can't regard him as a friend but a business associate
+flatter|v.|奉承，讨好，向...谄媚|He flattered her on her cooking
+worship|n./v.|崇拜，礼拜，爱慕/做礼拜|She gazed at the famous singer with worship in her eyes
 ---
-cause|n./v.|原因，理由，事业/引起；导致
-sake|n.|理由，目的||for the sake of 为了...起见，因为...的缘故
-purpose|n.|目的
-objective|n./adj.|宗旨；目标/客观的
+cause|n./v.|原因，理由，事业/引起；导致|Police are investigating the likely cause of the explosion
+sake|n.|理由，目的|You should take care of your niece for the sake of your sister|for the sake of 为了...起见，因为...的缘故
+purpose|n.|目的|Their purpose is to build a fair society and a strong economy
+objective|n./adj.|宗旨；目标/客观的|My objective this summer is to learn to swim
 ---
-arouse|v.|唤起；激起；引起
-trigger|v./n.|引发；触发/扳机
-seek|v.|寻找；寻求
-retrieve|v.|取回；挽回
+arouse|v.|唤起；激起；引起|The young man's behavior aroused the suspicions of the police
+trigger|v./n.|引发；触发/扳机|He accidentally triggered his revolver
+seek|v.|寻找；寻求|They are seeking the most reasonable diet, which will do good to their health
+retrieve|v.|取回；挽回|Henry did his best to retrieve the situation
 ---
 testify|v.|作证；证明
 verify|v.|证实；核实；查清
