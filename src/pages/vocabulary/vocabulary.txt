@@ -4047,57 +4047,57 @@ trigger|v./n.|引发；触发/扳机|He accidentally triggered his revolver
 seek|v.|寻找；寻求|They are seeking the most reasonable diet, which will do good to their health
 retrieve|v.|取回；挽回|Henry did his best to retrieve the situation
 ---
-testify|v.|作证；证明
-verify|v.|证实；核实；查清
-specify|v.|具体指定；详细说明
+testify|v.|作证；证明|I won't testify aginst my friend
+verify|v.|证实；核实；查清|He tried in every way to verify this theory
+specify|v.|具体指定；详细说明|Can you specify the reasons
 ---
-enlighten|v.|启发；开导；启迪
-impart|v.|传授；透露
-deserve|v.|应得；应受
+enlighten|v.|启发；开导；启迪|For all my effort to enlighten her, she was still all adrift
+impart|v.|传授；透露|She imparted the secret to her boyfriend
+deserve|v.|应得；应受|You deserve a reward for being so helpful
 ---
-drop|v./n.|（使）落下；（使）降低；断绝关系/滴
-sink|v.|（使）下沉；下降
-plummet|v.|垂直掉下；（价格、水平等）骤然下跌
-muffle|v.|使（声音）减弱
-overshadow|v.|隐蔽；使黯然失色
+drop|v./n.|（使）落下；（使）降低；断绝关系/滴|In the winter, the temperature often drops below freezing
+sink|v.|（使）下沉；下降|The captain of the sinking ship used flares to attract the attention of the coast guard
+plummet|v.|垂直掉下；（价格、水平等）骤然下跌|The damaged aircraft plummeted down to earth
+muffle|v.|使（声音）减弱|The sound of the bell was muffled by the curtains
+overshadow|v.|隐蔽；使黯然失色|He overshadowed all his competitors
 ---
-invite|v.|邀请
-welcome|int./n./v.|欢迎
-greet|v.|向...问好；迎接；对...做出反应
-salute|v./n.|（向...）行礼；致敬/行礼；致敬
+invite|v.|邀请|She invited us to her party
+welcome|int./n./v.|欢迎|We welcome constructive criticism
+greet|v.|向...问好；迎接；对...做出反应|The audiences greeted his speech with a great cheer
+salute|v./n.|（向...）行礼；致敬/行礼；致敬|They saluted each other by raising their hats
 ---
-celebrate|v.|庆祝（节日、事件等）
-congratulate|v.|祝贺；向...道贺
-bless|v.|祝福；为...祈求上帝保佑
-participate|v.|参加；参与
-farewell|int./n.|再会/告别
+celebrate|v.|庆祝（节日、事件等）|They all passed the exam and celebrated with a party
+congratulate|v.|祝贺；向...道贺|My must congratulate you on your engagement
+bless|v.|祝福；为...祈求上帝保佑|It is more blessed to give than to receive
+participate|v.|参加；参与|If only I could participate in your good fortune
+farewell|int./n.|再会/告别|The girl had come on the pretext of bidding him farewell
 ---
-assort|v.|把...分类；相配，协调
-correspond|v.|符合；相一致；通信
-accord|v./n.|与...一致；给予/协议
-attribute|v./n.|把...归因于/属性，特性
+assort|v.|把...分类；相配，协调|His actions do not assort with his promises
+correspond|v.|符合；相一致；通信|These goods don't correspond with my order
+accord|v./n.|与...一致；给予/协议|The government and the rebels are in accord on one point
+attribute|v./n.|把...归因于/属性，特性|David attributed his company success to the unity of the staff and their persevering hard word
 ---
-recall|v.|回忆，回想起
-recollect|v.|记忆，想起
-remind|v.|提醒；使想起
+recall|v.|回忆，回想起|Recall the misery of the past and contrast it with the happiness of today
+recollect|v.|记忆，想起|I can recollect hearing his speech
+remind|v.|提醒；使想起|This photos remind me of my childhood
 ---
-retell|v.|重新讲述；复述
-repeat|v./adj.|重复/再次光顾的
-retrospect|n.|[in ~]回顾
-impress|v.|给...深刻的印象；使铭记
+retell|v.|重新讲述；复述|The student was asked to retell the story in his own words
+repeat|v./adj.|重复/再次光顾的|A large proportion of our bookings come from repeat business and personal recommendation
+retrospect|n.|[in ~]回顾|It was in retrospect the happiest day of her life
+impress|v.|给...深刻的印象；使铭记|His courage and determination impressed his rivals
 ---
-surmount|v.|克服；置于...的顶端
-mortify|v.|使难堪；使羞愧
-pervade|v.|弥漫；渗透；遍及
+surmount|v.|克服；置于...的顶端|The hill is surmounted by a church
+mortify|v.|使难堪；使羞愧|He was mortified by his inability to answer the question
+pervade|v.|弥漫；渗透；遍及|The smell of cooking pervaded the entire house
 ---
-replace|v.|代替；取代
-substitute|v./n.|替换/替代品，替补
+replace|v.|代替；取代|We'll get someone or other to replace him
+substitute|v./n.|替换/替代品，替补|We recommended this brand as a substitute
 distinguish|v.|区别，辨别；使出众；使著名|Some people cannot distinguished between some colors|distinguished adj. 著名的；卓越的。distinction n. 差别；区分。distinct adj. 明显的；截然不同的
-differentiate|v.|区分；区别；差别对待
+differentiate|v.|区分；区别；差别对待|This company does not differentiate between men and women. They employ and pay both equally
 ---
 incline|v./n.|（使）倾向于、倾斜/斜坡；倾斜|What he said inclines me to think that he will agree to our plan
-lean|v./adj.|（使）倚靠；倾斜/瘦的；贫乏的
-sideways|adv.|向（或从、往）一侧
+lean|v./adj.|（使）倚靠；倾斜/瘦的；贫乏的|She leaned against his shoulder
+sideways|adv.|向（或从、往）一侧|The dog swatted the hedgehog sideways|hedgehog n. 刺猬
 ===
 身心健康
 +++
