@@ -3343,7 +3343,7 @@ battle|n./v.|战斗，战役/与...战斗|Life is a battle from cradle to grave
 struggle|v./n.|挣扎；奋力；奋斗|His father struggled to control his temper
 ---
 explosion|n.|爆发；迸发；爆炸；激增|The explosion was caused by a burst gas pipe
-bombard|v.|轰击，轰炸；连珠炮般指纹（或批评）|The speaker was bombarded with questions
+bombard|v.|轰击，轰炸；连珠炮般质问（或批评）|The speaker was bombarded with questions
 bomb|n./v.|炸弹/轰炸|The terrorist planted a bomb in the post office
 ---
 blast|n./v.|爆炸/爆炸，炸毁|It's thought that the blast occurred when volatile chemicals exploded.|volatile adj. 不稳定的；易变的；易怒的，喜怒无常的；（液体或固体）易挥发的，易气化的
@@ -3606,498 +3606,498 @@ veteran|n.|老兵，老手|The baseball veteran loved to coach young players
 ===
 社会角色
 +++
-pioneer|n.|先驱，开创者
-prophet|n.|先知；预言家
-herald|n./v.|使者，传令官，先驱；预兆/预告；宣布
-heir|n.|后嗣；继承人
-successor|n.|接替者；继任者；后继的事物
+pioneer|n.|先驱，开创者|Napoleon was a pioneer and a symbol
+prophet|n.|先知；预言家|A prophet made a prophecy that the tyrant would be killed by a young man
+herald|n./v.|使者，传令官，先驱；预兆/预告；宣布|Early green birds are heralds of spring
+heir|n.|后嗣；继承人|In the UK, it is customary for the next heir to the throne to be regent
+successor|n.|接替者；继任者；后继的事物|He is the successor to the throne
 ---
-generation|n.|一代，一代人
-surname|n./v.|姓/给...起别名
-gender|n.|性别
-sex|n.|性别 ；性行为
-female|n./adj.|女子 ；雌性生物/女的；雌性的
+generation|n.|一代，一代人|A mother and her daughters represent two generations
+surname|n./v.|姓/给...起别名|To make a nickname from someone's surname can sometimes be bad
+gender|n.|性别|Please fill in your name, address, age and gender
+sex|n.|性别 ；性行为|What sex is your cat
+female|n./adj.|女子 ；雌性生物/女的；雌性的|We've got three cats, two females and a male
 ---
-couple|n.|夫妻 ，情侣；两个；几个
-spouse|n.|配偶（指夫或妻）
-husband|n.|丈夫
-gay|n./adj.|同性恋者（尤指男性）/同性恋的；快乐的；艳丽的
+couple|n.|夫妻 ，情侣；两个；几个|I waited a couple of hours
+spouse|n.|配偶（指夫或妻）|They get free tickets for their spouses
+husband|n.|丈夫|He is a model husband and father
+gay|n./adj.|同性恋者（尤指男性）/同性恋的；快乐的；艳丽的|The children were all gay at the thought of the coming holidays
 ---
-grandfather|n.|（外）祖父
-father-in-law|n.|岳父，公公
-sibling|n.|兄，弟，姐，妹
+grandfather|n.|（外）祖父|The kid was named after his grandfather
+father-in-law|n.|岳父，公公|He has paid a formal visit to his father-in-law
+sibling|n.|兄，弟，姐，妹|Some young smokers are influenced by their sibling's smoking habit
 ---
-cousin|n.|堂（或表）兄（或弟、姐、妹）
-nephew|n.|侄子；外甥
-niece|n.|侄女；外甥女
-twin|adj./n.|成双的/双胞胎之一
+cousin|n.|堂（或表）兄（或弟、姐、妹）|For our first anniversary, he's taking me to his cousin's cabi
+nephew|n.|侄子；外甥|I'm going to have a nephew soon
+niece|n.|侄女；外甥女|My niece drew a picture of my family when she was four
+twin|adj./n.|成双的/双胞胎之一|You should know that this plan has a twin purpose
 ---
-embryo|n./adj.|胚胎/胚胎的，初期的
-infant|n./adj.|供婴儿用的；婴儿的
-orphan|n./v.|孤儿/使成为孤儿
+embryo|n./adj.|胚胎/胚胎的，初期的|Our plans are still in embryo
+infant|n./adj.|供婴儿用的；婴儿的|The infant mortality rate is highly sensitive barometer of social-economic conditions
+orphan|n./v.|孤儿/使成为孤儿|The three children were orphaned when their parents died in the plane crash
 ---
-juvenile|adj./n.|少年的/少年
-youngster|n.|年轻人；少年
-youth|n.|青年时期；青春；青年
+juvenile|adj./n.|少年的/少年|The problem of juvenile delinquency calls for the attention of the whole society
+youngster|n.|年轻人；少年|These youngsters yarn for an adventure in the wild
+youth|n.|青年时期；青春；青年|We shouldn't blame youth crime simply on unemployment
 ---
-gang|n.|一帮，一伙（常聚在一起闹事、打斗的年轻人）
-teenager|n.|（13 至 19 岁之间的）青少年
-adolescence|n.|青春期||reach one's adolescence
+gang|n.|一帮，一伙（常聚在一起闹事、打斗的年轻人）|Have you seen any of the gang lately?
+teenager|n.|（13 至 19 岁之间的）青少年|The survey shows that four out of five teenagers in this area have experimented with illegal drugs
+adolescence|n.|青春期|His adolescence was not a happy time for him|reach one's adolescence
 ---
-kin|n./adj.|（统称）家属，亲戚/有血缘关系的；类似的
-folk|n.|人们；[~s]家属，亲属
-relative|n./adj.|相对的；有关的
+kin|n./adj.|（统称）家属，亲戚/有血缘关系的；类似的|All his kin were at the wedding
+folk|n.|人们；[~s]家属，亲属|You're on the list of folds I'm indebted to
+relative|n./adj.|相对的；有关的|We do not abandon our relatives when times get tough
 ---
-intimate|adj./n.|亲密的；个人隐私的/密友，至交
-dear|adj./int.|亲爱的/啊呀
-darling|n.|亲爱的；宠儿
-lover|n.|爱好者；（婚外的）情人
-beloved|n./adj.|爱人/深受喜爱的
+intimate|adj./n.|亲密的；个人隐私的/密友，至交|Do you believe these two intimates friends used to be mutual sworn enemies?
+dear|adj./int.|亲爱的/啊呀|Dear John, thanks for asking me to help you with the class trip
+darling|n.|亲爱的；宠儿|Oh darling, I couldn't be more pleased for you
+lover|n.|爱好者；（婚外的）情人|He and his wife are both great lovers of drama
+beloved|n./adj.|爱人/深受喜爱的|This safari park is beloved by tourists from all parts of the globe
 ---
-madam|n.|夫人；女士；[英]自以为是的小姑娘
-hostess|n.|女主人
-landlady|n.|女房东；女地主
-mistress|n.|女主人；情妇
-housewife|n.|家庭主妇
+madam|n.|夫人；女士；[英]自以为是的小姑娘|That poor madam has lost all contact with reality
+hostess|n.|女主人|It's polite to bring flowers, chocolates or a bottle of wine to the hostess
+landlady|n.|女房东；女地主|The landlady has prepared some coffee for us
+mistress|n.|女主人；情妇|Our wife is duty; our mistress is honor
+housewife|n.|家庭主妇|The cleverest housewife can't cook a meal without rice
 ---
-widow|n.|寡妇，遗孀
-maid|n.|女佣，女仆，少女
-maiden|n.|少女，姑娘
+widow|n.|寡妇，遗孀|He left a widow and children totally unprovided for
+maid|n.|女佣，女仆，少女|Those people looked at me like I was just a maid
+maiden|n.|少女，姑娘|She was a tender, watchful maiden
 ---
-household|n.|家庭，一户，家务
-chore|n.|家庭杂物；乏味无聊的工作
-host|n.|主人，东道主
+household|n.|家庭，一户，家务|The appliance of electricity to household makes the housework much easier
+chore|n.|家庭杂物；乏味无聊的工作|It's such a chore to do the shopping everyday
+host|n.|主人，东道主|Do not bring alcoholic beverages in case your host or hostess doesn't drink alcohol
 ---
-landlord|n.|地主；房东；（酒吧）店主
-tenant|n.|客房；租户
-guest|n.|客人，宾客，旅客
-customer|n.|顾客，主顾，客户
-client|n.|顾客；客户；委托人
+landlord|n.|地主；房东；（酒吧）店主|He is the landlord of this house
+tenant|n.|客房；租户|He threatened to take the tenant to court or to have the tenant evicted
+guest|n.|客人，宾客，旅客|The guest who arrives half an hour earlier is the greatest nuisance
+customer|n.|顾客，主顾，客户|If that doesn't work, ask them if they really think customer is King
+client|n.|顾客；客户；委托人|He proves to be a successful lawyer with lots of clients
 ---
-encounter|v./n.|遭遇；偶遇；邂逅
-chase|v./n.|追逐；追求
-miss|v.|想念；未注意到
+encounter|v./n.|遭遇；偶遇；邂逅|The more dangerous we encounter, the harder should we push forward
+chase|v./n.|追逐；追求|Please chased the speeding car 
+miss|v.|想念；未注意到|The woman missed her baby dreadfully
 ---
-appointment|n.|约会；指派
-accompany|v.|陪伴；伴随
-dependent|adj.|依靠的；依赖的
+appointment|n.|约会；指派|I made an appointment to see the doctor
+accompany|v.|陪伴；伴随|She accompanied me to the doctors
+dependent|adj.|依靠的；依赖的|She was unemployed for several years and almost totally dependent on welfare to survive
 ---
-propose|v.|提议；向...求婚
-engagement|n.|婚约；约定
-marry|v.|娶，嫁，结婚
+propose|v.|提议；向...求婚|They proposed that a new school should be set up in the suburbs
+engagement|n.|婚约；约定|My younger brother has just told me about his engagement to Anne
+marry|v.|娶，嫁，结婚|It is easier to marry than to divorce
 ---
-wedding|n.|婚礼
-honeymoon|n.|蜜月
-kiss|v./n.|吻，接吻/吻
+wedding|n.|婚礼|They went out to a fancy restaurant to celebrate their wedding anniversary
+honeymoon|n.|蜜月|While on honeymoon in Bali, she learned to surf
+kiss|v./n.|吻，接吻/吻|The singer blew a kiss to the audience
 ---
-divorce|n./v.|离婚；脱离/（与...）离婚；使脱离
-separate|adj./v.|分开的，单独的/（使）分开；分局
-single|adj.|单一的；单身的
-sole|adj.|仅有的；唯一的
+divorce|n./v.|离婚；脱离/（与...）离婚；使脱离|Never be divorced from real life
+separate|adj./v.|分开的，单独的/（使）分开；分局|The children sleep in separate beds
+single|adj.|单一的；单身的|Not a single detail can escape his notice
+sole|adj.|仅有的；唯一的|My sole aim was to discover what had happened during that period
 ---
-respective|adj.|各自的；分别的
-each|pron./det.|各个，各自
-individual|n./adj.|个人；个体/个别的，单独的
+respective|adj.|各自的；分别的|We went back to school and visited our respective teachers
+each|pron./det.|各个，各自|They each have their own dream
+individual|n./adj.|个人；个体/个别的，单独的|The rights of the individual are considered to be very important
 ---
-commuter|n.|上下班，往返者
-neighborhood/neighbourhood|n.|街坊；居住区；周边地区
-member|n.|成员；会员
+commuter|n.|上下班，往返者|The train was packed with sweaty complaining commuters
+neighborhood/neighbourhood|n.|街坊；居住区；周边地区|She was reluctant to leave the neighborhood of Paris
+member|n.|成员；会员|Yesterday, there was a meeting between OPEC member Saudi Arabia and non-member Russia
 ---
-boss|n./v.|老板，上司/对...指手画脚
-manager|n.|经理，管理人
-supervisor|n.|管理者，监督者
-subordinate|n./adj.|部署，下级/次要的；下级的
+boss|n./v.|老板，上司/对...指手画脚|The boss always makes them work overtime without pay
+manager|n.|经理，管理人|She has been promoted to a middle manager
+supervisor|n.|管理者，监督者|This special supervisor inspected this examination
+subordinate|n./adj.|部署，下级/次要的；下级的|The minority is subordinate to the majority
 ---
-partner|n.|伙伴，盟友；合伙人；搭档
-mate|n.|伙伴；[构成复合词]同伴
-colleague|n.|同事；同僚
+partner|n.|伙伴，盟友；合伙人；搭档|He was considered as a partner in the crime
+mate|n.|伙伴；[构成复合词]同伴|The people we work with are called workmates and our friends at school are called classmates
+colleague|n.|同事；同僚|He is getting along well with his colleagues
 ---
-comrade|n.|同志；（尤指共患难的）同伴
-acquaintance|n.|相识之人，泛泛之交；认识；了解
-friendship|n.|友谊；有情；友好
-affection|n.|喜爱，喜欢；[~s]爱情
+comrade|n.|同志；（尤指共患难的）同伴|The medic saved a comrade's life and helped evacuate many other wounded soldiers
+acquaintance|n.|相识之人，泛泛之交；认识；了解|I have some acquaintance with French but don't speak it well
+friendship|n.|友谊；有情；友好|No one can wreck the friendship between them
+affection|n.|喜爱，喜欢；[~s]爱情|I can not believe that you are unaware of my growing affection for you
 ---
-stranger|n.|陌生人；新来者
-apprentice|n./v.|学徒，徒弟/使当...的学徒
-deputy|n.|代理人，副手
+stranger|n.|陌生人；新来者|The region is no stranger to armed conflict
+apprentice|n./v.|学徒，徒弟/使当...的学徒|His father apprenticed him to a barber
+deputy|n.|代理人，副手|John will be my deputy while I'm away
 ---
-hero|n.|男主角；男主；英雄；勇士
-heroine|n.|女主角；女主；女英雄||heroin n. 毒品海洛因（这里没有 e）
-actress|n.|女演员
+hero|n.|男主角；男主；英雄；勇士|The hero of the novel is Bilbo
+heroine|n.|女主角；女主；女英雄|The fairy godmother waves her magic wand and grants the heroine's wishes|heroin n. 毒品海洛因（这里没有 e）
+actress|n.|女演员|This actress was perfect for the part
 ---
-chancellor|n.|（德国或奥地利的）总理；（英国）财政大臣
-commander|n.|司令官；指挥官
-director|n.|主管；理事；导演
-proponent|n.|拥护者；支持者
+chancellor|n.|（德国或奥地利的）总理；（英国）财政大臣|In Britain, the chancelllor of the exchequer deals with the taxes and government spending|exchequer n. 国库，财政部
+commander|n.|司令官；指挥官|You must follow the commander's order
+director|n.|主管；理事；导演|The director cast him as a deaf and dumb man
+proponent|n.|拥护者；支持者|He is one of the leading proponents of the project
 ---
-committee|n.|委员会
-council|n.|委员会；市政委员会
-delegate|n./v.|代表/授权，委派
+committee|n.|委员会|They have set up a committee to inspect the park facilities
+council|n.|委员会；市政委员会|The city council will decide the fate of the building
+delegate|n./v.|代表/授权，委派|I was delegated to approach the local press
 ---
-specialist|n.|专家；专科医生
-consultant|n.|顾问；[英]会诊医师
-veterinary|adj.|兽医的
+specialist|n.|专家；专科医生|She is a specialist in E-business
+consultant|n.|顾问；[英]会诊医师|The consultant committee met at the call of the chairman
+veterinary|adj.|兽医的|Sectioning the nerves in the hoof of a limping horse is a common practice in a veterinary procedure
 ---
-counsellor/counselor|n.|顾问，辅导顾问；（美国的）律师
-solicitor|n.|（英国的）诉状律师，事务律师；（美国的）法务官
-attorney|n.|（美国的）律师
-umpire|n.|裁判员
+counsellor/counselor|n.|顾问，辅导顾问；（美国的）律师|I'd like to talk to my counselor before I answer any of your questions 
+solicitor|n.|（英国的）诉状律师，事务律师；（美国的）法务官|We asked a solicitor for advice
+attorney|n.|（美国的）律师|The defense attorney's objection was overruled by the judge
+umpire|n.|裁判员|Mike was thrown out of the game for hitting an umpire
 ---
-cashier|n.|出纳员，收银员
-fireman|n.|消防队员
-nurse|n.|护士；保姆/狐狸
-gardener|n.|园丁，花匠
+cashier|n.|出纳员，收银员|A cashier takes and gives money in a bank or shop
+fireman|n.|消防队员|I saw a fireman racing into the burning house
+nurse|n.|护士；保姆/狐狸|She is waiting for the nurse to give her a injection
+gardener|n.|园丁，花匠|The old gardener had rough hands
 ---
-barber|n.|理发师
-haircut|n.|理发
+barber|n.|理发师|He asked the barber to crop his hair short
+haircut|n.|理发|He was unshaven and badly needed a haircut
 ---
-fisherman|n.|渔民，渔夫，垂钓者
-butcher|n.|屠夫；杀人狂
-groom|n./v.|马夫；新郎/（给动物）刷洗；理毛；梳毛
+fisherman|n.|渔民，渔夫，垂钓者|What is it like to be a tuna fisherman
+butcher|n.|屠夫；杀人狂|Tom is a friendly butcher in our neighborhood
+groom|n./v.|马夫；新郎/（给动物）刷洗；理毛；梳毛|The head groom is responsible for seeing that his stable mates have safe journeys
 ---
-hostage|n.|人质
-toil|n./v.|苦工，苦活，网，圈套/辛勤劳作，苦干
-beggar|n.|乞丐||beg v. 恳求；乞讨
-slave|n.|奴隶
-coward|n.|懦夫，胆小鬼
+hostage|n.|人质|A British hostage was held hostage for over two years
+toil|n./v.|苦工，苦活，网，圈套/辛勤劳作，苦干|They spent months of toil on the water conservation project
+beggar|n.|乞丐|He tossed the beggar a handful of coins|beg v. 恳求；乞讨
+slave|n.|奴隶|Slaves were mercilessly ground down by slave owners
+coward|n.|懦夫，胆小鬼|He is a liar and a coward to boot|to boot 还；而且
 ===
 行为动作
 +++
-act|v./n.|行动/行为
-behave|v.|表现；运转
-deed|n.|行为；功绩；契约
-accustom|v.|使习惯于
+act|v./n.|行动/行为|Dreaming is one thing, but acting is another
+behave|v.|表现；运转|The children must behave in a way which would be socially acceptable
+deed|n.|行为；功绩；契约|The primacy of the deed is over word and thought
+accustom|v.|使习惯于|They have to accustom themselves to the hot weather
 ---
-react|v.|作出反应，反应
-respond|v.|回答；响应，作出反应
-reflect|v.|反应；反射
+react|v.|作出反应，反应|An acid can react with an alkali to form a salt
+respond|v.|回答；响应，作出反应|I offered him a drink, but he didn't respond
+reflect|v.|反应；反射|Her look reflected the thought passing though her mind
 ---
 bear|v.|生（孩子）；容忍；承担（责任）|They must bear most of the blame|bear responsibility for 对...负有责任
-adopt|v.|收养；采取；采纳
-nourish|v.|滋养；给...提供营养
-mow|v./n.|割，修剪/干草堆||mow the lawn
-support|v./n.|支撑；支持；供养/支持；帮助
+adopt|v.|收养；采取；采纳|They adopted our effective methods
+nourish|v.|滋养；给...提供营养|Milk could nourish a baby
+mow|v./n.|割，修剪/干草堆|I want to have my garden mowed|mow the lawn
+support|v./n.|支撑；支持；供养/支持；帮助|We should encourage and support them to participate in collective activities with friends, family, colleagues and support groups
 ---
-exhale|v.|呼气；呼出
-intake|n.|吸入；摄取量；新招收者
-revive|v.|（使）苏醒；（使）复兴；（使）复活
-survive|v.|幸存；生存
+exhale|v.|呼气；呼出|Take a deep breath then exhale slowly
+intake|n.|吸入；摄取量；新招收者|He heard a sharp intake of breath
+revive|v.|（使）苏醒；（使）复兴；（使）复活|The fresh air soon revived him
+survive|v.|幸存；生存|The man was very ill, but he survived
 ---
-glare|v./n.|怒目而视；发出强光/刺眼的光；怒视
-glimpse|v./n.|瞥见/一瞥
-glance|v./n.|瞥，迅速看一眼/一瞥
-peep|v./n.|窥视，偷看/偷偷一瞥
-gaze|v.|凝视，注视
+glare|v./n.|怒目而视；发出强光/刺眼的光；怒视|The glare of the oncoming headlights temporarily blinded me
+glimpse|v./n.|瞥见/一瞥|I caught a glimpse of our new neighbor
+glance|v./n.|瞥，迅速看一眼/一瞥|The man glanced at the burglar climbing out of the window
+peep|v./n.|窥视，偷看/偷偷一瞥|I peeped through the window to see if she was there
+gaze|v.|凝视，注视|The child gazed at the toys in the shop window
 ---
-peer|v./n.|凝视；盯着看/同等地位的人，同辈
-stare|v.|凝视，盯着看||stare at 凝视，盯着看
-contemplate|v.|凝视；沉思；考虑
+peer|v./n.|凝视；盯着看/同等地位的人，同辈|The new postman peered through the mist, trying to find the right house
+stare|v.|凝视，盯着看|He stared at the word, trying to remember what it meant|stare at 凝视，盯着看
+contemplate|v.|凝视；沉思；考虑|The young surgeon contemplated the difficult operation of kidney transplant
 ---
-vow|n./v.|誓约/发誓
-oath|n.|誓言；宣誓
-pledge|v./n.|保证/保证；誓言
-whistle|n./v.|口哨；哨子；汽笛声/吹口哨；吹哨子
+vow|n./v.|誓约/发誓|The couple made their wedding vows at Saint Paul's church
+oath|n.|誓言；宣誓|He swore an oath to support and protect the king
+pledge|v./n.|保证/保证；誓言|The conflicts continued in spite of a no strike pledge by the unions
+whistle|n./v.|口哨；哨子；汽笛声/吹口哨；吹哨子|The referee blew the whistle at the end of the game
 ---
-reply|v./n.|回答，答复
-notify|v.|通知，告知
-assert|v.|断言，坚称；坚持（自己的）主张
+reply|v./n.|回答，答复|He tried to reply and then stopped
+notify|v.|通知，告知|I notified him that the meeting had been postponed
+assert|v.|断言，坚称；坚持（自己的）主张|Justice will assert itself
 ---
-explain|v.|说明；解释
-quarrel|v./n.|吵架，争论
-dispute|v./n.|争论，辩论
-argument|n.|辩论，争论；论点，论据
+explain|v.|说明；解释|He explained his plan in detail
+quarrel|v./n.|吵架，争论|We had a quarrel about the price
+dispute|v./n.|争论，辩论|A long dispute means that both parties are wrong
+argument|n.|辩论，争论；论点，论据|We accepted the agreement without argument
 ---
-mention|v./n.|提及；说起
-hurry|v./n.|赶紧；催促/匆忙
-hasten|v.|赶紧；促进|It was now obvious that she was hastening to restore the car to it's owner
-urge|v.|催促，敦促/冲动
+mention|v./n.|提及；说起|As for that film you mentioned, not my scene|not my scene 不是我的菜
+hurry|v./n.|赶紧；催促/匆忙|I'm in no hurry to get back to school
+hasten|v.|赶紧；促进|It was now obvious that she was hastening to restore the car to its owner
+urge|v.|催促，敦促/冲动|They urged Washington to reconsider its decision
 ---
-scold|v.|责骂，斥责
-curse|v./n.|诅咒；咒骂/咒语
-swear|v.|诅咒；咒骂；发誓；保证
-provoke|v.|激怒，挑拨；引起||thought-provoking adj. 引起思考的，发人深省的
+scold|v.|责骂，斥责|Don't scold the children without reason
+curse|v./n.|诅咒；咒骂/咒语|A light purse is a heavy curse 贫穷是沉重的诅咒
+swear|v.|诅咒；咒骂；发誓；保证|He had to swear that his story was true
+provoke|v.|激怒，挑拨；引起|Mind you, that dog is very dangerous when provoked|thought-provoking adj. 引起思考的，发人深省的
 ---
-preach|v.|宣扬||preach at/to sb. 对某人说教
-boast|v./n.|自夸，吹嘘
-tease|v.|取笑；嘲弄
-mock|v./adj.|嘲笑；嘲弄/模拟的；假装的
+preach|v.|宣扬|He was always preaching about the benefits of exercise and fresh air|preach at/to sb. 对某人说教
+boast|v./n.|自夸，吹嘘|Nobody should boast of his knowledge
+tease|v.|取笑；嘲弄|If you always tease others like that, you'll forfeit the good opinions of your friends
+mock|v./adj.|嘲笑；嘲弄/模拟的；假装的|They mocked at my timidity|timidity n. 胆小，羞怯
 ---
-touch|v./n.|触摸；触动/触觉，接触
-hug|v./n.|拥抱
-tap|v.|轻拍，轻扣，开发
-clap|v./n.|拍手；轻拍/鼓掌||clap hands 拍手
-applaud|v.|鼓掌；称赞；赞许
+touch|v./n.|触摸；触动/触觉，接触|By the way, you don't want to touch the onion and then touch your eyes
+hug|v./n.|拥抱|He hugged his daughter tightly
+tap|v.|轻拍，轻扣，开发|My father tapped me on the shoulder
+clap|v./n.|拍手；轻拍/鼓掌|Let's give the children a big clap|clap hands 拍手
+applaud|v.|鼓掌；称赞；赞许|Everyone applauded when the play ended
 ---
-kneel|v.|跪下，跪
-catch|v.|捉住；赶上；领会
-snatch|v.|一把抓住；迅速夺取
-grab|v.|抓住，攫取；（匆忙的）取
-grasp|v.|抓牢 ，握紧；完全理解，全面领会
+kneel|v.|跪下，跪|The man knelt down to say his pray
+catch|v.|捉住；赶上；领会|It is natural for a cat to catch mice
+snatch|v.|一把抓住；迅速夺取|The snatched the book from my hands
+grab|v.|抓住，攫取；（匆忙的）取|She grabbed the seat near the fire before I could
+grasp|v.|抓牢 ，握紧；完全理解，全面领会|A man who grasps at too much may lose everything
 ---
-overtake|v.|追上，超过；（情感）压倒
-follow|v.|跟随；是...的必然结果；遵循
-grip|v./n.|紧握，抓牢/紧握，抓牢；理解，了解||in the grip of 受制于；受...严重影响
+overtake|v.|追上，超过；（情感）压倒|I had to drive very fast to overtake you
+follow|v.|跟随；是...的必然结果；遵循|You are to follow his advice
+grip|v./n.|紧握，抓牢/紧握，抓牢；理解，了解|She has a fragile grip on reality|in the grip of 受制于；受...严重影响
 ---
 mess|n./v.|混乱，脏乱/弄乱|Your books and magazines are all in a mess; go and put them in order.|messy adj. 凌乱的；难以处理的。mess up 弄乱，弄脏
-twist|v./n.|拧，扭；使缠绕/拧，扭动
-scatter|v.|撒；（使）散开
+twist|v./n.|拧，扭；使缠绕/拧，扭动|Twist the lid to open it
+scatter|v.|撒；（使）散开|The crowd scattered when a dustbin suddenly exploded
 ---
-fold|v.|折叠，对折
-fasten|v.|扣牢，系紧
-loosen|v.|解开，松开，放宽
+fold|v.|折叠，对折|She folded the letter so that it would fit into her bag
+fasten|v.|扣牢，系紧|Please fasten your seatbelts while the plane is taking off
+loosen|v.|解开，松开，放宽|My belt is too tight. I must loosen it
 ---
-smash|v.|打碎；（使）猛烈撞击；（打球时）扣球
-scratch|v./n.|擦破，刮坏；搔/乱涂；划痕，擦伤
-wipe|v.|揩，擦
-scrape|v./n.|刮掉；擦坏；勉强获得/刮；擦伤
-polish|v.|擦光，擦亮；使完美，改进
+smash|v.|打碎；（使）猛烈撞击；（打球时）扣球|Although the bed was smashed to pieces, the man was miraculously unhurt
+scratch|v./n.|擦破，刮坏；搔/乱涂；划痕，擦伤|He scratched the insect bite on his arm
+wipe|v.|揩，擦|She wiped off dust with a rag
+scrape|v./n.|刮掉；擦坏；勉强获得/刮；擦伤|The family has to scrape by on social security|scrape by 勉强度日
+polish|v.|擦光，擦亮；使完美，改进|Silver can be easily polished with this special cloth
 ---
-peel|v.|剥落；掉漆；脱皮
-split|v.|（使）开裂、分开
-sway|v.|（使）摇摆、摆动、摇晃
-shake|v./n.|摇动；（使）颤动/摇动；颤动
-vibrate|v.|（使）震动、摇摆
+peel|v.|剥落；掉漆；脱皮|My skin always peels when I've been in the sun
+split|v.|（使）开裂、分开|The crowd split into several groups
+sway|v.|（使）摇摆、摆动、摇晃|Swaying hips properly is the basis of the heel-and-toe walking race
+shake|v./n.|摇动；（使）颤动/摇动；颤动|The movie didn't give me any kind of shake 
+vibrate|v.|（使）震动、摇摆|Some insects' wings vibrate so fast that the movement is invisible to human eyes
 ---
-whirl|v./n.|（使）回旋/回旋
-rotate|v.|（使）旋转、转动
-reel|v.|眩晕；混乱
-shuffle|v.|洗（牌）；拖着脚走；搅乱...的次序/洗牌||resuffle n. 改组，公司重组
+whirl|v./n.|（使）回旋/回旋|He whirled about in the yard
+rotate|v.|（使）旋转、转动|You can rotate the wheel with your hand
+reel|v.|眩晕；混乱|My head reeled with the facts and figures
+shuffle|v.|洗（牌）；拖着脚走；搅乱...的次序/洗牌|With sore legs and aching chest, he shuffled over to the bathroom|resuffle n. 改组，公司重组
 ---
-collide|v.|碰撞；抵触
-contact|n./v.|接触，联系
-connect|v.|（使）连接；（使）接通（电源等）
+collide|v.|碰撞；抵触|In running around the corner, he collided with another man
+contact|n./v.|接触，联系|This remote tribe had little contact with the outside world
+connect|v.|（使）连接；（使）接通（电源等）|Has the phone been connected yet?
 ---
-combine|v.|（使）联合、结合
-bond|v./n.|与...黏合（或连接）/黏合；（情感的）纽带
-integrate|v.|（使）成为一体、合并
+combine|v.|（使）联合、结合|Carbon, hydrogen, and oxygen can combine to form carbohydrates and fats
+bond|v./n.|与...黏合（或连接）/黏合；（情感的）纽带|These two different materials weren't bond together
+integrate|v.|（使）成为一体、合并|Little attempt was made to integrate the parts into a coherent whole
 ---
-wrap|v.|包；裹；用...缠绕
-penetrate|v.|刺入；穿透；渗透；洞察
-pierce|v.|刺穿，刺破，穿透；使心如刀割
-insert|v./n.|插入；嵌入/插入物
+wrap|v.|包；裹；用...缠绕|Wrapped up in this shawl, you look more pretty
+penetrate|v.|刺入；穿透；渗透；洞察|Western ideas penetrate slowly through the east
+pierce|v.|刺穿，刺破，穿透；使心如刀割|The needle pierced the material
+insert|v./n.|插入；嵌入/插入物|He inserted the key into the lock but could not open the door
 ---
-tilt|v.|（使）倾斜、歪斜
-tow|v./n.|拖、拉；牵引/牵引
-trail|v./n.|（使）拖在后面/踪迹
+tilt|v.|（使）倾斜、歪斜|I tilted the cup to drink out of it
+tow|v./n.|拖、拉；牵引/牵引|We towed the car to the garage
+trail|v./n.|（使）拖在后面/踪迹|The carriage drove along a dirt road and left a trail of dust
 ---
-arrange|v.|安排，整理，使有条理
-manipulate|v.|（熟练的）操作；操纵
-steer|v.|掌舵；驾驶；操纵
+arrange|v.|安排，整理，使有条理|Contact your local branch to arrange an appointment
+manipulate|v.|（熟练的）操作；操纵|He uses his credit to manipulate his supporters
+steer|v.|掌舵；驾驶；操纵|He steered the ship carefully among the reefs
 ---
-baptize/baptise|v.|给...施行洗礼||baptism n. 洗礼；浸礼
-bet|v./n.|下注；打赌；敢说/打赌；赌注
-stake|n./v.|赌注；桩/以...打赌
-gamble|v./n.|赌博；冒险
-promise|n./v.|诺言/承诺
+baptize/baptise|v.|给...施行洗礼|It transpired that Mark had been baptized a catholic|baptism n. 洗礼；浸礼
+bet|v./n.|下注；打赌；敢说/打赌；赌注|I bet our team will win
+stake|n./v.|赌注；桩/以...打赌|I'd stake my all on it
+gamble|v./n.|赌博；冒险|Don't gamble with your future
+promise|n./v.|诺言/承诺|I hope you'll keep your promise to come for a long visit
 ---
-attract|v.|吸引；引起
-obsess|v.|（是）痴迷、心神不宁||be obsessed by/with 被...迷住，对...着迷
-mesmerize/mesmerise|v.|吸引；迷住
-nightmare|n.|噩梦，梦魇
+attract|v.|吸引；引起|She was attracted by the novel advertisement
+obsess|v.|（是）痴迷、心神不宁|He became absolutely obsessed with the girl in red|be obsessed by/with 被...迷住，对...着迷
+mesmerize/mesmerise|v.|吸引；迷住|I stood by the lake, mesmerized by the flashing colors of the fish
+nightmare|n.|噩梦，梦魇|This mid-term exam is a nightmare
 ---
-amaze|v.|使惊奇，使惊愕
-marvel|v./n.|感到惊讶，大为赞叹/奇迹
-astonish|v.|使惊讶
+amaze|v.|使惊奇，使惊愕|John amazed his friends by suddenly getting married
+marvel|v./n.|感到惊讶，大为赞叹/奇迹|I marvel at how it can be so
+astonish|v.|使惊讶|We were astonished to hear that their football team had won the championship
 ---
-involve|v.|参加；牵涉
-annoy|v.|使恼怒；打扰
-upset|v.|使心烦意乱；使生气；搅乱；打翻
-bewilder|v.|使迷惑，使不知所措
+involve|v.|参加；牵涉|This forum will involve people with specialist knowledge
+annoy|v.|使恼怒；打扰|Sometimes we annoy or upset others unintentionally
+upset|v.|使心烦意乱；使生气；搅乱；打翻|I hope I haven't said anything to upset you
+bewilder|v.|使迷惑，使不知所措|A new environment can bewilder and frighten a child
 ---
-irony|n.|反话；有讽刺意味的情形
-indignity|n.|侮辱；轻蔑
-contempt|n.|轻视，藐视
-neglect|v./n.|忽视；忽略
-disregard|v./n.|不顾，漠视/忽视，漠视
+irony|n.|反话；有讽刺意味的情形|The irony is that some of the poorest countries have the richest natural resources
+indignity|n.|侮辱；轻蔑|The soldiers who were captured had to endure many indignities at the hands of the enemy
+contempt|n.|轻视，藐视|A liar is held in contempt 说谎者为人所轻视
+neglect|v./n.|忽视；忽略|In course of time, old customs and observances tend to fall into neglect
+disregard|v./n.|不顾，漠视/忽视，漠视|Disregarding all difficulties, we succeeded in bringing them around in the end
 ---
-ignorance|n.|无知，愚昧
-bias|v./n.|使有偏见；使偏心/偏见；偏心
-deviate|v.|偏离；背离
-expel|V.|驱逐；开除；排出
-flee|v.|逃避，逃离
+ignorance|n.|无知，愚昧|Where ignorance is bliss, 'tis folly to be wise
+bias|v./n.|使有偏见；使偏心/偏见；偏心|His experiences bias him against businessmen
+deviate|v.|偏离；背离|His statement deviates from the truth
+expel|V.|驱逐；开除；排出|The pupil was expelled for stealing
+flee|v.|逃避，逃离|Follow love and it will flee, flee love and it will follow thee
 ---
-bully|v./n.|恐吓，欺凌/恃强凌弱者
-panic|n./v.|惊慌，惊恐/（使）惊恐、惊慌
-terrify|v.|使恐惧，使非常害怕
-revenge|n./v.|报仇，复仇/为...报仇
+bully|v./n.|恐吓，欺凌/恃强凌弱者|He's always bullying smaller boys
+panic|n./v.|惊慌，惊恐/（使）惊恐、惊慌|When the theater caught fire, there was a panic
+terrify|v.|使恐惧，使非常害怕|Her husband's violence terrified her
+revenge|n./v.|报仇，复仇/为...报仇|Hamlet took revenge for his father's murder
 ---
-kidnap|v.|绑架；劫持
-hijack|v.|劫持（飞机或其他交通工具）
-smuggle|v.|走私，投运
-convict|v./n.|定罪；宣判...有罪/已决犯
+kidnap|v.|绑架；劫持|A businessman has been kidnapped
+hijack|v.|劫持（飞机或其他交通工具）|The terrorists hijacked the plane and held all the passengers hostage
+smuggle|v.|走私，投运|He was caught smuggling cameras into the country
+convict|v./n.|定罪；宣判...有罪/已决犯|He was convicted of murder
 ---
-strangle|v.|扼杀，压制，勒死，扼死
-massacre|n./v.|残杀。屠杀
-decimation|n.|大批杀死，大量毁灭；大大削弱
-intervene|v.|插话；干扰；干涉
-impede|v.|妨碍，阻止
+strangle|v.|扼杀，压制，勒死，扼死|The economist argues that high taxation strangles the economy
+massacre|n./v.|残杀。屠杀|The massacre of Jews by Nazi in World War II was appalling
+decimation|n.|大批杀死，大量毁灭；大大削弱|Those policies resulted in a decimation of essential services used by the poor
+intervene|v.|插话；干扰；干涉|I shall leave on Sunday if nothing intervenes
+impede|v.|妨碍，阻止|Nothing can impede his progress
 ---
-allure|v.|吸引，引诱
+allure|v.|吸引，引诱|Those unwary investors are allured by promises of quick profits
 bait|v./n.|使上当发火/诱饵，诱惑物|He is known for baiting his opponents. 众所周知，他善于激怒对手
-induce|v.|引诱，劝说
-tempt|v.|引诱，诱惑，怂恿
+induce|v.|引诱，劝说|Nothing shall induce me to join their club
+tempt|v.|引诱，诱惑，怂恿|Apply generous amounts of sunscreen 15 minutes before you go out. Don't allow impatience to tempt you into sunburn
 ---
-designate|v.|指明；选派；指派||appoint v. 指派
-assign|v.|布置；分配；指定；确定
-distribute|v.|分发，分配
-despatch/dispatch|v.|派遣；调派；迅速处理
-detach|v.|（使）分开，（使）分离；派遣
+designate|v.|指明；选派；指派|He designated Smith as his successor|appoint v. 指派
+assign|v.|布置；分配；指定；确定|It is not possible to assign this building an exact date
+distribute|v.|分发，分配|His part-time job on Sunday was to distribute leaflets on the street
+despatch/dispatch|v.|派遣；调派；迅速处理|He dispatched his breakfast and left
+detach|v.|（使）分开，（使）分离；派遣|He had to detach himself from social activities for the time being in order to concentrate on his studies
 ---
-undo|v.|解开，打开，取笑
-disguise|v./n.|掩饰；假扮；伪装/假扮；伪装物
-conceal|v.|掩盖
+undo|v.|解开，打开，取笑|He finally managed to undo this knot
+disguise|v./n.|掩饰；假扮；伪装/假扮；伪装物|The spy disguised himself as a nurse
+conceal|v.|掩盖|He was unable to conceal his surprise
 ---
-refuse|v.|拒绝；回绝
-exclude|v.|把...排除在外；拒绝
-reverse|v./n./adj.|颠倒；彻底改变；撤销/相反的情况；反面/相反的
+refuse|v.|拒绝；回绝|Jonah's mother refused to let him go abroad
+exclude|v.|把...排除在外；拒绝|They excluded people under 18 to join the club
+reverse|v./n./adj.|颠倒；彻底改变；撤销/相反的情况；反面/相反的|He reversed the judgement and set the prisoner free
 ---
-assure|v.|向...保证；保证；保险
-undertake|v.|承担；许诺；保证
-stipulate|v.|规定；明确要求；保证
-convince|v.|使确信，使信服，说服
-reassure|v.|使安心；使放心
+assure|v.|向...保证；保证；保险|I can assure you of the reliability of the news
+undertake|v.|承担；许诺；保证|The developed countries should undertake the main responsibilities of global warming
+stipulate|v.|规定；明确要求；保证|We have stipulated a date of payment and a price
+convince|v.|使确信，使信服，说服|He finally convinced us of his innocence
+reassure|v.|使安心；使放心|When the child was afraid in the storm, his parents reassured him
 ---
-wish|v./n.|想要（某事发生）/希望
-aspire|v.|有志于；渴望||aspire to do sth. 渴望做某事
-desire|n./v.|愿望；欲望/渴望，期望
+wish|v./n.|想要（某事发生）/希望|I wish it to be clearly understood
+aspire|v.|有志于；渴望|These college graduates aspire to careers in finance|aspire to do sth. 渴望做某事
+desire|n./v.|愿望；欲望/渴望，期望|He desired a college education
 yearn|v.|渴望；向往|The children who had been abducted and sold yearned to return to their homes|yearn for 渴望。abduct v. 绑架，劫持，诱拐
-invoke|v.|唤起（情感等）；向...祈求帮助；恳求||invoke sb.'s help 恳求某人帮忙
+invoke|v.|唤起（情感等）；向...祈求帮助；恳求|The man despaired and invoked to gods|invoke sb.'s help 恳求某人帮忙
 ---
-itch|v./n.|发痒；渴望/痒；渴望
-attempt|v./n.|尝试；试图/尝试；企图
-strive|v.|努力；奋斗||strive after/for 为...奋斗
-effort|n.|努力；努力的成果
-fulfil/fulfill|v.|履行；实现；完成；满足
+itch|v./n.|发痒；渴望/痒；渴望|I've gotten itch on my back
+attempt|v./n.|尝试；试图/尝试；企图|He studied hard in an attempt to pass the exam
+strive|v.|努力；奋斗||strive after/for 为...奋斗|With the power of will and wisdom, we can strive for victory
+effort|n.|努力；努力的成果|Our effects were unveiling
+fulfil/fulfill|v.|履行；实现；完成；满足|We're determined to fulfill the task
 ---
-range|v.|（在一定幅度内的）变动||ranger n. 护林员；公园看管人
-sort|n./v.|种类，类别/把...分类
-loom|v./n.|（庞然大物或形状模糊之物）隐现；逼近/织布机
-launch|v.|发射；发布；推出；发起
-commence|v.|开始；着手
+range|v.|（在一定幅度内的）变动|The price is ranged from 10 pounds to 20 pounds|ranger n. 护林员；公园看管人
+sort|n./v.|种类，类别/把...分类|We must sort out the good apples from the bad ones
+loom|v./n.|（庞然大物或形状模糊之物）隐现；逼近/织布机|A hard struggle looms ahead
+launch|v.|发射；发布；推出；发起|Full market research is needed before a new proudct is launched
+commence|v.|开始；着手|I will commence around a visit
 ---
-exploit|v.|开发；开采；开拓
-explore|v.|勘察；考察；探讨
-exert|v.|运用，行驶；施加||exert an influence on 对...施加影响
+exploit|v.|开发；开采；开拓|They plan to exploit oil under the sea
+explore|v.|勘察；考察；探讨|We explore all the possibilities to find the solution
+exert|v.|运用，行驶；施加|For college students to do a part-time job, we'll exert a profound influence on their personality and life|exert an influence on 对...施加影响
 ---
-tackle|v./n.|处理；应对；处理/用具；器材
-cope|v.|处理；应付
-dispose|v.|布置；安排||disposal n. 处理；清除。dispose of sth. 清除某物；处理某事；解决某事
-conduct|v./n.|进行；实施/举止；行为
+tackle|v./n.|处理；应对；处理/用具；器材|Everyone has their own problems to tackle
+cope|v.|处理；应付|I'm afraid I can't cope with these troubles
+dispose|v.|布置；安排|I have to dispose of this pile of old papers and magazines|disposal n. 处理；清除。dispose of sth. 清除某物；处理某事；解决某事
+conduct|v./n.|进行；实施/举止；行为|His conduct contradicts his words
 ---
-omit|v.|遗漏 ；省略；删去
-delete|v.|删除；删掉
-cancel|v.|取消；废除
-clear|adj./v.|清晰的；明显的/清除
-erase|v.|清除；抹去
+omit|v.|遗漏 ；省略；删去|The secretary omitted the date when typing the contract
+delete|v.|删除；删掉|References to places of battle were deleted from soldiers' letters during the war
+cancel|v.|取消；废除|The match had to be canceled due to the bad whether
+clear|adj./v.|清晰的；明显的/清除|It seems clear that he has no reasonable alternative
+erase|v.|清除；抹去|Jim tried to erase the idea from his mind
 ---
-rescue|v./n.|营救；救援
-resort|v./n.|求助于；采取；诉诸/（度假）胜地
-recover|v.|重新拿回；恢复健康；复原
-restore|v.|恢复；归还；修复
-rectify|v.|纠正；矫正；改正||correct v. 改正
+rescue|v./n.|营救；救援|They rescued the boy who fell into the river
+resort|v./n.|求助于；采取；诉诸/（度假）胜地|I'm sorry you have resorted to deception
+recover|v.|重新拿回；恢复健康；复原|She soon recovered and stopped crying
+restore|v.|恢复；归还；修复|It's hard to restore a broken mirror
+rectify|v.|纠正；矫正；改正|I hope I can find a way to rectify your opinion of my behavior|correct v. 改正
 ---
-redeem|v.|赎回；挽回；补偿；兑现
-offset|v./n.|补偿；抵消||offset sth. by (doing) sth. 以某物/做某事来补偿（或抵消）某事物
-replenish|v.|重新装满；补充
+redeem|v.|赎回；挽回；补偿；兑现|You botched the last job, but can redeem yourself on this one
+offset|v./n.|补偿；抵消|He offset his small salary by living economically|offset sth. by (doing) sth. 以某物/做某事来补偿（或抵消）某事物
+replenish|v.|重新装满；补充|Your body is in survival mode and needs food to replenish its energy
 ---
-obtain|v.|获得；得到||obtain employment 实现就业；找到工作
-gain|v./n.|获得；增加/增加；改进
-supply|v./n.|供给；供应；提供/供应量；[supplies]补给品
-offer|n./v.|给予（物）；提议/提供；出（价）
-render|v.|给予，提供；翻译
+obtain|v.|获得；得到|It is wise to obtain an independent valuation|obtain employment 实现就业；找到工作
+gain|v./n.|获得；增加/增加；改进|every time they reap gains from their investment, more people wish to join them
+supply|v./n.|供给；供应；提供/供应量；[supplies]补给品|Domestic consumers were supplied enough necessities by those companies
+offer|n./v.|给予（物）；提议/提供；出（价）|They reject all our offers to help
+render|v.|给予，提供；翻译|You have rendered great service
 ---
-enlarge|v.|扩大，扩展；放大
-augment|v.|扩大；增加；加强；提高
-magnify|v.|放大；夸大
+enlarge|v.|扩大，扩展；放大|This photograph probably won't enlarge well
+augment|v.|扩大；增加；加强；提高|With the birth of his third son, he found it necessary to do something to augment his income
+magnify|v.|放大；夸大|Fame is a magnifying glass
 ---
-amplify|v.|增强；扩大（声音）；充实（陈述）
-exaggerate|v.|夸张；夸大
-prolong|v.|延长
+amplify|v.|增强；扩大（声音）；充实（陈述）|The student amplified his new findings with drawings and figures
+exaggerate|v.|夸张；夸大|A painter may exaggerate or distort shapes and forms
+prolong|v.|延长|We must prolong the runway of the airfield
 ---
-uphold|v.|支持；维护；维持
-backup|n./adj.|后援；支持（文件等的）备份/备用的
-propel|v.|推动；驱使；推进||propeller n. 螺旋桨
-update|v.|更新；使现代化
+uphold|v.|支持；维护；维持|The appeal court upheld the sentence
+backup|n./adj.|后援；支持（文件等的）备份/备用的|Make a backup of any work you do on the computer
+propel|v.|推动；驱使；推进||propeller n. 螺旋桨|His addiction to drugs propelled him towards a life of crime
+update|v.|更新；使现代化|Our email addresses are unlikely to be updated everyday
 raise|v.|举起；引起；抚养；提高；筹募|Please raise your hand if you've been told you're too aggressive at work|raise a price 涨价。raise capital 筹集资本。raise sb's awareness of 提高某人在...方面的意识
 ---
-leak|v./n.|泄露/漏洞，裂缝
-spill|v.|（使）溢出||spill over 溢出；蔓延；波及
-seep|v.|渗出；渗透
-ooze|v.|渗出；洋溢着
+leak|v./n.|泄露/漏洞，裂缝|A small leak will sink a great ship
+spill|v.|（使）溢出|The teacup is so full that the tea might spill over|spill over 溢出；蔓延；波及
+seep|v.|渗出；渗透|Rain seeped through the roof
+ooze|v.|(浓液等)渗出；洋溢着|Blood oozed from his wound
 ---
-evacuate|v.|疏散；撤离
-trench|v./n.|掘沟于；砍除/沟，渠，壕沟
-saturate|v.|使饱和；使充满；浸透
+evacuate|v.|疏散；撤离|The village was evacuated because of the threat of a flood
+trench|v./n.|掘沟于；砍除/沟，渠，壕沟|The fireman's successfully trenched the roof, preventing the fire spreading further down the block
+saturate|v.|使饱和；使充满；浸透|The air was saturated with the perfume of flowers
 ---
-excuse|v./n.|原谅；同意免除/理由；借口
-forgive|v.|原谅，宽恕，饶恕
-contain|v.|包含，容纳；抑制（感情）
+excuse|v./n.|原谅；同意免除/理由；借口|There is no excuse for treapassing on private property
+forgive|v.|原谅，宽恕，饶恕|I'll never forgive you for what have done wrong to my friend
+contain|v.|包含，容纳；抑制（感情）|The speech contained some interesting ideas
 ---
-regard|n./v.|尊重；问候/看待
-flatter|v.|奉承，讨好，向...谄媚
-worship|n./v.|崇拜，礼拜，爱慕/做礼拜
+regard|n./v.|尊重；问候/看待|You can't regard him as a friend but a business associate
+flatter|v.|奉承，讨好，向...谄媚|He flattered her on her cooking
+worship|n./v.|崇拜，礼拜，爱慕/做礼拜|She gazed at the famous singer with worship in her eyes
 ---
-cause|n./v.|原因，理由，事业/引起；导致
-sake|n.|理由，目的||for the sake of 为了...起见，因为...的缘故
-purpose|n.|目的
-objective|n./adj.|宗旨；目标/客观的
+cause|n./v.|原因，理由，事业/引起；导致|Police are investigating the likely cause of the explosion
+sake|n.|理由，目的|You should take care of your niece for the sake of your sister|for the sake of 为了...起见，因为...的缘故
+purpose|n.|目的|Their purpose is to build a fair society and a strong economy
+objective|n./adj.|宗旨；目标/客观的|My objective this summer is to learn to swim
 ---
-arouse|v.|唤起；激起；引起
-trigger|v./n.|引发；触发/扳机
-seek|v.|寻找；寻求
-retrieve|v.|取回；挽回
+arouse|v.|唤起；激起；引起|The young man's behavior aroused the suspicions of the police
+trigger|v./n.|引发；触发/扳机|He accidentally triggered his revolver
+seek|v.|寻找；寻求|They are seeking the most reasonable diet, which will do good to their health
+retrieve|v.|取回；挽回|Henry did his best to retrieve the situation
 ---
-testify|v.|作证；证明
-verify|v.|证实；核实；查清
-specify|v.|具体指定；详细说明
+testify|v.|作证；证明|I won't testify aginst my friend
+verify|v.|证实；核实；查清|He tried in every way to verify this theory
+specify|v.|具体指定；详细说明|Can you specify the reasons
 ---
-enlighten|v.|启发；开导；启迪
-impart|v.|传授；透露
-deserve|v.|应得；应受
+enlighten|v.|启发；开导；启迪|For all my effort to enlighten her, she was still all adrift
+impart|v.|传授；透露|She imparted the secret to her boyfriend
+deserve|v.|应得；应受|You deserve a reward for being so helpful
 ---
-drop|v./n.|（使）落下；（使）降低；断绝关系/滴
-sink|v.|（使）下沉；下降
-plummet|v.|垂直掉下；（价格、水平等）骤然下跌
-muffle|v.|使（声音）减弱
-overshadow|v.|隐蔽；使黯然失色
+drop|v./n.|（使）落下；（使）降低；断绝关系/滴|In the winter, the temperature often drops below freezing
+sink|v.|（使）下沉；下降|The captain of the sinking ship used flares to attract the attention of the coast guard
+plummet|v.|垂直掉下；（价格、水平等）骤然下跌|The damaged aircraft plummeted down to earth
+muffle|v.|使（声音）减弱|The sound of the bell was muffled by the curtains
+overshadow|v.|隐蔽；使黯然失色|He overshadowed all his competitors
 ---
-invite|v.|邀请
-welcome|int./n./v.|欢迎
-greet|v.|向...问好；迎接；对...做出反应
-salute|v./n.|（向...）行礼；致敬/行礼；致敬
+invite|v.|邀请|She invited us to her party
+welcome|int./n./v.|欢迎|We welcome constructive criticism
+greet|v.|向...问好；迎接；对...做出反应|The audiences greeted his speech with a great cheer
+salute|v./n.|（向...）行礼；致敬/行礼；致敬|They saluted each other by raising their hats
 ---
-celebrate|v.|庆祝（节日、事件等）
-congratulate|v.|祝贺；向...道贺
-bless|v.|祝福；为...祈求上帝保佑
-participate|v.|参加；参与
-farewell|int./n.|再会/告别
+celebrate|v.|庆祝（节日、事件等）|They all passed the exam and celebrated with a party
+congratulate|v.|祝贺；向...道贺|My must congratulate you on your engagement
+bless|v.|祝福；为...祈求上帝保佑|It is more blessed to give than to receive
+participate|v.|参加；参与|If only I could participate in your good fortune
+farewell|int./n.|再会/告别|The girl had come on the pretext of bidding him farewell
 ---
-assort|v.|把...分类；相配，协调
-correspond|v.|符合；相一致；通信
-accord|v./n.|与...一致；给予/协议
-attribute|v./n.|把...归因于/属性，特性
+assort|v.|把...分类；相配，协调|His actions do not assort with his promises
+correspond|v.|符合；相一致；通信|These goods don't correspond with my order
+accord|v./n.|与...一致；给予/协议|The government and the rebels are in accord on one point
+attribute|v./n.|把...归因于/属性，特性|David attributed his company success to the unity of the staff and their persevering hard word
 ---
-recall|v.|回忆，回想起
-recollect|v.|记忆，想起
-remind|v.|提醒；使想起
+recall|v.|回忆，回想起|Recall the misery of the past and contrast it with the happiness of today
+recollect|v.|记忆，想起|I can recollect hearing his speech
+remind|v.|提醒；使想起|This photos remind me of my childhood
 ---
-retell|v.|重新讲述；复述
-repeat|v./adj.|重复/再次光顾的
-retrospect|n.|[in ~]回顾
-impress|v.|给...深刻的印象；使铭记
+retell|v.|重新讲述；复述|The student was asked to retell the story in his own words
+repeat|v./adj.|重复/再次光顾的|A large proportion of our bookings come from repeat business and personal recommendation
+retrospect|n.|[in ~]回顾|It was in retrospect the happiest day of her life
+impress|v.|给...深刻的印象；使铭记|His courage and determination impressed his rivals
 ---
-surmount|v.|克服；置于...的顶端
-mortify|v.|使难堪；使羞愧
-pervade|v.|弥漫；渗透；遍及
+surmount|v.|克服；置于...的顶端|The hill is surmounted by a church
+mortify|v.|使难堪；使羞愧|He was mortified by his inability to answer the question
+pervade|v.|弥漫；渗透；遍及|The smell of cooking pervaded the entire house
 ---
-replace|v.|代替；取代
-substitute|v./n.|替换/替代品，替补
+replace|v.|代替；取代|We'll get someone or other to replace him
+substitute|v./n.|替换/替代品，替补|We recommended this brand as a substitute
 distinguish|v.|区别，辨别；使出众；使著名|Some people cannot distinguished between some colors|distinguished adj. 著名的；卓越的。distinction n. 差别；区分。distinct adj. 明显的；截然不同的
-differentiate|v.|区分；区别；差别对待
+differentiate|v.|区分；区别；差别对待|This company does not differentiate between men and women. They employ and pay both equally
 ---
 incline|v./n.|（使）倾向于、倾斜/斜坡；倾斜|What he said inclines me to think that he will agree to our plan
-lean|v./adj.|（使）倚靠；倾斜/瘦的；贫乏的
-sideways|adv.|向（或从、往）一侧
+lean|v./adj.|（使）倚靠；倾斜/瘦的；贫乏的|She leaned against his shoulder
+sideways|adv.|向（或从、往）一侧|The dog swatted the hedgehog sideways|hedgehog n. 刺猬
 ===
 身心健康
 +++
