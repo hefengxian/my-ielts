@@ -42,6 +42,12 @@ const menus = reactive([
     link: '/writing',
     desc: '100 句翻译练习、大小作文',
   },
+  {
+    label: '单词练习',
+    icon: 'i-carbon-keyboard',
+    link: '/vocabulary/typing',
+    desc: '背景单词跟打练习，提升打字速度与单词读写熟悉度',
+  },
 ])
 </script>
 
