@@ -3959,7 +3959,7 @@
                   <text
                     id="kity_text_891" text-rendering="inherit" font-size="24" dy=".8em" y="3476.699999809265"
                     x="681.5"
-                  >位置由从属连词决定</text>
+                  >分类由从属连词决定</text>
                 </g>
               </g>
               <g id="minder_node153">
