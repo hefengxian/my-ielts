@@ -1,5 +1,8 @@
 <script setup>
+import { useAudioPlayer } from '~/composables'
 import words from './listening179.json'
+
+const { playAudio } = useAudioPlayer()
 
 const ws = reactive(words.map((v) => {
   const item = {
@@ -24,9 +27,7 @@ function onKeydown(e, word) {
 }
 
 function play(word) {
-  const audio = document.createElement('audio')
-  audio.src = `/179_audios/${word}.mp3`
-  audio.play()
+  playAudio(`/179_audios/${word}.mp3`)
 }
 function next(index) {
   const i = index + 1
