@@ -1,5 +1,8 @@
 <script setup lang="ts" generic="T extends any, O extends any">
+import { useAudioPlayer } from '~/composables'
 import words from './listening179.json'
+
+const { playAudio } = useAudioPlayer()
 
 const ws = reactive(words.map((v) => {
   const item = {
@@ -10,13 +13,13 @@ const ws = reactive(words.map((v) => {
     },
     result: {
       checked: false,
-      errorWords: [],
+      errorWords: [] as string[],
     },
   }
   return item
 }))
 
-function onKeydown(e, word) {
+function onKeydown(e: KeyboardEvent, word: string) {
   if (e.key === '`') {
     e.preventDefault()
     play(word)
@@ -24,9 +27,7 @@ function onKeydown(e, word) {
 }
 
 function play(word: string) {
-  const audio = document.createElement('audio')
-  audio.src = `/179_audios/${word}.mp3`
-  audio.play()
+  playAudio(`/179_audios/${word}.mp3`)
 }
 function next(index: number) {
   const i = index + 1
@@ -41,7 +42,7 @@ function next(index: number) {
   const practiceReplace = cw.form.replaceStr.split(/[,，]/).map(v => v.trim().toLowerCase().replace(/\s+/g, ' '))
   // window.console.log(practiceReplace, practiceWord)
 
-  const errorWords = []
+  const errorWords: string[] = []
   if (practiceWord !== cw.word)
     errorWords.push(cw.word)
 
