@@ -25,14 +25,11 @@ function onKeydown(e, word) {
 
 function play(word) {
   const audio = document.createElement('audio')
-  audio.src = `/179_audios/${word}.mp3`
+  const filename = encodeURIComponent(word)
+  audio.src = `${import.meta.env.BASE_URL}179_audios/${filename}.mp3`
   audio.play()
 }
 function next(index) {
-  const i = index + 1
-  if (i >= words.length)
-    return
-
   // 校验结果
   const cw = ws[index]
 
@@ -52,6 +49,10 @@ function next(index) {
   cw.result.errorWords = errorWords
 
   // window.console.log(cw)
+
+  const i = index + 1
+  if (i >= words.length)
+    return
 
   const nw = words[i]
   play(nw.word)
