@@ -1,5 +1,6 @@
 <!-- eslint-disable eslint-comments/no-unlimited-disable -->
 <script setup generic="T extends any, O extends any">
+import { useAudioPlayer } from '~/composables'
 import vocabulary from './vocabulary'
 
 const CHAPTER_KEY = 'vocabulary_chapter'
@@ -18,6 +19,8 @@ const category = ref(localStorage.getItem(CHAPTER_KEY) || chapters[0])
 
 const loaded = ref(false)
 const refVocabulary = reactive(vocabulary)
+const { playAudio } = useAudioPlayer()
+
 const wordList = computed(() => {
   const result = structuredClone(vocabulary) // deep clone
   // const keywordValue = keyword.value.trim().toLowerCase()
@@ -121,15 +124,8 @@ document.addEventListener('keydown', (ev) => {
   }
 })
 
-let audio = null
 function play(audioPath) {
-  if (audio) {
-    audio.pause()
-    audio.currentTime = 0
-  }
-  audio = document.createElement('audio')
-  audio.src = audioPath
-  audio.play()
+  playAudio(audioPath)
 }
 
 function copyText(item) {

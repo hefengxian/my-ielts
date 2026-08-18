@@ -1,19 +1,14 @@
 <script setup>
+import { useAudioPlayer } from '~/composables'
 import words from './reading538words'
 
 const ws = reactive(words)
 
 const keyword = ref('')
+const { playAudio } = useAudioPlayer()
 
-let audio = null
 function play(word) {
-  if (audio) {
-    audio.pause()
-    audio.currentTime = 0
-  }
-  audio = document.createElement('audio')
-  audio.src = `https://dict.youdao.com/dictvoice?audio=${word}&type=1`
-  audio.play()
+  playAudio(`https://dict.youdao.com/dictvoice?audio=${word}&type=1`)
 }
 </script>
 

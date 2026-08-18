@@ -1,10 +1,11 @@
 <script setup>
+import { useAudioPlayer } from '~/composables'
 import chapterData from './spelling_convention'
 
+const { playAudio } = useAudioPlayer()
+
 function play(word) {
-  const audio = document.createElement('audio')
-  audio.src = `179_audios/${word}.mp3`
-  audio.play()
+  playAudio(`179_audios/${word}.mp3`)
 }
 
 const keyword = ref('')

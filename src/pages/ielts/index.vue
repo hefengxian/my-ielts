@@ -1,11 +1,12 @@
 <script setup lang="ts" generic="T extends any, O extends any">
+import { useAudioPlayer } from '~/composables'
 import words from './listening179.json'
 
 const ws = reactive(words)
+const { playAudio } = useAudioPlayer()
+
 function play(word: string) {
-  const audio = document.createElement('audio')
-  audio.src = `179_audios/${word}.mp3`
-  audio.play()
+  playAudio(`179_audios/${word}.mp3`)
 }
 </script>
 

@@ -1,11 +1,12 @@
 <script setup>
+import { useAudioPlayer } from '~/composables'
 import words from './listening179.json'
 
 const ws = reactive(words)
+const { playAudio } = useAudioPlayer()
+
 function play(word) {
-  const audio = document.createElement('audio')
-  audio.src = `179_audios/${word}.mp3`
-  audio.play()
+  playAudio(`179_audios/${word}.mp3`)
 }
 
 const keyword = ref('')
