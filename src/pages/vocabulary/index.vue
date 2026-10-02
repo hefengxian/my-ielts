@@ -8,8 +8,20 @@ const isTrainingModel = ref(false)
 const isShowMeaning = ref(true)
 const isAutoPlayWordAudio = ref(true)
 const isOnlyShowErrors = ref(false)
+const isShuffleMode = ref(false)
 const isFinishTraining = ref(false)
 const isShowSource = ref(false)
+
+function shuffleArray(array) {
+  const result = [...array]
+
+  for (let i = result.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[result[i], result[j]] = [result[j], result[i]]
+  }
+
+  return result
+}
 
 const trainingStats = ref('')
 const keyword = ref('')
@@ -18,6 +30,31 @@ const category = ref(localStorage.getItem(CHAPTER_KEY) || chapters[0])
 
 const loaded = ref(false)
 const refVocabulary = reactive(vocabulary)
+const shuffledVocabulary = ref(null)
+
+function generateShuffledVocabulary() {
+  const groups = refVocabulary[category.value].words
+  const allWords = groups.flat()
+
+  shuffledVocabulary.value = [
+    shuffleArray(allWords),
+  ]
+}
+
+function handleShuffleChange() {
+  if (isShuffleMode.value)
+    generateShuffledVocabulary()
+  else
+    shuffledVocabulary.value = null
+}
+
+const displayWordGroups = computed(() => {
+  if (isShuffleMode.value && shuffledVocabulary.value)
+    return shuffledVocabulary.value
+
+  return refVocabulary[category.value].words
+})
+
 const wordList = computed(() => {
   const result = structuredClone(vocabulary) // deep clone
   // const keywordValue = keyword.value.trim().toLowerCase()
@@ -259,6 +296,18 @@ function copyAllError() {
               />
               <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">自动播放</span>
             </label>
+            <label v-if="isTrainingModel" class="ml-2 inline-flex cursor-pointer items-center">
+              <input
+                v-model="isShuffleMode"
+                type="checkbox"
+                class="peer sr-only"
+                @change="handleShuffleChange"
+              >
+              <div
+                class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:rounded-full after:border after:border-gray-300 after:bg-white after:transition-all after:content-[''] peer-checked:bg-blue-600 peer-checked:after:translate-x-full peer-checked:after:border-white dark:border-gray-600 dark:bg-gray-700 rtl:peer-checked:after:-translate-x-full"
+              />
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">随机顺序</span>
+            </label>
           </div>
         </div>
       </div>
@@ -312,15 +361,15 @@ function copyAllError() {
                       </div>
                     </td>
                   </tr>
-                  <template v-for="(wordGroup, i) of refVocabulary[category].words" :key="wordGroup.label">
+                  <template v-for="(wordGroup, i) of displayWordGroups" :key="wordGroup.label">
                     <tr
-                      v-for="item of wordGroup"
+                      v-for="(item, itemIndex) of wordGroup"
                       v-show="(isTrainingModel && (isOnlyShowErrors ? item.spellError : true)) || !isTrainingModel" :id="`tr_${item.id}`"
                       :key="item.id"
                       :class="{ 'bg-gray-50 dark:bg-gray-700': item.id % 2 === 0, [`group-color-${i % 15}`]: true }" class="text-sm text-gray-900 dark:text-white"
                     >
                       <td class="p-4">
-                        {{ item.id }}
+                        {{ isShuffleMode ? itemIndex + 1 : item.id }}
                       </td>
                       <td>
                         <i
